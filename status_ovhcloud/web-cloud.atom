@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-02-17T07:00:53Z</updated>
+  <updated>2022-02-17T10:13:57Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9341262</id>
+    <published>2022-02-17T10:08:35Z</published>
+    <updated>2022-02-17T10:13:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/wq904m4jwnhb"/>
+    <title>[P19][Web Cloud] - Collaborative solutions - MX Plan - Reception</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/02/2022 07:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  17/02/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delay to receive emails&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; P19&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; homez.129 homez.2012 homez.2054 homez.415 homez.519 homez.674 homez.728 homez.81 homez.810 homez.223&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9317280</id>
     <published>2022-02-17T07:00:53Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/5xcqz639tydt"/>
     <title>[GRA1][Webhosting] - Cluster 23 - Filerz144</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/02/2022 15:25 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  02/02/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz and the web sites hosted on it are working normally&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/02/2022 15:25 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown on filerz144&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Unknown&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams investigate to determine the origin of the performance degradation&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9221711</id>
-    <published>2022-02-03T09:56:19Z</published>
-    <updated>2022-02-03T09:56:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/3brzwpmgm38m"/>
-    <title>[Global][Microsoft 365] - Task fail and slowness on Customer page</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/02/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 03/02/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All tasks are functional and we have no more errors. The Customer page is fully functional&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Our technical teams have greatly improved the situation. The tasks are functional again but we still have some in error situation. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We continue to work with our partner to fully restore the situation. We remain vigilant to any further degradation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  02/02/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Clients Office tasks fail because of timeouts when reaching Microsoft and slowness while accessing Customer page&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams investigate with our partner to determine the origin of the incident&lt;/p&gt;</content>
   </entry>
 </feed>

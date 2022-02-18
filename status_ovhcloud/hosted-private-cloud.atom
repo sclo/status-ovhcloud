@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-02-18T15:40:39Z</updated>
+  <updated>2022-02-18T23:12:56Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/ycwxtv6mpc6g"/>
     <title>[All][Pcc]Maintenance upgrade host - wave 2</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:45&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;01:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/02/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/02/2022 17:00  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vmotion. If impact expected, 20 minutes will be used to replace host&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware's matrix of compatibility  and  also  due to the CVE&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9356139</id>
+    <published>2022-02-18T23:12:56Z</published>
+    <updated>2022-02-18T23:12:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/fg7mqt23lky1"/>
+    <title>[BHS1A][PCC Datastore] - Cluster54</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  18/02/2022 22:22 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Datastores are temporarily unavailable&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our technical teams are currently working to restore the services.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9333682</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/4n83zr8y4ysj"/>
     <title>[WAW1C ][Hosted Private Cloud] - Datastores migration</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;02:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this operation is to migrating LIM1C datastores to a new configuration management tool for high performance&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9020614</id>
-    <published>2022-01-21T20:30:26Z</published>
-    <updated>2022-01-21T20:30:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/2lfgz1bz07g6"/>
-    <title>[Global][VMware] - Vrops upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/01/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; All zones Vrops&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No access to vrops  during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Solve multiple vulnerabilities in VMware vRealize Operations by upgrading to v8.6.2&lt;/p&gt;</content>
   </entry>
 </feed>

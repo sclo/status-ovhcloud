@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 22 Feb 2022 13:38:20 +0000</pubDate>
+    <pubDate>Tue, 22 Feb 2022 21:12:12 +0000</pubDate>
     <item>
       <title>[EU/CA/SNC][PCC] Upgrade Vrops v8.6.2</title>
       <description>
@@ -12,6 +12,14 @@
       <pubDate>Mon, 07 Mar 2022 07:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqjpx26l5dgt</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqjpx26l5dgt</guid>
+    </item>
+    <item>
+      <title>[Global][PCC] - Maintenance upgrade host - wave 3</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 20 minutes will be used to replace host&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The objective of this maintenance is to upgrade ESXi host to the latest version.&lt;/p&gt;      </description>
+      <pubDate>Mon, 28 Feb 2022 20:00:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</guid>
     </item>
     <item>
       <title>[RBX2][Veeam] - Veeam upgrade</title>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 27 Jan 2022 09:43:40 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/97dnc1b3c3g1</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/97dnc1b3c3g1</guid>
-    </item>
-    <item>
-      <title>[RBX2][Storage] - tete-165/tete-171/tete-172/tete-125</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/01/2022 21:15 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 26/01/2022 01:22 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2a&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment has failed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;User impact :&lt;/b&gt; Some PCC storage on tete-165, tete-171, tete-125 are unreachable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2a&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; The service has returned for the tete-172 :&lt;br /&gt;pcc-002955&lt;br /&gt;pcc-002956&lt;br /&gt;pcc-002944&lt;br /&gt;pcc-002493&lt;br /&gt;pcc-003575&lt;br /&gt;pcc-002424&lt;br /&gt;&lt;br /&gt;Here is the list of pools still impacted:&lt;br /&gt;tete-165&lt;br /&gt;pcc-002136&lt;br /&gt;pcc-000713&lt;br /&gt;pcc-003211&lt;br /&gt;pcc-000714&lt;br /&gt;pcc-000719&lt;br /&gt;pcc-000717&lt;br /&gt;pcc-000724&lt;br /&gt;&lt;br /&gt;tete-171&lt;br /&gt;pcc-000504&lt;br /&gt;pcc-003197&lt;br /&gt;&lt;br /&gt;tete-125&lt;br /&gt;pcc-001351&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; A network equipment has failed on this rack which caused an outage for the mentioned storage nodes and datasets. While High Availability was activated on all clusters of this rack, 4 of the clusters failed to switch on the failover node because of different and individual physical problems.&lt;br /&gt;We are currently working on restoring the availability of these storage datasets as soon as possible.&lt;br /&gt;We will keep you updated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Please note the incident on PCC Storage.&lt;br /&gt;&lt;br /&gt;Following all the necessary information.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time:&lt;/b&gt;  25/01/2022 21:15 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Some PCC storage on tete-165, tete-171, tete-172, tete-125 are unreachable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2a&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our teams are in the process of doing what is necessary to correct the incident as soon as possible.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;br /&gt;&lt;br /&gt;OVHcloud Technical team&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jan 2022 01:53:57 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/0lx7tx80j0ts</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/0lx7tx80j0ts</guid>
     </item>
   </channel>
 </rss>

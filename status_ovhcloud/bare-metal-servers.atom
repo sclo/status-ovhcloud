@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-02-24T12:14:08Z</updated>
+  <updated>2022-02-24T12:24:00Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hkstkm5n34jp"/>
     <title>[GRA9][Virtual Private Servers] - Upgrade infrastructure</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/03/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/03/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, reinstallation...) during this operation.&lt;br /&gt;Servers continue to operate normally during maintenance and new orders can be delivered.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade of the Virtual Private Servers infrastructure (RabbitMQ servers)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9398097</id>
+    <published>2022-02-24T12:22:34Z</published>
+    <updated>2022-02-24T12:22:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0gj98084rnpj"/>
+    <title>[BHS1][Dedicated Servers] - T01C25 Public network</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/02/2022 12:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the T01C25 rack is no longer connected to the public network. A failure on a switch caused this incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams replace the faulty switch&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9397786</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/4qp33xrxhkyk"/>
     <title>[GRA1][Dedicated Servers] - G126B16</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  17/02/2022 23:24 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;   18/02/2022 01:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The 44 servers are now working again&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;The device that powered the servers was unavailable. It has been changed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; 43 of 44 servers are now working again&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; 36 of 44 servers are now working again&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;23:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  17/02/2022 23:24 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 44 servers are unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently investigating.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9317188</id>
-    <published>2022-02-18T00:06:00Z</published>
-    <updated>2022-02-18T00:06:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/sktkcc5621q3"/>
-    <title>[RBX7][Dedicated servers] - Upgrade RTvRack</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/02/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/02/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In regard to our lifecycle management, we need to upgrade all RTvRack exchanger to a new version in order to have a homogeneous park.&lt;/p&gt;</content>
   </entry>
 </feed>

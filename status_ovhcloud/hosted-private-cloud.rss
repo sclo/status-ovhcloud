@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 24 Feb 2022 20:14:34 +0000</pubDate>
+    <pubDate>Thu, 24 Feb 2022 21:36:09 +0000</pubDate>
     <item>
       <title>[EU/CA/SNC][PCC] Upgrade Vrops v8.6.2</title>
       <description>
@@ -16,7 +16,7 @@
     <item>
       <title>[Global][PCC] - Maintenance upgrade host - wave 3</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Description : &lt;/b&gt;Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and hosts will be rebooted ..&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Vms will be  Vmotion &amp;  Hosts will be rebooted . If impact expected, 20 minutes will be used to replace host.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
       <pubDate>Mon, 28 Feb 2022 20:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</guid>

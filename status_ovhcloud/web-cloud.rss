@@ -4,7 +4,15 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 24 Feb 2022 08:18:07 +0000</pubDate>
+    <pubDate>Thu, 24 Feb 2022 10:23:54 +0000</pubDate>
+    <item>
+      <title>[GRA3][Webhosting] - Cluster 030 - Filerz1024</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/02/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowdowns observed on some hosted websites&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA3&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our teams are investigating&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We are currently investigating the cause of the incident.&lt;/p&gt;      </description>
+      <pubDate>Thu, 24 Feb 2022 10:20:25 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/ytkqm947cq5l</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/ytkqm947cq5l</guid>
+    </item>
     <item>
       <title>[GRA][Webhosting] - Fullbackup</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Fri, 11 Feb 2022 15:16:02 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/k0fxdw83yjz6</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/k0fxdw83yjz6</guid>
-    </item>
-    <item>
-      <title>[GRA1][Webhosting] - Data Migration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;09/02/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;11/02/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unavailability of the filerz for a period of 15 minutes during the migration&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We discovered a reliability issue on some disks models we started to use recently on our filerz. We are doing  data and service migration on Webhosting filerz with those model of disks in order to exclude them from our infrastructure.  Each filerz will have a downtime of 15mn during the migration.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;09/02/2022&lt;/b&gt;&lt;br /&gt;Filerz1596 Cluster 31&lt;br /&gt;Filerz1597 Cluster 31&lt;br /&gt;Filerz1598 Cluster 31&lt;br /&gt;Filerz1599 Cluster 31&lt;br /&gt;Filerz1603 Cluster 31&lt;br /&gt;Filerz1604 Cluster 31&lt;br /&gt;Filerz1606 Cluster 31&lt;br /&gt;Filerz1609 Cluster 31&lt;br /&gt;Filerz1610 Cluster 31&lt;br /&gt;Filerz1613 Cluster 31&lt;br /&gt;Filerz1605 Cluster 31&lt;br /&gt;&lt;br /&gt;&lt;b&gt;10/02/2022&lt;/b&gt;&lt;br /&gt;Filerz1617 Cluster 31&lt;br /&gt;Filerz1619 Cluster 31&lt;br /&gt;Filerz1623 Cluster 31&lt;br /&gt;Filerz1662 Cluster 31&lt;br /&gt;Filerz1666 Cluster 31&lt;br /&gt;Filerz1668 Cluster 31&lt;br /&gt;Filerz1677 Cluster 31&lt;br /&gt;Filerz1678 Cluster 31&lt;br /&gt;Filerz1507 Cluster 22&lt;br /&gt;Filerz1712 Cluster 24&lt;br /&gt;&lt;br /&gt;&lt;b&gt;11/02/2022&lt;/b&gt;&lt;br /&gt;Filerz1509 Cluster 30&lt;br /&gt;Filerz1523 Cluster 30&lt;br /&gt;Filerz1525 Cluster 30&lt;br /&gt;Filerz1548 Cluster 30&lt;br /&gt;Filerz1557 Cluster 30&lt;br /&gt;Filerz1519 Cluster 29&lt;br /&gt;Filerz1602 Cluster 29&lt;br /&gt;Filerz1567 Cluster 28&lt;br /&gt;Filerz1612 Cluster 28&lt;br /&gt;Filerz1636 Cluster 28&lt;br /&gt;Filerz1526 Cluster 10&lt;/p&gt;      </description>
-      <pubDate>Fri, 11 Feb 2022 07:00:29 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/dvy72fnyz6ks</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/dvy72fnyz6ks</guid>
     </item>
   </channel>
 </rss>

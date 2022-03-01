@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2022-02-28T11:52:40Z</updated>
+  <updated>2022-03-01T16:43:54Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9436729</id>
+    <published>2022-03-01T16:43:54Z</published>
+    <updated>2022-03-01T16:43:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/6hyxrxm01qxm"/>
+    <title>[CA][Control panel &amp; API] - customer panel/ca.api.ovh.com</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2022 16:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ca.api.ovh.com is back online.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A vRack was unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Traffic is back to normal since 16:30 UTC. &lt;br /&gt;Our teams are currently observing the traffic.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  01/03/2022 16:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ca.api.ovh.com is unreachable.&lt;br /&gt;Customers will get some 500 Server Internal Error to some part of their manager.&lt;br /&gt;Canadian customers will have issue ordering products too on ca.ovh.com&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are working to solve the problem.&lt;br /&gt;We apologize for the inconvenience caused.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9378270</id>
     <published>2022-02-22T10:05:04Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/myp3959twgvy"/>
     <title>[EU][Corporate Website] - PostgreSQL major upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;05:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;13/01/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/01/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Some  cluster updates on internal database will be performed. Which leads to disruptions on the customer space and the API for a few seconds.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/8997682</id>
-    <published>2022-01-11T09:50:18Z</published>
-    <updated>2022-01-11T09:50:18Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/px7q9shgjd4r"/>
-    <title>[CA][Corporate Website] - PostgreSQL major upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/01/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/01/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Week 2 for Upgration of cluster to a major version of PostgreSQL&lt;/p&gt;</content>
   </entry>
 </feed>

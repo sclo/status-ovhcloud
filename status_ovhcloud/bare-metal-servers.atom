@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-03-01T20:23:55Z</updated>
+  <updated>2022-03-02T00:28:23Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hkstkm5n34jp"/>
     <title>[GRA9][Virtual Private Servers] - Upgrade infrastructure</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/03/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/03/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, reinstallation...) during this operation.&lt;br /&gt;Servers continue to operate normally during maintenance and new orders can be delivered.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade of the Virtual Private Servers infrastructure (RabbitMQ servers)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9439955</id>
+    <published>2022-03-02T00:28:23Z</published>
+    <updated>2022-03-02T00:28:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/q14tsldx79tc"/>
+    <title>[EU/CA][Dedicated Servers] - Global Infrastructure</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;00:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;00:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  01/03/2022 22:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; boot to rescue mode unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  We are currently investigating the source of the issue.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9438112</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/t60zpgbhfstd"/>
     <title>[RBX6][Dedicated Servers-Global Infrastructure] - 46D19</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/02/2022 15:03UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  24/02/2022 15:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 29 servers were impacted&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;A power disjunction caused this incident. The energy was reloaded after.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9399495</id>
-    <published>2022-02-24T15:44:30Z</published>
-    <updated>2022-02-24T15:44:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fsx56y24lttg"/>
-    <title>[RBX2][Network] - Vrack Network</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/02/2022 14:55 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  24/02/2022 15:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vRack network is now fully operational&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; One of the switches managing the vRack network on RBX2 had a software failure. Our technical teams have rebooted and troubleshooted the hardware&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/02/2022 14:55 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network could be unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams reboot the switch responsible for this unavailability&lt;/p&gt;</content>
   </entry>
 </feed>

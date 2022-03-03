@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-03-03T10:24:01Z</updated>
+  <updated>2022-03-03T11:14:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -65,20 +65,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers risk losing network connectivity if they do not provision a router before maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will delete all legacy routers and floating IP's that are currently running on SBG5 GRA5 and GRA7 regions.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The creation of new routers will be available when the region is upgraded to OpenStack Stein. New routers are already available on GRA9 for testing now.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9447652</id>
+    <published>2022-03-03T11:14:26Z</published>
+    <updated>2022-03-03T11:14:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2ygsnrbb0f67"/>
+    <title>[WAW][OBJECTSTORAGE] - DNS</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance about the decomissioned the HAproxies is underway, but observed there was still traffic from a very short list of customers.&lt;br /&gt;We recommand to rely on DNS entries storage.waw.cloud.ovh.net and gateways.storage.waw.cloud.ovh.net instead of hardcoded IP, which may be subject to change.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following last week DNS change : https://public-cloud.status-ovhcloud.com/incidents/8zkfj715sxxp ,  &lt;br /&gt;We are decommissioning the two loadbalancers, in order to improve our quality of service.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9451394</id>
     <published>2022-03-03T10:17:12Z</published>
     <updated>2022-03-03T10:17:12Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/w28nc0d0df4p"/>
     <title>PCI - DE1 - host1371870</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1371870.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;61f8d6b4-6fba-4365-96fa-777359034a5f&lt;br /&gt;e198a0b5-bda6-4e4c-af46-fc94b8883a03&lt;br /&gt;332b02ac-0e02-4378-8c98-58ba9e7c21f2&lt;br /&gt;85cc6de3-3c19-4ae8-bf84-fb4c3d62e028&lt;br /&gt;28057135-a42a-4f5b-90cf-7ccba489f47e&lt;br /&gt;31e7c169-b8bc-4e73-b51e-da23cce4ac0f&lt;br /&gt;51c4f365-887c-49db-b32a-480323a49b1a&lt;br /&gt;c0804bdd-b9db-49f6-91cc-d3b7704948ac&lt;br /&gt;0f5b2d6d-0fb9-4f79-96d0-4f3e2e60b89d&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9447652</id>
-    <published>2022-03-03T10:06:16Z</published>
-    <updated>2022-03-03T10:06:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2ygsnrbb0f67"/>
-    <title>[WAW][OBJECTSTORAGE] - DNS</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance about the decomissioned the HAproxies is underway, but observed there was still traffic from a very short list of customers.&lt;br /&gt;We recommand to rely on DNS entries storage.waw.cloud.ovh.net and gateways.storage.waw.cloud.ovh.net instead of hardcoded IP, which may be subject to change.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following last week DNS change : https://public-cloud.status-ovhcloud.com/incidents/8zkfj715sxxp ,  &lt;br /&gt;We are decommissioning the two loadbalancers, in order to improve our quality of service.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9175385</id>

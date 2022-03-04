@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 04 Mar 2022 17:23:57 +0000</pubDate>
+    <pubDate>Fri, 04 Mar 2022 18:10:03 +0000</pubDate>
     <item>
       <title>[Global][PCC] - Maintenance upgrade host - wave 4</title>
       <description>
@@ -22,6 +22,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqjpx26l5dgt</guid>
     </item>
     <item>
+      <title>[Global][PCC] - Maintenance upgrade host - wave 3</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Description :&lt;/b&gt;&lt;br /&gt;If you are from wave 3 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
+      <pubDate>Fri, 04 Mar 2022 18:10:03 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</guid>
+    </item>
+    <item>
       <title>[RBX2][Network] - PCC-22-n5</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 03/03/2022 13:42 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 03/03/2022 18:25 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; Errors were observed on a network equipment. A replacement of the network equipment was carried out.&lt;/p&gt;      </description>
@@ -36,14 +44,6 @@
       <pubDate>Wed, 02 Mar 2022 20:11:36 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/mh981ssyckrc</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/mh981ssyckrc</guid>
-    </item>
-    <item>
-      <title>[Global][PCC] - Maintenance upgrade host - wave 3</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Description :&lt;/b&gt;&lt;br /&gt;If you are from wave 3 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
-      <pubDate>Mon, 28 Feb 2022 08:00:37 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m38ntj7lptt4</guid>
     </item>
     <item>
       <title>[All][Pcc]Maintenance upgrade host - wave 2</title>

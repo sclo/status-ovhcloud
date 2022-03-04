@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-03-04T16:40:04Z</updated>
+  <updated>2022-03-04T17:31:02Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/v0z3pz3ffcxl"/>
     <title>[SBG5/GRA5/GRA7][OpenStack] - Deletion of legacy routers</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers risk losing network connectivity if they do not provision a router before maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will delete all legacy routers and floating IP's that are currently running on SBG5 GRA5 and GRA7 regions.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The creation of new routers will be available when the region is upgraded to OpenStack Stein. New routers are already available on GRA9 for testing now.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9462830</id>
+    <published>2022-03-04T17:31:02Z</published>
+    <updated>2022-03-04T17:31:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/h11thc38q9bn"/>
+    <title>PCI - GRA5 - host1329325</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1329325.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;776a63e5-46ee-477c-8600-d2ce90b3d139&lt;br /&gt;33710138-3032-4e01-b41d-b8765af43d22&lt;br /&gt;28cdaa32-4622-4555-b1e9-5db88e6c8466&lt;br /&gt;70c0e70d-1e5a-4839-9207-c8414cfa3839&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9462491</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kzzpln961w70"/>
     <title>PCI - SBG5 - host1450275</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1450275.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;5ef8322f-1004-43d6-8a18-cc5081653dc5&lt;br /&gt;2581f234-5859-42dd-907d-a8b6676d434e&lt;br /&gt;45f1eccb-fea4-47cc-af1e-7bcfae12bc71&lt;br /&gt;a5781206-fe08-4c5c-ae92-d78f1c45b4e3&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9434634</id>
-    <published>2022-03-01T11:56:50Z</published>
-    <updated>2022-03-01T11:56:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dk7p4cqrgg65"/>
-    <title>PCI - SGP1 - host379026</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host379026.sgp1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;80632431-4ad9-414e-87d2-a68aa51b886f&lt;br /&gt;356bd92c-e079-4ec4-bff8-e62944aa3d87&lt;br /&gt;d73bee49-3691-4e40-840a-80cfe969a730&lt;br /&gt;5db04eff-8f58-4e71-bb89-a33603fe7528&lt;br /&gt;10f14753-2be9-4743-b840-2ffe6ac4abab&lt;br /&gt;57e4550a-cfae-41b3-b301-11b598c85a43&lt;br /&gt;e62ff93d-c702-45fd-9bde-9396daaa134b&lt;/p&gt;</content>
   </entry>
 </feed>

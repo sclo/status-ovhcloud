@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-03-05T06:40:45Z</updated>
+  <updated>2022-03-05T06:56:01Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/v0z3pz3ffcxl"/>
     <title>[SBG5/GRA5/GRA7][OpenStack] - Deletion of legacy routers</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers risk losing network connectivity if they do not provision a router before maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will delete all legacy routers and floating IP's that are currently running on SBG5 GRA5 and GRA7 regions.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The creation of new routers will be available when the region is upgraded to OpenStack Stein. New routers are already available on GRA9 for testing now.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9466909</id>
+    <published>2022-03-05T06:56:01Z</published>
+    <updated>2022-03-05T06:56:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9zpz0vp5rsq6"/>
+    <title>PCI - BHS5 - host359832</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;06:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;06:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9466862</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j538cq8z17nx"/>
     <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/VA1/OR1/BHS5/SYD1][Kubernetes] - Kubernetes migration</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;09:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have to postpone the intervention. We apologize for the inconvenience caused&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2022 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; End of life of Kubernetes 1.17 support. This maintenance is to migrate to version 1.18&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9442957</id>
-    <published>2022-03-02T13:40:25Z</published>
-    <updated>2022-03-02T13:40:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/l7s50wnx2gnc"/>
-    <title>PCI - GRA5 - host1033283</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;10:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host30-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G205A15&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1033283.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;28290052-91a9-46d6-b90a-0edc7287dc1e&lt;br /&gt;4c37459e-af73-4603-b013-26adaacf9a78&lt;br /&gt;6b50dcc8-6b25-45d1-8cd3-a59cd80e0784&lt;br /&gt;79c34794-0f9b-4e89-b596-4f2e52eb2e6c&lt;br /&gt;7d913d51-20e8-4098-b10b-45064bb47627&lt;br /&gt;c6340055-568a-4782-81ec-5c5c46bd7e12&lt;br /&gt;d19bd620-0e14-4832-b2c4-a6a16497423a&lt;br /&gt;dc4eda54-ae50-49b4-b535-7b376c6ca93e&lt;br /&gt;f021d0d7-47db-4e6b-be14-4c7729fd55e9&lt;br /&gt;fa7f4b95-ba14-4303-9d40-03caee0565ea&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;</content>
   </entry>
 </feed>

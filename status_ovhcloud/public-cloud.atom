@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-03-06T21:05:53Z</updated>
+  <updated>2022-03-07T08:00:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -59,7 +59,7 @@
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9391081</id>
     <published>2022-03-07T09:00:00Z</published>
-    <updated>2022-02-23T16:55:43Z</updated>
+    <updated>2022-03-07T08:00:26Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/v0z3pz3ffcxl"/>
     <title>[SBG5/GRA5/GRA7][OpenStack] - Deletion of legacy routers</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;16:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers risk losing network connectivity if they do not provision a router before maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will delete all legacy routers and floating IP's that are currently running on SBG5 GRA5 and GRA7 regions.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The creation of new routers will be available when the region is upgraded to OpenStack Stein. New routers are already available on GRA9 for testing now.&lt;/p&gt;</content>

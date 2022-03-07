@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 07 Mar 2022 09:39:01 +0000</pubDate>
+    <pubDate>Mon, 07 Mar 2022 10:21:18 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -20,6 +20,14 @@
       <pubDate>Thu, 10 Mar 2022 07:00:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hkstkm5n34jp</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hkstkm5n34jp</guid>
+    </item>
+    <item>
+      <title>[Worldwide][Dedicated Servers] - Server deliveries</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  07/03/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some services as : Floating IP moves, server deliveries are currently not available.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams are investigating the root cause of this issue.&lt;/p&gt;      </description>
+      <pubDate>Mon, 07 Mar 2022 10:21:18 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/h3116f0p98xg</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/h3116f0p98xg</guid>
     </item>
     <item>
       <title>VPS - SGP2 - 2 hosts</title>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 03 Mar 2022 09:56:22 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ctlcml1xgmkd</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ctlcml1xgmkd</guid>
-    </item>
-    <item>
-      <title>[EU/CA][Licensing] - Plesk/Windows licenses</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/03/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/03/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by licensing micro service migrated to kubernetes&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The patch has been successfully deployed, all tasks have been restarted. Suspensions and creations have been fixed.&lt;br /&gt;There is still some latency on deletions though.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/03/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The creation of new licenses, as well as the suspension and deletion of Plesk and windows licenses are impacted.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; incident caused by licensing micro service migrated to kubernetes&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently deploying a fix. We will get back to you as soon as possible.&lt;/p&gt;      </description>
-      <pubDate>Thu, 03 Mar 2022 09:03:35 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/08dr484hg31m</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/08dr484hg31m</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-03-07T09:39:01Z</updated>
+  <updated>2022-03-07T10:11:41Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hkstkm5n34jp"/>
     <title>[GRA9][Virtual Private Servers] - Upgrade infrastructure</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/03/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/03/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, reinstallation...) during this operation.&lt;br /&gt;Servers continue to operate normally during maintenance and new orders can be delivered.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade of the Virtual Private Servers infrastructure (RabbitMQ servers)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9479047</id>
+    <published>2022-03-07T10:11:41Z</published>
+    <updated>2022-03-07T10:11:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/h3116f0p98xg"/>
+    <title>[Worldwide][Dedicated Servers] - Server deliveries</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  07/03/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Floating IP moves, server deliveries are currently degraded&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams are investigating the root cause of this issue.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9478635</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ctlcml1xgmkd"/>
     <title>VPS - GRA6 - host1001977</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1001977.gra6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps761708&lt;br /&gt;vps801981&lt;br /&gt;vps581901&lt;br /&gt;vps762425&lt;br /&gt;vps727068&lt;br /&gt;vps617953&lt;br /&gt;vps588120&lt;br /&gt;vps710339&lt;br /&gt;vps620547&lt;br /&gt;vps614536&lt;br /&gt;vps717525&lt;br /&gt;vps801217&lt;br /&gt;vps757838&lt;br /&gt;vps756184&lt;br /&gt;vps597795&lt;br /&gt;vps707162&lt;br /&gt;vps634354&lt;br /&gt;vps581008&lt;br /&gt;vps585798&lt;br /&gt;vps660376&lt;br /&gt;vps604037&lt;br /&gt;vps602382&lt;br /&gt;vps703501&lt;br /&gt;vps566762&lt;br /&gt;vps656904&lt;br /&gt;vps773368&lt;br /&gt;vps800640&lt;br /&gt;vps645242&lt;br /&gt;vps605474&lt;br /&gt;vps794855&lt;br /&gt;vps577580&lt;br /&gt;vps794453&lt;br /&gt;vps794369&lt;br /&gt;vps763605&lt;br /&gt;vps761002&lt;br /&gt;vps753240&lt;br /&gt;vps598409&lt;br /&gt;vps721433&lt;br /&gt;vps689299&lt;br /&gt;vps686024&lt;br /&gt;vps662427&lt;br /&gt;vps658930&lt;br /&gt;vps658195&lt;br /&gt;vps656909&lt;br /&gt;vps647393&lt;br /&gt;vps646254&lt;br /&gt;vps645875&lt;br /&gt;vps644936&lt;br /&gt;vps645250&lt;br /&gt;vps645248&lt;br /&gt;vps640710&lt;br /&gt;vps630698&lt;br /&gt;vps630409&lt;br /&gt;vps628373&lt;br /&gt;vps627889&lt;br /&gt;vps623740&lt;br /&gt;vps623742&lt;br /&gt;vps610821&lt;br /&gt;vps610694&lt;br /&gt;vps610615&lt;br /&gt;vps608264&lt;br /&gt;vps608093&lt;br /&gt;vps607529&lt;br /&gt;vps596372&lt;br /&gt;vps607132&lt;br /&gt;vps566248&lt;br /&gt;vps603027&lt;br /&gt;vps603026&lt;br /&gt;vps602202&lt;br /&gt;vps601997&lt;br /&gt;vps600922&lt;br /&gt;vps600594&lt;br /&gt;vps600536&lt;br /&gt;vps599726&lt;br /&gt;vps598327&lt;br /&gt;vps598236&lt;br /&gt;vps596310&lt;br /&gt;vps592162&lt;br /&gt;vps591920&lt;br /&gt;vps591610&lt;br /&gt;vps590005&lt;br /&gt;vps588366&lt;br /&gt;vps587390&lt;br /&gt;vps578175&lt;br /&gt;vps569575&lt;br /&gt;vps569566&lt;br /&gt;vps569565&lt;br /&gt;vps569532&lt;br /&gt;vps557158&lt;br /&gt;vps561844&lt;br /&gt;vps559849&lt;br /&gt;vps557373&lt;br /&gt;vps555134&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9443205</id>
-    <published>2022-03-03T09:03:35Z</published>
-    <updated>2022-03-03T09:03:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/08dr484hg31m"/>
-    <title>[EU/CA][Licensing] - Plesk/Windows licenses</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/03/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/03/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by licensing micro service migrated to kubernetes&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The patch has been successfully deployed, all tasks have been restarted. Suspensions and creations have been fixed.&lt;br /&gt;There is still some latency on deletions though.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;10:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/03/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The creation of new licenses, as well as the suspension and deletion of Plesk and windows licenses are impacted.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; incident caused by licensing micro service migrated to kubernetes&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently deploying a fix. We will get back to you as soon as possible.&lt;/p&gt;</content>
   </entry>
 </feed>

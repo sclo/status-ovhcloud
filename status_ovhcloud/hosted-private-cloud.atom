@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-03-11T11:38:02Z</updated>
+  <updated>2022-03-11T13:15:29Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/rzprtx1fgvdt"/>
     <title>[Global][PCC] - Maintenance upgrade host - wave 5</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;23:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/03/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/03/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Description :&lt;/b&gt; If you are from wave 5 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9517080</id>
+    <published>2022-03-11T13:15:29Z</published>
+    <updated>2022-03-11T13:15:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/ch32dtwg1vvr"/>
+    <title>[RBX2A][Hosted Private Cloud] - Storage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/03/2022 13:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/03/2022 14:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The following datastores may be unavailable during the operation &lt;br /&gt;pcc-000357 / pcc-000342 / pcc-000352 / pcc-000336 / pcc-000338 / pcc-000343 / pcc-000351&lt;br /&gt;&lt;b&gt;Related Incident ] :&lt;/b&gt; &lt;a href="https://hosted-private-cloud.status-ovhcloud.com/incidents/30hrzj0xrc2z"&gt;[RBX2A][Hosted Private Cloud] - Storage&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Urgent curative maintenance to avoid storage system blockage&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9516315</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/57x3rnyb1937"/>
     <title>[RBX2A][Storage] Tete-2120</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;04:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/02/2022 00:56 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/02/2022 03:40 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt;RBX2a&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;:It was due to physical component . It was replaced.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9157159</id>
-    <published>2022-02-03T11:00:29Z</published>
-    <updated>2022-02-03T11:00:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/r5p3s3j5lp70"/>
-    <title>[SBG1][Hosted Private Cloud] Datastores- Configuration Management Tools</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;04:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/02/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/02/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Migrating SBG1A &amp; SBG1C datastores to a new configuration management tool&lt;/p&gt;</content>
   </entry>
 </feed>

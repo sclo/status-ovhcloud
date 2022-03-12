@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 11 Mar 2022 16:37:37 +0000</pubDate>
+    <pubDate>Sat, 12 Mar 2022 06:43:33 +0000</pubDate>
     <item>
       <title>[BHS1][Veeam] - Version upgrade</title>
       <description>
@@ -12,6 +12,14 @@
       <pubDate>Mon, 21 Mar 2022 08:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/9nrn5xtdszrs</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/9nrn5xtdszrs</guid>
+    </item>
+    <item>
+      <title>[SBG2A/RBX1A][Hosted private cloud] - Migration of MicroServices</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/03/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/03/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact in production, only some connection timeout in the automation at the time of the intervention.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to migrate the current hosted private cloud microservice from standalone container host to Kubernetes infrastructure.&lt;/p&gt;      </description>
+      <pubDate>Wed, 16 Mar 2022 09:00:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/hrdjh8zjyl10</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/hrdjh8zjyl10</guid>
     </item>
     <item>
       <title>[Global][PCC] - Maintenance upgrade host - wave 5</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 08 Feb 2022 05:13:51 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/66tyjgdc60nm</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/66tyjgdc60nm</guid>
-    </item>
-    <item>
-      <title>[RBX2A][Storage] Tete-2120</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/02/2022 00:56 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/02/2022 03:40 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt;RBX2a&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;:It was due to physical component . It was replaced.&lt;/p&gt;      </description>
-      <pubDate>Tue, 08 Feb 2022 04:33:06 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/57x3rnyb1937</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/57x3rnyb1937</guid>
     </item>
   </channel>
 </rss>

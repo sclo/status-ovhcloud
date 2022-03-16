@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-03-16T08:30:23Z</updated>
+  <updated>2022-03-16T08:53:58Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -57,20 +57,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;22:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/03/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/03/2022 17:00  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to modify/configure new features in Baremetal&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9554872</id>
+    <published>2022-03-16T08:53:58Z</published>
+    <updated>2022-03-16T08:53:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/81d1stj9gdzh"/>
+    <title>VPS - BHS2 - host278917</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host278917.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps136718&lt;br /&gt;vps82215&lt;br /&gt;vps164763&lt;br /&gt;vps158465&lt;br /&gt;vps82260&lt;br /&gt;vps96537&lt;br /&gt;vps108514&lt;br /&gt;vps107618&lt;br /&gt;vps147576&lt;br /&gt;vps156096&lt;br /&gt;vps178708&lt;br /&gt;vps111940&lt;br /&gt;vps114135&lt;br /&gt;vps152187&lt;br /&gt;vps160936&lt;br /&gt;vps170862&lt;br /&gt;vps120826&lt;br /&gt;vps185026&lt;br /&gt;vps184644&lt;br /&gt;vps160513&lt;br /&gt;vps177018&lt;br /&gt;vps174480&lt;br /&gt;vps172108&lt;br /&gt;vps165359&lt;br /&gt;vps164776&lt;br /&gt;vps158686&lt;br /&gt;vps156063&lt;br /&gt;vps153033&lt;br /&gt;vps149697&lt;br /&gt;vps146369&lt;br /&gt;vps80044&lt;br /&gt;vps144259&lt;br /&gt;vps140365&lt;br /&gt;vps138125&lt;br /&gt;vps135114&lt;br /&gt;vps130124&lt;br /&gt;vps129863&lt;br /&gt;vps128569&lt;br /&gt;vps127595&lt;br /&gt;vps127474&lt;br /&gt;vps126850&lt;br /&gt;vps125467&lt;br /&gt;vps70902&lt;br /&gt;vps123576&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9553587</id>
+    <published>2022-03-16T08:47:28Z</published>
+    <updated>2022-03-16T08:47:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/h6l32swh8t53"/>
+    <title>[Lim1][Dedicated servers] - L113B06</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/03/2022 02:29 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  16/03/2022 05:30 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; Due to a leak, all rack on L113B06 has been shutdown to prevent more damage.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Disjunction caused by a water leak&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;04:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  16/03/2022 02:29 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Due to a leak, all rack on L113B06 has been shutdown to prevent more damage.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;   Our technical teams investigate to determine the origin of the incident&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9554731</id>
     <published>2022-03-16T08:29:00Z</published>
     <updated>2022-03-16T08:29:00Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fwvtzwdz585s"/>
     <title>VPS - BHS2 - host278919</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host278919.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps295229&lt;br /&gt;vps161758&lt;br /&gt;vps274044&lt;br /&gt;vps273750&lt;br /&gt;vps273710&lt;br /&gt;vps268578&lt;br /&gt;vps269451&lt;br /&gt;vps268590&lt;br /&gt;vps268536&lt;br /&gt;vps268534&lt;br /&gt;vps268530&lt;br /&gt;vps268502&lt;br /&gt;vps268499&lt;br /&gt;vps267881&lt;br /&gt;vps265011&lt;br /&gt;vps254981&lt;br /&gt;vps121118&lt;br /&gt;vps228270&lt;br /&gt;vps215007&lt;br /&gt;vps181752&lt;br /&gt;vps214539&lt;br /&gt;vps214487&lt;br /&gt;vps214370&lt;br /&gt;vps211283&lt;br /&gt;vps207952&lt;br /&gt;vps202972&lt;br /&gt;vps201506&lt;br /&gt;vps198522&lt;br /&gt;vps189387&lt;br /&gt;vps189360&lt;br /&gt;vps189357&lt;br /&gt;vps186859&lt;br /&gt;vps163160&lt;br /&gt;vps75381&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9553587</id>
-    <published>2022-03-16T04:56:54Z</published>
-    <updated>2022-03-16T04:56:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/h6l32swh8t53"/>
-    <title>[Lim1][Dedicated servers] - L113B06</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;04:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  16/03/2022 02:29 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Due to a leak, all rack on L113B06 has been shutdown to prevent more damage.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;   Our technical teams investigate to determine the origin of the incident&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9504464</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/l9h4mnh5txfh"/>
     <title>[RBX3][Dedicated server]  RBX3_43 IP Lost</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  13/03/2022 18:56 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 13/03/2022  19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Public Network now unreachable&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9532950</id>
-    <published>2022-03-13T19:34:54Z</published>
-    <updated>2022-03-13T19:34:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/m58x9thlsd6m"/>
-    <title>VPS - SBG6 - host982729</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host982729.sbg6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps606981&lt;br /&gt;vps642464&lt;br /&gt;vps728991&lt;br /&gt;vps662563&lt;br /&gt;vps727768&lt;br /&gt;vps732629&lt;br /&gt;vps734059&lt;br /&gt;vps811912&lt;br /&gt;vps819744&lt;br /&gt;vps809080&lt;br /&gt;vps736038&lt;br /&gt;vps791184&lt;br /&gt;vps770540&lt;br /&gt;vps788385&lt;br /&gt;vps782373&lt;br /&gt;vps780884&lt;br /&gt;vps780879&lt;br /&gt;vps777809&lt;br /&gt;vps773581&lt;br /&gt;vps777841&lt;br /&gt;vps777791&lt;br /&gt;vps777801&lt;br /&gt;vps777779&lt;br /&gt;vps775242&lt;br /&gt;vps773100&lt;br /&gt;vps770762&lt;br /&gt;vps747312&lt;br /&gt;vps747337&lt;br /&gt;vps731428&lt;br /&gt;vps735985&lt;br /&gt;vps677611&lt;br /&gt;vps735956&lt;br /&gt;vps735939&lt;br /&gt;vps734770&lt;br /&gt;vps729173&lt;br /&gt;vps732408&lt;br /&gt;vps729461&lt;br /&gt;vps729349&lt;br /&gt;vps729230&lt;br /&gt;vps729229&lt;br /&gt;vps729218&lt;br /&gt;vps729157&lt;br /&gt;vps729091&lt;br /&gt;vps729075&lt;br /&gt;vps724970&lt;br /&gt;vps724962&lt;br /&gt;vps724961&lt;br /&gt;vps720871&lt;br /&gt;vps709200&lt;br /&gt;vps696407&lt;br /&gt;vps689791&lt;br /&gt;vps688026&lt;br /&gt;vps656675&lt;br /&gt;vps671043&lt;br /&gt;vps635733&lt;br /&gt;vps670891&lt;br /&gt;vps663191&lt;br /&gt;vps660716&lt;br /&gt;vps646964&lt;br /&gt;vps649999&lt;br /&gt;vps642311&lt;br /&gt;vps641452&lt;br /&gt;vps639659&lt;br /&gt;vps639467&lt;br /&gt;vps619005&lt;br /&gt;vps618894&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,15 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 22 Mar 2022 12:27:52 +0000</pubDate>
+    <pubDate>Tue, 22 Mar 2022 20:13:47 +0000</pubDate>
+    <item>
+      <title>[Global][PCC] - Maintenance upgrade host - wave 7</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:05&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:05&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/03/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/04/2022 18:00  UTC&lt;br /&gt;&lt;b&gt;Description:&lt;/b&gt; : If you are from wave 7 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE&lt;/p&gt;      </description>
+      <pubDate>Mon, 28 Mar 2022 20:05:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/1t9km1vdyps3</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/1t9km1vdyps3</guid>
+    </item>
     <item>
       <title>RBX2/RBX8][Hosted Private Cloud] - Management Network</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Sun, 20 Feb 2022 13:48:07 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/js9l6k8sc01c</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/js9l6k8sc01c</guid>
-    </item>
-    <item>
-      <title>[RBX2][Storage] - tete-2048a</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;19/02/2022 14:46 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/02/2022 15:17 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt;  RBX2a&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoin Actions:&lt;/b&gt; Our teams are currently working on the problem.&lt;br /&gt;The unavailable remaining datastores are:&lt;br /&gt;pcc-002847&lt;br /&gt;pcc-002888&lt;br /&gt;pcc-003386&lt;br /&gt;pcc-003536&lt;br /&gt;pcc-003922&lt;br /&gt;pcc-003936&lt;br /&gt;pcc-003990&lt;br /&gt;pcc-003996&lt;br /&gt;pcc-004617&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/02/2022 14:46 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Unavailable datastores:&lt;br /&gt;pcc-001760&lt;br /&gt;pcc-002823&lt;br /&gt;pcc-002847&lt;br /&gt;pcc-002888&lt;br /&gt;pcc-003386&lt;br /&gt;pcc-003388&lt;br /&gt;pcc-003536&lt;br /&gt;pcc-003922&lt;br /&gt;pcc-003934&lt;br /&gt;pcc-003936&lt;br /&gt;pcc-003990&lt;br /&gt;pcc-003996&lt;br /&gt;pcc-004617&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2a&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; tete-2048a is unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;br /&gt;&lt;b&gt;Ongoin Actions:&lt;/b&gt; Our teams are currently working to solve the problem.&lt;br /&gt;We apologize for the inconvenience&lt;/p&gt;      </description>
-      <pubDate>Sat, 19 Feb 2022 18:13:53 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/4f6pr0xzn99v</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/4f6pr0xzn99v</guid>
     </item>
   </channel>
 </rss>

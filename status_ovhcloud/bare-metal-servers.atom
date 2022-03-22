@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-03-22T22:34:45Z</updated>
+  <updated>2022-03-22T23:11:23Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -25,6 +25,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/04/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during operations (30 minutes per server).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the failure of an altigo (power supply and server reboot equipment) for which we have no spare, we have to relocate the servers to a compatible rack.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9606169</id>
+    <published>2022-03-28T21:00:00Z</published>
+    <updated>2022-03-22T23:08:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ts52d2kdddm8"/>
+    <title>[GRA1][RtvRack] - Upgrade xDC/xBU</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/03/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/03/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In regards to our lifecycle management, we need to upgrade our exchangers RTvRack in order to have a homogeneous park&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9570408</id>
     <published>2022-03-27T22:00:00Z</published>
     <updated>2022-03-18T01:15:21Z</updated>
@@ -34,11 +42,11 @@
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9605848</id>
-    <published>2022-03-22T22:07:05Z</published>
-    <updated>2022-03-22T22:07:05Z</updated>
+    <published>2022-03-22T23:00:36Z</published>
+    <updated>2022-03-22T23:00:36Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/v2v96rjxy0pz"/>
     <title>VPS - UK2 - host1057199</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1057199.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps650884&lt;br /&gt;vps704664&lt;br /&gt;vps811169&lt;br /&gt;vps809284&lt;br /&gt;vps790127&lt;br /&gt;vps572210&lt;br /&gt;vps572860&lt;br /&gt;vps820664&lt;br /&gt;vps578629&lt;br /&gt;vps671929&lt;br /&gt;vps798269&lt;br /&gt;vps791819&lt;br /&gt;vps778792&lt;br /&gt;vps778779&lt;br /&gt;vps778740&lt;br /&gt;vps761836&lt;br /&gt;vps754937&lt;br /&gt;vps754884&lt;br /&gt;vps734981&lt;br /&gt;vps722822&lt;br /&gt;vps718873&lt;br /&gt;vps714347&lt;br /&gt;vps710484&lt;br /&gt;vps708008&lt;br /&gt;vps695780&lt;br /&gt;vps692197&lt;br /&gt;vps692167&lt;br /&gt;vps691471&lt;br /&gt;vps689316&lt;br /&gt;vps686569&lt;br /&gt;vps581251&lt;br /&gt;vps671958&lt;br /&gt;vps671955&lt;br /&gt;vps565497&lt;br /&gt;vps666735&lt;br /&gt;vps648286&lt;br /&gt;vps636444&lt;br /&gt;vps634519&lt;br /&gt;vps631516&lt;br /&gt;vps585686&lt;br /&gt;vps615418&lt;br /&gt;vps612060&lt;br /&gt;vps586785&lt;br /&gt;vps584701&lt;br /&gt;vps582415&lt;br /&gt;vps583489&lt;br /&gt;vps552810&lt;br /&gt;vps554341&lt;br /&gt;vps552475&lt;br /&gt;vps509191&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1057199.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps650884&lt;br /&gt;vps704664&lt;br /&gt;vps811169&lt;br /&gt;vps809284&lt;br /&gt;vps790127&lt;br /&gt;vps572210&lt;br /&gt;vps572860&lt;br /&gt;vps820664&lt;br /&gt;vps578629&lt;br /&gt;vps671929&lt;br /&gt;vps798269&lt;br /&gt;vps791819&lt;br /&gt;vps778792&lt;br /&gt;vps778779&lt;br /&gt;vps778740&lt;br /&gt;vps761836&lt;br /&gt;vps754937&lt;br /&gt;vps754884&lt;br /&gt;vps734981&lt;br /&gt;vps722822&lt;br /&gt;vps718873&lt;br /&gt;vps714347&lt;br /&gt;vps710484&lt;br /&gt;vps708008&lt;br /&gt;vps695780&lt;br /&gt;vps692197&lt;br /&gt;vps692167&lt;br /&gt;vps691471&lt;br /&gt;vps689316&lt;br /&gt;vps686569&lt;br /&gt;vps581251&lt;br /&gt;vps671958&lt;br /&gt;vps671955&lt;br /&gt;vps565497&lt;br /&gt;vps666735&lt;br /&gt;vps648286&lt;br /&gt;vps636444&lt;br /&gt;vps634519&lt;br /&gt;vps631516&lt;br /&gt;vps585686&lt;br /&gt;vps615418&lt;br /&gt;vps612060&lt;br /&gt;vps586785&lt;br /&gt;vps584701&lt;br /&gt;vps582415&lt;br /&gt;vps583489&lt;br /&gt;vps552810&lt;br /&gt;vps554341&lt;br /&gt;vps552475&lt;br /&gt;vps509191&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9601745</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0bbb1r3sqtb7"/>
     <title>VPS - WAW2 - host780542</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host780542.waw2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps435835&lt;br /&gt;vps433454&lt;br /&gt;vps490283&lt;br /&gt;vps461684&lt;br /&gt;vps408479&lt;br /&gt;vps534565&lt;br /&gt;vps507056&lt;br /&gt;vps459305&lt;br /&gt;vps461382&lt;br /&gt;vps428596&lt;br /&gt;vps483804&lt;br /&gt;vps464647&lt;br /&gt;vps406879&lt;br /&gt;vps543664&lt;br /&gt;vps549031&lt;br /&gt;vps545809&lt;br /&gt;vps545493&lt;br /&gt;vps467648&lt;br /&gt;vps541648&lt;br /&gt;vps540428&lt;br /&gt;vps539970&lt;br /&gt;vps537283&lt;br /&gt;vps416691&lt;br /&gt;vps522075&lt;br /&gt;vps521683&lt;br /&gt;vps519677&lt;br /&gt;vps508185&lt;br /&gt;vps501898&lt;br /&gt;vps498151&lt;br /&gt;vps494593&lt;br /&gt;vps488980&lt;br /&gt;vps488276&lt;br /&gt;vps487670&lt;br /&gt;vps483681&lt;br /&gt;vps483242&lt;br /&gt;vps480591&lt;br /&gt;vps477436&lt;br /&gt;vps469486&lt;br /&gt;vps463964&lt;br /&gt;vps463072&lt;br /&gt;vps455705&lt;br /&gt;vps455272&lt;br /&gt;vps452940&lt;br /&gt;vps451956&lt;br /&gt;vps447657&lt;br /&gt;vps444700&lt;br /&gt;vps443407&lt;br /&gt;vps443102&lt;br /&gt;vps437486&lt;br /&gt;vps440594&lt;br /&gt;vps427081&lt;br /&gt;vps433938&lt;br /&gt;vps430172&lt;br /&gt;vps430129&lt;br /&gt;vps417681&lt;br /&gt;vps424623&lt;br /&gt;vps424603&lt;br /&gt;vps423859&lt;br /&gt;vps421552&lt;br /&gt;vps421550&lt;br /&gt;vps421549&lt;br /&gt;vps421548&lt;br /&gt;9e5d1657-9d23-43a9-8057-3618b85d8ebb&lt;br /&gt;vps411777&lt;br /&gt;vps410624&lt;br /&gt;vps409817&lt;br /&gt;vps408085&lt;br /&gt;vps406937&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9592025</id>
-    <published>2022-03-21T06:37:08Z</published>
-    <updated>2022-03-21T06:52:18Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/j62s1s7jrzdf"/>
-    <title>[RBX8][Dedicated server-Network] R806L11</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;06:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;21/03/2022 06:20 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/03/2022 06:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All 41 servers  on rack R806L11 now reachable&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-03-23T01:35:17Z</updated>
+  <updated>2022-03-23T02:10:24Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -55,6 +55,22 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k29b0f2wln82"/>
     <title>[BHS3][Compute] - Storage</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:10&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - [BHS3][Containers &amp; Orchestration] - Storage&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/03/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/03/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance operation will prevent the scheduling of backups during the downtime (1 to 3 hours) of the Mistral service. &lt;br /&gt;Backups will be re-scheduled the next day as usual.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade underlaying infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9606860</id>
+    <published>2022-03-23T02:10:24Z</published>
+    <updated>2022-03-23T02:10:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/crz9k492stbz"/>
+    <title>PCI - UK1 - host1134782</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1134782.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f6e07182-8ac0-4b31-ae37-50a3e32357cf&lt;br /&gt;d10c3152-903f-42ee-82e9-4c5dfeee245a&lt;br /&gt;f91fb03c-83de-4a13-9565-ea8c2f1dd448&lt;br /&gt;7583b752-b9bd-4898-b557-ad5de30dfb7e&lt;br /&gt;12379386-1c7e-4725-9f2f-24888dd1ea66&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9606851</id>
+    <published>2022-03-23T02:00:58Z</published>
+    <updated>2022-03-23T02:00:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bjkwgkbk86kc"/>
+    <title>PCI - UK1 - host1213457</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1213457.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;bc5167ae-6856-40c2-ad5d-c5958ea1ec61&lt;br /&gt;cd5a4dcf-8b1b-413e-890a-6707111fc415&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9606774</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kybjg64rzvxk"/>
     <title>[WAW][Public cloud] - W03B01</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/03/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/03/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers are reachable on pcc W03B01&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; 2 servers are reachable. And there is still 5 servers unreachable.&lt;br /&gt;Our teams are still working on the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  21/03/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers on pcc W03B01 not reachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are investigating,  we will provide updates as soon as possible&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9583661</id>
-    <published>2022-03-21T15:38:53Z</published>
-    <updated>2022-03-21T15:38:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/f1b4dmg9ypz3"/>
-    <title>PCI - GRA1 - host896689</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;18:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host896689.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;65612161-e735-470b-aedd-e41c3a873af9&lt;br /&gt;993a17fd-c7bb-4d1c-97d4-7f7badde12ae&lt;br /&gt;bef115a8-368b-4c2e-b623-2dea2e03c772&lt;br /&gt;19829efa-e4fc-439a-9ba0-44cfdf5add03&lt;br /&gt;87f86ee4-c2e2-4739-b0b5-b2f75a472097&lt;br /&gt;b9ca162a-c4a9-46b3-9300-21baedbc1c36&lt;br /&gt;61335088-aada-46d0-8a8c-c3c8e34284b8&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9594979</id>
-    <published>2022-03-21T15:22:57Z</published>
-    <updated>2022-03-21T15:22:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pwq0vchs7p8q"/>
-    <title>PCI - WAW1 - host1287038</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1287038.waw1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;6e05fd92-c7dd-4f99-9bad-d4d963b1442c&lt;br /&gt;a21b35b9-d930-49d3-b96e-6ff4c021cc8b&lt;br /&gt;edecba93-2f64-4bfe-8968-0a8213c0d27d&lt;/p&gt;</content>
   </entry>
 </feed>

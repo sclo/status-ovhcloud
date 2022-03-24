@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-03-24T10:30:42Z</updated>
+  <updated>2022-03-24T11:11:35Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/cs322nd3397y"/>
     <title>[RBX4][Dedicated servers] - 50C19</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/03/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during operations (30 minutes per server).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the failure of an altigo (power supply and server reboot equipment) for which we have no spare, we have to relocate the servers to a compatible rack.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9618561</id>
+    <published>2022-03-24T11:11:35Z</published>
+    <updated>2022-03-24T11:11:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/j6x01km30p3h"/>
+    <title>[BHS][Dedicated Servers-Baremetal] - NetBoot</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/03/2022 04:30UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Server might not netboot properly&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9617777</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0zyh90y6p5gw"/>
     <title>[GRA2/BHS1/ERI1][RtvRack] - Upgrade xDC/xBU</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;01:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt; Update:&lt;/b&gt; This operation has been postponed to a new date that you will be informed of.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;05:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2022 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In regards to our lifecycle management ,we need to upgrade our exchangers  RTvRack in order to have a homogeneous park&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9596525</id>
-    <published>2022-03-22T00:18:36Z</published>
-    <updated>2022-03-22T00:21:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0k311lsngf26"/>
-    <title>[GRA1][Dedicated Servers] - G118B04</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/03/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  22/03/2022 00:09 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 10 servers were unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An electrical issue in the rack G118B04  caused this incident. The servers are operational reachable again.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  21/03/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 10 servers are unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue in the rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 30 Mar 2022 10:34:22 +0000</pubDate>
+    <pubDate>Thu, 31 Mar 2022 03:19:45 +0000</pubDate>
     <item>
       <title>[ERI1C][Hosted Private Cloud] Switch upgrade</title>
       <description>
@@ -20,6 +20,14 @@
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/0xn9mmdh11fj</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/0xn9mmdh11fj</guid>
+    </item>
+    <item>
+      <title>[RBX2][Storage] - tete-407</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/03/2022 02:43 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 31/03/2022 02:55 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover to node B&lt;/p&gt;      </description>
+      <pubDate>Thu, 31 Mar 2022 00:30:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/lt0mj2tm0c2f</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/lt0mj2tm0c2f</guid>
     </item>
     <item>
       <title>[WAW1][Network] - 2 switches version upgrade</title>
@@ -196,14 +204,6 @@
       <pubDate>Sun, 13 Mar 2022 20:08:44 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/hx3p0r343j1j</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/hx3p0r343j1j</guid>
-    </item>
-    <item>
-      <title>[Global][PCC] - Maintenance upgrade host - wave 4</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/03/2022 17:00  UTC&lt;br /&gt;&lt;b&gt;Description :&lt;/b&gt; If you are from wave 4 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
-      <pubDate>Fri, 11 Mar 2022 16:37:37 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fbd213q87zty</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fbd213q87zty</guid>
     </item>
   </channel>
 </rss>

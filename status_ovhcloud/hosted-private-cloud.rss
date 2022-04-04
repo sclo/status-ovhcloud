@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 04 Apr 2022 05:00:34 +0000</pubDate>
+    <pubDate>Mon, 04 Apr 2022 23:37:08 +0000</pubDate>
     <item>
       <title>[ERI1C][Hosted Private Cloud] - Switch Upgrade</title>
       <description>
@@ -12,6 +12,14 @@
       <pubDate>Wed, 13 Apr 2022 01:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/wnv70gf2x684</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/wnv70gf2x684</guid>
+    </item>
+    <item>
+      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 9</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2022 15:00  UTC&lt;br /&gt;Description : If you are from wave 9 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
+      <pubDate>Mon, 11 Apr 2022 06:00:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</guid>
     </item>
     <item>
       <title>[ERI1C][Hosted Private Cloud] Switch upgrade</title>
@@ -196,14 +204,6 @@
       <pubDate>Fri, 18 Mar 2022 05:10:07 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/tx52qn3xm5pz</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/tx52qn3xm5pz</guid>
-    </item>
-    <item>
-      <title>[EU/CA/SNC][PCC] Upgrade Vrops v8.6.2</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2022 07:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/03/2022  17:00UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; All Vrops zones &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No access to vrops will be be possible during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Multiple vulnerabilities in VMware vRealize Operations were privately reported to VMware. Patches and Workarounds are available to address these vulnerabilities in impacted VMware products.&lt;/p&gt;      </description>
-      <pubDate>Thu, 17 Mar 2022 20:49:05 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqjpx26l5dgt</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqjpx26l5dgt</guid>
     </item>
   </channel>
 </rss>

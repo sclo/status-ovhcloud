@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-04-06T22:08:49Z</updated>
+  <updated>2022-04-06T22:20:52Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -25,12 +25,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/04/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/04/2022 15:00 UTC&lt;br /&gt;Description : If you are from wave 10 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9725529</id>
+    <published>2022-04-19T03:00:00Z</published>
+    <updated>2022-04-06T22:16:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/kph46rlgnj1g"/>
+    <title>[RBX8][Network maintenance] Resilience upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;22:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/04/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/04/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our network infrastructure improvement process, we're upgrading our bandwidth resilience capacity.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9725479</id>
     <published>2022-04-14T03:00:00Z</published>
     <updated>2022-04-06T22:08:49Z</updated>
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/yfj5sm1ss2jw"/>
     <title>[RBX8][Network maintenance] Resilience upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;22:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/04/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/04/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our network infrastructure improvement process, we're upgrading our bandwidth resilience capacity.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9725544</id>
+    <published>2022-04-13T03:00:00Z</published>
+    <updated>2022-04-06T22:20:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/8cnkwxf0jg46"/>
+    <title>[RBX8][Network maintenance] Resilience upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/04/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/04/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our network infrastructure improvement process, we're upgrading our bandwidth resilience capacity.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9685529</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/z8bx6rbm53hs"/>
     <title>[RBX7][NETWORK] - R701A19</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Networks(public and private) of the R701A19 rack are operational&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start Time :&lt;/b&gt; 25/03/2022 09:48UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  25/03/2022 14:04UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  25/03/2022 09:48UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A switch has a malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on, they are going to restart it.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9624382</id>
-    <published>2022-03-25T01:32:05Z</published>
-    <updated>2022-03-25T01:36:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/d9jbqxfhh7x2"/>
-    <title>[RBX2][Storage] - tete-3153</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/03/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/03/2022 01:05 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt;  RBX2B&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover to node B&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/9618328</id>
-    <published>2022-03-24T10:50:07Z</published>
-    <updated>2022-03-24T10:55:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/ms2mw89nggjx"/>
-    <title>[ERI][INFRASTRUCTURE] - E102D06</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  24/03/2022 10:05UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/03/2022 10:15UTC&lt;br /&gt;&lt;b&gt;Technical impact zone:&lt;/b&gt;ERI&lt;br /&gt;&lt;b&gt; Service impact:&lt;/b&gt; Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; There was no more elec power supply on the servers. They have replaced defective power supply.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/03/2022 10:05UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers are unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on. The are replacing defective power supply&lt;/p&gt;</content>
   </entry>
 </feed>

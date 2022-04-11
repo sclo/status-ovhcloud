@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-11T20:29:41Z</updated>
+  <updated>2022-04-11T20:58:56Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/x9ftz1xrv7q8"/>
     <title>[RBX2][Dedicated servers] - 25A09</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;00:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;00:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2022 00:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Network connectivity not available for 30 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are experiencing difficulties with a port on the network device. We will make a port change to fix the problem.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9762323</id>
+    <published>2022-04-11T20:58:56Z</published>
+    <updated>2022-04-11T20:58:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/yrx8rc39mlhk"/>
+    <title>VPS - BHS2 - host373599</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host373599.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;3abc1796-d7cf-4146-bf6a-18502695fdfe&lt;br /&gt;ee6b7bab-c945-4926-8044-398154b190c2&lt;br /&gt;cdb92aae-3579-4a6c-b8d6-30cda3bf99a1&lt;br /&gt;710d0b88-6588-4175-b7a7-4c7fd3e88b3f&lt;br /&gt;125bac9a-c633-4f60-84d3-3f42a8a8c68a&lt;br /&gt;50ef5478-0a60-4eff-a699-620d16c98663&lt;br /&gt;d2ad65bc-2c6d-489f-a2eb-d722dcec1319&lt;br /&gt;c0c74bd4-d1ea-4c58-96ba-0bb4e7748407&lt;br /&gt;f66dc2e1-ea1d-4e81-94d6-9cd8ea0d965c&lt;br /&gt;18808992-4a7a-4300-9db4-cb84a36bafa0&lt;br /&gt;8fe7060a-b958-4cef-9dee-19369125f501&lt;br /&gt;2fbd8db1-fb0a-4e9e-8574-f80ab276fab5&lt;br /&gt;e98887f1-f5c3-4504-a289-244ae3f2bc1e&lt;br /&gt;382b34b1-2d02-4eba-9e8a-c7c87e64ba01&lt;br /&gt;eb8536e7-aa79-4849-83e7-539ba2f90f1b&lt;br /&gt;e2cb6372-6fec-4ae8-a2f5-89dc4218e8ac&lt;br /&gt;e5db9c7b-b8d1-46cf-8428-f75b616871b4&lt;br /&gt;7f90d3d4-8ea1-4568-8619-6b0628b94903&lt;br /&gt;56e9b4dd-d0dc-4ca2-884d-9c522234283e&lt;br /&gt;490809fb-ba1a-4767-8555-222f3a01261f&lt;br /&gt;af69c83c-a775-447d-892b-fe1ac77d132b&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9762004</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/7kv7mq97f8h8"/>
     <title>[BHS2][Network] - T02B34</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 09/04/2022 02:29 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  09/04/2022 02:34 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We had 25 IPs unavailable for a few minutes due to a faulty network device. Our team made a fix on the device and all IPs are now functional. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network device faulty&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9741246</id>
-    <published>2022-04-08T18:37:28Z</published>
-    <updated>2022-04-08T18:37:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wsvt70pgyn44"/>
-    <title>VPS - GRA4 - host580356</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra-z1b11-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G122A12&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host580356.gra4.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps216802&lt;br /&gt;vps228047&lt;br /&gt;vps238611&lt;br /&gt;vps307799&lt;br /&gt;vps330142&lt;br /&gt;vps337721&lt;br /&gt;vps338248&lt;br /&gt;vps339364&lt;br /&gt;vps342028&lt;br /&gt;vps364319&lt;br /&gt;vps370072&lt;br /&gt;vps408753&lt;br /&gt;vps446531&lt;br /&gt;vps455014&lt;br /&gt;vps459192&lt;br /&gt;vps461466&lt;br /&gt;vps464654&lt;br /&gt;vps471748&lt;br /&gt;vps485763&lt;br /&gt;vps495319&lt;br /&gt;vps495565&lt;br /&gt;vps519474&lt;br /&gt;vps521861&lt;br /&gt;vps649233&lt;br /&gt;vps649500&lt;br /&gt;vps650196&lt;br /&gt;vps650624&lt;br /&gt;vps651730&lt;br /&gt;vps651818&lt;br /&gt;vps651975&lt;br /&gt;vps652048&lt;br /&gt;vps652049&lt;br /&gt;vps652238&lt;br /&gt;vps652255&lt;br /&gt;vps652257&lt;br /&gt;vps670839&lt;br /&gt;vps673393&lt;br /&gt;vps673664&lt;br /&gt;vps673683&lt;br /&gt;vps673700&lt;br /&gt;vps673728&lt;br /&gt;vps674246&lt;br /&gt;vps675400&lt;br /&gt;vps676496&lt;br /&gt;vps676586&lt;br /&gt;vps677729&lt;br /&gt;vps677933&lt;br /&gt;vps678840&lt;br /&gt;vps679601&lt;br /&gt;vps680755&lt;br /&gt;vps680800&lt;br /&gt;vps682864&lt;br /&gt;vps684037&lt;br /&gt;vps684052&lt;br /&gt;vps694680&lt;br /&gt;vps695774&lt;br /&gt;vps695779&lt;br /&gt;vps695799&lt;br /&gt;vps696706&lt;br /&gt;vps696926&lt;br /&gt;vps697088&lt;br /&gt;vps699538&lt;br /&gt;vps701170&lt;br /&gt;vps704711&lt;br /&gt;vps704846&lt;br /&gt;vps705661&lt;br /&gt;vps711157&lt;br /&gt;vps713255&lt;br /&gt;vps715204&lt;br /&gt;vps716196&lt;br /&gt;vps806837&lt;br /&gt;vps806876&lt;br /&gt;vps806909&lt;br /&gt;vps807301&lt;br /&gt;vps807789&lt;br /&gt;vps807949&lt;br /&gt;vps808001&lt;br /&gt;vps815572&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;</content>
   </entry>
 </feed>

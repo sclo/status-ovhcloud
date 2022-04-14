@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 14 Apr 2022 14:49:39 +0000</pubDate>
+    <pubDate>Thu, 14 Apr 2022 15:10:02 +0000</pubDate>
     <item>
       <title>[Global][Database] Software upgrade</title>
       <description>
@@ -20,6 +20,14 @@
       <pubDate>Tue, 19 Apr 2022 19:00:00 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1s899p8kmt01</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1s899p8kmt01</guid>
+    </item>
+    <item>
+      <title>[GRA5][Public Cloud] - Degraded services K8S/IOLB</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/04/2022 14:48 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can encounter difficulties to reach their services (control-plane for K8S customers) and lose packets for customers using a load balancer linked to a kubernetes cluster attached to a vRack.&lt;br /&gt;&lt;b&gt;Incident linked :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/gd4bl0m1fyw9&lt;/p&gt;      </description>
+      <pubDate>Thu, 14 Apr 2022 15:10:02 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/2svdj7lgbvz1</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/2svdj7lgbvz1</guid>
     </item>
     <item>
       <title>[SBG][Kubernetes] I/O Load Balancers updates</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 12 Apr 2022 13:11:57 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8y739bd1kmb2</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8y739bd1kmb2</guid>
-    </item>
-    <item>
-      <title>PCI - BHS3 - host422478</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host422478.bhs3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;81baf640-0ed3-42bc-be27-be5c7db48e4e&lt;br /&gt;939f9546-2ee6-4799-8eeb-bec66c5fef0c&lt;br /&gt;7473586f-0786-4053-91fc-9ee75baec5ba&lt;br /&gt;d2aadedd-bf52-455f-b5fa-7803f1cf8ff1&lt;br /&gt;7cf24359-22a9-484c-ba60-e6919656d80b&lt;br /&gt;78c195dd-f28a-4c27-a666-5d422aa02c0b&lt;br /&gt;0aeafe7a-d740-4bb4-9515-c90356387a7b&lt;br /&gt;998ca239-8028-4c5d-b906-7bb40104b667&lt;br /&gt;c8fd3587-9579-4781-beaf-0f1172ad089c&lt;br /&gt;c23e4869-3290-4770-9d10-c4919082d7f5&lt;br /&gt;fca40f3f-20f4-47be-a8d4-aee14f15508a&lt;/p&gt;      </description>
-      <pubDate>Tue, 12 Apr 2022 12:53:24 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/97rf7qvgz5kv</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/97rf7qvgz5kv</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 14 Apr 2022 22:58:32 +0000</pubDate>
+    <pubDate>Fri, 15 Apr 2022 00:08:23 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -12,6 +12,14 @@
       <pubDate>Wed, 31 Aug 2022 10:00:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/nv71djpdxzzq</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/nv71djpdxzzq</guid>
+    </item>
+    <item>
+      <title>[GRA][BHS] [Data logs] Index backend</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  15/06/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Indexing paused, then some time to catch up &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The main objective of this maintenance is to migrate indexing backend from Elasticsearch to Opensearch. The indexation backend of Logs Data Platform will be replaced from Elasticsearch 6.8 to OpenSearch 1.3.&lt;/p&gt;      </description>
+      <pubDate>Wed, 15 Jun 2022 12:00:00 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/n6t88vsqsvm3</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/n6t88vsqsvm3</guid>
     </item>
     <item>
       <title>[RBX3][Dedicated Server] - Migration of vss</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 12 Apr 2022 12:53:14 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0nff3v7b18jd</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0nff3v7b18jd</guid>
-    </item>
-    <item>
-      <title>VPS - BHS2 - host399374</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host399374.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7753f1ad-fa4c-4482-9aab-efae3b94215c&lt;br /&gt;3623b6c1-7b02-4f3b-b956-28e26673b337&lt;br /&gt;66a4198e-d795-40a7-a9d4-724fc0360929&lt;br /&gt;1e6ccc12-8a45-4b98-a9fc-cd585a7c02fd&lt;br /&gt;6e0f8dfa-b64e-49c2-ab70-64dec0f652f1&lt;br /&gt;469e74a2-8a6b-4c99-b9b2-eea0efc42fee&lt;br /&gt;1e9d4765-d7ff-4842-8d4f-c692490c32ec&lt;br /&gt;e7910717-f850-46d4-bcdd-634499af2b7a&lt;br /&gt;8f682389-68c3-45c0-b2ff-2f41d1d65964&lt;br /&gt;aea78fb9-1607-479f-8d58-93a2e9c9652c&lt;br /&gt;17a46520-796f-407e-a72e-40a578a11336&lt;br /&gt;72a80380-9efe-465e-9a4c-b5ad6ed807fe&lt;br /&gt;54290778-333a-4ebb-9de7-9af14fe243e8&lt;br /&gt;ce97d5e1-912f-4ece-89b1-0ce9c15871d3&lt;br /&gt;0642da44-c2f4-4742-aa56-526f533f9f19&lt;br /&gt;ffcf36b7-35e6-4814-b486-d0c615a6131c&lt;br /&gt;c05783d1-61f9-4cad-ad2a-7535e8dda5fc&lt;br /&gt;b31461fd-52e8-4f6b-a535-01d8e8795c33&lt;br /&gt;260808dc-2f2c-4a9a-8b8b-3d487cf68b59&lt;br /&gt;eba540fa-b8eb-4b77-84a7-9d93af77a8e7&lt;br /&gt;5b629ef9-2f5a-457e-b243-91a266017be5&lt;br /&gt;da6b4645-1706-4062-ae8b-8212f0040638&lt;br /&gt;43e91c2a-cf4b-47c1-9406-e1fd2df057f2&lt;br /&gt;95a067df-a85b-4b2a-9187-32db53a4a2a6&lt;br /&gt;af6b37fd-7bdc-4636-8f87-a09c362621cb&lt;br /&gt;0c64780e-ec3c-4153-a934-30cb20f41c4c&lt;br /&gt;a81012dc-8232-4ce2-96dc-cbf188b3519e&lt;br /&gt;77f35070-30e5-4e87-8936-1d4c96cf101b&lt;br /&gt;590c578f-b521-40ef-9830-98f10c780125&lt;br /&gt;cc2a088d-e343-4b8a-b27f-020d214a4513&lt;br /&gt;0dcdfc75-80f0-4998-ac4f-4e03ebe1e4ab&lt;br /&gt;8218a3cc-bbd4-4b6c-92b3-43a19be15819&lt;br /&gt;9a319aff-f3ae-464f-be6f-886a130ab32f&lt;br /&gt;6d482f4e-901a-44fd-9efd-68d686e1a694&lt;br /&gt;0e430f55-df5c-4e62-84c4-f681bf89e888&lt;br /&gt;c7a3deca-bb09-4504-be58-b8aeb2e6fd7f&lt;br /&gt;47e9160c-de2b-4648-b5e6-31b66641d002&lt;br /&gt;17b1124a-98cf-4b4f-8448-9735a1298760&lt;br /&gt;09c77196-6281-4612-a2a7-fbec8b184fd8&lt;br /&gt;f26abde7-1267-41a4-bcea-15c6204f1c40&lt;br /&gt;a9175c00-f45c-4ed2-b2dd-fb4e657bc7f7&lt;br /&gt;e8386fb2-0537-4f71-972b-f74250312b83&lt;br /&gt;ef46f70c-192f-4265-8398-80564dad1fb9&lt;br /&gt;72e76093-b079-4a1a-8a75-a08806b31063&lt;br /&gt;3f01a175-68c5-4371-a2bd-829b1a23238e&lt;br /&gt;2e1ab68c-94f6-402e-be96-c713ccdef712&lt;br /&gt;81de8677-1dbd-470b-a489-f40a8a18c6cc&lt;br /&gt;ff323d21-43c8-404b-beec-e74a31cc8cdd&lt;br /&gt;14b4c164-9305-4eb7-ace9-a8dc175d4533&lt;br /&gt;2d8b691e-c0f5-457e-b261-230b6019e7a9&lt;br /&gt;09ce0542-703b-460d-8691-087dabf1e205&lt;br /&gt;d56dc2c4-7ecf-449a-9abf-6ecd90e1e343&lt;br /&gt;2f6c0e16-c682-40d9-84c9-099f679ce148&lt;br /&gt;cd28461d-b1ab-46f4-bc7c-6b5e917be6c8&lt;br /&gt;54796bc6-d522-4b66-8809-86bc10505165&lt;br /&gt;e912139e-6cf0-40ef-8d2d-77aaee79bd44&lt;br /&gt;cc910ad8-c907-403d-ac0f-9b56352fba57&lt;br /&gt;df1e9f3f-f245-49be-a2b5-1b67c46396bf&lt;br /&gt;5038bf0d-a098-464e-b676-013247ead53f&lt;br /&gt;39754473-9cbd-46b6-8740-529aaad6c28f&lt;br /&gt;714ae39d-9ca9-43a1-8b9b-b7df22cb43d3&lt;br /&gt;2c13b494-0b9b-412f-a621-a4acc782eac7&lt;br /&gt;1fb08568-9959-4eaa-b68d-47706c3ddf7a&lt;br /&gt;1db80104-ade6-47ea-b577-2ee9cc01b3a5&lt;/p&gt;      </description>
-      <pubDate>Tue, 12 Apr 2022 12:53:12 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/nthnltgp2qfz</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/nthnltgp2qfz</guid>
     </item>
   </channel>
 </rss>

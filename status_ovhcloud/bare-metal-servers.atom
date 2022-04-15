@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-15T00:28:39Z</updated>
+  <updated>2022-04-15T00:39:57Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bv8z2qlfkt2b"/>
     <title>[RBX8][Dedicated Servers] - R832B16</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/04/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/04/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 30 minutes of public network outage during the maintenance for servers without LACP(Link Aggregation Control Protocol) configured.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to resolve interface issue or any other bug and to apply new software version&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9785980</id>
+    <published>2022-04-15T00:39:57Z</published>
+    <updated>2022-04-15T00:39:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0xbx7y52gns7"/>
+    <title>[RBX1][Dedicated Server - Network] Rack 11A10</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  15/04/2022 00/15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is down for all servers on rack 11A10&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams investigate to determine the origin of the incident.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9725662</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zjmfghd7qvgn"/>
     <title>VPS - BHS2 - host409547</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host409547.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f896f95c-6e7e-4e01-86f4-0d3c50f42460&lt;br /&gt;13dea943-d0ab-4484-99da-6b80de57a866&lt;br /&gt;ad0d4203-a89c-4c16-bd2d-647fee782857&lt;br /&gt;d892ad2a-ee7c-411a-bf22-d9dd6ebdaa4a&lt;br /&gt;4a2ea36f-bdf1-4b13-b4f9-89f460c0aada&lt;br /&gt;20f15154-566e-40d4-9344-6316dc32fc94&lt;br /&gt;879f358d-6c7b-44fa-ada0-45e2ded15908&lt;br /&gt;bc50ed22-919d-4953-a1ca-e373561cb547&lt;br /&gt;59f8aeaf-bf6e-41f5-9a79-91342a590c70&lt;br /&gt;be684d69-8fec-40ea-affa-0d35c8c61186&lt;br /&gt;05a0a39d-fd8d-4010-a18c-cf34dfeb2cc0&lt;br /&gt;939d31af-af5f-4942-ba6c-c0ab0604a176&lt;br /&gt;079f1616-0bd4-4a0c-8e48-9a26d13c3b31&lt;br /&gt;8048d3f9-cf3d-45f2-8e08-813a74a5550b&lt;br /&gt;ee80f0a7-81f0-49c3-a585-9ddd2fbc61d2&lt;br /&gt;029b313b-9d40-4a07-bfc3-5abbda3ee2b0&lt;br /&gt;0c5824b1-5069-4e45-8574-85ab25297648&lt;br /&gt;0903f1d4-f7b9-425c-80c4-b931f16f7a26&lt;br /&gt;61f226a1-fd68-4569-94bc-aac210830361&lt;br /&gt;52697073-18ca-4752-87a0-9f4d747c1850&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9766936</id>
-    <published>2022-04-12T12:53:14Z</published>
-    <updated>2022-04-12T12:53:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0nff3v7b18jd"/>
-    <title>VPS - BHS2 - host399368</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host399368.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;4cbed339-ac28-4b98-92c1-afd3b0db455e&lt;br /&gt;44d61767-5aed-4014-a23b-79efd58e86eb&lt;br /&gt;a483b06f-4a8b-41c0-acd2-216cd8e845e4&lt;br /&gt;dea9ff8d-a16f-4f13-a432-e8344c476489&lt;br /&gt;78db345e-9d7a-428a-a9f0-a2b53bc56f76&lt;br /&gt;372d4328-eb42-4ef5-83ad-1dee8e029e99&lt;br /&gt;822176fd-68d7-4761-8fc4-187cb2c5b804&lt;br /&gt;23e2266e-ba5d-4014-82a0-84e3c09319a7&lt;br /&gt;c94b67e6-666a-4021-9d90-5378e82aaa1c&lt;br /&gt;f7a4491e-daf2-4a60-9b3e-49af35d9eb26&lt;br /&gt;f7ce860f-62fa-4d83-8478-0305e0bbdb3e&lt;br /&gt;eda6db40-f692-409f-8289-576d64da06d7&lt;br /&gt;70c05d2f-c0bb-459e-869a-b376377b98ed&lt;br /&gt;9a7ea3cc-06ca-41fa-a782-ebbd1ade1933&lt;br /&gt;e1d03627-0839-4f53-85fb-b3cc4977d41b&lt;br /&gt;be78a520-afb2-4509-bdb5-e194e2af80f2&lt;br /&gt;8ff1a5b3-effb-464b-9c54-9768686e1bb1&lt;br /&gt;873fac67-3e77-469f-b9e5-0715b884963a&lt;br /&gt;193488c3-919e-41d2-92a9-59dd433c0349&lt;br /&gt;6a68ff56-6ea4-4711-acda-d1d9d685487f&lt;br /&gt;434255c3-573b-4691-a7bf-d2db987e195c&lt;br /&gt;da2e3ba5-0525-4997-8a51-90b17c1530d0&lt;br /&gt;f8c040e6-ca10-4f0c-b1fb-6b73f84a8dfb&lt;br /&gt;0bf009b2-cc56-446d-ab8f-f8f2057a9304&lt;br /&gt;ec332df3-bf35-4dee-9775-1762c8897859&lt;br /&gt;6658f9a3-2f57-405f-aa97-cc6796af6f63&lt;br /&gt;b42c2d7e-b96a-4460-ba66-f1726818588f&lt;br /&gt;85960ee8-06b5-4ed7-a811-7e20ef95721b&lt;br /&gt;274351a1-424e-41d7-96f0-0af72dcd7593&lt;br /&gt;f9e57975-d048-469d-a009-9e6130666d77&lt;br /&gt;d2ddf5a4-f2b2-48fb-bd40-714540dd7e36&lt;br /&gt;7b29138e-29cd-4864-90f7-62553bb7fbbc&lt;br /&gt;6b3a971b-3f8f-4459-9009-b08f855cb9e8&lt;br /&gt;a6d00c4e-ae0e-43f0-bc93-425652a45384&lt;br /&gt;d71d8899-d5e2-4e91-91f3-5fc1ec51d7dd&lt;br /&gt;3397087d-f231-4b38-a722-2caf983a1e68&lt;/p&gt;</content>
   </entry>
 </feed>

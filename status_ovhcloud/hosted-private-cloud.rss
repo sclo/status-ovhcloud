@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 15 Apr 2022 08:28:51 +0000</pubDate>
+    <pubDate>Fri, 15 Apr 2022 15:00:29 +0000</pubDate>
     <item>
       <title>[ERI/WAW][Hosted Private Cloud] - Upgrade Storage Switch</title>
       <description>
@@ -44,6 +44,14 @@
       <pubDate>Tue, 19 Apr 2022 03:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/kph46rlgnj1g</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/kph46rlgnj1g</guid>
+    </item>
+    <item>
+      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 9</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2022 15:00  UTC&lt;br /&gt;Description : If you are from wave 9 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
+      <pubDate>Fri, 15 Apr 2022 15:00:29 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</guid>
     </item>
     <item>
       <title>[RBX2][Storage] - tete-2116</title>
@@ -100,14 +108,6 @@
       <pubDate>Mon, 11 Apr 2022 11:55:29 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/vsgry1b7nf76</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vsgry1b7nf76</guid>
-    </item>
-    <item>
-      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 9</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2022 15:00  UTC&lt;br /&gt;Description : If you are from wave 9 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted . &lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt; &lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt; &lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt; &lt;br /&gt;If hosts are already on build 19195723, they will be skipped.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
-      <pubDate>Mon, 11 Apr 2022 06:00:30 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/35xvct66vcbb</guid>
     </item>
     <item>
       <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 8</title>

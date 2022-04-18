@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 17 Apr 2022 20:28:07 +0000</pubDate>
+    <pubDate>Mon, 18 Apr 2022 00:49:22 +0000</pubDate>
     <item>
       <title>[GRA][BHS] [Data logs] Index backend migration</title>
       <description>
@@ -28,6 +28,14 @@
       <pubDate>Fri, 22 Apr 2022 04:00:00 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/wnlm28zl4swm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/wnlm28zl4swm</guid>
+    </item>
+    <item>
+      <title>PCI - GRA1 - host1436617</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1436617.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;b785719d-8272-4749-8cb4-ad4175c06377&lt;br /&gt;043f46f2-7459-474d-add5-e916f532b3f5&lt;br /&gt;fc9e9184-1db1-42b0-8152-244cbc3f6580&lt;br /&gt;cd5d0c92-429e-4885-86bc-f03776d75b03&lt;br /&gt;95bcd13e-cdf7-4f22-ade5-2f24ec1f6151&lt;br /&gt;38ec9109-0e6b-4aae-84eb-7634e4096e44&lt;br /&gt;b98954dc-1dc2-4bf1-bf73-be7cc4a7c736&lt;/p&gt;      </description>
+      <pubDate>Mon, 18 Apr 2022 00:49:22 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/yf3xfnbdsrfg</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/yf3xfnbdsrfg</guid>
     </item>
     <item>
       <title>PCI - GRA11 - host1064928</title>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 14 Apr 2022 18:01:53 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/mkwl1jw00tck</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/mkwl1jw00tck</guid>
-    </item>
-    <item>
-      <title>[GRA5][Public Cloud] - Nova response time + Vrack issue</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  13/04/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  14/04/2022 16:00 UTC&lt;br /&gt;&lt;br /&gt;The incident is over, the Nova latencies have been resolved with the fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update  :&lt;/b&gt; The problems with the vRack ports have been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update  :&lt;/b&gt; After apply a new neutron package to improve nova response time we try an issue in vrack port some can be down we work on the issue to resolve it&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update  :&lt;/b&gt;&lt;br /&gt;Our technicians are going to put a new package into production .&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update  :&lt;/b&gt; The root cause has been determined and solutions are being tested to resolve the incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  13/04/2022 01:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are facing to a regression on response time on nova api.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on.&lt;/p&gt;      </description>
-      <pubDate>Thu, 14 Apr 2022 17:26:26 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/gd4bl0m1fyw9</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/gd4bl0m1fyw9</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-21T22:26:47Z</updated>
+  <updated>2022-04-21T22:35:01Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 25/04/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 25/04/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Slowdown might be observed to access data hosted on block storage.&lt;br /&gt;We are upgrading CEPH cluster in GRA1.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9830851</id>
+    <published>2022-04-21T22:35:00Z</published>
+    <updated>2022-04-21T22:35:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/vk50q6dtchdx"/>
+    <title>VPS - BHS2 - host412895</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host412895.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;a8edcb7c-83c4-4c52-8f78-830c600f6655&lt;br /&gt;2e6e31b4-0a70-4c9c-8f32-88faa130edd9&lt;br /&gt;02b82ce2-b1f6-4a22-a188-b541945cb94a&lt;br /&gt;ab3fdc43-a1b2-4d30-98d5-1a958e061906&lt;br /&gt;328accd5-3f41-4852-b058-6b5e4df32e02&lt;br /&gt;c42f1753-73c0-44e4-887e-03cd70baead5&lt;br /&gt;f5e63fcc-c3b6-4997-8d59-67af991c0317&lt;br /&gt;b29ab100-7b2e-4f89-a203-cc88bd7af82e&lt;br /&gt;3b45e77f-685e-40d2-b0f1-8dd90a4edbaa&lt;br /&gt;c304bbf5-c7fd-4017-8844-9d094114bef7&lt;br /&gt;43074e38-8509-43a0-9a4a-59b36d67f698&lt;br /&gt;390e71b5-0d6c-4163-8d41-a233d4fef0cd&lt;br /&gt;7b3e9c7c-d66f-48ab-96d1-e2abfec62218&lt;br /&gt;12d79f2a-e5d3-4e5f-8acc-9716a655415c&lt;br /&gt;b49ff1dc-0e94-4601-9e53-27b2d6e05469&lt;br /&gt;6277b307-d300-436c-8ec9-2a3181eb77a7&lt;br /&gt;8f1ae8b4-9392-41ca-82b5-1702877759d7&lt;br /&gt;b38a0d85-69ca-4850-8f5f-72d120bff828&lt;br /&gt;1bc011b6-87bc-446e-9591-52643bc0c4f5&lt;br /&gt;be75f688-1c72-4259-953f-1a1c90afb0b5&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9830530</id>
     <published>2022-04-21T22:01:11Z</published>
     <updated>2022-04-21T22:01:11Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/g86yk3d2d85t"/>
     <title>VPS - BHS2 - host402936</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host402936.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;b66a3f95-c26a-4ba2-8bf3-e9d594b5cdd4&lt;br /&gt;256a210e-192c-454a-9f18-19e5086628cc&lt;br /&gt;2dda235d-bbf7-45b1-a25b-a998c81d16cc&lt;br /&gt;ddcac60f-f526-4fa9-b37a-0e532a61f93c&lt;br /&gt;f86d830f-e544-4223-9444-156ff0498beb&lt;br /&gt;50004430-c382-4fec-a79a-abe8cd71cc91&lt;br /&gt;cac80375-e53b-49c1-bfe2-957dfdf3f340&lt;br /&gt;9935e22f-a6d5-44ff-8d4e-ca0adf3a0419&lt;br /&gt;e832eeb1-324b-4bc8-b645-e8e8fe3def64&lt;br /&gt;4f62255b-62ac-4193-9431-a4bc53d43e56&lt;br /&gt;8ed39844-5547-4325-a2a0-a3a3a2897583&lt;br /&gt;e8b684ec-95ef-4efd-96e8-ad5fd311fd22&lt;br /&gt;3f2575f1-2a30-44d1-aa24-cc9a8a6bbe55&lt;br /&gt;6892c495-075c-463e-9f6e-3ac9ba9f729b&lt;br /&gt;bf5f0174-a107-4b0e-932b-d072e9833a92&lt;br /&gt;fa2c3dc3-d312-42c3-af53-5edff546feb8&lt;br /&gt;ba1fd312-62d4-4c2e-88a1-c31055d718e3&lt;br /&gt;0fec4b8a-4677-4c9e-89d0-928b84878b5d&lt;br /&gt;85b8263c-1981-4f3a-b287-e1a8748d36c7&lt;br /&gt;a7a46fde-baf6-4c8a-819c-cfeb833a6163&lt;br /&gt;bb630c38-c53f-4a4b-bce7-992f6c0e06b7&lt;br /&gt;9539ac14-f432-402d-9780-b600e0711f86&lt;br /&gt;9eec6d7f-a9b4-460e-88a4-ea28dfdeb9b3&lt;br /&gt;ad0fe165-2bc6-47bb-b8d2-80d7edc4be81&lt;br /&gt;d95f3156-88ab-47cb-af72-366237c341ea&lt;br /&gt;8ac14def-8f45-492a-9454-15502afe0647&lt;br /&gt;e639a0d7-37d2-4265-9ccc-fbff0287ad16&lt;br /&gt;ec880fe8-1809-4e1b-a07d-ec42df1e9d82&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9825747</id>
-    <published>2022-04-21T10:56:02Z</published>
-    <updated>2022-04-21T10:56:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/lv2jlj6lg58j"/>
-    <title>[ERI1][Dedicated Servers] - E103C08</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The replacement of the network equipment is still in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/04/2022 07:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network is unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; 5 ports on switch are defective.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We are working to replace the switch ASAP, during the maintenance there will be a down for all the rack&lt;/p&gt;</content>
   </entry>
 </feed>

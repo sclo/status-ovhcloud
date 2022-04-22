@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-22T15:37:11Z</updated>
+  <updated>2022-04-22T17:19:19Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -177,6 +177,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/04/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/04/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may notice a latency spike during the transition.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The current infrastructure is no longer supported by our provider and we are migrating to a newer infrastructure.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9836043</id>
+    <published>2022-04-22T17:19:19Z</published>
+    <updated>2022-04-22T17:19:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9fqkc6w6yd3s"/>
+    <title>[BHS][NASHA] - tete-719</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  22/04/2022 04:55 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; zpool-bhs-000768&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; An intervention is in progress.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; switch service failed&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9835395</id>
     <published>2022-04-22T15:37:11Z</published>
     <updated>2022-04-22T15:37:11Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/pccr8d8l1s60"/>
     <title>[RBX7][Dedicated Servers] - R715B19</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;07:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/04/2022 07:22 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 22/04/2022 07:34 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; The public network and vRack were unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was caused by a tripped circuit breaker.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9794479</id>
-    <published>2022-04-22T05:45:51Z</published>
-    <updated>2022-04-22T05:45:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/slp1s34wq68f"/>
-    <title>VPS - BHS2 - host373276</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;05:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host373276.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7eb84e8d-8f35-4543-b962-5e496a9cafd5&lt;br /&gt;2480bd0d-b6cd-47f2-9d77-75ce25e1fc0d&lt;br /&gt;ac919b3d-2ac5-47e1-8f79-8ccd7c91eefa&lt;br /&gt;f597d551-ef0d-420a-aa6f-b99322e649f9&lt;br /&gt;1517c6ac-6516-44d6-8113-dcebef6d8f27&lt;br /&gt;53f38dbe-2181-4d7a-b2b1-24f8007bc4e7&lt;br /&gt;7a97a39b-df61-4f1d-b50a-30d49a45287a&lt;br /&gt;e5d887fc-b305-481e-8487-e0a3fc9188b7&lt;br /&gt;3692d52b-09ca-457b-b6f5-2135f4bac427&lt;br /&gt;bb2bb7d8-d0fa-4ac2-9357-a737f05f416e&lt;br /&gt;b2708177-e5b5-4d40-8a56-e03841719945&lt;br /&gt;7d8e6951-0fa8-4246-9f92-6c4ce5830185&lt;br /&gt;f332bde5-fcb8-46ce-bf01-899d778b0357&lt;br /&gt;47846a9b-56da-43e4-a996-660170ee923b&lt;br /&gt;f6ac6879-9aa1-46d0-885f-cd18a9170d53&lt;br /&gt;a261ad20-b09b-4a45-b450-7db127816b69&lt;br /&gt;b355c8a8-a2d6-4301-8635-333c6ed8eab6&lt;br /&gt;8ba9924a-51e5-4aa0-bbf3-539121f03ea5&lt;br /&gt;19b0748c-1298-4ddc-a72b-0b8013b7bde8&lt;br /&gt;5b7ea61a-6043-481c-b3ad-272ff254f083&lt;br /&gt;fce221bd-b2b0-4ab9-8bfd-623b40a9f8da&lt;br /&gt;04a0f589-8450-4b0c-a0ea-0d7f03dd7a32&lt;br /&gt;3ec91e7e-7d3a-4329-a88c-a1259494d4bf&lt;br /&gt;e7d4fea3-fe7c-4ea2-9108-5723b55729ec&lt;br /&gt;ee4a26b0-a758-4394-9cdc-5fe631e86641&lt;br /&gt;8a0e6588-1e6a-4dff-8650-493a7f4289c0&lt;br /&gt;cffb347c-edde-4ba2-8c58-130c429a4cd5&lt;br /&gt;dbfbb5ac-ad0f-4193-beb4-9993752be21f&lt;br /&gt;c8e42344-7ab8-4104-8aa0-c9d091bfac44&lt;br /&gt;4ab86c6b-dfd3-4491-a70b-627569754650&lt;br /&gt;9e4f8d74-f46f-4acf-bb32-4d040dd4203d&lt;br /&gt;333b8122-ebe6-4953-8995-6f12800e28cb&lt;/p&gt;</content>
   </entry>
 </feed>

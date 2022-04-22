@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-04-22T20:57:37Z</updated>
+  <updated>2022-04-22T21:09:13Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/njnbt9wp0kg6"/>
     <title>[GRA][Web Hosting] - Subscription Upgrade process</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We will be performing maintenance on our internal tools, during this operation, it will be impossible for our customers to make new subscriptions. We apologize for the inconvenience caused. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This operation aims to optimize the performance.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9837098</id>
+    <published>2022-04-25T00:00:00Z</published>
+    <updated>2022-04-22T21:09:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/vyy0mj9w3y7t"/>
+    <title>[GRA2/GRA3][Web Hosting] - Databases migration</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;25/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;06/05/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We consider an unavailability of the database of one minute during the migration&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Within the framework of the continuous improvement of our services, we carry out an operation of migration of the databases between GRA2 and GRA3.&lt;br /&gt;The concerned clusters by this maintenance are: sql020 and eu009.&lt;br /&gt;Please note that the current maintenance can take place 24/7.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9837045</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dk2jkqyd62kt"/>
     <title>[GRA7][WebPaas] - Admin-box Update</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;19:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Project provisioning and access to Console will be impacted. We expect 15 minutes of downtime per upgraded host.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade Admin-box to new version.&lt;br /&gt;&lt;br /&gt;Customer projects will remain fully operational during maintenance.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9759486</id>
-    <published>2022-04-11T18:40:37Z</published>
-    <updated>2022-04-11T18:40:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/skqld5rqvq8v"/>
-    <title>[FR][OverTheBox] - OverTheBox service</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  11/04/2022 13:45 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  11/04/2022 18:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OverTheBox services are back in order.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A service that created instability inside our core network, rendering some leaf server unusable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - UPDATE:  The issue has been identified and a fix is applied. The service is now back in order.&lt;br /&gt;Our teams remain fully engaged to understand the root cause of the incident.  Sorry for any inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  11/04/2022 13:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OverTheBox services.  Accessing the internet unavailable or degraded connection.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are investigating,  we will provide updates as soon as possible&lt;/p&gt;</content>
   </entry>
 </feed>

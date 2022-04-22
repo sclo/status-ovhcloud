@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-04-21T20:27:02Z</updated>
+  <updated>2022-04-22T01:26:48Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/njnbt9wp0kg6"/>
     <title>[GRA][Web Hosting] - Subscription Upgrade process</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We will be performing maintenance on our internal tools, during this operation, it will be impossible for our customers to make new subscriptions. We apologize for the inconvenience caused. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This operation aims to optimize the performance.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9831545</id>
+    <published>2022-04-22T00:50:00Z</published>
+    <updated>2022-04-22T01:18:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/n6pjctrkcw58"/>
+    <title>[GRA1][Webhosting] - Hosted websites</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/04/2022 00:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  22/04/2022 00:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some hosted websites were unreachable. Now all services are working normally.  &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; This incident was due to a maintenance on a network device Vrack on GRA1, follow the link for more information : &lt;a href="https://network.status-ovhcloud.com/incidents/3283b5tlj9l6"&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9830140</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/lp8hzhh5390s"/>
     <title>[GRA][Web Hosting] - Cluster026</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 11/04/2022 17:15 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  11/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some outgoing web requests and failed emails due to network issue is now back in order&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Networking issue on a gateway server&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9746836</id>
-    <published>2022-04-11T15:28:00Z</published>
-    <updated>2022-04-11T15:28:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/439x4tmgn7l8"/>
-    <title>[GRA][Email Offer] - Sending email on new hosting - Cluster013/014</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;09/04/2022 11:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  11/04/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Sending email services are back in order&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;12:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; A fix is being deployed. We will get back to you as soon as it is complete.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We encounter the same difficulties on the 013 cluster&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  09/04/2022 11:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing difficulties in sending emails on the new hosting subscribed from this Saturday 09/04. The old hostings do not encounter any difficulties.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are working on a fix to resolve the situation. They expect to finalize it by Monday&lt;/p&gt;</content>
   </entry>
 </feed>

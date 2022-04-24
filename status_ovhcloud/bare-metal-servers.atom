@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-24T09:26:15Z</updated>
+  <updated>2022-04-24T15:49:21Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -169,6 +169,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 25/04/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 25/04/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Slowdown might be observed to access data hosted on block storage.&lt;br /&gt;We are upgrading CEPH cluster in GRA1.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9845287</id>
+    <published>2022-04-24T15:49:21Z</published>
+    <updated>2022-04-24T15:49:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/brqps5928wmy"/>
+    <title>[RBX7][Dedicated Servers] - R713B01</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2022 15:16 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vRAck network is unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently determining the origin of the incident.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9844009</id>
     <published>2022-04-24T08:31:34Z</published>
     <updated>2022-04-24T08:56:18Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/q675nk1vzsnx"/>
     <title>VPS - BHS2 - host251792</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251792.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps259456&lt;br /&gt;vps204040&lt;br /&gt;vps295377&lt;br /&gt;vps294289&lt;br /&gt;vps290154&lt;br /&gt;vps268174&lt;br /&gt;vps259540&lt;br /&gt;vps250504&lt;br /&gt;vps241871&lt;br /&gt;vps230054&lt;br /&gt;vps228135&lt;br /&gt;vps222151&lt;br /&gt;vps192983&lt;br /&gt;vps208009&lt;br /&gt;vps207264&lt;br /&gt;vps195035&lt;br /&gt;vps191727&lt;br /&gt;vps184582&lt;br /&gt;vps175256&lt;br /&gt;vps161000&lt;br /&gt;vps160074&lt;br /&gt;vps159873&lt;br /&gt;vps156095&lt;br /&gt;vps146577&lt;br /&gt;vps130277&lt;br /&gt;vps145131&lt;br /&gt;vps133731&lt;br /&gt;vps134536&lt;br /&gt;vps133573&lt;br /&gt;vps128076&lt;br /&gt;vps125496&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9838450</id>
-    <published>2022-04-23T03:54:02Z</published>
-    <updated>2022-04-23T03:54:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s3gc59gpbsnh"/>
-    <title>VPS - BHS2 - host412895</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host412895.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c167ca4f-1740-4b4f-afb4-acdd1625eca0&lt;/p&gt;</content>
   </entry>
 </feed>

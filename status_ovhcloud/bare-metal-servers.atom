@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-04-24T01:29:57Z</updated>
+  <updated>2022-04-24T08:40:14Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -169,6 +169,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 25/04/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 25/04/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Slowdown might be observed to access data hosted on block storage.&lt;br /&gt;We are upgrading CEPH cluster in GRA1.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9844009</id>
+    <published>2022-04-24T08:31:34Z</published>
+    <updated>2022-04-24T08:40:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/rxw1vgyjyk6h"/>
+    <title>[BHS5][Dedicated Servers -Global Infrastructure-Private network ] - T05B22</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/04/2022 08:44UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  24/04/2022 09:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers lost their vrack connection during the time the switch rebooted, no data loss to report. Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;An hardware device needed to be restarted&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9842645</id>
     <published>2022-04-24T01:29:57Z</published>
     <updated>2022-04-24T01:29:57Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s3gc59gpbsnh"/>
     <title>VPS - BHS2 - host412895</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host412895.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c167ca4f-1740-4b4f-afb4-acdd1625eca0&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9838273</id>
-    <published>2022-04-23T03:21:09Z</published>
-    <updated>2022-04-23T03:21:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/p1flhklzlm48"/>
-    <title>VPS - SBG8 - host1292897</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1292897.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;a399d04c-4a24-4c95-bace-66411699f98c&lt;br /&gt;4b944ee9-1aca-4a49-8c90-609f4e3c39ed&lt;br /&gt;92c6866d-078f-4e67-877a-2784f90ba33b&lt;br /&gt;31ac4e00-39d7-4e64-b094-d65f6ca6f967&lt;br /&gt;5f3398e7-f07c-4aae-b242-3813a72fb026&lt;br /&gt;0116af78-0111-44eb-9a33-4a409c1566f1&lt;br /&gt;3ac1e206-684f-4ecb-b671-4dd8c016e973&lt;br /&gt;a4796ef5-2000-4753-b077-51a313e05f3d&lt;br /&gt;ff1c1177-2343-48f7-991f-a4a8feb49f14&lt;br /&gt;f477d89d-4abd-4f6e-bed0-1f54d119f4fd&lt;br /&gt;09b4404f-8df6-44a2-845a-eb7cc55b0581&lt;br /&gt;7fbf5da8-9409-4b55-addd-88940021ca63&lt;br /&gt;bdf72956-6e37-4156-b14f-e107c0a725a9&lt;br /&gt;1da11cb9-1a2b-48ac-96aa-caa32cbae932&lt;br /&gt;3189a693-21ab-4a6e-9515-1e6d68c8bbce&lt;br /&gt;ac3674a7-86d4-45f7-904a-902927b47b40&lt;br /&gt;cc6eb747-05db-4b24-b09a-ac9fe16e7cb6&lt;br /&gt;119b4feb-a28e-4474-8f15-bf83e77003d9&lt;br /&gt;3e5daed2-8d8b-4e9a-a401-8f0e869e0cbb&lt;br /&gt;8f253bc8-76dd-4869-8e69-6d1f4b67cfd9&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 25 Apr 2022 14:26:15 +0000</pubDate>
+    <pubDate>Mon, 25 Apr 2022 15:26:15 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -150,6 +150,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8b2yqwtg2nd0</guid>
     </item>
     <item>
+      <title>[RBX4][Private Network] - vRack unreachable 52B02/03/05/07/08/09/10/11/12 | 52C20/21/22/23/24</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  25/04/2022 13:57 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network is unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently investigating.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Apr 2022 15:23:09 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wwr7g57k7rfc</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wwr7g57k7rfc</guid>
+    </item>
+    <item>
       <title>VPS - BHS2 - host373583</title>
       <description>
 &lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host373583.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;16ad0f27-9e71-4d86-9420-77be4b312093&lt;br /&gt;787a1984-4292-476c-8363-c15b649b155a&lt;br /&gt;21140fd8-72b5-4117-8ddd-e058a7df8ca6&lt;br /&gt;91af9e51-90ae-45ff-9252-384a30c73180&lt;br /&gt;f62c30d9-c2bc-428b-b4aa-4250a7534d09&lt;br /&gt;fa8c8aaa-8b28-4e88-9802-57b0d094b0e0&lt;br /&gt;2d238dc3-8d0f-4de8-b34d-7bb827da63c9&lt;br /&gt;15eaeb10-f3c3-4399-804e-eb8c7bbd5dcf&lt;br /&gt;e004ff9e-5b89-460a-a0c2-ad715b26df6b&lt;br /&gt;45eef173-8974-4153-a456-879961a18a2e&lt;br /&gt;e42c6cec-f0b5-49f7-8b0a-8738a88d3e1f&lt;br /&gt;871b7be5-e597-43b7-9b38-7b93039f7b02&lt;br /&gt;804d1a79-bead-4565-9fa2-3caecf59ef1f&lt;br /&gt;089e5450-92b0-4ee8-a943-07996cee7653&lt;br /&gt;1d0599fc-0192-4450-90a3-a216a3cf8851&lt;br /&gt;df832d64-58b5-4381-8a2a-c573f3ad51ad&lt;/p&gt;      </description>
@@ -196,14 +204,6 @@
       <pubDate>Sun, 24 Apr 2022 17:49:49 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/brqps5928wmy</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/brqps5928wmy</guid>
-    </item>
-    <item>
-      <title>[BHS5][Dedicated Servers -Global Infrastructure-Private network ] - T05B22</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/04/2022 07:44UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  24/04/2022 08:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers lost their vrack connection during the time the switch rebooted, no data loss to report. Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;An hardware device needed to be restarted&lt;/p&gt;      </description>
-      <pubDate>Sun, 24 Apr 2022 08:31:34 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rxw1vgyjyk6h</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rxw1vgyjyk6h</guid>
     </item>
   </channel>
 </rss>

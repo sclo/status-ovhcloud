@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-04-25T17:25:44Z</updated>
+  <updated>2022-04-26T08:43:52Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/njnbt9wp0kg6"/>
     <title>[GRA][Web Hosting] - Subscription Upgrade process</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We will be performing maintenance on our internal tools, during this operation, it will be impossible for our customers to make new subscriptions. We apologize for the inconvenience caused. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This operation aims to optimize the performance.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9720159</id>
+    <published>2022-04-26T08:43:52Z</published>
+    <updated>2022-04-26T08:43:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/rl6g94xbfwqh"/>
+    <title>[Spain][VOIP] - Interconnect</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2022/03/28 16:03 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  2022/04/26 08:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Following this incident &lt;a href="https://web-cloud.status-ovhcloud.com/incidents/4bld6v7f4kzl"&gt;Incident link&lt;/a&gt; we now have an issue with some Spanish numbers. They end up with an Unassigned number error.&lt;br /&gt;There are a number of numbers that cannot be reached. This is not related to a signaling defect but to a routing defect of some operators to these numbers. &lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;br /&gt;A patch has been deployed. The situation is back to its state prior the incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2022/03/28 16:03 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Folowing this incident &lt;a href="https://web-cloud.status-ovhcloud.com/incidents/4bld6v7f4kzl"&gt;Incident link&lt;/a&gt; we now have an issue with some Spanish numbers. They end up with an Unassigned number error.&lt;br /&gt;There are a number of numbers that cannot be reached. This is not related to a signaling defect but to a routing defect of some operators to these numbers. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We have opened tickets with 2 operators to correct the problem.&lt;br /&gt;Unfortunately the main protagonist Telefonica complicates things and does not respond willingly to the problems reported. We will get back to you with updates soon&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9837098</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/7gms5k6p8b4b"/>
     <title>[GRA3][Webcloud] - Logs and stats unavailable on Cluster030</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2022 10:04 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2022 10:18 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Logs was not accessible for consultation&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GR13&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Logs consultation on logs.cluster030.hosting.ovh.net&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9758747</id>
-    <published>2022-04-11T19:26:11Z</published>
-    <updated>2022-04-11T19:26:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dk2jkqyd62kt"/>
-    <title>[GRA7][WebPaas] - Admin-box Update</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;19:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Project provisioning and access to Console will be impacted. We expect 15 minutes of downtime per upgraded host.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade Admin-box to new version.&lt;br /&gt;&lt;br /&gt;Customer projects will remain fully operational during maintenance.&lt;/p&gt;</content>
   </entry>
 </feed>

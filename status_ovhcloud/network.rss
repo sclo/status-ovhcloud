@@ -4,7 +4,7 @@
     <title>Network &amp; Infrastructure Status - Incident History</title>
     <link>https://network.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 28 Apr 2022 23:05:49 +0000</pubDate>
+    <pubDate>Thu, 28 Apr 2022 23:25:31 +0000</pubDate>
     <item>
       <title>[RBX1/RBX3/RBX8][Infrastructure] - Generator test</title>
       <description>
@@ -182,6 +182,14 @@
       <guid>https://network.status-ovhcloud.com/incidents/bdjpqc524jpg</guid>
     </item>
     <item>
+      <title>[RBX/GRA/SBG][Network] - DNS and ACE</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/05/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/05/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are currently using ACE and NSX for the connection to Hosted1 infra for HTTPS, POP3, IMAP4, etc... We want to use only NSX for that. We have to delete the IP of ACE .&lt;br /&gt;&lt;br /&gt;So after that change, Customer will connect to NSX only in order to have access to their emails.&lt;br /&gt;&lt;br /&gt;We are currently working with NSX AND ACE and all is working fine. The load on the CAS i very low because we have a lot of servers.&lt;/p&gt;      </description>
+      <pubDate>Tue, 03 May 2022 19:00:00 +0000</pubDate>
+      <link>https://network.status-ovhcloud.com/incidents/3892ftjs5nfc</link>
+      <guid>https://network.status-ovhcloud.com/incidents/3892ftjs5nfc</guid>
+    </item>
+    <item>
       <title>[SBG3][Infrastructure] UPS 11T3</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/05/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  03/05/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Switching the ups to static bypass and battery discharge test &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The main objective of this maintenance is to perform annual/curative maintenance of a UPS&lt;/p&gt;      </description>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 03 May 2022 05:00:00 +0000</pubDate>
       <link>https://network.status-ovhcloud.com/incidents/0b6gtlpltmk8</link>
       <guid>https://network.status-ovhcloud.com/incidents/0b6gtlpltmk8</guid>
-    </item>
-    <item>
-      <title>[P19][COOLING] - All rooms</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/05/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/05/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to replace the pump 2 with an equivalent model.&lt;/p&gt;      </description>
-      <pubDate>Mon, 02 May 2022 05:00:00 +0000</pubDate>
-      <link>https://network.status-ovhcloud.com/incidents/w5vnj0xfsdgl</link>
-      <guid>https://network.status-ovhcloud.com/incidents/w5vnj0xfsdgl</guid>
     </item>
   </channel>
 </rss>

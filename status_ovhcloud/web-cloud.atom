@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-04-28T14:12:30Z</updated>
+  <updated>2022-04-29T09:07:43Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/579r26msn24s"/>
     <title>[GRA7][Web PaaS] - Foundation upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/05/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade. However, some short interruption may be observed for a few minutes. &lt;br /&gt;Integrations and webhooks may fail during the maintenance. &lt;br /&gt;But projects provisioning won't be impacted.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade the version of the foundation for WebPaas.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9878059</id>
+    <published>2022-04-29T09:07:43Z</published>
+    <updated>2022-04-29T09:07:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dwwtrtrhx0kk"/>
+    <title>[GRA1][Webhosting] - Cluster 20 - Filerz802</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2022 08:52 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown on filerz802&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA1&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; All offers on cluster020&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  An intervention is in progress.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9865238</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/90svdlp9jv91"/>
     <title>[GRA1][Web Hosting] - Cluster028- Filerz786</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  19/04/2022 14:30 UTC&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  19/04/2022 15:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may have experienced slowness on some websites&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An incremental backup caused the incident&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  19/04/2022 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may have experienced slowness on some websites&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An incremental backup caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  The situation is back to normal. &lt;br /&gt;Our teams are currently in monitoring. &lt;br /&gt;We apologize for any inconvenience caused.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9795714</id>
-    <published>2022-04-16T17:23:40Z</published>
-    <updated>2022-04-16T17:23:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/46v1lwls6kry"/>
-    <title>[GRA 2][Webhosting] - Cluster02</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/06/2022 17:06 UT&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  17/06/2022 17:18 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can check the logs again. Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Storage equipment was not responding, we had to reboot it.&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;17:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  17/06/2022 17:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There is slowness on some log view&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on. The storage devices are going to be restarted.&lt;/p&gt;</content>
   </entry>
 </feed>

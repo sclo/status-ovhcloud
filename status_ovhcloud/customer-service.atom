@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2022-05-06T08:49:45Z</updated>
+  <updated>2022-05-09T13:05:11Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9949773</id>
+    <published>2022-05-12T07:00:00Z</published>
+    <updated>2022-05-09T13:05:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/vqcwljn93jmy"/>
+    <title>[P19][Corporate Websites/control panel &amp; API] - Migration of Internal servers</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/05/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There is no impact during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;We are going to migrate on the two servers that are part of the infrastructure that host part of the following:&lt;br /&gt;&lt;br /&gt;   ovhcloud.com&lt;br /&gt;   api.ovh.com&lt;br /&gt;   control panel&lt;br /&gt;   soapi.ovh.com&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9914245</id>
     <published>2022-05-05T08:53:20Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/dmzb3lkc0kvv"/>
     <title>[EU/CA][Customer Service] Cloud/Api</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  04/03/2022 08:44UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  04/03/2022 09:05UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Manager, VPS order and calls/API are working properly&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  04/03/2022 08:44UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Manager , VPS order are unreachable. There is some slowdown of call apis behind /cloud&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9436729</id>
-    <published>2022-03-01T17:35:35Z</published>
-    <updated>2022-03-01T17:35:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/6hyxrxm01qxm"/>
-    <title>[CA][Control panel &amp; API] - customer panel/ca.api.ovh.com</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 01/03/2022 16:13 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  01/03/2022 16:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ca.api.ovh.com is back online.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;A vRack was unreachable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2022 16:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ca.api.ovh.com is back online.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A vRack was unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Traffic is back to normal since 16:30 UTC. &lt;br /&gt;Our teams are currently observing the traffic.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  01/03/2022 16:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ca.api.ovh.com is unreachable.&lt;br /&gt;Customers will get some 500 Server Internal Error to some part of their manager.&lt;br /&gt;Canadian customers will have issue ordering products too on ca.ovh.com&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are working to solve the problem.&lt;br /&gt;We apologize for the inconvenience caused.&lt;/p&gt;</content>
   </entry>
 </feed>

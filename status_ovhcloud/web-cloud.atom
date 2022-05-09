@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-05-09T09:23:59Z</updated>
+  <updated>2022-05-09T10:26:02Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/579r26msn24s"/>
     <title>[GRA7][Web PaaS] - Foundation upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/05/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade. However, some short interruption may be observed for a few minutes. &lt;br /&gt;Integrations and webhooks may fail during the maintenance. &lt;br /&gt;But projects provisioning won't be impacted.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade the version of the foundation for WebPaas.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9948455</id>
+    <published>2022-05-09T10:26:02Z</published>
+    <updated>2022-05-09T10:26:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/l3jgdvqyjvtg"/>
+    <title>[P19, GWS+TH2 ][Telephony] - Interconnection migration</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;05/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;13/05/2022 13:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;To improve our telephony infrastructure resiliency, we migrate outgoing calls for Orange interconnection to new SBC clusters on two new locations.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9947958</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/crs7wx1wpg6w"/>
     <title>[GRA1][Web Hosting] - Cluster026 - Filerz172</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/04/2022 12:21 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  27/04/2022 12:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness on some hosted websites were observed&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue.&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9837098</id>
-    <published>2022-04-27T07:11:51Z</published>
-    <updated>2022-04-27T07:11:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/vyy0mj9w3y7t"/>
-    <title>[GRA2/GRA3][Web Hosting] - Databases migration</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Due to an imponderable, we cancel the intervention. A new intervention will be scheduled later.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;25/04/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;06/05/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We consider an unavailability of the database of one minute during the migration&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Within the framework of the continuous improvement of our services, we carry out an operation of migration of the databases between GRA2 and GRA3.&lt;br /&gt;The concerned clusters by this maintenance are: sql020 and eu009.&lt;br /&gt;Please note that the current maintenance can take place 24/7.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 09 May 2022 14:47:57 +0000</pubDate>
+    <pubDate>Mon, 09 May 2022 14:57:23 +0000</pubDate>
     <item>
       <title>[GRA][BHS] [Data logs] Index backend migration</title>
       <description>
@@ -54,10 +54,18 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/77l9nbp5h7mb</guid>
     </item>
     <item>
+      <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  09/05/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Errors could occur during Docker images push (502 bad gateway) and the Registry may be subject to slowdowns.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working on the resolution of this behavior.&lt;/p&gt;      </description>
+      <pubDate>Mon, 09 May 2022 14:57:23 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/4x4f3cmmw8t1</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/4x4f3cmmw8t1</guid>
+    </item>
+    <item>
       <title>PCI - GRA5 - host1469039</title>
       <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1469039.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f3441f26-8716-4cbd-a84b-18ccb05e3b30&lt;br /&gt;5cbea91f-8ac1-4dfe-a9a7-f1d0ddbc66ba&lt;/p&gt;      </description>
-      <pubDate>Mon, 09 May 2022 14:47:57 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1469039.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f3441f26-8716-4cbd-a84b-18ccb05e3b30&lt;br /&gt;5cbea91f-8ac1-4dfe-a9a7-f1d0ddbc66ba&lt;/p&gt;      </description>
+      <pubDate>Mon, 09 May 2022 14:57:23 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/z6dpclg7tzsx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/z6dpclg7tzsx</guid>
     </item>
@@ -196,14 +204,6 @@
       <pubDate>Sat, 07 May 2022 17:44:12 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7mrq4fx343rz</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7mrq4fx343rz</guid>
-    </item>
-    <item>
-      <title>PCI - BHS5 - host359832</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;      </description>
-      <pubDate>Sat, 07 May 2022 15:03:46 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/jxltyzjfb9hx</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/jxltyzjfb9hx</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-05-10T00:06:47Z</updated>
+  <updated>2022-05-10T00:51:04Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,22 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3tvg7zbftk5x"/>
     <title>[GRA9][Virtual Private Servers] - Upgrade infrastructure</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, reinstallation...) during this operation.&lt;br /&gt;Servers continue to operate normally during maintenance and new orders can be delivered.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade of the Virtual Private Servers infrastructure (RabbitMQ servers)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9953973</id>
+    <published>2022-05-18T07:00:00Z</published>
+    <updated>2022-05-10T00:51:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/7ykm9twqml6s"/>
+    <title>[GRA2/GRA1/BHS6/LIM1][Network] SDAGG upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;00:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/05/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Upgrade all SDAGG Bart in order to have a homogeneous park.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9953950</id>
+    <published>2022-05-17T07:00:00Z</published>
+    <updated>2022-05-10T00:45:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/g67v1d6wz7q9"/>
+    <title>[GRA2/GRA1/BHS6/LIM1/SYD2][Network] SDAGG upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/05/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Upgrade all SDAGG Bart in order to have a homogeneous park.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9884389</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/t9cpysbcw53c"/>
     <title>[GRA1-GRA2-RBX7][Network] - aggregator upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/05/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgraded internal aggregator in order to have a homogeneous park.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9872280</id>
-    <published>2022-05-09T20:00:20Z</published>
-    <updated>2022-05-09T20:00:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/gc6jqldn912t"/>
-    <title>[RBX][Network] - Infrastructure Migration</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/05/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/05/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are upgrading a aggregator component of our infrastructure&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9951430</id>
-    <published>2022-05-09T16:59:30Z</published>
-    <updated>2022-05-09T16:59:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1z132y8hl6d9"/>
-    <title>VPS - BHS6 - host328989</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host328989.bhs6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps245240&lt;br /&gt;vps281362&lt;br /&gt;vps292972&lt;br /&gt;vps247447&lt;br /&gt;vps258666&lt;br /&gt;vps282323&lt;br /&gt;vps278356&lt;br /&gt;vps257795&lt;br /&gt;vps247487&lt;br /&gt;vps280152&lt;br /&gt;vps294214&lt;br /&gt;vps293947&lt;br /&gt;vps291469&lt;br /&gt;vps293397&lt;br /&gt;vps294301&lt;br /&gt;vps294397&lt;br /&gt;vps294398&lt;br /&gt;vps293954&lt;br /&gt;vps293849&lt;br /&gt;vps293765&lt;br /&gt;vps293764&lt;br /&gt;vps293763&lt;br /&gt;vps293759&lt;br /&gt;vps293752&lt;br /&gt;vps293739&lt;br /&gt;vps293524&lt;br /&gt;vps292699&lt;br /&gt;vps292685&lt;br /&gt;vps292643&lt;br /&gt;vps292426&lt;br /&gt;vps292054&lt;br /&gt;vps282316&lt;br /&gt;vps282987&lt;br /&gt;vps282817&lt;br /&gt;vps281976&lt;br /&gt;vps281919&lt;br /&gt;vps281066&lt;br /&gt;vps281124&lt;br /&gt;vps281113&lt;br /&gt;vps281090&lt;br /&gt;vps281007&lt;br /&gt;vps280551&lt;br /&gt;vps280254&lt;br /&gt;vps278819&lt;br /&gt;vps278680&lt;br /&gt;vps278637&lt;br /&gt;vps278352&lt;br /&gt;vps277655&lt;br /&gt;vps277610&lt;br /&gt;vps257473&lt;br /&gt;vps277449&lt;br /&gt;vps277341&lt;br /&gt;vps260225&lt;br /&gt;vps259500&lt;br /&gt;vps259498&lt;br /&gt;vps258529&lt;br /&gt;vps257695&lt;br /&gt;vps255398&lt;br /&gt;vps257564&lt;br /&gt;vps257543&lt;br /&gt;vps257528&lt;br /&gt;vps257527&lt;br /&gt;vps257526&lt;br /&gt;vps257321&lt;br /&gt;vps257265&lt;br /&gt;vps255810&lt;br /&gt;vps255463&lt;br /&gt;vps247901&lt;br /&gt;vps247783&lt;br /&gt;vps248561&lt;br /&gt;vps248674&lt;br /&gt;vps248672&lt;br /&gt;vps247772&lt;br /&gt;vps244731&lt;/p&gt;</content>
   </entry>
 </feed>

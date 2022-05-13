@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-05-13T09:25:28Z</updated>
+  <updated>2022-05-13T09:48:54Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/77l9nbp5h7mb"/>
     <title>[BHS3/BHS5][Public Cloud] - Upgrade Open vSwitch</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/05/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some ping loss (less than 5 seconds) during this upgrade.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will upgrade a core network component (openvswitch) on BHS3 and BHS5 OpenStack region&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9934274</id>
+    <published>2022-05-13T09:48:54Z</published>
+    <updated>2022-05-13T09:48:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zktd6nvwqtpq"/>
+    <title>PCI - GRA5 - host1077173</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;09:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;02:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1077173.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2874653d-dff1-4a3e-80e3-ad6a2c6b6e3e&lt;br /&gt;ba056848-4e54-4469-bbb2-005ef9f39440&lt;br /&gt;587811be-cf13-44ef-85d4-432322e5d00a&lt;br /&gt;6ac8df3f-9f83-4cbc-82f5-8f8a97905890&lt;br /&gt;cf3b0308-0174-4c4c-91a4-80e3efeb977b&lt;br /&gt;ec4dd721-6b77-4b3b-89fd-24ee2283af3c&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9981604</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0hzxpf2vhhk5"/>
     <title>PCI - BHS1 - host254958</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host254958.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps112884&lt;br /&gt;vps108845&lt;br /&gt;vps107317&lt;br /&gt;vps104832&lt;br /&gt;vps101002&lt;br /&gt;vps100548&lt;br /&gt;vps98917&lt;br /&gt;vps97866&lt;br /&gt;vps85155&lt;br /&gt;vps83264&lt;br /&gt;vps83016&lt;br /&gt;vps82664&lt;br /&gt;vps80340&lt;br /&gt;vps81018&lt;br /&gt;vps77752&lt;br /&gt;vps77454&lt;br /&gt;vps75326&lt;br /&gt;vps75089&lt;br /&gt;vps71481&lt;br /&gt;vps67015&lt;br /&gt;vps67014&lt;br /&gt;vps66907&lt;br /&gt;vps61647&lt;br /&gt;vps60557&lt;br /&gt;vps60555&lt;br /&gt;vps60554&lt;br /&gt;vps60551&lt;br /&gt;vps60714&lt;br /&gt;vps57184&lt;br /&gt;vps60474&lt;br /&gt;4ae8ab9d-2602-4fb1-ba9b-556b0323f269&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9811884</id>
-    <published>2022-05-10T13:37:26Z</published>
-    <updated>2022-05-10T13:37:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/p8m91zjmxkwx"/>
-    <title>[GRA1][Block storage] - CEPH cluster Upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 25/04/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 25/04/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Slowdown might be observed to access data hosted on block storage.&lt;br /&gt;We are upgrading CEPH cluster in GRA1.&lt;/p&gt;</content>
   </entry>
 </feed>

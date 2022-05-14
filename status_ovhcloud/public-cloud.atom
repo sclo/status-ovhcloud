@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-05-14T20:13:58Z</updated>
+  <updated>2022-05-14T20:26:22Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -57,12 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/05/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some ping loss (less than 5 seconds) during this upgrade.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will upgrade a core network component (openvswitch) on BHS3 and BHS5 OpenStack region&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9992169</id>
+    <published>2022-05-14T20:26:22Z</published>
+    <updated>2022-05-14T20:26:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bcxd1pp2gbkh"/>
+    <title>PCI - DE1 - host1354930</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1354930.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;d16a46a1-50db-4880-888c-218db712c6d9&lt;br /&gt;fe5c4af5-c7e8-4fdb-baf3-f8549cfdeb6d&lt;br /&gt;9231774e-e8d8-41c8-bd44-f3dceb88da99&lt;br /&gt;83206cca-5a51-4b7f-b3a5-51bdb8756a8e&lt;br /&gt;323fb4f4-12f1-44ad-85f2-e30a1fb208ec&lt;br /&gt;f3909daa-d210-431e-934c-0c3f4857c843&lt;br /&gt;bf5b4306-ff3d-43e0-b7a8-463fc2b67163&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9992143</id>
-    <published>2022-05-14T20:13:58Z</published>
-    <updated>2022-05-14T20:13:58Z</updated>
+    <published>2022-05-14T20:23:32Z</published>
+    <updated>2022-05-14T20:23:32Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mkc1y5lhwwyg"/>
     <title>PCI - GRA3 - host1395688</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1395688.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;cf03fd0a-63ce-4b2c-89a7-97f2c3a7368b&lt;br /&gt;1d05861f-db7e-42a5-bd12-268178a7e6d1&lt;br /&gt;389a0068-5103-473a-90ee-cd2cedf8938e&lt;br /&gt;c028c182-a75b-49cd-adcf-5cc611c6cd8c&lt;br /&gt;05468676-f253-4153-b9bf-417382043390&lt;br /&gt;8b9a4883-e77b-4e1b-ac71-80c018701908&lt;br /&gt;4a202441-35d2-4932-93b5-3ae79883f64e&lt;br /&gt;ec22a684-1296-46a4-bfc2-34b7b16665d3&lt;br /&gt;9950896d-7c74-447b-b41a-09dabc855f49&lt;br /&gt;07f4e4ef-8f14-4a44-a99f-1ad55174419b&lt;br /&gt;fdc60974-f063-49ad-ba2a-f8c2a4870a91&lt;br /&gt;38d60bfc-da81-43b7-bd7a-e02416adf3bc&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1395688.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;cf03fd0a-63ce-4b2c-89a7-97f2c3a7368b&lt;br /&gt;1d05861f-db7e-42a5-bd12-268178a7e6d1&lt;br /&gt;389a0068-5103-473a-90ee-cd2cedf8938e&lt;br /&gt;c028c182-a75b-49cd-adcf-5cc611c6cd8c&lt;br /&gt;05468676-f253-4153-b9bf-417382043390&lt;br /&gt;8b9a4883-e77b-4e1b-ac71-80c018701908&lt;br /&gt;4a202441-35d2-4932-93b5-3ae79883f64e&lt;br /&gt;ec22a684-1296-46a4-bfc2-34b7b16665d3&lt;br /&gt;9950896d-7c74-447b-b41a-09dabc855f49&lt;br /&gt;07f4e4ef-8f14-4a44-a99f-1ad55174419b&lt;br /&gt;fdc60974-f063-49ad-ba2a-f8c2a4870a91&lt;br /&gt;38d60bfc-da81-43b7-bd7a-e02416adf3bc&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9989845</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zktd6nvwqtpq"/>
     <title>PCI - GRA5 - host1077173</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;09:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;02:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1077173.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2874653d-dff1-4a3e-80e3-ad6a2c6b6e3e&lt;br /&gt;ba056848-4e54-4469-bbb2-005ef9f39440&lt;br /&gt;587811be-cf13-44ef-85d4-432322e5d00a&lt;br /&gt;6ac8df3f-9f83-4cbc-82f5-8f8a97905890&lt;br /&gt;cf3b0308-0174-4c4c-91a4-80e3efeb977b&lt;br /&gt;ec4dd721-6b77-4b3b-89fd-24ee2283af3c&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/9981604</id>
-    <published>2022-05-13T08:12:52Z</published>
-    <updated>2022-05-13T08:12:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/w0qbzxqt2lrd"/>
-    <title>PCI - DE1 - host1354920</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1354920.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7614b4ae-45d1-4c7f-93ce-d10f78a90962&lt;br /&gt;46dca95f-dbee-47e6-8d3c-6b06e2e989f9&lt;br /&gt;1e47a7c7-a4da-4269-802f-71276ff6502a&lt;br /&gt;87889198-f7f0-4d3c-8c86-cc97bfb76ce9&lt;br /&gt;131c221f-0909-4a93-ae61-ebdf3f3af2b4&lt;br /&gt;8a27cf8b-c806-4cfc-908a-19b83ba6b3cd&lt;br /&gt;fa817141-81cf-4651-afe3-2980f74632ff&lt;br /&gt;80310556-30ad-4714-8d21-c9310d5c9f85&lt;br /&gt;1fc452aa-c3bf-429d-ba6c-bcd781356b3f&lt;br /&gt;082fd5e6-c037-4b85-bc5a-a24bf6ab65e4&lt;br /&gt;338ca7ca-12f4-476d-8379-dcd7558622ab&lt;/p&gt;</content>
   </entry>
 </feed>

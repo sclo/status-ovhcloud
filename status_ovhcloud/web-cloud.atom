@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-05-13T17:16:39Z</updated>
+  <updated>2022-05-16T08:26:35Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10000677</id>
+    <published>2022-05-16T10:25:00Z</published>
+    <updated>2022-05-16T08:26:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/tw1696lswpn3"/>
+    <title>[Impacted DC][Impacted Services] - Change the title according to impacted services</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; - &lt;var data-var='time'&gt;13:25&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; To improve our telephony infrastructure resiliency, we migrate outgoing calls for Orange interconnection to new SBC clusters on two new locations.&lt;br /&gt;Important : Concerning this maintenance, it is still in progress. On Thursday, 75% of the migration was done, we will keep you informed of the progress.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9981858</id>
     <published>2022-05-13T09:08:58Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/09fxn6z65yhc"/>
     <title>[GRA1][Cloud-Web] Container upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Due to a technical issue, the current maintenance will be finished next monday the 02/05/2022 at 15:00 UTC.&lt;br /&gt;We apologize for the inconvenience caused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2022 10:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/04/2022 10:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All cloud web instances&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to upgrade cloud-web containers on cluster024&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9871132</id>
-    <published>2022-04-28T11:27:00Z</published>
-    <updated>2022-04-28T11:32:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/rzzgkhqvgglw"/>
-    <title>[GRA1][Web Hosting] - Cluster020</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  28/04/2022 11:17 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  28/04/2022 11:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers couldn't connect to the servers&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
   </entry>
 </feed>

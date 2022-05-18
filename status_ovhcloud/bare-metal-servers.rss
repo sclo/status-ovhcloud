@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 18 May 2022 22:51:49 +0000</pubDate>
+    <pubDate>Wed, 18 May 2022 23:08:19 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -182,6 +182,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dpwg4hbl58bm</guid>
     </item>
     <item>
+      <title>[RBX6][Public Network] - Hardware</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:01&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;02:01&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/05/2022 00:01UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2022 02:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;2 minutes when rocking from A to B&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  There is a problem with the bootflash (harddrive) on A side , so we need to rock on slide B . It will allow us to make our production on slide B and to fix the issue on slide A&lt;/p&gt;      </description>
+      <pubDate>Fri, 20 May 2022 00:01:00 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/pctn01ptq3hk</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/pctn01ptq3hk</guid>
+    </item>
+    <item>
       <title>[RBX2][Dedicated Servers] - Room 26 - 26D14/26E01/26E02/26E03/26E04</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during the  maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to move the servers of the racks 26D14,26E01,26E02,26E03,26E04 to rack 24A15&lt;/p&gt;      </description>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 19 May 2022 07:00:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/kq7ty0ts0z6b</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/kq7ty0ts0z6b</guid>
-    </item>
-    <item>
-      <title>[RBX2][Dedicated Servers] - Room 26 - 26E09/26E11/26E12/26E14</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during the  maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to move the servers of the racks 26E09/26E11/26E12/26E14 to rack 24C14&lt;/p&gt;      </description>
-      <pubDate>Wed, 18 May 2022 21:00:25 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wfrfh21tjn9g</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wfrfh21tjn9g</guid>
     </item>
   </channel>
 </rss>

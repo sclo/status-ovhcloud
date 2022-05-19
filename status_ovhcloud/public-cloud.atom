@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-05-19T20:41:36Z</updated>
+  <updated>2022-05-19T20:58:38Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n6hyscybpqc3"/>
     <title>[DE1/WAW1][Public Cloud] - Upgrade Open vSwitch</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some ping loss (less than 5 seconds) during this upgrade.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will upgrade a core network component (openvswitch) on WAW1 and DE1 OpenStack region&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10031900</id>
+    <published>2022-05-19T20:49:33Z</published>
+    <updated>2022-05-19T20:58:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/r1cz46y4pnfn"/>
+    <title>[LIM3][Public Cloud] - LIM0303A01A</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 19/05/2022 20:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  19/05/2022 20:38 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We experienced the network access loss for Public Cloud Instances&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network device failure&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10031802</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7tc6872d724n"/>
     <title>PCI - GRA11 - host1510158</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;11:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1510158.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;09dcdf23-2d6c-4a53-8936-8dafb619becd&lt;br /&gt;79bf22da-4e97-49ea-98e6-3e51382cb10c&lt;br /&gt;0a1b60c1-132e-492d-9410-2369eab8d4fe&lt;br /&gt;d36ff32e-4cd7-4f5f-974a-1206d92a0c45&lt;br /&gt;54f5ef99-22c2-4ce9-89be-8b4022cc6263&lt;br /&gt;271604f0-a7eb-4753-96bc-dfbee7f57df5&lt;br /&gt;bc010df7-0d2b-4cd7-a872-a6abc93f83b5&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10006462</id>
-    <published>2022-05-17T12:01:28Z</published>
-    <updated>2022-05-17T12:01:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3055n47d9fy2"/>
-    <title>PCI - DE1 - host1459729</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1459729.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;25ce2ec6-6185-4644-acd4-838f413de66b&lt;br /&gt;550c6676-daec-48ee-99ff-d8ccef719fc9&lt;br /&gt;d6fb55a2-0810-4477-808e-f98a126ccdc1&lt;br /&gt;41ee7bc4-69ac-4870-876e-1930f2f32940&lt;br /&gt;290284d8-e4c0-4082-908c-ac4515cab480&lt;br /&gt;64421ae7-fa8a-4b09-a17d-d8ed5a83437a&lt;br /&gt;34c5c7b4-21c2-422b-bffa-21d825041df4&lt;br /&gt;b8c64fa8-9c1b-4d8b-b64b-dee4a774735b&lt;/p&gt;</content>
   </entry>
 </feed>

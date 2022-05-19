@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-05-19T19:23:49Z</updated>
+  <updated>2022-05-19T20:27:18Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n6hyscybpqc3"/>
     <title>[DE1/WAW1][Public Cloud] - Upgrade Open vSwitch</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some ping loss (less than 5 seconds) during this upgrade.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will upgrade a core network component (openvswitch) on WAW1 and DE1 OpenStack region&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10031642</id>
+    <published>2022-05-19T20:27:18Z</published>
+    <updated>2022-05-19T20:27:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8zv143vb284s"/>
+    <title>PCI - DE1 - host1354920</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1354920.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7614b4ae-45d1-4c7f-93ce-d10f78a90962&lt;br /&gt;46dca95f-dbee-47e6-8d3c-6b06e2e989f9&lt;br /&gt;1e47a7c7-a4da-4269-802f-71276ff6502a&lt;br /&gt;87889198-f7f0-4d3c-8c86-cc97bfb76ce9&lt;br /&gt;131c221f-0909-4a93-ae61-ebdf3f3af2b4&lt;br /&gt;8a27cf8b-c806-4cfc-908a-19b83ba6b3cd&lt;br /&gt;fa817141-81cf-4651-afe3-2980f74632ff&lt;br /&gt;80310556-30ad-4714-8d21-c9310d5c9f85&lt;br /&gt;1fc452aa-c3bf-429d-ba6c-bcd781356b3f&lt;br /&gt;082fd5e6-c037-4b85-bc5a-a24bf6ab65e4&lt;br /&gt;338ca7ca-12f4-476d-8379-dcd7558622ab&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10031081</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lcbv9sm2x7hr"/>
     <title>PCI - DE1 - host1459733</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1459733.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;cc212aba-ddb8-49e5-bab2-7daae8d7d14e&lt;br /&gt;0660d8cb-b212-4f97-8ce0-88a23bcc52c5&lt;br /&gt;da5b42a2-284c-4e71-a7da-c1a173d3248a&lt;br /&gt;5053f440-94ef-445b-893e-b912000ea432&lt;br /&gt;8e6e5a99-d8f1-4d47-a243-18b1309eef82&lt;br /&gt;7c5efc42-a870-4461-af0d-bf0789c8a05e&lt;br /&gt;f05c6e96-33f1-419a-873b-cdcce265e97e&lt;br /&gt;fe2dddd1-1a1f-4468-9b56-5a1c053c5c05&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10006468</id>
-    <published>2022-05-17T12:01:27Z</published>
-    <updated>2022-05-17T12:01:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xw56x58r0d7c"/>
-    <title>PCI - DE1 - host1467373</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1467373.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;554a067e-de69-4b9b-afe7-a98cf6bfcb88&lt;br /&gt;66f1639f-73ba-4dd5-a36e-1a3bd7fc65ad&lt;br /&gt;c220463c-e62e-4d80-9b53-596bbac4a1ac&lt;/p&gt;</content>
   </entry>
 </feed>

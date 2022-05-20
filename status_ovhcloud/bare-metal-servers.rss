@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 20 May 2022 12:36:43 +0000</pubDate>
+    <pubDate>Fri, 20 May 2022 23:27:59 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -182,6 +182,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/g1p00hmy7z2j</guid>
     </item>
     <item>
+      <title>[BSH][Load balancer] - Upgrade Haproxy</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;The purpose of this maintenance is to upgrade the load balancer service&lt;/p&gt;      </description>
+      <pubDate>Mon, 23 May 2022 10:00:00 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/p7k26tbc658m</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/p7k26tbc658m</guid>
+    </item>
+    <item>
       <title>[GRA9][Virtual Private Servers] - Upgrade infrastructure</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, reinstallation...) during this operation.&lt;br /&gt;Servers continue to operate normally during maintenance and new orders can be delivered.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade of the Virtual Private Servers infrastructure (RabbitMQ servers)&lt;/p&gt;      </description>
@@ -196,14 +204,6 @@
       <pubDate>Mon, 23 May 2022 04:30:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/4l44yg22lw14</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/4l44yg22lw14</guid>
-    </item>
-    <item>
-      <title>[RBX1][Dedicated servers] - 05B12</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/05/2022 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2022 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;There will be an interruption of services during this move. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Moving servers to a new location.&lt;/p&gt;      </description>
-      <pubDate>Mon, 23 May 2022 02:00:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/7ngnbp595xlw</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7ngnbp595xlw</guid>
     </item>
   </channel>
 </rss>

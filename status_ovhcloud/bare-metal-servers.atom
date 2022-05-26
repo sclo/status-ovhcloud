@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-05-26T00:00:33Z</updated>
+  <updated>2022-05-26T00:31:12Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -169,6 +169,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;00:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/05/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/05/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A temporary interruption during this intervention will be observed on some services.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this maintenance is to strengthen the security of this equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9962570</id>
+    <published>2022-05-26T00:31:12Z</published>
+    <updated>2022-05-26T00:31:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/7nd00sqwp008"/>
+    <title>[RBX2][Infrastructure] - Servers relocation - 26A01 26A02 26B07 26B08</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;00:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;01:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers will be unreachable during the operations &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Move the servers to another compatible rack.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10066400</id>
     <published>2022-05-25T23:30:42Z</published>
     <updated>2022-05-25T23:30:42Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/t3ks319tx2kk"/>
     <title>[GRA2/WAW1/RBX8/SBG3k][vRack] - Upgrade xDC/xBU</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;21:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance has been postponed. &lt;br /&gt;We will keep update as the new scheduled is planned.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;19:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/05/2022 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/05/2022 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In regards to our lifecycle management ,we need to upgrade our exchangers RTvRack in order to have a homogeneous park&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9962570</id>
-    <published>2022-05-25T21:01:28Z</published>
-    <updated>2022-05-25T21:01:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/7nd00sqwp008"/>
-    <title>[RBX2][Infrastructure] - Servers relocation - 26A01 26A02 26B07 26B08</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;01:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers will be unreachable during the operations &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Move the servers to another compatible rack.&lt;/p&gt;</content>
   </entry>
 </feed>

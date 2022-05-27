@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-05-27T18:23:46Z</updated>
+  <updated>2022-05-27T18:54:00Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -153,6 +153,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during the  maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to move the servers of the racks to another location&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10090447</id>
+    <published>2022-05-27T18:54:00Z</published>
+    <updated>2022-05-27T18:54:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/92rj9l64dddy"/>
+    <title>VPS - BHS2 - host299941</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host299941.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps125700&lt;br /&gt;vps168357&lt;br /&gt;vps136012&lt;br /&gt;vps186777&lt;br /&gt;vps78370&lt;br /&gt;vps82266&lt;br /&gt;vps118598&lt;br /&gt;vps55498&lt;br /&gt;vps158433&lt;br /&gt;vps106231&lt;br /&gt;vps157127&lt;br /&gt;vps136735&lt;br /&gt;vps188907&lt;br /&gt;vps63953&lt;br /&gt;vps185179&lt;br /&gt;vps183153&lt;br /&gt;vps183485&lt;br /&gt;vps153047&lt;br /&gt;vps179639&lt;br /&gt;vps68426&lt;br /&gt;vps66700&lt;br /&gt;vps175492&lt;br /&gt;vps175319&lt;br /&gt;vps172104&lt;br /&gt;vps122098&lt;br /&gt;vps171140&lt;br /&gt;vps169665&lt;br /&gt;vps167987&lt;br /&gt;vps159313&lt;br /&gt;vps162889&lt;br /&gt;vps159851&lt;br /&gt;vps159441&lt;br /&gt;vps153349&lt;br /&gt;vps153348&lt;br /&gt;vps151832&lt;br /&gt;vps129717&lt;br /&gt;vps146467&lt;br /&gt;vps128615&lt;br /&gt;vps145660&lt;br /&gt;vps142709&lt;br /&gt;vps140813&lt;br /&gt;vps140192&lt;br /&gt;vps138767&lt;br /&gt;vps138632&lt;br /&gt;vps138254&lt;br /&gt;vps136778&lt;br /&gt;vps135756&lt;br /&gt;vps135491&lt;br /&gt;vps135295&lt;br /&gt;vps132052&lt;br /&gt;vps126326&lt;br /&gt;vps89383&lt;br /&gt;vps125582&lt;br /&gt;vps125322&lt;br /&gt;vps124569&lt;br /&gt;vps124080&lt;br /&gt;vps123088&lt;br /&gt;vps121584&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10090100</id>
     <published>2022-05-27T17:55:31Z</published>
     <updated>2022-05-27T17:55:31Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r90x8860fxdj"/>
     <title>[Global][Storage and Backups] - Rescue BSD</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/05/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers don't receive the ssh credentials of their rescue BSD.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An internal maintenance caused the incident.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are working on fix that will be implemented on Monday 30/05/2022.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10086478</id>
-    <published>2022-05-27T08:22:41Z</published>
-    <updated>2022-05-27T08:22:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/2fkdmy0ycfch"/>
-    <title>VPS - DE2 - host995293</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host995293.de2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps722313&lt;br /&gt;vps798574&lt;br /&gt;vps730494&lt;br /&gt;vps598862&lt;br /&gt;vps680427&lt;br /&gt;vps707740&lt;br /&gt;vps799174&lt;br /&gt;vps786098&lt;br /&gt;vps739801&lt;br /&gt;vps678043&lt;br /&gt;vps738046&lt;br /&gt;vps734866&lt;br /&gt;vps495855&lt;br /&gt;vps721310&lt;br /&gt;vps718981&lt;br /&gt;vps717611&lt;br /&gt;vps717530&lt;br /&gt;vps659674&lt;br /&gt;vps702887&lt;br /&gt;vps701408&lt;br /&gt;vps686732&lt;br /&gt;vps668746&lt;br /&gt;vps675703&lt;br /&gt;vps672969&lt;br /&gt;vps663223&lt;br /&gt;vps661163&lt;br /&gt;vps653514&lt;br /&gt;vps658139&lt;br /&gt;vps657595&lt;br /&gt;vps655004&lt;br /&gt;vps654845&lt;br /&gt;vps654590&lt;br /&gt;vps653667&lt;br /&gt;vps649634&lt;br /&gt;vps646322&lt;br /&gt;vps645041&lt;br /&gt;vps641995&lt;br /&gt;vps638521&lt;br /&gt;vps636465&lt;br /&gt;vps626924&lt;br /&gt;vps622975&lt;br /&gt;vps621854&lt;br /&gt;vps619110&lt;br /&gt;vps616601&lt;br /&gt;vps609706&lt;br /&gt;vps605270&lt;br /&gt;vps604135&lt;br /&gt;vps596729&lt;br /&gt;vps603571&lt;br /&gt;vps603466&lt;br /&gt;vps601263&lt;br /&gt;vps599165&lt;br /&gt;vps598795&lt;br /&gt;vps596839&lt;br /&gt;vps585222&lt;br /&gt;vps589713&lt;br /&gt;vps591768&lt;br /&gt;vps590832&lt;br /&gt;vps588894&lt;br /&gt;vps585937&lt;br /&gt;vps581831&lt;br /&gt;vps581292&lt;br /&gt;vps579111&lt;br /&gt;vps578714&lt;br /&gt;vps578598&lt;br /&gt;vps572203&lt;br /&gt;vps569239&lt;br /&gt;vps566679&lt;br /&gt;vps556512&lt;br /&gt;vps551840&lt;br /&gt;vps550185&lt;br /&gt;vps545652&lt;br /&gt;vps538479&lt;br /&gt;vps516222&lt;br /&gt;vps503554&lt;/p&gt;</content>
   </entry>
 </feed>

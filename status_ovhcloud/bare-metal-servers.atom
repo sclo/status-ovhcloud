@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-05-27T10:24:48Z</updated>
+  <updated>2022-05-27T10:48:26Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -153,6 +153,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/05/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/05/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unreachable during the  maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to move the servers of the racks to another location&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10087477</id>
+    <published>2022-05-27T10:48:26Z</published>
+    <updated>2022-05-27T10:48:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/t5zltgw7fjkr"/>
+    <title>[ERI1][Dedicated Servers] - E101B17</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  27/05/2022 10:12 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 7% of the servers in this rack are unreachable &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are working to solve the problem&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10086889</id>
     <published>2022-05-27T09:56:42Z</published>
     <updated>2022-05-27T09:56:42Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/57myrsfrc6pc"/>
     <title>[RBX3][Global Infrastructure] - 46E16</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/05/2022 11:27 UTC&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  26/05/2022 13:48 UTC&lt;br /&gt;&lt;b&gt;Service Status:&lt;/b&gt; All servers are operational again. Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  A power supply needed to be changed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/05/2022 11:27 UTC&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  26/05/2022 13:48 UTC&lt;br /&gt;&lt;b&gt;Service Status:&lt;/b&gt; All servers are operational again. Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  A power supply needed to be changed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - 90% of servers are operational again.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The servers' power supply system has been replaced&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/05/2022 11:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack 46E16 are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams are investigating the cause of this incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10080244</id>
-    <published>2022-05-26T13:45:58Z</published>
-    <updated>2022-05-26T13:45:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/6tlsx3rxvtw2"/>
-    <title>VPS - DE2 - host1459756</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1459756.de2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;dbf1bb87-c408-4bb0-b61a-e9174fc11faf&lt;br /&gt;fd293e84-b3bf-41a0-a7f1-8921965d7952&lt;br /&gt;5a181baf-e959-4ece-a90f-6244cf0b0585&lt;br /&gt;ebfedc02-381c-406b-97d5-60566f1f579c&lt;br /&gt;3212a628-85ec-490e-974b-bb07e794ed41&lt;br /&gt;24b95b3a-3d35-4924-9fd9-6bacade9efea&lt;br /&gt;aada4599-ddc8-4434-88e7-e1ecd589d826&lt;br /&gt;beba2fb1-22f2-4975-bae6-ff565ce129d9&lt;br /&gt;8247f6da-d18d-465a-aa38-aa4f0e636780&lt;br /&gt;7230005b-27e4-4b88-b6bd-df283ee2a2e5&lt;br /&gt;c5c3a55f-3d41-49d0-bd3c-5e9f67f8401f&lt;br /&gt;4175f252-75d9-410e-b4db-ab9027232081&lt;br /&gt;81a61bb6-cca5-46a4-99bf-78f7b0ba045f&lt;br /&gt;a88f5868-61d1-4860-b661-54c982ba5fd2&lt;br /&gt;c69c966c-b477-47d5-a2c6-a84e1f7ac754&lt;br /&gt;18516a16-fc59-49fa-a51d-575f66334792&lt;br /&gt;ccc2dff6-a745-4d03-9e4f-a20d8e7a4f6a&lt;br /&gt;704b24d0-4bbf-4460-a51b-396924b80bdf&lt;br /&gt;549c61d3-a1ac-4fd9-bef8-b2f702d17329&lt;br /&gt;e032cf18-36b8-4723-80f2-32f2361b6485&lt;br /&gt;35a7c594-dd72-40fd-8772-f5bb2518fe69&lt;br /&gt;51394f45-d2e8-4003-acec-b76397e28b8d&lt;br /&gt;a9581a7b-a403-4fd1-a7e3-15c4ce7df20f&lt;br /&gt;649d5d1a-bf7b-435c-9ca3-bbb7242b5b6f&lt;br /&gt;aeb2ab27-0975-44e5-803a-e7b1c64c1b06&lt;br /&gt;d0504d26-8dfa-460f-90d7-32e3df7f9e8b&lt;br /&gt;de8a7e7a-e89c-49f6-b114-7b5e536d7425&lt;br /&gt;bbf2990c-cbf4-4cda-9a6b-50cda81094fc&lt;br /&gt;1e109904-eee7-4f83-bd24-73b57416774d&lt;br /&gt;9c0efdf2-e352-4a39-b1dc-0a452af66cfe&lt;br /&gt;6fc33f05-a061-4d9f-a77f-a5c88f04b974&lt;br /&gt;cbcdf89c-77a4-4a85-a18c-9ba9399ccf8d&lt;br /&gt;6c1d51c1-196d-48b5-8b97-2f140ee69d16&lt;br /&gt;7e61a126-3a8e-44bf-8a2c-a7712d786b1f&lt;br /&gt;334a7955-2e2d-4d19-8350-0765f23df73a&lt;br /&gt;c11898bb-4dcc-4daf-82b6-51ce2685a7cc&lt;br /&gt;986d1c8f-d55d-459e-a588-431f6ea37f49&lt;br /&gt;8039bbb2-6551-4cd9-8b65-c73d99a23c37&lt;br /&gt;b4c4f27a-321c-4f22-be19-d0a08199c7ca&lt;/p&gt;</content>
   </entry>
 </feed>

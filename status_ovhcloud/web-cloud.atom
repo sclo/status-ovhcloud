@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-05-27T02:27:52Z</updated>
+  <updated>2022-05-30T11:14:03Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/ypqrl0pcjvvm"/>
     <title>[GRA7][WebPaaS] - Interface upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;04:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/05/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/05/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Console User Interface, authentication to the solution, and project provisioning will be unavailable at some point during the maintenance.&lt;br /&gt;WebPaaS team will proceed to an upgrade of multiple components. All projects and environments will continue to function during the upgrade.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10105413</id>
+    <published>2022-05-30T11:14:03Z</published>
+    <updated>2022-05-30T11:14:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/cg053n2x3nvk"/>
+    <title>[Global][Web hosting] -Statistics  view</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  30/05/2022 10:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; slowness and unreachable on log view page.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;    Our team are investigating, and we will provide updates as soon as possible&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10084540</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bvyjxmsmpk31"/>
     <title>[GRA1][Webhosting] - Filerz284 cluster027</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/05/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  06/05/2022 15:33 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An incremental backup was ongoing on the server.&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  06/05/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown on filerz284&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on it.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/9909588</id>
-    <published>2022-05-06T15:08:03Z</published>
-    <updated>2022-05-06T15:08:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bw8mp0wnk2y3"/>
-    <title>[GRA3][Webhosting] - Cluster 030 - filerz 1022</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  04/05/2033 06:50 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  06/05/2033 13:38UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Service is working as expected at this time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;The load returned to a nominal state. A snap was in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  04/05/2033 06:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown on filerz1022&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;The load returned to a nominal state. A snap is in progress, 6.57/10.6T sent.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are monitoring it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  04/05/2033 06:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown on filerz1022&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on.&lt;br /&gt;&lt;b&gt;Scope of impact : &lt;/b&gt;All websites hosted on filerz1022&lt;/p&gt;</content>
   </entry>
 </feed>

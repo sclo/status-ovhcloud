@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 31 May 2022 04:59:35 +0000</pubDate>
+    <pubDate>Tue, 31 May 2022 06:00:56 +0000</pubDate>
     <item>
       <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 15</title>
       <description>
@@ -70,20 +70,20 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/6phs4jw1nsjw</guid>
     </item>
     <item>
-      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 13</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/06/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Up to three reboot and if we meet an issue during the reboot of the host, it will be replaced. (20 min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts are upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;If you are from wave 13 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped&lt;/p&gt;      </description>
-      <pubDate>Tue, 31 May 2022 06:00:00 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/zqycl2khh3xz</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/zqycl2khh3xz</guid>
-    </item>
-    <item>
       <title>[RBX-SBG-BHS][Network] - VMware NSX operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
-      <pubDate>Tue, 31 May 2022 06:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 May 2022 06:00:56 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/r0v36q97qkx3</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/r0v36q97qkx3</guid>
+    </item>
+    <item>
+      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 13</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/06/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Up to three reboot and if we meet an issue during the reboot of the host, it will be replaced. (20 min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts are upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;If you are from wave 13 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 May 2022 06:00:51 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/zqycl2khh3xz</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/zqycl2khh3xz</guid>
     </item>
     <item>
       <title>[RBX2][Hosted Private Cloud] - Tete-283</title>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-05-31T05:35:07Z</updated>
+  <updated>2022-05-31T07:00:19Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -114,11 +114,19 @@
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10057498</id>
-    <published>2022-05-31T07:00:00Z</published>
-    <updated>2022-05-23T17:05:22Z</updated>
+    <published>2022-05-31T07:00:19Z</published>
+    <updated>2022-05-31T07:00:19Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ycgwscb95q7x"/>
     <title>[BHS-SYD-LIM][Network] - Internal aggregator operation</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 32/05/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are updating an internal aggregator in order to have a homogeneous park.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 32/05/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are updating an internal aggregator in order to have a homogeneous park.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10111536</id>
+    <published>2022-05-31T06:57:40Z</published>
+    <updated>2022-05-31T06:57:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/v1rhh5wnc5lh"/>
+    <title>[LIM1][Infrastructure] - Rack L102B12</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;06:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  31/05/2022 06:19 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers rebooted, some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are investigating the issue. They are working on bringing back impacted servers up.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10110542</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/kg1vnq31ft2s"/>
     <title>VPS - SGP2 - host330286</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host330286.sgp2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps269858&lt;br /&gt;vps295199&lt;br /&gt;vps287168&lt;br /&gt;vps269488&lt;br /&gt;vps270275&lt;br /&gt;vps290588&lt;br /&gt;vps269684&lt;br /&gt;vps293335&lt;br /&gt;vps271418&lt;br /&gt;vps281661&lt;br /&gt;vps293018&lt;br /&gt;vps285025&lt;br /&gt;vps282404&lt;br /&gt;vps281734&lt;br /&gt;vps294717&lt;br /&gt;vps293593&lt;br /&gt;vps293579&lt;br /&gt;vps293586&lt;br /&gt;vps293599&lt;br /&gt;vps293597&lt;br /&gt;vps293581&lt;br /&gt;vps293598&lt;br /&gt;vps293576&lt;br /&gt;vps293580&lt;br /&gt;vps293583&lt;br /&gt;vps293578&lt;br /&gt;vps293592&lt;br /&gt;vps293595&lt;br /&gt;vps293587&lt;br /&gt;vps292943&lt;br /&gt;vps291095&lt;br /&gt;vps291287&lt;br /&gt;vps290689&lt;br /&gt;vps291112&lt;br /&gt;vps290735&lt;br /&gt;vps290492&lt;br /&gt;vps290477&lt;br /&gt;vps290472&lt;br /&gt;vps290063&lt;br /&gt;vps286870&lt;br /&gt;vps287319&lt;br /&gt;vps287019&lt;br /&gt;vps287051&lt;br /&gt;vps286430&lt;br /&gt;vps282688&lt;br /&gt;vps281591&lt;br /&gt;vps279881&lt;br /&gt;vps279835&lt;br /&gt;vps279780&lt;br /&gt;vps279676&lt;br /&gt;vps279653&lt;br /&gt;vps276209&lt;br /&gt;vps275590&lt;br /&gt;vps273673&lt;br /&gt;vps270876&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10105836</id>
-    <published>2022-05-30T13:20:34Z</published>
-    <updated>2022-05-30T13:20:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/rng79xbft7m3"/>
-    <title>VPS - SGP2 - host330286</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host330286.sgp2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps269858&lt;br /&gt;vps295199&lt;br /&gt;vps287168&lt;br /&gt;vps269488&lt;br /&gt;vps270275&lt;br /&gt;vps290588&lt;br /&gt;vps269684&lt;br /&gt;vps293335&lt;br /&gt;vps271418&lt;br /&gt;vps281661&lt;br /&gt;vps293018&lt;br /&gt;vps285025&lt;br /&gt;vps282404&lt;br /&gt;vps281734&lt;br /&gt;vps294717&lt;br /&gt;vps293593&lt;br /&gt;vps293579&lt;br /&gt;vps293586&lt;br /&gt;vps293599&lt;br /&gt;vps293597&lt;br /&gt;vps293581&lt;br /&gt;vps293598&lt;br /&gt;vps293576&lt;br /&gt;vps293580&lt;br /&gt;vps293583&lt;br /&gt;vps293578&lt;br /&gt;vps293592&lt;br /&gt;vps293595&lt;br /&gt;vps293587&lt;br /&gt;vps292943&lt;br /&gt;vps291095&lt;br /&gt;vps291287&lt;br /&gt;vps290689&lt;br /&gt;vps291112&lt;br /&gt;vps290735&lt;br /&gt;vps290492&lt;br /&gt;vps290477&lt;br /&gt;vps290472&lt;br /&gt;vps290063&lt;br /&gt;vps286870&lt;br /&gt;vps287319&lt;br /&gt;vps287019&lt;br /&gt;vps287051&lt;br /&gt;vps286430&lt;br /&gt;vps282688&lt;br /&gt;vps281591&lt;br /&gt;vps279881&lt;br /&gt;vps279835&lt;br /&gt;vps279780&lt;br /&gt;vps279676&lt;br /&gt;vps279653&lt;br /&gt;vps276209&lt;br /&gt;vps275590&lt;br /&gt;vps273673&lt;br /&gt;vps270876&lt;/p&gt;</content>
   </entry>
 </feed>

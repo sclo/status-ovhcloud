@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-05-31T22:48:23Z</updated>
+  <updated>2022-05-31T22:57:01Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3vfxtvww8hv1"/>
     <title>[GRA][BHS] [Data logs] Index backend migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  15/06/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No downtime expected in term of log ingestion, but ES API will not be available for a maximum time of two hours.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The indexation backend of Logs Data Platform will be replaced from Elasticsearch to OpenSearch.&lt;br /&gt;Kibana instances will be replaced by OpenSearch Dashboards ones.&lt;br /&gt;&lt;br /&gt;APIv6 calls related to ElasticSearch backend will be automatically redirected to new OpenSearch backend and will remain available until September 2022.&lt;br /&gt;&lt;br /&gt;The following documentation : https://docs.ovh.com/fr/logs-data-platform/ will be updated few days before the migration.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10118932</id>
+    <published>2022-06-14T04:00:00Z</published>
+    <updated>2022-05-31T22:57:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jzmphk338y90"/>
+    <title>[EU][Databases] - PostgreSQL</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/06/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/06/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we are doing an internal maintenance on PostgreSQL&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10118873</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4ljrcvvjqds9"/>
     <title>PCI - BHS5 - host359832</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10071917</id>
-    <published>2022-05-25T13:19:35Z</published>
-    <updated>2022-05-25T13:19:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7rn6w0tkbhy9"/>
-    <title>PCI - GRA11 - host1445775</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host118-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G264B12&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1445775.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;4e609c6a-2a50-4642-8ead-c4c2639a6bb2&lt;br /&gt;dadac264-0795-456d-81f4-69d3680f2d63&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2022-06-02T05:46:24Z</updated>
+  <updated>2022-06-02T15:23:48Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/10132973</id>
+    <published>2022-06-07T07:30:00Z</published>
+    <updated>2022-06-02T15:21:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/vg17l5g23x9f"/>
+    <title>[EU][api.ovh.com] APIv7 end of services</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; - &lt;var data-var='time'&gt;07:40&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/06/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/06/2022 07:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; In case some untracked requests happens, we could have instabilities in the European customer panel.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are ending some deprecated features of the Manager API. (APIv7 frontend).&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/10027875</id>
     <published>2022-06-02T05:46:24Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/n29tdthms8hb"/>
     <title>[CA ][Corporate Websites] - PostgreSQL major upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2022 09:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2022 10:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this operation is upgrading a cluster to a major version of PostgreSQL, free and open-source relational database management system emphasizing extensibility and SQL compliance..&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/9513338</id>
-    <published>2022-03-17T05:37:35Z</published>
-    <updated>2022-03-17T05:37:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/89gkhsqfl0lq"/>
-    <title>[EU][Corporate Websites] - PostgreSQL major upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;05:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/03/2022 05:00 UTC  &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/03/2022 06:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Few seconds downtime  &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this operation is upgrading a cluster to a major version of PostgreSQL.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;05:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;01:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/03/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/03/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Few seconds downtime &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this operation is upgrading a cluster to a major version of PostgreSQL.&lt;/p&gt;</content>
   </entry>
 </feed>

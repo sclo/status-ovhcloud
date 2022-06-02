@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-02T11:33:16Z</updated>
+  <updated>2022-06-02T12:15:48Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/jg7kqf2x9644"/>
     <title>[GRA2][Network] - Network equipement operations</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/06/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10131618</id>
+    <published>2022-06-02T12:15:48Z</published>
+    <updated>2022-06-02T12:15:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3xhprpwxb2nz"/>
+    <title>[RBX1][Infrastructure] - Rack 02G02 &amp; 02G04</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/06/2022 11:53 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Investigating&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Electrical malfunction&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10040770</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ycgwscb95q7x"/>
     <title>[BHS-SYD-LIM][Network] - Internal aggregator operation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;17:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/05/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are updating an internal aggregator in order to have a homogeneous park.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10116333</id>
-    <published>2022-05-31T16:37:09Z</published>
-    <updated>2022-05-31T16:37:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hprqjsjmg0tz"/>
-    <title>VPS - DE2 - host972936</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host972936.de2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps630847&lt;br /&gt;vps774758&lt;br /&gt;vps595124&lt;br /&gt;vps620709&lt;br /&gt;vps512858&lt;br /&gt;vps814350&lt;br /&gt;vps782529&lt;br /&gt;vps645123&lt;br /&gt;vps802564&lt;br /&gt;vps799399&lt;br /&gt;vps798740&lt;br /&gt;vps797735&lt;br /&gt;vps798670&lt;br /&gt;vps690418&lt;br /&gt;vps795039&lt;br /&gt;vps795033&lt;br /&gt;vps788678&lt;br /&gt;vps787827&lt;br /&gt;vps783620&lt;br /&gt;vps783573&lt;br /&gt;vps781417&lt;br /&gt;vps781399&lt;br /&gt;vps780881&lt;br /&gt;vps780674&lt;br /&gt;vps679267&lt;br /&gt;vps775410&lt;br /&gt;vps631350&lt;br /&gt;vps619704&lt;br /&gt;vps744491&lt;br /&gt;vps767675&lt;br /&gt;vps767449&lt;br /&gt;vps762797&lt;br /&gt;vps761826&lt;br /&gt;vps750546&lt;br /&gt;vps749918&lt;br /&gt;vps747331&lt;br /&gt;vps740642&lt;br /&gt;vps732726&lt;br /&gt;vps722838&lt;br /&gt;vps715905&lt;br /&gt;vps712028&lt;br /&gt;vps711854&lt;br /&gt;vps709523&lt;br /&gt;vps706472&lt;br /&gt;vps701405&lt;br /&gt;vps697172&lt;br /&gt;vps685726&lt;br /&gt;vps680703&lt;br /&gt;vps656845&lt;br /&gt;vps678936&lt;br /&gt;vps675660&lt;br /&gt;vps640988&lt;br /&gt;vps673382&lt;br /&gt;vps660452&lt;br /&gt;vps660375&lt;br /&gt;vps631620&lt;br /&gt;vps660085&lt;br /&gt;vps655072&lt;br /&gt;vps650452&lt;br /&gt;vps645370&lt;br /&gt;vps622872&lt;br /&gt;vps624945&lt;br /&gt;vps623811&lt;br /&gt;vps623226&lt;br /&gt;vps583179&lt;br /&gt;vps618295&lt;br /&gt;vps618262&lt;br /&gt;vps614389&lt;br /&gt;vps600587&lt;br /&gt;vps599459&lt;br /&gt;vps593201&lt;br /&gt;vps584302&lt;br /&gt;vps572945&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-06-03T09:32:03Z</updated>
+  <updated>2022-06-03T11:53:00Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jwr0g80qkl02"/>
     <title>[BHS][Databases] - PostgreSQL</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we are doing an internal maintenance on PostgreSQL&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10139890</id>
+    <published>2022-06-03T11:53:00Z</published>
+    <updated>2022-06-03T11:53:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ntjvy98zs2dh"/>
+    <title>[DE1/GRA7][Public Cloud] - Openstacks API</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  03/06/2022 11:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Openstack APIs on these two regions do not work. &lt;br /&gt;Instances that operate in these two regions continue to work&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are investigating the origin of this disruption&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10132742</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dpwmg9gxnrf6"/>
     <title>PCI - GRA1 - host780605</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host780605.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;19468aa4-28f5-43f0-90cb-1e28de1c70ee&lt;br /&gt;ad385e26-e838-46cf-9261-fb0e4c4d46ca&lt;br /&gt;41fa58cf-2a17-4bb8-8c8b-6fb61f9e682a&lt;br /&gt;bb26e9b4-9638-4feb-9387-8ce69dd9ae8a&lt;br /&gt;53234d5b-2632-4994-baef-2bcc1c18028b&lt;br /&gt;b8efdd2f-0f10-4ea5-9633-3b6897da97ca&lt;br /&gt;8e9e2fb6-bf46-49f6-85dd-012354300e6b&lt;br /&gt;bd29f542-f355-4fc4-b542-794ac15318d9&lt;br /&gt;414a86e9-59df-4bff-9efb-3b21106114f6&lt;br /&gt;382e3b23-c27c-4c62-b4fb-48c085136db4&lt;br /&gt;6e1ad7ec-2c77-4471-a074-9c0c52d911f0&lt;br /&gt;829739f8-e5a4-4e24-88cd-c2c5fff4ed07&lt;br /&gt;fccbf332-5c21-4ca3-a50d-b39047e2c1f6&lt;br /&gt;b4fe9b89-9019-4b7b-87f9-1700dbe9461a&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10115283</id>
-    <published>2022-05-31T14:28:34Z</published>
-    <updated>2022-05-31T14:28:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rz0v8spppcz3"/>
-    <title>PCI - GRA7 - host1470629</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1470629.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;46ca84d2-9ced-4dd2-acb9-ac508e0f272f&lt;br /&gt;7cb80dad-38b1-4100-b09d-efbb50604a03&lt;br /&gt;e9cb4532-e74c-436e-a5ee-e939d85005fa&lt;br /&gt;c67860fd-cf77-4277-870f-c1549e471b33&lt;br /&gt;155f82ff-6251-4124-8aa8-3fde4dec2204&lt;/p&gt;</content>
   </entry>
 </feed>

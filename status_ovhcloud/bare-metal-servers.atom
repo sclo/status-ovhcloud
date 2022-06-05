@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-05T13:43:43Z</updated>
+  <updated>2022-06-05T21:42:55Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mtl3r58grl1g"/>
     <title>[SGP1][Network]  SDAGG Bart  upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/06/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/06/2022 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; We need to upgrade all SDAGG Bart in order to have a homogeneous park.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10154741</id>
+    <published>2022-06-05T21:42:55Z</published>
+    <updated>2022-06-05T21:42:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/x3z7hh3s1fm1"/>
+    <title>VPS - SBG8 - host1261902</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1261902.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;a0d91ace-6354-49df-b1a2-99adaf95188e&lt;br /&gt;38260a7d-ba22-47bd-a972-d2fd434d866b&lt;br /&gt;a4a12cdf-15e9-4112-84d8-465c00c47156&lt;br /&gt;d7bf3128-aef3-4eae-8956-5bad48666ed5&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10152730</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/c83jhkf8m488"/>
     <title>[RBX6][Network] - Upgrade Network equipment</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been postponed until further notice.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/06/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We have to Update the Nexus ToR Aggregator to allow the infrastructure to be more consistent with other network equipment&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/9962910</id>
-    <published>2022-06-01T23:01:12Z</published>
-    <updated>2022-06-01T23:01:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/tydmx392x87c"/>
-    <title>[RBX2][Infrastructure] - Servers relocation - 26C01 26C02 26C03 26D03</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;23:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;02:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers will be unreachable during the operations &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Move the servers to another compatible rack.&lt;/p&gt;</content>
   </entry>
 </feed>

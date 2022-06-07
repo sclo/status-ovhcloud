@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-07T13:04:32Z</updated>
+  <updated>2022-06-07T13:41:02Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3tg9sfdry3xf"/>
     <title>[BHS7/LON1/SGP1/WAW1/SBG3] [Network] SDAGG Bart  upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/06/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; We need to upgrade all SDAGG Bart in order to have a homogeneous park.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10167291</id>
+    <published>2022-06-07T13:41:02Z</published>
+    <updated>2022-06-07T13:41:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/cwffd9fz8hn7"/>
+    <title>VPS - SBG8 - host1261902</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1261902.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;a0d91ace-6354-49df-b1a2-99adaf95188e&lt;br /&gt;38260a7d-ba22-47bd-a972-d2fd434d866b&lt;br /&gt;a4a12cdf-15e9-4112-84d8-465c00c47156&lt;br /&gt;d7bf3128-aef3-4eae-8956-5bad48666ed5&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10166319</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/dpjk0shdqk6h"/>
     <title>[RBX4][Backup] - FTPbackup</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/06/2022 23:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/06/2022 11:40 UTC &lt;br /&gt;&lt;b&gt;Impacted service :&lt;/b&gt; Backup Storage on ftpback-rbx4-22.mybackup.ovh.net is unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware failures.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; The services have been migrated and are accessible again.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10152730</id>
-    <published>2022-06-05T13:43:43Z</published>
-    <updated>2022-06-05T13:43:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/p44cn4nk280b"/>
-    <title>[RBX2][Dedicated Servers] - 21C07</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;13:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  05/06/2022 12:39 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  05/06/2022 13:16 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  An electrical trip caused the shutdown of these servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  05/06/2022 12:39 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on.&lt;/p&gt;</content>
   </entry>
 </feed>

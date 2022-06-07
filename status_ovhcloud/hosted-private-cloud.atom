@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-06-07T03:38:04Z</updated>
+  <updated>2022-06-07T04:00:01Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -74,11 +74,19 @@
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10090801</id>
-    <published>2022-06-07T04:00:00Z</published>
-    <updated>2022-06-07T03:00:23Z</updated>
+    <published>2022-06-07T04:00:01Z</published>
+    <updated>2022-06-07T04:00:01Z</updated>
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/b1v223gvf85m"/>
     <title>[RBX7][Network] - Network devices update</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/06/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O deadlock will be observed when the service performs a switchover.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/06/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O deadlock will be observed when the service performs a switchover.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10164137</id>
+    <published>2022-06-07T03:40:32Z</published>
+    <updated>2022-06-07T03:43:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/2xnn51pqvt9m"/>
+    <title>[RBX2b][Vmware private cloud - Storage] -  tete-4015b</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 07/06/2022 01:18 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 07/06/2022 01:55 UTC&lt;br /&gt;&lt;b&gt;Service  status :&lt;/b&gt;Tete-4015b.leclercv3-omnios.ovh.net was unreachable.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10164124</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/xsyh54svf9wt"/>
     <title>[Global][Hosted Private Cloud] - Zerto upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;23:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/05/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/05/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Zerto replication cut during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade Zerto&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10012893</id>
-    <published>2022-05-18T07:19:19Z</published>
-    <updated>2022-05-18T07:19:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/203mm08cvr17"/>
-    <title>[RBX][Hosted Private Cloud] - Network</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 12/05/2022&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/05/2022  03:00 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; rbx2a and rbx2c&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; Our teams continue to work on the resolution of this incident. We will keep you informed of its evolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; Currently, our teams are still working to identify the cause of this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  12/05/2022 &lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Since Thursday, we have observed instability of connections between some network equipments. Latency is observed on accessing hosts and storage.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; rbx2a and rbx2c&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our teams are currently investiganting the cause of this issue.&lt;/p&gt;</content>
   </entry>
 </feed>

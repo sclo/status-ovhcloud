@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-10T13:58:10Z</updated>
+  <updated>2022-06-10T17:00:23Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -137,6 +137,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service Unavailable during last step maintenance (20min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of the continuous improvement of our services, we will be upgrading some of our databases.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10221824</id>
+    <published>2022-06-10T17:00:23Z</published>
+    <updated>2022-06-10T17:00:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mb7ywj89qysy"/>
+    <title>VPS - WAW2 - host977323</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host977323.waw2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps749920&lt;br /&gt;vps703794&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10218195</id>
     <published>2022-06-10T13:57:23Z</published>
     <updated>2022-06-10T13:58:10Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/58229lgdydzh"/>
     <title>[RBX6][Network] - Fix on network equipment</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/06/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A temporary interruption during this intervention will be observed on some services.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this maintenance is to strengthen the security of this equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/06/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A temporary interruption during this intervention will be observed on some services.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this maintenance is to strengthen the security of this equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10125644</id>
-    <published>2022-06-09T21:56:38Z</published>
-    <updated>2022-06-09T21:56:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/46bzqccgwzsg"/>
-    <title>[RBX8/SBG3][vRack] - Upgrade xDC/xBU</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;21:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; In regards to our lifecycle management ,we need to upgrade our exchangers RTvRack in order to have a homogeneous park&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; In regards to our lifecycle management ,we need to upgrade our exchangers RTvRack in order to have a homogeneous park&lt;/p&gt;</content>
   </entry>
 </feed>

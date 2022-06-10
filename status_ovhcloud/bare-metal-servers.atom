@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-10T06:23:47Z</updated>
+  <updated>2022-06-10T08:27:11Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -137,6 +137,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service Unavailable during last step maintenance (20min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of the continuous improvement of our services, we will be upgrading some of our databases.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10215033</id>
+    <published>2022-06-10T08:00:00Z</published>
+    <updated>2022-06-10T08:27:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zswygf20zsvd"/>
+    <title>[RBX][Network] - Rack 09D09</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 10/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  10/06/2022 08:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public Network was unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment malfunction.&lt;br /&gt;Our technical teams repaired the device. Public network is reachable anew.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10212944</id>
     <published>2022-06-10T05:38:17Z</published>
     <updated>2022-06-10T05:38:17Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s6pzdjst6m7b"/>
     <title>[US][Dedicated Servers] - Custom OS templates installation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/06/2022 21:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  07/06/2022 16:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; US customers weren't able to install custom OS templates on expatriate servers in CA or the EU.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A bug in the API is at the origin of this degradation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; We keep the task under monitoring to ensure that the repair has restored service completely.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt;  A patch has been put in place, tests are currently underway. We will come back to you as soon as we have new information.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/06/2022 21:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; US customers may not be able to install custom OS templates on expatriate servers in CA or the EU.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A bug in the API is at the origin of this degradation.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of correcting the problem. We will come back to you as soon as we see an improvement.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10032337</id>
-    <published>2022-06-09T11:39:16Z</published>
-    <updated>2022-06-09T11:39:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3bkjg2vdwh5c"/>
-    <title>[BHS4][Infrastructure] - Altigo-d00001-6 - T04C24</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;11:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;22:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2022 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/06/2022 11:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience a downtime of a 1 hour and 30 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The purpose of this operation is to perform a replacement on a deteriorating equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

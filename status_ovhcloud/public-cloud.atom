@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-06-11T20:23:59Z</updated>
+  <updated>2022-06-11T20:47:27Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jwr0g80qkl02"/>
     <title>[BHS][Databases] - PostgreSQL</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we are doing an internal maintenance on PostgreSQL&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10239014</id>
+    <published>2022-06-11T20:47:27Z</published>
+    <updated>2022-06-11T20:47:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7kd4xtwjhl4m"/>
+    <title>PCI - DE1 - host1003533</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1003533.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;99896332-d825-4476-9cdd-9837a2d2eeac&lt;br /&gt;b782ecc1-7f49-4341-9456-0c689230f582&lt;br /&gt;c582f151-ef0d-4c65-8a2d-5838dfc6112b&lt;br /&gt;cdac7fef-db30-444d-8121-6dfd4fd155b5&lt;br /&gt;d22917f2-5ad4-45b1-8ca5-762a3e8dc4da&lt;br /&gt;323c37bf-0e12-425f-9982-6691475b933c&lt;br /&gt;677825a2-f524-4f01-858b-b231c514c3e7&lt;br /&gt;7d0b7432-42f1-4fce-9ea7-8b7f24b166bf&lt;br /&gt;bb3bf540-42a6-435a-a358-9f0428364808&lt;br /&gt;c0b3d42f-d21e-44fd-ac01-840535685689&lt;br /&gt;c4c8d412-f0a7-4667-853a-cec38bc7ece5&lt;br /&gt;d1dd5dba-133f-4482-b617-675995f1fa22&lt;br /&gt;042eee81-b579-4826-b44d-2588be88c56d&lt;br /&gt;6e158c9c-09c9-4b8f-a79a-227d5be4ac5e&lt;br /&gt;f9ac920a-61b9-451f-aaec-0ca424a5c5a4&lt;br /&gt;32e4b2fe-78fd-4193-ad12-9a2f5d491fa2&lt;br /&gt;8fda3be2-333d-4e3d-bd7c-af63c0ffdc51&lt;br /&gt;eed788f3-49d3-4fa2-aced-e51690b1e003&lt;br /&gt;10bf7885-cf34-450f-94c1-2bc7316da98f&lt;br /&gt;52ca07b7-ee35-484a-afff-240be0c38568&lt;br /&gt;83b39b76-c7a6-4759-ae38-379bda796078&lt;br /&gt;b5adbfc2-b7a2-41b9-9474-6c106bf5ac1e&lt;br /&gt;bb2f817d-eaf5-47e3-b79d-23b8008ceeba&lt;br /&gt;d6e677b7-69a1-486f-b0d6-2e356b1095cd&lt;br /&gt;d8203c11-8749-42bd-9cae-4e3f2cebcd1d&lt;br /&gt;cc729316-21b3-43cf-ae11-26d0e0403804&lt;br /&gt;099f2b61-b3bf-4ba5-a3ac-cf28fd45e94b&lt;br /&gt;5747585c-61fd-4890-8cef-f2dfafe5fbc6&lt;br /&gt;5e9ded76-1131-40b0-8c45-56e920678fd2&lt;br /&gt;623d9b69-ea56-4c38-a77e-fdae4009ef5f&lt;br /&gt;dc150cf6-e861-4af1-8504-3572de173c2b&lt;br /&gt;a5b49bec-f2b8-458a-bf0e-8ffd69dca00b&lt;br /&gt;465ddbe7-a346-4238-ba60-26c86a2cc4df&lt;br /&gt;a755af1f-93e8-4168-ad6b-11995bef2175&lt;br /&gt;6c6b8817-1e59-4462-a041-9156df1c339c&lt;br /&gt;f452ca21-f6aa-42f9-b096-c36f219001a1&lt;br /&gt;ad6b06ac-bd92-4d6b-9691-02adec595853&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10238414</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vjn3c5y4g5b2"/>
     <title>PCI - BHS1 - host271352</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host271352.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;8f2abbcb-bf72-4510-a5ae-8ebfa4510c0e&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10169280</id>
-    <published>2022-06-10T00:15:46Z</published>
-    <updated>2022-06-10T00:15:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/90ndhrbxrcw2"/>
-    <title>PCI - BHS1 - host403275</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host403275.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;cc76a032-e388-4508-9cda-146d27f3fd91&lt;br /&gt;6b56f81c-53b2-4a73-894a-a3b9ea7bec8d&lt;br /&gt;cfb99894-3191-4c4c-bb46-0bc79b4f1bc2&lt;br /&gt;731ddc5a-27b1-42f7-8f8d-7ca525eb5524&lt;br /&gt;35565a9a-aa1e-47d1-82db-b5cf6cac9f17&lt;br /&gt;160e63f8-978c-442b-8020-a2a87562dd81&lt;br /&gt;27b6a1ab-d245-44e8-b602-1ea8c85a45cd&lt;br /&gt;777c5086-c639-439c-8c26-bca267b5b5f7&lt;br /&gt;6231df0c-7ac6-40bd-9237-d59d1dbc7ac0&lt;br /&gt;ce5eb414-ff5b-4465-bccf-e67a0f45ded2&lt;br /&gt;fcadb455-d4a0-41d4-81b2-7ce09277e26a&lt;br /&gt;1074a0d9-2899-4dee-91ba-6ce93b83a113&lt;br /&gt;81e3e8c5-6e4a-4d4f-be2d-5be10b7645d4&lt;br /&gt;fc15f9f7-2756-40c4-a993-abbb1d56cc38&lt;br /&gt;46148ab4-f5e2-416e-ab13-e1c5910e0801&lt;/p&gt;</content>
   </entry>
 </feed>

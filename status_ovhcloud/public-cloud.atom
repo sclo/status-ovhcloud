@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-06-13T10:42:20Z</updated>
+  <updated>2022-06-13T10:50:50Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jzmphk338y90"/>
     <title>[EU][Databases] - PostgreSQL</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/06/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/06/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds downtime&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we are doing an internal maintenance on PostgreSQL&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/8794360</id>
+    <published>2022-06-13T10:50:50Z</published>
+    <updated>2022-06-13T10:50:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/qb3lhfz66hz6"/>
+    <title>[SGP1][Compute] Limited b2 &amp; c2 stock</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are experiencing high demand in SGP1 region for C2 and B2 instance. As a result, stock is limited, and you may encounter error when spawning these instances in SGP1.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10202648</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lgg7q7ny4s5c"/>
     <title>PCI - GRA11 - host1540053</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;16:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1540053.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;00f9d2ad-6562-4480-97ae-c038dccd3cd7&lt;br /&gt;14b3960e-516f-4717-bb29-76a7e4411632&lt;br /&gt;52ac6684-cf0a-45f4-98a5-a191f0300b2c&lt;br /&gt;003f123c-62df-4ead-86c4-1919bcfbb4ec&lt;br /&gt;981e52d5-8564-45b1-bf5e-05008ab99ca9&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10249646</id>
-    <published>2022-06-12T15:20:54Z</published>
-    <updated>2022-06-12T15:20:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6b6j3df25hl5"/>
-    <title>PCI - DE1 - host1354920</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1354920.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;b7bfb621-e4d2-4ccd-b59f-92b3affa00a2&lt;br /&gt;e486efb0-f950-4746-ab15-38bf99a68d73&lt;br /&gt;7614b4ae-45d1-4c7f-93ce-d10f78a90962&lt;br /&gt;46dca95f-dbee-47e6-8d3c-6b06e2e989f9&lt;br /&gt;1e47a7c7-a4da-4269-802f-71276ff6502a&lt;br /&gt;87889198-f7f0-4d3c-8c86-cc97bfb76ce9&lt;br /&gt;131c221f-0909-4a93-ae61-ebdf3f3af2b4&lt;br /&gt;8a27cf8b-c806-4cfc-908a-19b83ba6b3cd&lt;br /&gt;fa817141-81cf-4651-afe3-2980f74632ff&lt;br /&gt;082fd5e6-c037-4b85-bc5a-a24bf6ab65e4&lt;/p&gt;</content>
   </entry>
 </feed>

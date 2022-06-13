@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-06-13T09:15:40Z</updated>
+  <updated>2022-06-13T09:25:26Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10261366</id>
+    <published>2022-06-16T20:00:00Z</published>
+    <updated>2022-06-13T09:25:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/4vz69lz9c7k0"/>
+    <title>[GRA3][Webhosting] - Cluster030 / Cluster031</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;09:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/06/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2022 21:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The following clusters will be unreachable during maintenance:&lt;br /&gt;Cluster030&lt;br /&gt;  - filerz1564&lt;br /&gt;  - filerz1559&lt;br /&gt;  - filerz1548&lt;br /&gt;&lt;br /&gt;Cluster031&lt;br /&gt;  - filerz1589&lt;br /&gt;  - filerz1592&lt;br /&gt;  - filerz1605&lt;br /&gt;  - filerz1609&lt;br /&gt;  - filerz1660&lt;br /&gt;  - filerz1663&lt;br /&gt;  - filerz1814&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; This maintenance is linked to the following maintenance: https://manage.statuspage.io/pages/r3y8hrtg97vy/incidents/0k3k36vlr9vw&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10136142</id>
     <published>2022-06-13T23:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/7ph0yrj06mmh"/>
     <title>[P19][Collaborative solutions] - MXPlan filerz327</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/05/2022 00:02 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2022 00:18 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Mails were unreachable on filerz327&lt;br /&gt;Our technical teams resolved the issue. Services are up and running as they were prior the incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10070154</id>
-    <published>2022-05-25T23:01:19Z</published>
-    <updated>2022-05-25T23:01:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/rk2r0vt455pq"/>
-    <title>[GRA][WebPaaS] - Git</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;07:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;25/05/2022 21:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;25/05/2022 22:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade; however, Console User Interface, Git, and Crons will be unavailable during the reindexing of git logs, which may take up to 6 hours for the biggest Git repositories.&lt;br /&gt;Projects provisioning is not impacted.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Git needs to be upgrated&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-06-14T22:47:42Z</updated>
+  <updated>2022-06-15T09:50:00Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3vfxtvww8hv1"/>
     <title>[GRA][BHS] [Data logs] Index backend migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  15/06/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No downtime expected in term of log ingestion, but ES API will not be available for a maximum time of two hours.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The indexation backend of Logs Data Platform will be replaced from Elasticsearch to OpenSearch.&lt;br /&gt;Kibana instances will be replaced by OpenSearch Dashboards ones.&lt;br /&gt;&lt;br /&gt;APIv6 calls related to ElasticSearch backend will be automatically redirected to new OpenSearch backend and will remain available until September 2022.&lt;br /&gt;&lt;br /&gt;The following documentation : https://docs.ovh.com/fr/logs-data-platform/ will be updated few days before the migration.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10298156</id>
+    <published>2022-06-15T09:50:00Z</published>
+    <updated>2022-06-15T09:50:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/m5r9nw07yp3y"/>
+    <title>PCI - SBG5 - host1226328</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1226328.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;8183839e-e3a0-40cc-99c8-9f86e1928c98&lt;br /&gt;c82a4252-c8a1-4ea7-a413-31b8c19826da&lt;br /&gt;f93f7127-3184-453f-8392-5896266f5a16&lt;br /&gt;1e75fc20-e863-4900-995b-ffa7c37cadad&lt;br /&gt;4df98793-7bc7-4f05-8126-611b45d316b7&lt;br /&gt;b36949de-61e0-4c5e-9ebb-6558cd790d7c&lt;br /&gt;389a6a65-2a01-4a7f-b8d1-5c888aa19f53&lt;br /&gt;d4ec4894-8c12-4d40-b2f0-5474b4bde554&lt;br /&gt;6fd9880b-bbbb-4ccb-a319-28d4614ec52f&lt;br /&gt;e1da4698-63f1-4f5b-967f-5653d0142bf7&lt;br /&gt;c5b59782-e7c8-4a43-9992-145e1733d1d1&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10194018</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8p8x4sdd4b1c"/>
     <title>PCI - WAW1 - host987440</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;16:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host987440.waw1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;ccbee0b8-7113-4587-a427-41f0fee65517&lt;br /&gt;24e73f90-b4bd-4f9f-ab78-a0d05553dbbf&lt;br /&gt;7a7f8c2b-1855-4f51-92e2-0555041d063c&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10260615</id>
-    <published>2022-06-13T10:37:33Z</published>
-    <updated>2022-06-13T10:37:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/t16btdfs5w7c"/>
-    <title>PCI - GRA3 - host771735</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra-z1c29-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G134A09&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host771735.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;aa2d48cf-8c87-43f7-98d9-b1da4fd20260&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;</content>
   </entry>
 </feed>

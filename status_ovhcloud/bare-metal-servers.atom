@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-16T20:00:15Z</updated>
+  <updated>2022-06-16T21:15:03Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/37w860jfdpxr"/>
     <title>[ERI1][Network] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/06/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2022 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version of some network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10326858</id>
+    <published>2022-06-16T21:15:03Z</published>
+    <updated>2022-06-16T21:15:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3tfwcxph468h"/>
+    <title>[RBX3][Dedicated Servers] - 46L19</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network is unreachable for all servers&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently identifying the cause of the incident.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10191500</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/8lh08sxs648f"/>
     <title>[SBG3][Dedicated Servers] - S311B07</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 15/06/2022 14:20 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 15/06/2022 15:10 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; The servers in the S311B07 rack were unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An anomaly in the cooling system caused this incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10298982</id>
-    <published>2022-06-15T11:35:17Z</published>
-    <updated>2022-06-15T11:35:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/j3q07vc3mbn6"/>
-    <title>[RBX7][Dedicated Servers] - R710B14</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;11:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 15/06/2022 10:39 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  15/06/2022 11:25 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers are currently operational. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a water leak disjonction.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  15/06/2022 10:39 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers are powered off &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  We are currently investigating the cause of this issue.&lt;/p&gt;</content>
   </entry>
 </feed>

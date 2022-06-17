@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-17T01:13:08Z</updated>
+  <updated>2022-06-17T02:51:08Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -81,6 +81,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10290277</id>
+    <published>2022-06-17T02:51:08Z</published>
+    <updated>2022-06-17T02:51:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/37w860jfdpxr"/>
+    <title>[ERI1][Network] - Network equipment operation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;02:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/06/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2022 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version of some network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10191500</id>
     <published>2022-06-17T01:13:08Z</published>
     <updated>2022-06-17T01:13:08Z</updated>
@@ -95,14 +103,6 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3tfwcxph468h"/>
     <title>[RBX3][Dedicated Servers] - 46L19</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;01:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 17/06/2022 00:44 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The network equipment was out of service.&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt;  Following the replacement on switch, the vrack is available again.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The network equipment is out of service, a spare is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network is unreachable for all servers&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently identifying the cause of the incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10290277</id>
-    <published>2022-06-17T00:02:13Z</published>
-    <updated>2022-06-17T00:02:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/37w860jfdpxr"/>
-    <title>[ERI1][Network] - Network equipment operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/06/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2022 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version of some network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10327282</id>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 17 Jun 2022 05:28:24 +0000</pubDate>
+    <pubDate>Fri, 17 Jun 2022 05:42:27 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -76,6 +76,14 @@
       <pubDate>Mon, 20 Jun 2022 07:00:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/zwn4qys54p3t</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/zwn4qys54p3t</guid>
+    </item>
+    <item>
+      <title>VPS - DE2 - host1083898</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1083898.de2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps601588&lt;br /&gt;vps798924&lt;br /&gt;vps801790&lt;br /&gt;vps795356&lt;br /&gt;vps655586&lt;br /&gt;vps669017&lt;br /&gt;vps637048&lt;br /&gt;vps670220&lt;br /&gt;vps637049&lt;br /&gt;vps648396&lt;br /&gt;vps794746&lt;br /&gt;vps644812&lt;br /&gt;vps810822&lt;br /&gt;vps815783&lt;br /&gt;vps627843&lt;br /&gt;vps699204&lt;br /&gt;vps758089&lt;br /&gt;vps559941&lt;br /&gt;vps677470&lt;br /&gt;vps588242&lt;br /&gt;vps591725&lt;br /&gt;vps673829&lt;br /&gt;vps730718&lt;br /&gt;vps627493&lt;br /&gt;vps807566&lt;br /&gt;vps715493&lt;br /&gt;vps790528&lt;br /&gt;vps761154&lt;br /&gt;vps772636&lt;br /&gt;vps628360&lt;br /&gt;vps732276&lt;br /&gt;vps687978&lt;br /&gt;vps730023&lt;br /&gt;vps729699&lt;br /&gt;vps729702&lt;br /&gt;vps729693&lt;br /&gt;vps725232&lt;br /&gt;vps715852&lt;br /&gt;vps715851&lt;br /&gt;vps712434&lt;br /&gt;vps710676&lt;br /&gt;vps703848&lt;br /&gt;vps701406&lt;br /&gt;vps692395&lt;br /&gt;vps690960&lt;br /&gt;vps678990&lt;br /&gt;vps675793&lt;br /&gt;vps664725&lt;br /&gt;vps655004&lt;br /&gt;vps654590&lt;br /&gt;vps649634&lt;br /&gt;vps641995&lt;br /&gt;vps638989&lt;br /&gt;vps638521&lt;br /&gt;vps626924&lt;br /&gt;vps621854&lt;/p&gt;      </description>
+      <pubDate>Fri, 17 Jun 2022 05:42:27 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3d6s4d2mmndb</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3d6s4d2mmndb</guid>
     </item>
     <item>
       <title>VPS - SGP2 - host347207</title>
@@ -196,14 +204,6 @@
       <pubDate>Wed, 15 Jun 2022 15:22:10 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/mwsypq09j2fx</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/mwsypq09j2fx</guid>
-    </item>
-    <item>
-      <title>[GRA][BHS] [Data logs] Index backend migration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance completed.&lt;br /&gt;All data nodes has been migrated from Elasticsearch to OpenSearch. All kibana instances are moving to OpenSearch Dashboards one by one until tomorrow.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  15/06/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No downtime expected in term of log ingestion, but ES API will not be available for a maximum time of two hours.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The indexation backend of Logs Data Platform will be replaced from Elasticsearch to OpenSearch.&lt;br /&gt;Kibana instances will be replaced by OpenSearch Dashboards ones.&lt;br /&gt;&lt;br /&gt;APIv6 calls related to ElasticSearch backend will be automatically redirected to new OpenSearch backend and will remain available until September 2022.&lt;br /&gt;&lt;br /&gt;The following documentation : https://docs.ovh.com/fr/logs-data-platform/ will be updated few days before the migration.&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Jun 2022 13:40:36 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/n6t88vsqsvm3</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/n6t88vsqsvm3</guid>
     </item>
   </channel>
 </rss>

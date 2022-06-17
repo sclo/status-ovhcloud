@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 17 Jun 2022 10:23:47 +0000</pubDate>
+    <pubDate>Fri, 17 Jun 2022 10:33:11 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -56,8 +56,8 @@
     <item>
       <title>[GRA9][Network/Containers &amp; Orchestration] - API - Control plane</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; API requests are now working normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  17/06/2022 09:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Operations such as  port creations/deletions/attachment/detachment and spawning of instances will give an error and the API may go down.&lt;br /&gt;Also, some customer&apos;s control plane can be in a degraded state, all management operations on nodes are impacted and delivery of new clusters is not working.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;      </description>
-      <pubDate>Fri, 17 Jun 2022 10:03:10 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/06/2022 09:27 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  17/06/2022 10:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Operations such as port creations/deletions/attachment/detachment and spawning of instances were giving an error and the API may have gone down.&lt;br /&gt;Also, some customer&apos;s control plane might been in a degraded state, all management operations on nodes were impacted and delivery of new clusters was not working.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;API requests couldn&apos;t be processed due to issues with the rabbitmq cluster.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; API requests are now working normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  17/06/2022 09:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Operations such as  port creations/deletions/attachment/detachment and spawning of instances will give an error and the API may go down.&lt;br /&gt;Also, some customer&apos;s control plane can be in a degraded state, all management operations on nodes are impacted and delivery of new clusters is not working.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;      </description>
+      <pubDate>Fri, 17 Jun 2022 10:33:11 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/wt8gn2qgv9b2</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/wt8gn2qgv9b2</guid>
     </item>

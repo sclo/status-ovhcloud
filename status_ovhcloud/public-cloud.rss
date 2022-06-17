@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 17 Jun 2022 08:26:04 +0000</pubDate>
+    <pubDate>Fri, 17 Jun 2022 09:50:31 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -52,6 +52,14 @@
       <pubDate>Mon, 20 Jun 2022 08:00:00 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/nyp84h01b43m</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/nyp84h01b43m</guid>
+    </item>
+    <item>
+      <title>[GRA9][Network/Containers &amp; Orchestration] - API - Control plane</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  17/06/2022 09:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Operations such as  port creations/deletions/attachment/detachment and spawning of instances will give an error.&lt;br /&gt;Also, some customer&apos;s control plane can be in a degraded state, all management operations on nodes are impacted and delivery of new clusters is not working.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;      </description>
+      <pubDate>Fri, 17 Jun 2022 09:50:31 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/wt8gn2qgv9b2</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/wt8gn2qgv9b2</guid>
     </item>
     <item>
       <title>PCI - GRA1 - host728435</title>
@@ -196,14 +204,6 @@
       <pubDate>Wed, 15 Jun 2022 18:03:09 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/shpl1l3zwmj8</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/shpl1l3zwmj8</guid>
-    </item>
-    <item>
-      <title>PCI - SBG5 - host1232163</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1232163.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2eebadb8-f9cb-4806-9989-51b7d584533d&lt;br /&gt;328eb21a-8007-4d65-8c8f-c1a1a1b3a00f&lt;br /&gt;e5c5786c-a4c1-49f1-8f05-c6c21c1f35d4&lt;br /&gt;3668caa2-b503-493e-a80b-f936f0865600&lt;br /&gt;58d3662a-3893-45dc-83fb-b66ca966d7b8&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Jun 2022 17:33:52 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/mg1c30gxftt2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/mg1c30gxftt2</guid>
     </item>
   </channel>
 </rss>

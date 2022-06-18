@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-18T14:23:36Z</updated>
+  <updated>2022-06-18T15:07:53Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1361286.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c268d53c-91a3-48a8-b596-358349f55d7b&lt;br /&gt;811e3d0b-492b-45ea-b0ce-c4428ca094d7&lt;br /&gt;55c768cd-cac3-4bf7-a066-642dd6e9cee8&lt;br /&gt;fce442ab-fa93-42aa-ae5d-6efa39304b93&lt;br /&gt;44894208-4183-4b9b-931c-69053ceab582&lt;br /&gt;20b444a6-ebab-4dc4-9847-eeaa51bd1518&lt;br /&gt;e4c3b137-b6cf-40f0-b47f-bf24cdeabb69&lt;br /&gt;05a6ea45-2108-467b-8d7c-6dc263db4ec2&lt;br /&gt;50dd1cda-9d2e-472f-9141-cf9a63e851ac&lt;br /&gt;5073783d-d32a-469f-be1c-2f6e558b158b&lt;br /&gt;0499d69f-b253-46f7-9b16-60aa40dc02ed&lt;br /&gt;336027c5-da60-4f4a-8afa-f7121287012e&lt;br /&gt;4ff51f6a-f131-4aeb-8066-b46acb55eb15&lt;br /&gt;391e0767-49ea-480b-85b2-ba4cc1be15f4&lt;br /&gt;a826e2fa-00fd-4f61-9d59-63e540cdc5a1&lt;br /&gt;a1252def-e94f-4e07-8cb5-0f8f76359f64&lt;br /&gt;0d45cd19-796a-41cd-b7e4-4d08eabfc982&lt;br /&gt;39a8ad71-b7d0-44bd-bf46-4149b6719472&lt;br /&gt;04faa075-5751-422e-a634-b7ba442ea1dc&lt;br /&gt;c54dc5fe-6027-40ac-971d-503eabec7b7b&lt;br /&gt;4cd3ff98-a37d-4231-ba20-063464874362&lt;br /&gt;f4d37c1c-a143-432d-807b-33726e523e0b&lt;br /&gt;602d50b9-8563-4a3c-8514-715996a16b3d&lt;br /&gt;c03128eb-f35c-4f1d-8cea-81c96a4ab7fe&lt;br /&gt;f95c289b-9c0f-4501-a0da-d7676f60c0c2&lt;br /&gt;c54ed21d-7cb6-4770-b2d7-6fc31e4761d4&lt;br /&gt;c93ea111-1c09-42c1-805c-5c514b18e624&lt;br /&gt;c3fe4ae9-efb3-41b3-a775-66c73b9ebb93&lt;br /&gt;ac2e375f-0b77-48e5-913b-6e75f209676b&lt;br /&gt;22d3775c-5791-4512-9295-96de0ad76fc8&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10349894</id>
+    <published>2022-06-18T13:00:00Z</published>
+    <updated>2022-06-18T15:07:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zj0nvymgy8p0"/>
+    <title>[RBX6][Dedicated Servers] - 46I13</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/06/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  18/06/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 39% of the servers in the rack were unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10348819</id>
     <published>2022-06-18T10:15:03Z</published>
     <updated>2022-06-18T10:15:03Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/8bmjl19x61ym"/>
     <title>[GRA7][VirtualPrivateServers] - RabbitMQ degradation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/06/2022 01:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2022 01:37 UTC&lt;br /&gt;Our technical teams resolved the issue. Servers can be manipulate (reboot, rebuild, ...) again !&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/06/2022 01:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The impacted servers cannot be manipulated (reboot, rebuild, ...).&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Servers continue to operate normally.&lt;br /&gt;Our technical teams are working on resolving the issue. We post update as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10190986</id>
-    <published>2022-06-15T21:59:09Z</published>
-    <updated>2022-06-15T21:59:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/q3d32vsl5hpg"/>
-    <title>[BHS7/RBX7/SBG3/GRA2][Network] - Network equipment version upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;23:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version of network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

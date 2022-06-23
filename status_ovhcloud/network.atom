@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
   <title>Network &amp; Infrastructure Status - Incident History</title>
-  <updated>2022-06-23T17:23:57Z</updated>
+  <updated>2022-06-23T20:34:02Z</updated>
   <author>
     <name>Network &amp; Infrastructure</name>
   </author>
@@ -79,6 +79,22 @@
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/0y0nwbj42148"/>
     <title>[P19][Network] - Device cleaning</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;04:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/06/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/06/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; VoIP traffic will be disrupted 2 times during the operation and each time for a few seconds (1 to 5 seconds each time).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement process, we will be doing a maintenance on our internal network infrastructure&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/10326164</id>
+    <published>2022-06-29T21:00:00Z</published>
+    <updated>2022-06-23T20:34:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/62s7r8c9qfdy"/>
+    <title>[TH2/GSW][Backbone] - Standardization of interconexion</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance has been postponed.&lt;br /&gt;Here is the new schedule :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/06/2022 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/06/2022 22:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/06/2022 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/06/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to standardize the link between TH2 and GSW. We will move this interconection from Public to a Private IP address.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/10390328</id>
+    <published>2022-06-29T11:00:00Z</published>
+    <updated>2022-06-23T20:31:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/6vbwh236mm3c"/>
+    <title>[BHS7][Cooling system] B709B14</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/06/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Water manifold replacement.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:network.status-ovhcloud.com,2005:Incident/10388709</id>
@@ -185,27 +201,11 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/06/2022 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/07/2022 16:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Commissioning an electrical unit&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/10326164</id>
-    <published>2022-06-23T21:00:00Z</published>
-    <updated>2022-06-21T20:35:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/62s7r8c9qfdy"/>
-    <title>[TH2/GSW][Backbone] - Standardization of interconexion</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/06/2022 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/06/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to standardize the link between TH2 and GSW. We will move this interconection from Public to a Private IP address.&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:network.status-ovhcloud.com,2005:Incident/10362749</id>
     <published>2022-06-23T15:52:14Z</published>
     <updated>2022-06-23T15:52:14Z</updated>
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/nbw09h6sndhb"/>
     <title>[RBX4][Network] - Network maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/06/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/06/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to decommission 2 network devices.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/10377340</id>
-    <published>2022-06-23T14:06:28Z</published>
-    <updated>2022-06-23T14:06:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/vqsh35b3rl14"/>
-    <title>[GRA1][Cooling System] - G251B09</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/06/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/06/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Water manifold replacement&lt;/p&gt;</content>
   </entry>
 </feed>

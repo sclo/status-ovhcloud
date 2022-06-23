@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Jun 2022 04:23:43 +0000</pubDate>
+    <pubDate>Thu, 23 Jun 2022 12:25:38 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -110,6 +110,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/k2z6mhhr8dr6</guid>
     </item>
     <item>
+      <title>[RBX2][Dedicated Servers] - 21A04</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/06/2022 07:32 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/06/2022 09:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 13 servers unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Circuit breaker tripped causing the loss of all 13 servers.&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jun 2022 07:30:00 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/60vhf2hcg2h5</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/60vhf2hcg2h5</guid>
+    </item>
+    <item>
       <title>[RBX][DedicatedServer] - Deliveries and vRack tasks</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  22/06/2022 14:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  22/06/2022 16:34 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some clients might had seen deliveries blocked or vRack tasks not working.&lt;br /&gt;Our technical teams resolved the issue. Deliveries and vRacks are working as prior the incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Following our technical teams&apos; feedback, here is some complementary information :&lt;br /&gt;Some client might see deliveries blocked or vRack tasks not working.&lt;br /&gt;Our technical teams are hands on the issue. We will post update as the situation progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  22/06/2022 14:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; API slowness might be observed on HCI / Scale / HGR servers ranges.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Investigating&lt;br /&gt;Our technical teams are already working on resolving the issue. We will post update as significant progress is made.&lt;/p&gt;      </description>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 21 Jun 2022 01:31:12 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/c3m8r7k622xn</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c3m8r7k622xn</guid>
-    </item>
-    <item>
-      <title>[BHS8][Network] -BHS0808A03C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 20/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/06/2022 01:28 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers were facing some packet losses on their vRack.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Network equipment caused the incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers are facing some packet losses on their vRack.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem.&lt;br /&gt;Customers may also face 1 to 2 seconds downtime of their public network and vRack until resolution&lt;/p&gt;      </description>
-      <pubDate>Tue, 21 Jun 2022 01:30:05 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/83v5jqhcvx1q</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/83v5jqhcvx1q</guid>
     </item>
   </channel>
 </rss>

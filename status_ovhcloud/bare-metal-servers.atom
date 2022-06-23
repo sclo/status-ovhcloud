@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-23T03:15:43Z</updated>
+  <updated>2022-06-23T03:36:48Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -15,6 +15,22 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nv71djpdxzzq"/>
     <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;12:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of the product lifecycle management we plan to end the baremetal service of Cisco ASA firewall by August 31, 2022. This service interruption will concern only the customers who have previously subscribed to this service.&lt;br /&gt;OVHcloud will decommission the service so that you won’t be able to connect to your Cisco ASA firewall from that date.&lt;br /&gt;Please make the appropriate backup of your data prior that date.&lt;br /&gt;---------------------------------------------------&lt;br /&gt;&lt;b&gt;Heure de début :&lt;/b&gt; 28/02/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Impact du service :&lt;/b&gt; Dans le cadre de la gestion du cycle de vie des produits, nous prévoyons de mettre fin au service baremetal du pare-feu Cisco ASA au 31 aout 2022. Cette interruption de service ne concernera que les clients qui ont précédemment souscrit à ce service.&lt;br /&gt;OVHcloud mettra le service hors service de sorte que vous ne pourrez plus vous connecter à votre pare-feu Cisco ASA à partir de cette date.&lt;br /&gt;Veuillez effectuer les sauvegardes appropriées de vos données avant cette date.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10384013</id>
+    <published>2022-07-19T19:30:00Z</published>
+    <updated>2022-06-23T03:36:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/f2wy5hq7wr09"/>
+    <title>[LIM1][Global Infrastructure] CPU temperature</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/07/2022 19:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2022 21:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There will be an expected 20 mins of downtime per server&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to fix CPU temperature sensor bug.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10383965</id>
+    <published>2022-07-18T19:30:00Z</published>
+    <updated>2022-06-23T03:23:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/45d58bs90r7g"/>
+    <title>[LIM1][Global Infrastructure] CPU temperature</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 19:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 21:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There will be an expected 20 mins of downtime per server&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to fix CPU temperature sensor bug.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10337020</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/83v5jqhcvx1q"/>
     <title>[BHS8][Network] -BHS0808A03C</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;01:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 20/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/06/2022 01:28 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers were facing some packet losses on their vRack.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Network equipment caused the incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers are facing some packet losses on their vRack.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem.&lt;br /&gt;Customers may also face 1 to 2 seconds downtime of their public network and vRack until resolution&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10363899</id>
-    <published>2022-06-21T00:37:35Z</published>
-    <updated>2022-06-21T00:37:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xy3c8tqx3zfq"/>
-    <title>VPS - SBG8 - host1292904</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;00:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;00:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1292904.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;e65320a9-df93-424b-ab29-e4eb1c3cc3bb&lt;br /&gt;cc68890a-c824-4219-b961-5ee5a414f786&lt;br /&gt;21bf56db-5f99-4914-a9e5-2e6176338ebd&lt;br /&gt;65c7cccf-dec9-43da-989e-b20943a41f72&lt;br /&gt;fb01ac14-4e02-4abd-b534-5372e3f58283&lt;br /&gt;6126cd36-64e4-475a-afb2-eba68c0e08da&lt;br /&gt;51278884-9269-45f1-98ce-c62cfc2c8230&lt;br /&gt;2e20bcb2-5f95-4369-b400-192c6d91b7e1&lt;br /&gt;a2ce3073-65a1-4a82-8c61-467de3bc9912&lt;br /&gt;485f400c-9f86-4d1c-b591-e104417e734f&lt;br /&gt;4e0c29d2-9b92-4872-81ce-cb76b4e4bb4f&lt;br /&gt;fe6a7d8c-f03d-4596-b993-38aad2a62aa7&lt;br /&gt;9ba84fd6-184a-43aa-ae5a-808f051b27d2&lt;br /&gt;5b661174-fd60-473a-a263-6ce5ba6e589e&lt;br /&gt;274cdbe1-9983-4055-a23b-4723a7b30062&lt;br /&gt;a4ca797b-adef-47ce-b7ae-fd9ebbf7ff77&lt;br /&gt;275b8f78-933e-4e3b-ab02-d141c2428c4b&lt;br /&gt;8b8d161b-e3cb-4b4b-aa79-d9848a8dad49&lt;br /&gt;b9f08ef1-bee5-4848-9ddb-1caeff78fb94&lt;br /&gt;83c5fe33-93a1-4785-b1df-42f85ae785fd&lt;br /&gt;2af816dc-02fe-4f36-b614-857df107f9a7&lt;br /&gt;185d49ab-1db2-4242-8b37-5c56b74d5822&lt;br /&gt;e6f7fd09-d3a8-4e7a-a3e2-da254b54ed1f&lt;br /&gt;4cd521d4-6106-4e19-8426-a645352e91df&lt;br /&gt;2b52e518-68f6-45f1-beb1-5b8a36797d31&lt;br /&gt;b6646d15-b8c1-4b15-82ec-03340ab43946&lt;br /&gt;85d2b284-423c-4038-92e9-c8f7c9c9679f&lt;br /&gt;8e76438d-fdd5-4a9f-be51-4dae8e13a9a8&lt;br /&gt;e0c2feb2-1434-4b3e-b915-f0f7a2f06251&lt;br /&gt;b2868e30-8f48-4e6b-a339-9ee06690b10a&lt;br /&gt;2f7dd583-fc4f-4377-8ff5-64c136b06596&lt;br /&gt;0da772ae-4d3e-4d1c-93e2-1cb61aa0dd65&lt;br /&gt;1eb231b0-3589-4c82-a2c0-062a89b9a326&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10308518</id>
-    <published>2022-06-20T23:05:08Z</published>
-    <updated>2022-06-20T23:05:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zwn4qys54p3t"/>
-    <title>[BHS7/RBX7/SBG3/ERI1/GRA2][Network] - Network equipment operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;23:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

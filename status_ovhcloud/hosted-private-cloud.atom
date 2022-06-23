@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-06-23T04:35:42Z</updated>
+  <updated>2022-06-23T10:54:55Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/mlvx446j3v9p"/>
     <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 17</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/06/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/07/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Up to three reboot and if we meet an issue during the reboot of the host, it will be replaced. (20 min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts are upgraded frequently due to the VMware's matrix of compatibility.&lt;br /&gt;&lt;br /&gt;If you are from wave 17 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10386404</id>
+    <published>2022-06-23T11:23:00Z</published>
+    <updated>2022-06-23T10:54:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/vvpvtwcxrkm5"/>
+    <title>[RBX2B][Hosted Private Cloud] - Datastore tete-4251</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;11:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  23/06/2023 11:23 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt;  23/06/2023 12:20 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; pcc-007260,pcc-007290,pcc-007291,pcc-013489,pcc-013490,pcc-013491,pcc-015433,pcc-015434,pcc-015435&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; datastores inacessible&lt;br /&gt;&lt;b&gt;Ongoin Actions:&lt;/b&gt; the failover mechanism was blocked, we imported the service on master node&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;br /&gt;&lt;br /&gt;OVHcloud Technical team&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10268094</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/psvhcjy13sdt"/>
     <title>[RBX2][Hosted Private Cloud] - tete-2126</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/06/2022 08:44 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/06/2022 10:44 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; All the impacted pcc on tete-2126 are operational again.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A hardware failure was at the origin of this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;09:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  05/06/2022 08:44 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; The following pcc on tete-2126 : pcc-004500, pcc-004468, pcc-004502, pcc-004501,pcc-004465 are currently unreachable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; We are currently working on this issue.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10145167</id>
-    <published>2022-06-04T03:40:32Z</published>
-    <updated>2022-06-04T03:46:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/04f4bt2z0zqf"/>
-    <title>[BHS1][Storage] - tete979</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 04/06/2022 02:23 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/06/2022 02:39 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt;BHS1A&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover&lt;/p&gt;</content>
   </entry>
 </feed>

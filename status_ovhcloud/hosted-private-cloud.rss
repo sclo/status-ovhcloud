@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Jun 2022 11:24:00 +0000</pubDate>
+    <pubDate>Thu, 23 Jun 2022 12:50:50 +0000</pubDate>
     <item>
       <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 18</title>
       <description>
@@ -36,6 +36,14 @@
       <pubDate>Mon, 27 Jun 2022 06:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/mlvx446j3v9p</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/mlvx446j3v9p</guid>
+    </item>
+    <item>
+      <title>[Global][Veeam] - Licence expiration</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/06/2022 12:17 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was caused by a lack of licence. The incident is closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; While updating the Veeam license, customers could see a message that it is expired since 31th May, but we still have a 60 days extension. The service will work as usual and there is no impact on the customers infrastructure.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area):&lt;/b&gt; all&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Veeam&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Updating the license on our side&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jun 2022 12:50:50 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/cx7wt9pfz6vf</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/cx7wt9pfz6vf</guid>
     </item>
     <item>
       <title>[RBX2B][Hosted Private Cloud] - Datastore tete-4251</title>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 07 Jun 2022 03:30:56 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/gd6msh205rbj</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/gd6msh205rbj</guid>
-    </item>
-    <item>
-      <title>[RBX2][Hosted Private Cloud] - tete-2126</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/06/2022 08:44 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/06/2022 10:44 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; All the impacted pcc on tete-2126 are operational again.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A hardware failure was at the origin of this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  05/06/2022 08:44 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; The following pcc on tete-2126 : pcc-004500, pcc-004468, pcc-004502, pcc-004501,pcc-004465 are currently unreachable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; We are currently working on this issue.&lt;/p&gt;      </description>
-      <pubDate>Sun, 05 Jun 2022 10:56:25 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/psvhcjy13sdt</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/psvhcjy13sdt</guid>
     </item>
   </channel>
 </rss>

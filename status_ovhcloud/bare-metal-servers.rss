@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Jun 2022 12:25:38 +0000</pubDate>
+    <pubDate>Thu, 23 Jun 2022 12:50:19 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -110,6 +110,22 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/k2z6mhhr8dr6</guid>
     </item>
     <item>
+      <title>[Global][Veeam] - License expiration</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/06/2022 12:17 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was caused by a lack of licence. The incident is closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams have advanced in the resolution of the incident.&lt;br /&gt;They are still working to solve the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; While updating the Veeam license, customers could see a message that it is expired since 31th May, but we still have a 60 days extension. The service will work as usual and there is no impact on the customers infrastructure.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area):&lt;/b&gt; all&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Veeam&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Updating the license on our side&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jun 2022 12:50:19 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/khlzp8krbv5m</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/khlzp8krbv5m</guid>
+    </item>
+    <item>
+      <title>[GRA2][DedicatedServers] - Rack G251B02</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/06/2022 11:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers in rack G251B02 unexpectedly shut down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating &lt;br /&gt;Our technical teams are working on resolving the issue. We will post update as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jun 2022 12:38:47 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/nh0g4y1lvwgt</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/nh0g4y1lvwgt</guid>
+    </item>
+    <item>
       <title>[RBX2][Dedicated Servers] - 21A04</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/06/2022 07:32 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/06/2022 09:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 13 servers unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Circuit breaker tripped causing the loss of all 13 servers.&lt;/p&gt;      </description>
@@ -188,22 +204,6 @@
       <pubDate>Tue, 21 Jun 2022 09:34:55 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/n8xnp2gcnqg3</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/n8xnp2gcnqg3</guid>
-    </item>
-    <item>
-      <title>[GRA1][Network] - Network equipment operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/06/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/06/2022 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version of some network equipment.&lt;/p&gt;      </description>
-      <pubDate>Tue, 21 Jun 2022 02:43:01 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/11cqx55tvdrl</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/11cqx55tvdrl</guid>
-    </item>
-    <item>
-      <title>VPS - SBG8 - host1292904</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1292904.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;e65320a9-df93-424b-ab29-e4eb1c3cc3bb&lt;br /&gt;cc68890a-c824-4219-b961-5ee5a414f786&lt;br /&gt;21bf56db-5f99-4914-a9e5-2e6176338ebd&lt;br /&gt;65c7cccf-dec9-43da-989e-b20943a41f72&lt;br /&gt;fb01ac14-4e02-4abd-b534-5372e3f58283&lt;br /&gt;6126cd36-64e4-475a-afb2-eba68c0e08da&lt;br /&gt;51278884-9269-45f1-98ce-c62cfc2c8230&lt;br /&gt;2e20bcb2-5f95-4369-b400-192c6d91b7e1&lt;br /&gt;a2ce3073-65a1-4a82-8c61-467de3bc9912&lt;br /&gt;485f400c-9f86-4d1c-b591-e104417e734f&lt;br /&gt;4e0c29d2-9b92-4872-81ce-cb76b4e4bb4f&lt;br /&gt;fe6a7d8c-f03d-4596-b993-38aad2a62aa7&lt;br /&gt;9ba84fd6-184a-43aa-ae5a-808f051b27d2&lt;br /&gt;5b661174-fd60-473a-a263-6ce5ba6e589e&lt;br /&gt;274cdbe1-9983-4055-a23b-4723a7b30062&lt;br /&gt;a4ca797b-adef-47ce-b7ae-fd9ebbf7ff77&lt;br /&gt;275b8f78-933e-4e3b-ab02-d141c2428c4b&lt;br /&gt;8b8d161b-e3cb-4b4b-aa79-d9848a8dad49&lt;br /&gt;b9f08ef1-bee5-4848-9ddb-1caeff78fb94&lt;br /&gt;83c5fe33-93a1-4785-b1df-42f85ae785fd&lt;br /&gt;2af816dc-02fe-4f36-b614-857df107f9a7&lt;br /&gt;185d49ab-1db2-4242-8b37-5c56b74d5822&lt;br /&gt;e6f7fd09-d3a8-4e7a-a3e2-da254b54ed1f&lt;br /&gt;4cd521d4-6106-4e19-8426-a645352e91df&lt;br /&gt;2b52e518-68f6-45f1-beb1-5b8a36797d31&lt;br /&gt;b6646d15-b8c1-4b15-82ec-03340ab43946&lt;br /&gt;85d2b284-423c-4038-92e9-c8f7c9c9679f&lt;br /&gt;8e76438d-fdd5-4a9f-be51-4dae8e13a9a8&lt;br /&gt;e0c2feb2-1434-4b3e-b915-f0f7a2f06251&lt;br /&gt;b2868e30-8f48-4e6b-a339-9ee06690b10a&lt;br /&gt;2f7dd583-fc4f-4377-8ff5-64c136b06596&lt;br /&gt;0da772ae-4d3e-4d1c-93e2-1cb61aa0dd65&lt;br /&gt;1eb231b0-3589-4c82-a2c0-062a89b9a326&lt;/p&gt;      </description>
-      <pubDate>Tue, 21 Jun 2022 01:31:12 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/c3m8r7k622xn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c3m8r7k622xn</guid>
     </item>
   </channel>
 </rss>

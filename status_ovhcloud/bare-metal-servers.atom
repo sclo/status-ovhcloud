@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-23T14:11:21Z</updated>
+  <updated>2022-06-24T07:34:56Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10393349</id>
+    <published>2022-06-24T07:34:56Z</published>
+    <updated>2022-06-24T07:34:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s634bzjznkw9"/>
+    <title>[RBX6][Dedicated Servers] - 46B21 - 46B22 - 46B23</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;07:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/06/2022 06:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers on the following racks 46B21, 46B22 and 46B23 are currently unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating the source of this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10387043</id>
     <published>2022-06-23T14:11:21Z</published>
     <updated>2022-06-23T14:11:21Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/js97wlrmm3rf"/>
     <title>[RBX7][DedicatedServers] - Rack R710A21</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/06/2022 09:15 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/06/2022 10:21 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All the servers of the rack are reachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical malfunction&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  21/06/2022 09:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack R710A21 are unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical malfunction&lt;br /&gt;Our technical teams are working on resolving the issue. We will post update as significant progress is done.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10367800</id>
-    <published>2022-06-21T09:34:55Z</published>
-    <updated>2022-06-21T09:34:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/n8xnp2gcnqg3"/>
-    <title>[RBX7][DedicatedServers] - Rack R710B14</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  21/06/2022 08:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  21/06/2022 09:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack R710B14 were unreachable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  21/06/2022 08:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack R710B14 are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. We will post update as significant progress is done.&lt;/p&gt;</content>
   </entry>
 </feed>

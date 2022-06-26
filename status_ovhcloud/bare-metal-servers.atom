@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-26T11:23:42Z</updated>
+  <updated>2022-06-26T20:03:47Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/06/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10408811</id>
+    <published>2022-06-26T20:03:47Z</published>
+    <updated>2022-06-26T20:03:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/m3k3s27js1p5"/>
+    <title>[RBX3][Dedicated Servers] - 46C32</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/06/2022 19:48 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack 46C32 are unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Disjonction caused by a water leak&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Currently, the service is being restored, the repair is done, some servers remain down and our teams are working on it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10407001</id>
     <published>2022-06-26T10:48:18Z</published>
     <updated>2022-06-26T10:48:18Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fnmpr9yffvgv"/>
     <title>VPS - BHS1 - host251053</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251053.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps88137&lt;br /&gt;vps92785&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10376325</id>
-    <published>2022-06-22T07:32:48Z</published>
-    <updated>2022-06-22T07:32:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/kw355b6cqzlg"/>
-    <title>[BHS7][Network] - Network maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;07:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;06:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/06/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The public network will be unavailable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our policy of continuous improvement, we will be correcting bugs encountered on some network devices.&lt;/p&gt;</content>
   </entry>
 </feed>

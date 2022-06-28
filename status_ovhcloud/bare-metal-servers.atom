@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-06-28T15:23:54Z</updated>
+  <updated>2022-06-28T16:32:07Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/4lbbdjn2kq5q"/>
     <title>[GRA1][Network] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/07/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may experience network disruption during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10423323</id>
+    <published>2022-07-04T20:00:00Z</published>
+    <updated>2022-06-28T16:32:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/80plk43wrgtb"/>
+    <title>[FRA1/GRA3/LON1/RBX8][Network] - Network equipment operation</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/07/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade the version of multiple network equipment in order to have a homogeneous park&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10383470</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s634bzjznkw9"/>
     <title>[RBX6][Dedicated Servers] - 46B21 - 46B22 - 46B23</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/06/2022 06:54 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  24/06/2022 13:56 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers on the following racks 46B21, 46B22 and 46B23 are operational. &lt;br /&gt;No data loss to report. The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; The disjunction is due to a water leak on one of our network equipment&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt; Update: &lt;/b&gt; All servers in the rack 46B22 are operational since 13:14 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt; Update: &lt;/b&gt; All servers are actually unreachable on rack 46B22.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt; Update: &lt;/b&gt; 90% of the impacted servers are up, we will come back to you as soon as possible.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;09:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt; Update: &lt;/b&gt; All servers in the rack 46B23 are operational since 09:20 UTC, for the 2 remaining racks 46B22 and 46B21, we have 80% of servers that are also operational. We continue to work on this incident to restore services on the remaining servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt; Update: &lt;/b&gt; We have 60% of servers that are operational now out of the total number of impacted servers. &lt;br /&gt;Our teams continue to work on this incident to restore the service quickly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;07:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  24/06/2022 06:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers on the following racks 46B21, 46B22 and 46B23 are currently unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating the source of this issue.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10387043</id>
-    <published>2022-06-23T14:11:21Z</published>
-    <updated>2022-06-23T14:11:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nh0g4y1lvwgt"/>
-    <title>[GRA2][DedicatedServers] - Rack G251B02</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/06/2022 11:50 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  23/06/2022 13:47 UTC&lt;br /&gt;Our technical teams resolved the issues. All impacted servers are up anew.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Impacted servers are coming back up gradually.&lt;br /&gt;Our technical teams are hands on the remaining impacted servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/06/2022 11:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers in rack G251B02 unexpectedly shut down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating &lt;br /&gt;Our technical teams are working on resolving the issue. We will post update as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

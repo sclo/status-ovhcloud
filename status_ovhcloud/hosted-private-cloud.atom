@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-07-04T06:00:24Z</updated>
+  <updated>2022-07-04T07:00:30Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -57,20 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;01:30&lt;/var&gt; - &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2022 01:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/07/2022 04:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10378808</id>
-    <published>2022-07-04T07:00:00Z</published>
-    <updated>2022-07-04T06:00:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/54xdkfsxs6tp"/>
-    <title>[Global][VMware Private Cloud] - VMware NSX operation</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/07/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10391192</id>
-    <published>2022-07-04T07:00:00Z</published>
-    <updated>2022-07-04T06:00:23Z</updated>
+    <published>2022-07-04T07:00:30Z</published>
+    <updated>2022-07-04T07:00:30Z</updated>
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s"/>
     <title>[Global][Hosted private cloud] - Maintenance upgrade host</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 18:00 UTC&lt;br /&gt;Description: &lt;br /&gt;    Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;Service impact : If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;Service improvement : All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;br /&gt;We will only enterprise customers with VSAN hosts.&lt;br /&gt;the boot order will be checked&lt;br /&gt;89 hosts&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Hosts will be rebooted.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 18:00 UTC&lt;br /&gt;Description: &lt;br /&gt;    Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;Service impact : If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;Service improvement : All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;br /&gt;We will only enterprise customers with VSAN hosts.&lt;br /&gt;the boot order will be checked&lt;br /&gt;89 hosts&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Hosts will be rebooted.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10378808</id>
+    <published>2022-07-04T07:00:29Z</published>
+    <updated>2022-07-04T07:00:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/54xdkfsxs6tp"/>
+    <title>[Global][VMware Private Cloud] - VMware NSX operation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/07/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10306782</id>

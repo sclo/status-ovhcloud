@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 01 Jul 2022 09:39:48 +0000</pubDate>
+    <pubDate>Mon, 04 Jul 2022 06:00:24 +0000</pubDate>
     <item>
       <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 18</title>
       <description>
@@ -54,20 +54,20 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/nhhhzrv6xpxv</guid>
     </item>
     <item>
-      <title>[Global][Hosted private cloud] - Maintenance upgrade host</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 18:00 UTC&lt;br /&gt;Description: &lt;br /&gt;    Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;Service impact : If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;Service improvement : All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;br /&gt;We will only enterprise customers with VSAN hosts.&lt;br /&gt;the boot order will be checked&lt;br /&gt;89 hosts&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Hosts will be rebooted.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
-      <pubDate>Mon, 04 Jul 2022 07:00:00 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</guid>
-    </item>
-    <item>
       <title>[Global][VMware Private Cloud] - VMware NSX operation</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/07/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
       <pubDate>Mon, 04 Jul 2022 07:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/54xdkfsxs6tp</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/54xdkfsxs6tp</guid>
+    </item>
+    <item>
+      <title>[Global][Hosted private cloud] - Maintenance upgrade host</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 18:00 UTC&lt;br /&gt;Description: &lt;br /&gt;    Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;Service impact : If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;Service improvement : All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;br /&gt;We will only enterprise customers with VSAN hosts.&lt;br /&gt;the boot order will be checked&lt;br /&gt;89 hosts&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Hosts will be rebooted.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility and also due to the CVE.&lt;/p&gt;      </description>
+      <pubDate>Mon, 04 Jul 2022 07:00:00 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</guid>
     </item>
     <item>
       <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 17</title>

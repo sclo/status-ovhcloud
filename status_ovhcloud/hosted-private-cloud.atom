@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-07-08T18:00:29Z</updated>
+  <updated>2022-07-08T21:33:11Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/lbywdm5ccyv9"/>
     <title>[RBX2C][Network] - Network devices update</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;01:30&lt;/var&gt; - &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;23:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/07/2022 01:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/07/2022 04:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10507093</id>
+    <published>2022-07-08T21:29:03Z</published>
+    <updated>2022-07-08T21:33:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/bnkzsh7mfctt"/>
+    <title>[RBX2][VMware Private Cloud] - Tete-3311</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/07/2022 09:03 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/07/2022 09:12 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; The storage of these pools were temporarily unavailable pcc-003903 pcc-003904 pcc-007319 pcc-008900 pcc-010170 pcc-010706 pcc-012185 pcc-012195 pcc-012218 pcc-012221&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10391192</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/c67f329gdnw5"/>
     <title>[RBX8][Hosted Private Cloud] Switch  Upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;09:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;23:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt;08/06/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt;09/06/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt;A few seconds of Input/Output freeze when the service will do a switchover (2 times)&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt;The objective of this change is to upgrade the switch version to maintain consistency.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10114524</id>
-    <published>2022-06-23T12:50:50Z</published>
-    <updated>2022-06-23T12:50:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/cx7wt9pfz6vf"/>
-    <title>[Global][Veeam] - Licence expiration</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/06/2022 12:17 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was caused by a lack of licence. The incident is closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 31/05/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; While updating the Veeam license, customers could see a message that it is expired since 31th May, but we still have a 60 days extension. The service will work as usual and there is no impact on the customers infrastructure.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area):&lt;/b&gt; all&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Veeam&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Updating the license on our side&lt;/p&gt;</content>
   </entry>
 </feed>

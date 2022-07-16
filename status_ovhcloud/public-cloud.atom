@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-07-16T02:23:53Z</updated>
+  <updated>2022-07-16T08:38:01Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,22 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/m8l15qn255vv"/>
     <title>[LIM1][Public Cloud][DE1] Rack L115A06 maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers with i1 flavor instances could not be migrated and therefore remain in the defective rack, during the maintenance the hosts will be powered off and therefore instances will be offline for arround 2 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objectif of this operation is to do a replacement of defect in the rack cooling system.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10601192</id>
+    <published>2022-07-16T08:38:01Z</published>
+    <updated>2022-07-16T08:38:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/tmfmg97278bc"/>
+    <title>PCI - GRA1 - host646384</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host646384.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;df122c81-de61-4350-acea-a0689995a771&lt;br /&gt;7505f912-f2fc-4a54-8637-fc1cc11dee1c&lt;br /&gt;d4d07f22-b851-4460-9ff0-be5f055ff330&lt;br /&gt;80360525-73e3-4aa9-8037-508b4509cf1f&lt;br /&gt;d3b121b0-c24c-4401-a45c-f1ec5216d9ae&lt;br /&gt;0dcc116d-2a2a-4857-a8fc-81a19bfa249d&lt;br /&gt;6577ff01-5310-4209-bc35-c0f4ef3abe7b&lt;br /&gt;2380c8c1-58e0-4cbe-88d8-7706b863b12f&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10601155</id>
+    <published>2022-07-16T08:30:59Z</published>
+    <updated>2022-07-16T08:30:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0rw1kgfy1dcl"/>
+    <title>PCI - GRA3 - host878190</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host878190.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;9c6278ec-d31e-4f51-9a4f-0ae580a473b3&lt;br /&gt;81e03a0e-4436-45bd-bba9-bb01f67b7a7f&lt;br /&gt;17ec45e4-6cca-4954-b729-2b315c91f059&lt;br /&gt;b1b404e8-8945-4fc0-88dd-aa9014cc25cf&lt;br /&gt;d194b899-f540-4f37-b28d-caae5659f63a&lt;br /&gt;e90ba48c-2e7a-4062-9671-7f10c01af4f5&lt;br /&gt;69e33384-5bb9-4353-8d5b-77aeb87ea68c&lt;br /&gt;12170d1e-4328-49e6-9871-ef3f2b4b6a91&lt;br /&gt;3736317d-a7d7-4405-aca3-4c1606bc3922&lt;br /&gt;2d008b34-9542-4f63-bf5a-7d38f8819740&lt;br /&gt;c8305764-f957-4682-815f-52f1e3ffeb7d&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10598243</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fy9fnxmwy02j"/>
     <title>PCI - GRA5 - host1120903</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1120903.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;4fe2c2c6-a250-4b1f-aad4-2ee664992f2f&lt;br /&gt;3c2b936d-78f2-4cb9-9cb1-6d7f5520f370&lt;br /&gt;49a2866e-8088-436c-8e53-1b0ba06aea54&lt;br /&gt;526d88bf-291b-4d5f-bd2c-a262d93db410&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10546204</id>
-    <published>2022-07-12T05:12:38Z</published>
-    <updated>2022-07-12T05:12:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6hw5k098zl0y"/>
-    <title>PCI - BHS5 - host359832</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10545895</id>
-    <published>2022-07-12T04:35:12Z</published>
-    <updated>2022-07-12T04:35:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2lwtjw5njkf0"/>
-    <title>PCI - SGP1 - host431604</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431604.sgp1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;92d7d5bb-2fb2-4121-b1d4-f193aefa720b&lt;br /&gt;29b1ba4b-2102-435d-b486-c32067e8b342&lt;br /&gt;038d3557-7ed7-44c8-8ff9-4d5fda461578&lt;br /&gt;7edde6da-705a-411e-bfb5-94dd05ab91e1&lt;/p&gt;</content>
   </entry>
 </feed>

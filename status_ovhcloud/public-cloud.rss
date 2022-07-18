@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 18 Jul 2022 08:14:52 +0000</pubDate>
+    <pubDate>Mon, 18 Jul 2022 08:24:27 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -38,6 +38,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8j6hm0jymqg5</guid>
     </item>
     <item>
+      <title>[LIM1][Public Cloud][DE1] Rack L115A06 maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers with i1 flavor instances could not be migrated and therefore remain in the defective rack, during the maintenance the hosts will be powered off and therefore instances will be offline for arround 2 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objectif of this operation is to do a replacement of defect in the rack cooling system.&lt;/p&gt;      </description>
+      <pubDate>Mon, 18 Jul 2022 08:21:07 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/m8l15qn255vv</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/m8l15qn255vv</guid>
+    </item>
+    <item>
       <title>PCI - UK1 - host801965</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host801965.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;556084fa-6801-4fdf-87db-ae78c3b405b4&lt;br /&gt;ac640e4e-c052-4bf1-8945-486916861ec1&lt;br /&gt;52041310-03b9-42bb-bb79-8defe0ed2d33&lt;br /&gt;756196c6-752d-4edc-87b1-8490098fe85b&lt;/p&gt;      </description>
@@ -52,14 +60,6 @@
       <pubDate>Mon, 18 Jul 2022 08:04:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/lkfr690mg4hf</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lkfr690mg4hf</guid>
-    </item>
-    <item>
-      <title>[LIM1][Public Cloud][DE1] Rack L115A06 maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers with i1 flavor instances could not be migrated and therefore remain in the defective rack, during the maintenance the hosts will be powered off and therefore instances will be offline for arround 2 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objectif of this operation is to do a replacement of defect in the rack cooling system.&lt;/p&gt;      </description>
-      <pubDate>Mon, 18 Jul 2022 07:00:01 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/m8l15qn255vv</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/m8l15qn255vv</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host1038717</title>

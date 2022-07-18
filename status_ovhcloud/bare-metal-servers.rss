@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 18 Jul 2022 03:47:06 +0000</pubDate>
+    <pubDate>Mon, 18 Jul 2022 05:59:44 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -190,20 +190,20 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/45d58bs90r7g</guid>
     </item>
     <item>
-      <title>[BHS7][DedicatedServers] - Network equipement operation</title>
+      <title>[Global][Dedicated Servers] - resetHwFlag removal</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;07:10&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 07:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers using APIv6 with resetHwRaid within their scripts will get an error. &lt;br /&gt;In order to solve the error, impacted customers should remove the flag from the script(&quot;POST /dedicated/server/{serviceName}/install/start&quot; &quot;resetHwFlag&quot; in &quot;details&quot;).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our policy of continuous improvement, we will be making modifications to the baremetal software to remove the resetHwRaid optional flag, which could cause confusion as it is now performed systematically.&lt;/p&gt;      </description>
       <pubDate>Mon, 18 Jul 2022 07:00:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jnl6yl1b6wmx</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jnl6yl1b6wmx</guid>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/glzw85pqwstv</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/glzw85pqwstv</guid>
     </item>
     <item>
-      <title>[BHS7][DedicatedServers] - Network equipement operation</title>
+      <title>[LIM1][Global Infrastructure] L115A11</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  The costumers are not available during the operation , we have to shut down the complete rack &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Water manifold replacement&lt;/p&gt;      </description>
       <pubDate>Mon, 18 Jul 2022 07:00:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/70b0lbvh2tdj</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/70b0lbvh2tdj</guid>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/b2zc5qdg9pxb</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/b2zc5qdg9pxb</guid>
     </item>
   </channel>
 </rss>

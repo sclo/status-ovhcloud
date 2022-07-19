@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 19 Jul 2022 11:23:42 +0000</pubDate>
+    <pubDate>Tue, 19 Jul 2022 13:34:24 +0000</pubDate>
     <item>
       <title>[Global][Hosted Private Cloud] - VCSA upgrade</title>
       <description>
@@ -84,6 +84,14 @@
       <pubDate>Tue, 19 Jul 2022 22:00:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/3qqzrsthwwzg</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/3qqzrsthwwzg</guid>
+    </item>
+    <item>
+      <title>[RBX2][Hosted private Cloud] - PCC and Backup managment</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Management down of some PCCs and backup will fail today for most of RBX customers&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Veeam backup and management of some PCC.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A technical problem in our cooling system caused the incident&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;      </description>
+      <pubDate>Tue, 19 Jul 2022 13:34:24 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l</guid>
     </item>
     <item>
       <title>[RBX2B][Hosted private Cloud] - Additionnal Zpool</title>
@@ -196,14 +204,6 @@
       <pubDate>Fri, 08 Jul 2022 18:00:29 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s</guid>
-    </item>
-    <item>
-      <title>[Global][Hosted private cloud] - Maintenance upgrade host - wave 18</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Up to three reboot and if we meet an issue during the reboot of the host, it will be replaced. (20 min)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts are upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;&lt;br /&gt;If you are from wave 18 you will receive a mail from us and you will be able to schedule again with the manager.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped&lt;/p&gt;      </description>
-      <pubDate>Fri, 08 Jul 2022 16:00:44 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqgkzbfgvzrn</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rqgkzbfgvzrn</guid>
     </item>
   </channel>
 </rss>

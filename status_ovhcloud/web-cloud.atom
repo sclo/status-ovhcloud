@@ -4,10 +4,26 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-07-19T12:40:31Z</updated>
+  <updated>2022-07-19T14:56:06Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10639213</id>
+    <published>2022-07-19T14:56:06Z</published>
+    <updated>2022-07-19T14:56:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/zkbh3vp9lnn1"/>
+    <title>[RBX7][Collaborative solutions] - Hosts unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some private exchange servers are unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The root cause is related to this incident: https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working on the problem&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10639199</id>
+    <published>2022-07-19T14:00:00Z</published>
+    <updated>2022-07-19T14:55:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/3v1yhxbk3kj8"/>
+    <title>[FR][OvertheBox] - Loss of connectivity</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/07/2022 14:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2022 14:49 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All services on this leaf with the Overthebox IP were disconnected, but the service continued to work with the IP of the connected Internet router.&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; The services have been migrated to another leaf.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10623173</id>
     <published>2022-07-19T12:40:31Z</published>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/yv2ps9zgx95z"/>
     <title>[GRA][Webhosting] - sharedsql072.eu007</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/07/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/07/2022 09:00 UTC &lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; Our teams carried out a migration to resolve the unavailability.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;06:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; sharedsql072.eu007 is unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently identifying the cause of this unavailability.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10476399</id>
-    <published>2022-07-06T05:50:26Z</published>
-    <updated>2022-07-06T05:50:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/gj79w1vy50nn"/>
-    <title>[GRA][Webhosting] - sharedsql072.eu007</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/07/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/07/2022 05:43 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The unavailability of sharedsql072.eu007 was due to a temperature problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; sharedsql072.eu007 is unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently identifying the cause of this unavailability.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10470548</id>
-    <published>2022-07-05T14:57:17Z</published>
-    <updated>2022-07-05T14:57:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/vszlkc5s5rxl"/>
-    <title>[FR/BELGIQUE][Webcloud] - Invoice generation Incident</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 01/07/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/07/2022 12:56 UTC&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; A fix was deployed, delays were caught up, incident closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;10:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/07/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The generation of telecom invoices is subject to processing delays.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of determining the origin of these processing slowdowns.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-07-19T14:44:16Z</updated>
+  <updated>2022-07-19T14:49:54Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -89,19 +89,11 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 19/07/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 20/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; A few seconds of Input/Output freeze when the service will do a switchover (2 times)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Hosted Private Cloud products to maintain consistency.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10639060</id>
-    <published>2022-07-19T14:42:03Z</published>
-    <updated>2022-07-19T14:42:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/9zsxqvhwqnyt"/>
-    <title>[RBX7][VMware Private Cloud] - Hosts unavailable</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some private exchange servers are unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are still working on the problem&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10638287</id>
-    <published>2022-07-19T14:44:16Z</published>
-    <updated>2022-07-19T14:44:16Z</updated>
+    <published>2022-07-19T14:45:42Z</published>
+    <updated>2022-07-19T14:45:42Z</updated>
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l"/>
-    <title>[RBX2B][Hosted private Cloud] - PCC and Backup managment</title>
+    <title>[RBX2B][Hosted private Cloud] - Hosted private Cloud hosts and Backup management</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing Actions:&lt;/b&gt; Our teams stopped temporary the Veeam backup service in order to make all the other services available.&lt;br /&gt;We will keep you updated on the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing Actions:&lt;/b&gt; Management is gradually coming back.&lt;br /&gt;Our teams are still working to solve the problem&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Management down of some PCCs and backup will fail today for most of RBX customers.&lt;br /&gt;Also datastores on RBX2B might be unavailable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Veeam backup and management of some PCC.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A technical problem in our cooling system caused the incident&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;</content>
   </entry>
   <entry>
@@ -207,5 +199,13 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/bnkzsh7mfctt"/>
     <title>[RBX2][VMware Private Cloud] - Tete-3311</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/07/2022 09:03 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/07/2022 09:12 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; The storage of these pools were temporarily unavailable pcc-003903 pcc-003904 pcc-007319 pcc-008900 pcc-010170 pcc-010706 pcc-012185 pcc-012195 pcc-012218 pcc-012221&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10391192</id>
+    <published>2022-07-08T18:00:29Z</published>
+    <updated>2022-07-08T18:00:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/j3ywd0p8rp6s"/>
+    <title>[Global][Hosted private cloud] - Maintenance upgrade host</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2022 18:00 UTC&lt;br /&gt;Description: &lt;br /&gt;    Builds will be pushed to the host, put in maintenance mode, all Vms will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If major update have to be done, it will be two successive reboots like this:&lt;br /&gt;Host v6.0 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.5 : upgrade major to v6.7, reboot, then upgrade minor to the last build v6.7, reboot.&lt;br /&gt;Host v6.7 : upgrade minor to the last build 19195723 if needed, reboot.&lt;br /&gt;If hosts are already on 19195723, they will be skipped.&lt;br /&gt;Service impact : If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;br /&gt;Service improvement : All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;br /&gt;We will only enterprise customers with VSAN hosts.&lt;br /&gt;the boot order will be checked&lt;br /&gt;89 hosts&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Hosts will be rebooted.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  All hosts have to be upgraded frequently due to the VMware's matrix of compatibility and also due to the CVE.&lt;/p&gt;</content>
   </entry>
 </feed>

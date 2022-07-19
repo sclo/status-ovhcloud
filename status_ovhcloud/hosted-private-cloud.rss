@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 19 Jul 2022 03:46:56 +0000</pubDate>
+    <pubDate>Tue, 19 Jul 2022 04:23:44 +0000</pubDate>
     <item>
       <title>[Global][Hosted Private Cloud] - VCSA upgrade</title>
       <description>
@@ -70,10 +70,18 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/3qqzrsthwwzg</guid>
     </item>
     <item>
+      <title>[RBX2][Hosted private Cloud] - Storage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 02:42 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Some zpool are not mounted on the gwssl, sftp access issue&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Gateway ssl&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by operation on a maintenance about storage switchover.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A fix in progress.&lt;/p&gt;      </description>
+      <pubDate>Tue, 19 Jul 2022 04:08:37 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/qmh7m7w3yq4t</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/qmh7m7w3yq4t</guid>
+    </item>
+    <item>
       <title>[RBX8][Hosted Private Cloud]  Switch Upgrade</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  19/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of Input/Output freeze when the service will do a switchover (2 times)&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The objective of this change is to upgrade the switch version to maintain consistency.&lt;/p&gt;      </description>
-      <pubDate>Tue, 19 Jul 2022 04:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  19/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of Input/Output freeze when the service will do a switchover (2 times)&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The objective of this change is to upgrade the switch version to maintain consistency.&lt;/p&gt;      </description>
+      <pubDate>Tue, 19 Jul 2022 04:00:28 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/vvzrxfdq76tx</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vvzrxfdq76tx</guid>
     </item>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 07 Jul 2022 10:31:35 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/yg3hmx32yb2g</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/yg3hmx32yb2g</guid>
-    </item>
-    <item>
-      <title>[RBX2C][Network] - Network devices update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - It is going to be postponed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; This operation is still in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/07/2022 01:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/07/2022 04:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will be updating our network equipment.&lt;/p&gt;      </description>
-      <pubDate>Thu, 07 Jul 2022 04:00:44 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/kxhzdyjtl3rm</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/kxhzdyjtl3rm</guid>
     </item>
   </channel>
 </rss>

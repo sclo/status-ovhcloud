@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-07-20T06:23:48Z</updated>
+  <updated>2022-07-20T08:37:32Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/g1wpyr9dlwpk"/>
     <title>[GRA-BHS][Web Cloud Databases] - Migration Database Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:10&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;05:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/07/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 13:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A downtime of one minute per customer may occur during this operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our policy of continuous improvement, we will carry out this maintenance for a database migration.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10649329</id>
+    <published>2022-07-20T08:37:32Z</published>
+    <updated>2022-07-20T08:37:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/0xyq9kxz6716"/>
+    <title>[GRA][Webhosting] - Cluster023 - Filerz56</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/07/2022 07:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowdown might be observed on filerz56&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Storage equipment malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10639213</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/fjnbl8zvbt30"/>
     <title>[GRA][Web Hosting] - Migration on Cluster011</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;22:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2022 23:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this operation, Some customers may experience an unavailability for access to databases from phpmyadmin or to ftp via net2ftp)&lt;br /&gt;No impact on access to client sites, databases directly or to ftp from a classic ftp client.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Within the framework of the continuous improvement of our services, we carry out an operation of migration on cluster11.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10476950</id>
-    <published>2022-07-06T15:46:48Z</published>
-    <updated>2022-07-06T15:46:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/jk4gm5py3tp1"/>
-    <title>[FR][Domain] - Change of owner’s informations</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  06/07/2022 15:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Informations change of owner’s data following contactControl operation on .fr domains are operational again. &lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Investigations are still ongoing and we will get back to you as soon as the cause of the disruption is identified.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Informations change of owner’s data following contactControl operation on .fr domains&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently investigating to resolve the issue.&lt;/p&gt;</content>
   </entry>
 </feed>

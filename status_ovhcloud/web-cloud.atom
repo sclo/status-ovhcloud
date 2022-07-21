@@ -4,17 +4,25 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-07-21T10:41:22Z</updated>
+  <updated>2022-07-21T10:52:18Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10660279</id>
+    <published>2022-07-21T10:52:18Z</published>
+    <updated>2022-07-21T10:52:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/j5qkd2mmj0sm"/>
+    <title>[RBX-GRA-SBG][CollaborativeSolutions] - Mailbox acces instabilities</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 08:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Mailbox access from Outlook to ex3.mail.ovh.net may not function properly.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Investigating&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10660227</id>
-    <published>2022-07-21T10:41:22Z</published>
-    <updated>2022-07-21T10:41:22Z</updated>
+    <published>2022-07-21T10:48:13Z</published>
+    <updated>2022-07-21T10:48:13Z</updated>
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dp7ply4vwjh3"/>
     <title>[France][Internet Access] - FTTH</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service interruption might be observed&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Interventions are in progress in order to correct in a perennial way as fast as possible. We apologize for the inconvenience caused.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service interruption on some access might be observed&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Interventions are in progress in order to correct in a perennial way as fast as possible. We apologize for the inconvenience caused.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10659115</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/kjx54kq611bw"/>
     <title>[GRA][Webhosting] - Manager web statistics</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;11/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  11/07/2022 14:20 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; There was an issue with the load balancer to the metric read backend. The load balancer was switched to use a new read backend.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - UPDATE: Our technical team have corrected the errors internally and on the API. Work still in progress to bring the service back in order.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Access to web statistics on all hosted websites not available&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; All on clusters&lt;br /&gt;Our technical teams are working on resolving the issue. Updates will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10534107</id>
-    <published>2022-07-11T10:20:14Z</published>
-    <updated>2022-07-11T10:20:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/tdnz13nhrttd"/>
-    <title>[GRA][Webhosting] - filerz208</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  11/07/2022 09:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; slowdowns observed on filerz208&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; slowdowns are observed on filerz208&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; server1856&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;</content>
   </entry>
 </feed>

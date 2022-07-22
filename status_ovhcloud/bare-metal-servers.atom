@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-07-21T23:51:59Z</updated>
+  <updated>2022-07-22T00:17:30Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,12 +121,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;19:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/07/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10555045</id>
+    <published>2022-07-22T00:17:09Z</published>
+    <updated>2022-07-22T00:17:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/p2trq9rqvs1w"/>
+    <title>[LIM3-GRA2-RBX7][DedicatedServers] - Network equipement operation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been done only in LIM7 and RBX7.&lt;br /&gt;We will inform you in the near future of the new dates for the maintenance at GRA2.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/07/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10665184</id>
+    <published>2022-07-22T00:07:03Z</published>
+    <updated>2022-07-22T00:07:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mlyp2ddhp0h0"/>
+    <title>VPS - BHS2 - host251073</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251073.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;3f8f7a4e-2f6c-4bab-ace0-60269d39772e&lt;br /&gt;c21ace6e-9279-4126-bc49-4c51c28bf1bd&lt;br /&gt;82d3b1d3-64f2-4685-9c4d-76a866a53fb0&lt;br /&gt;6af8b0f9-fbc8-4725-96cc-99e9ea6717e5&lt;br /&gt;a5075c8a-072a-4fbb-859f-69c52e2764f1&lt;br /&gt;b1f48731-9473-4366-9600-f8ccf2e889bd&lt;br /&gt;c7f8886f-cbf7-4b8c-82a4-4d014ff357de&lt;br /&gt;115d9346-d3b9-4826-a00b-935fdebbe28d&lt;br /&gt;5906cc4f-9b78-4e49-a651-04cdcae40309&lt;br /&gt;291e71b4-9e05-4eaa-8f5c-02fa8268809b&lt;br /&gt;f5d2aa80-d4e5-41e9-8fed-554eddd7d21c&lt;br /&gt;3b8cad34-e792-413a-b71e-0c3f6fac3b82&lt;br /&gt;81795767-1b43-4256-a191-70ff76d97fd8&lt;br /&gt;4453aff7-a84e-4c95-b385-4a6bcb1215f9&lt;br /&gt;77be557a-1443-435d-96be-ff95f33276fc&lt;br /&gt;f13dedef-1ee1-4778-a43e-a3193d7a451d&lt;br /&gt;9e51d9c3-d6cc-486d-9665-bf42241ea866&lt;br /&gt;e7a302b9-a46e-4a4d-a1ca-6ab16c959328&lt;br /&gt;0f7b67b2-68f7-419b-87b2-4e64d590e58e&lt;br /&gt;515d5dae-c49f-4bc0-8595-7ac97f110b18&lt;br /&gt;2c15470f-10ad-4fa2-81ae-9ec9e566a1c0&lt;br /&gt;8b2ed110-1dfd-45e2-915f-c3f95596a3c5&lt;br /&gt;41f6547b-46a2-4a05-aec8-970d5631e73d&lt;br /&gt;f9b6eab6-5573-4b54-a41d-2ad3c7dc2a82&lt;br /&gt;69fcf8df-cc97-4716-a05e-c7cee6f63cce&lt;br /&gt;12c443b6-f0d7-4188-a2f8-dce05f7a6579&lt;br /&gt;34c8fb40-fffa-448f-9dcb-41f4c817c2ae&lt;br /&gt;8a0c361c-51af-476e-adf4-4648e1921c61&lt;br /&gt;138cda68-8075-4663-a49a-c6ada50f569b&lt;br /&gt;99bc1a14-c75c-4cf1-bdb4-f76ba0f01842&lt;br /&gt;b2a22c67-162b-4c35-913a-81cac1717566&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10646274</id>
-    <published>2022-07-22T00:00:00Z</published>
-    <updated>2022-07-21T23:00:25Z</updated>
+    <published>2022-07-22T00:00:43Z</published>
+    <updated>2022-07-22T00:00:43Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3brxrpkf3scz"/>
     <title>[GRA1][Network] - Network equipment operation</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/07/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/07/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may experience network disruption during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/07/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/07/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may experience network disruption during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10665111</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bs5cxc652vbs"/>
     <title>VPS - BHS2 - host251096</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251096.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps205310&lt;br /&gt;vps259464&lt;br /&gt;vps293561&lt;br /&gt;vps291481&lt;br /&gt;vps188165&lt;br /&gt;vps294833&lt;br /&gt;vps232188&lt;br /&gt;vps287178&lt;br /&gt;vps270467&lt;br /&gt;vps262502&lt;br /&gt;vps251917&lt;br /&gt;vps220313&lt;br /&gt;vps200699&lt;br /&gt;vps200398&lt;br /&gt;vps197988&lt;br /&gt;vps190837&lt;br /&gt;vps179876&lt;br /&gt;vps153401&lt;br /&gt;vps135791&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10664556</id>
-    <published>2022-07-21T22:01:00Z</published>
-    <updated>2022-07-21T22:01:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/y4yy3r4ssrnr"/>
-    <title>VPS - BHS2 - host251092</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251092.bhs2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps285704&lt;br /&gt;vps285382&lt;br /&gt;vps247903&lt;br /&gt;vps243739&lt;br /&gt;vps211199&lt;br /&gt;vps130981&lt;br /&gt;vps222640&lt;br /&gt;vps218536&lt;br /&gt;vps184440&lt;br /&gt;vps178740&lt;br /&gt;vps174801&lt;br /&gt;vps174706&lt;br /&gt;vps172753&lt;br /&gt;vps159767&lt;br /&gt;vps151950&lt;br /&gt;vps148341&lt;br /&gt;vps147315&lt;br /&gt;vps143568&lt;br /&gt;vps141143&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10664550</id>
-    <published>2022-07-21T22:00:03Z</published>
-    <updated>2022-07-21T22:00:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/jq6svtbmp1jr"/>
-    <title>VPS - BHS1 - host251204</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251204.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps105798&lt;br /&gt;vps99673&lt;br /&gt;vps98590&lt;br /&gt;vps97103&lt;br /&gt;vps95159&lt;br /&gt;vps95462&lt;br /&gt;vps95100&lt;br /&gt;vps93595&lt;br /&gt;vps91900&lt;br /&gt;vps57115&lt;br /&gt;vps90415&lt;br /&gt;vps88627&lt;br /&gt;vps84569&lt;br /&gt;vps83250&lt;br /&gt;vps80240&lt;br /&gt;vps81927&lt;br /&gt;vps81547&lt;br /&gt;vps80913&lt;br /&gt;vps80563&lt;br /&gt;vps80389&lt;br /&gt;vps53691&lt;br /&gt;ed32d534-92cb-4018-86e0-b19888bd462c&lt;br /&gt;vps77707&lt;br /&gt;vps77819&lt;br /&gt;vps60369&lt;br /&gt;vps67462&lt;br /&gt;vps67165&lt;br /&gt;vps66416&lt;br /&gt;vps62423&lt;br /&gt;vps62055&lt;br /&gt;vps59252&lt;br /&gt;vps57731&lt;br /&gt;vps57241&lt;/p&gt;</content>
   </entry>
 </feed>

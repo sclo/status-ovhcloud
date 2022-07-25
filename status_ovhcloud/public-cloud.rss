@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 25 Jul 2022 09:24:25 +0000</pubDate>
+    <pubDate>Mon, 25 Jul 2022 10:06:58 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Wed, 10 Aug 2022 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</guid>
+    </item>
+    <item>
+      <title>[US-EAST-VA-1][Instance Backup] - 404 and 503 Error</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  25/07/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We no longer observe 404 and 503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our teams have increased the storage capacities and proceeded to a new load balancing on our infrastructure&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Incident still ongoing, resolution is being processed and will take some time. We will get back to you as soon as a significant progress is visible.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Initial investigation indicates that block storage and volume snapshot products are not impacted.&lt;br /&gt;A fix is currently being tested.&lt;br /&gt;We&apos;ll be back shortly once the test has been validated and is being deployed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  06/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We observe temporary 404 on GET method and 503 on PUT method, both due to misplaced objects.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams investigate to resolve the situation.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Jul 2022 10:06:58 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/yvxfhybnrn8g</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/yvxfhybnrn8g</guid>
     </item>
     <item>
       <title>[Worldwide][Public Cloud] VPS-Neutron network issue</title>
@@ -199,14 +207,6 @@
       <pubDate>Fri, 22 Jul 2022 03:52:47 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/yyqgk25vlzwx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/yyqgk25vlzwx</guid>
-    </item>
-    <item>
-      <title>PCI - BHS1 - host251975</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host251975.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;5cfbae30-890c-475a-bb54-14b7576ec01e&lt;br /&gt;e9226697-9457-4cae-bb60-fbfdeab6e9a9&lt;br /&gt;b7ccfef4-3677-42c5-8838-4b04ff0f12f4&lt;br /&gt;4e985205-1621-4fbb-b64f-ff24ac5900d5&lt;br /&gt;4b06be8e-44c0-435f-94a2-0bec55abd8db&lt;br /&gt;2bb7ede6-4d03-4bab-9c5b-48e0b8630325&lt;br /&gt;45dedad4-328d-4e1c-b999-3bf41bfc4f90&lt;br /&gt;8f0ad116-1a16-4454-9f1e-e8e7396bf8b4&lt;br /&gt;319cfd5b-8b6e-41c4-8f19-b40476b80efc&lt;br /&gt;e2279c6e-a072-4ddc-842b-ea0dc91dec59&lt;br /&gt;f5f0303f-1ccf-4e16-8a6a-fd4c7fae6810&lt;br /&gt;d1490dfd-9b6d-4a35-a5e2-2d3bc15dfc73&lt;br /&gt;59932579-ab11-44d4-87d8-fad48a595d01&lt;br /&gt;be87d56a-1f73-48ee-9113-75856e990bb7&lt;br /&gt;ef318d38-f843-445f-bfe8-fb5699b6239f&lt;br /&gt;66bfe54a-4577-4ec9-9967-0d4583f17f67&lt;br /&gt;a60a60d9-c70b-4657-a245-313aae96ef0f&lt;br /&gt;565e69c5-3903-4b12-9e49-fc3080b30d56&lt;br /&gt;ddcddc58-b3e4-423d-b6c3-70ee9b6e08ec&lt;br /&gt;4a6f2dad-921f-44f2-938b-acc2cd7ee5ca&lt;br /&gt;67efcd84-9ca1-467d-a3c0-7c7d0f24a769&lt;br /&gt;27ebe18e-5a87-41e5-b6c9-9a97f82601ad&lt;br /&gt;caafc986-cb8d-4cdd-b293-f48763b26d6f&lt;br /&gt;b6f74cb6-af15-4471-9058-385403d3dfa3&lt;br /&gt;9bc772c2-aeb8-425a-9f4a-9f614e418af0&lt;br /&gt;6e3fdfa4-6590-4abb-9d9a-6c86afb1476c&lt;br /&gt;5018d689-2b28-47b6-8e88-bfcaabc9b42b&lt;br /&gt;8a92e7d7-4ccc-4b43-b9a1-8ec16a38a5f7&lt;br /&gt;b4baf2c3-21a3-4d5c-ada6-76ff2daa286f&lt;br /&gt;014d2b46-a755-4dcc-a570-8e34d5f447b1&lt;br /&gt;60796466-5a4f-43c4-85a5-a5c03fdd30af&lt;br /&gt;d0353c23-1c10-418b-aff6-03dc1b59de77&lt;br /&gt;36adcc11-2b86-488c-bdb3-fcbdb514afbd&lt;br /&gt;95975c98-3e45-4935-bac8-5b06cc9d3116&lt;br /&gt;23aafcbc-7108-4aea-ad08-a1e736583431&lt;br /&gt;b46db247-7f06-48d3-95a5-edc0dc98540b&lt;br /&gt;35efed5d-02e2-4dac-8eeb-05220e063cbe&lt;br /&gt;05e0dab3-b38c-480c-8a7a-103b612cb9f8&lt;br /&gt;4b389d20-d6b6-458c-9ff0-f0e6bbf7a334&lt;br /&gt;b50a6bea-d597-43f2-b42c-7b2648b313f7&lt;br /&gt;4047ad45-7fc7-4f3e-8fe6-a04d683b2cfa&lt;br /&gt;f3904a5a-e585-4aba-81b6-e62cae35109e&lt;br /&gt;c4c566ac-e545-4141-944a-800e8ea53268&lt;br /&gt;b28e7081-6e84-4571-9251-bd5d7d0b64c3&lt;br /&gt;bdf5281a-e5bb-48ff-9de4-47839bfcd389&lt;br /&gt;39fadcce-0535-47bf-8435-9a471775f997&lt;br /&gt;af7dfd00-956d-4193-a116-33021cd0f60d&lt;/p&gt;      </description>
-      <pubDate>Fri, 22 Jul 2022 03:44:54 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/34217pzzhnjw</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/34217pzzhnjw</guid>
     </item>
   </channel>
 </rss>

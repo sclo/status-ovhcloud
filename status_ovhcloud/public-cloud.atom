@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-07-25T10:37:09Z</updated>
+  <updated>2022-07-25T10:46:08Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -42,11 +42,11 @@
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10684747</id>
-    <published>2022-07-25T10:37:09Z</published>
-    <updated>2022-07-25T10:37:09Z</updated>
+    <published>2022-07-25T10:46:08Z</published>
+    <updated>2022-07-25T10:46:08Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zz1wqhp70wk8"/>
     <title>[Worldwide][Public Cloud] - Neutron network issue</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work in progress to resolve the issue. &lt;br /&gt;Majority of the regions improved. Impact is mainly SBG5, SBG6, SBG7, SBG8 and UK1 regions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; An issue has been discovered relating to the networking component (Neutron). The impact can be observed on both public and private networks.&lt;br /&gt;Impact is limited and not all VMs are impacted. The bug may not impact a VM, but after action such as reboot or migration may cause issues with network.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; We recommend avoiding actions such as restart and reinstall of instances.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; The bug is identified and the teams are mobilised to resolve the issue as soon as possible.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work still in progress to resolve the issue. &lt;br /&gt;UK1 and SBG8 region is now resolved. We are working to resolve the remaining regions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work in progress to resolve the issue. &lt;br /&gt;Majority of the regions improved. Impact is mainly SBG5, SBG6, SBG7, SBG8 and UK1 regions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; An issue has been discovered relating to the networking component (Neutron). The impact can be observed on both public and private networks.&lt;br /&gt;Impact is limited and not all VMs are impacted. The bug may not impact a VM, but after action such as reboot or migration may cause issues with network.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; We recommend avoiding actions such as restart and reinstall of instances.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; The bug is identified and the teams are mobilised to resolve the issue as soon as possible.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10684459</id>

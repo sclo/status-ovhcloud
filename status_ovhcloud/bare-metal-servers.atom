@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-07-27T08:33:37Z</updated>
+  <updated>2022-07-27T08:53:34Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,6 +121,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/07/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/07/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10699627</id>
+    <published>2022-07-27T08:43:00Z</published>
+    <updated>2022-07-27T08:53:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/dvp6s1zpjl8p"/>
+    <title>[RBX3][Dedicated Servers] - Rack E12</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/07/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/07/2022 08:43 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers were unreachable on rack E12 in room 41&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An electrical issue caused the incident&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10699253</id>
     <published>2022-07-27T07:52:01Z</published>
     <updated>2022-07-27T07:52:01Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3qz7bsmhld5q"/>
     <title>[RBX8][Virtual Private Servers] - API errors</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/07/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  26/07/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; After a fix made by our teams, the API and manager works correctly.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a software issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/07/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  The API may return errors on SBG8 region. This can impact actions on the OVHcloud API and OVHcloud customer portal. This does not impact the running workload. We recommend to avoid doing actions such as reboot and  reinstall as the API may return an error&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams investigate to determine the origin of these errors&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10690637</id>
-    <published>2022-07-26T12:17:13Z</published>
-    <updated>2022-07-26T12:17:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9cncyj5z15w0"/>
-    <title>VPS - SGP2 - host423198</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host423198.sgp2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;37870b3a-4f25-4a41-a0d1-bd3938374324&lt;br /&gt;86014b31-9112-4f13-90a6-3bab072e6775&lt;br /&gt;8c0cb98b-cdf6-46e3-bb34-2dcc46468780&lt;br /&gt;b2dc7d1c-7a8b-40f2-bc3e-044c74ba7d87&lt;br /&gt;1a955bd3-7daf-4acf-bfad-8ccadaa39067&lt;br /&gt;2efe24dd-4e56-404a-bd2e-2dff40f08249&lt;/p&gt;</content>
   </entry>
 </feed>

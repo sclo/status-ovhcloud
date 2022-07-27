@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 27 Jul 2022 10:32:39 +0000</pubDate>
+    <pubDate>Wed, 27 Jul 2022 18:42:43 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hzv5tp1xtr4t</guid>
     </item>
     <item>
+      <title>[BHS8][Dedicated Servers] - BHS0811A02A</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  27/07/2022 13:48 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack BHS0811A02A are currently unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on a cooling system. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical team is working on a fix.&lt;/p&gt;      </description>
+      <pubDate>Wed, 27 Jul 2022 18:42:43 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sjpltwkq93p9</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/sjpltwkq93p9</guid>
+    </item>
+    <item>
       <title>[BHS7/BHS8][Network] - Network equipment operation</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Due to an imponderable, we have to postpone the intervention. We apologise for the inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/07/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Tue, 26 Jul 2022 18:45:16 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fglgr2t5qs3y</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fglgr2t5qs3y</guid>
-    </item>
-    <item>
-      <title>[RBX8][Virtual Private Servers] - API errors</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/07/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  26/07/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; After a fix made by our teams, the API and manager works correctly.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a software issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  26/07/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  The API may return errors on SBG8 region. This can impact actions on the OVHcloud API and OVHcloud customer portal. This does not impact the running workload. We recommend to avoid doing actions such as reboot and  reinstall as the API may return an error&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams investigate to determine the origin of these errors&lt;/p&gt;      </description>
-      <pubDate>Tue, 26 Jul 2022 17:00:18 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3qz7bsmhld5q</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3qz7bsmhld5q</guid>
     </item>
   </channel>
 </rss>

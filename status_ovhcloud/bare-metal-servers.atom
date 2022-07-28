@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-07-28T13:23:45Z</updated>
+  <updated>2022-07-28T14:04:06Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;03:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/07/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/07/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10709343</id>
+    <published>2022-07-28T13:56:22Z</published>
+    <updated>2022-07-28T14:04:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/218tpq1rgr2w"/>
+    <title>[LIM1][vRack] - Traffic loss</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/07/2022 20:34 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; Two downtimes has been seen during the maintenance and also few hours before:&lt;br /&gt;26th July 2022 between 20:34 and 21:03 UTC&lt;br /&gt;27th July 2022 between 06:10 and 06:46 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Following the following maintenance: https://bare-metal-servers.status-ovhcloud.com/incidents/zktx1b70ld95.&lt;br /&gt;One of our vRack exchanger for Baremetal has been updated. the mac-move protection feature has been activated by the upgrade even if it was disable before the upgrade. The upgrade campain for this version/infrastructure has been stopped and we are currently working with the manufacturer to resolve this issue.&lt;br /&gt;The feature issue was found and has been desactivated on 27th July 2022 at around 07h00 UTC.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10707923</id>
     <published>2022-07-28T12:21:52Z</published>
     <updated>2022-07-28T12:22:15Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zjh36y01d12z"/>
     <title>[LIM][Dedicated Servers] - L122B11</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/07/2022 06:22 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  27/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The VRack on rack L122B11 was unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network maintenance caused the incident: https://bare-metal-servers.status-ovhcloud.com/incidents/zktx1b70ld95&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  27/07/2022 06:22 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The VRack on rack L122B11 is currently unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network maintenance caused the incident: https://bare-metal-servers.status-ovhcloud.com/incidents/zktx1b70ld95&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10699523</id>
-    <published>2022-07-27T07:17:00Z</published>
-    <updated>2022-07-27T08:33:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/rpgrl4ntywf2"/>
-    <title>[RBX3][Dedicated Servers] - 41H02/41H03</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/07/2022 07:17 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  27/07/2022 08:15 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Following a maintenance operation on the cooling system, servers on these two racks lost their power supply. We apologise for the inconvenience due&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 28 Jul 2022 13:23:45 +0000</pubDate>
+    <pubDate>Thu, 28 Jul 2022 14:04:06 +0000</pubDate>
     <item>
       <title>[GRA, RBX, SBG, BHS / France, Canada][ Cisco ASA firewall] – Baremetal – Cisco ASA firewall – Planned Service End of Life</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gc2t2vwdkrrm</guid>
     </item>
     <item>
+      <title>[LIM1][vRack] - Traffic loss</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/07/2022 20:34 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/07/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; Two downtimes has been seen during the maintenance and also few hours before:&lt;br /&gt;26th July 2022 between 20:34 and 21:03 UTC&lt;br /&gt;27th July 2022 between 06:10 and 06:46 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Following the following maintenance: https://bare-metal-servers.status-ovhcloud.com/incidents/zktx1b70ld95.&lt;br /&gt;One of our vRack exchanger for Baremetal has been updated. the mac-move protection feature has been activated by the upgrade even if it was disable before the upgrade. The upgrade campain for this version/infrastructure has been stopped and we are currently working with the manufacturer to resolve this issue.&lt;br /&gt;The feature issue was found and has been desactivated on 27th July 2022 at around 07h00 UTC.&lt;/p&gt;      </description>
+      <pubDate>Thu, 28 Jul 2022 13:56:22 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/218tpq1rgr2w</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/218tpq1rgr2w</guid>
+    </item>
+    <item>
       <title>[GRA1][Dedicated Servers] - Room G117</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/07/2022 09:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 28/07/2022 11:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in room G117 were unavailable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/07/2022 09:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in room G117 are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently carrying out an intervention to return the service to you as soon as possible.&lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Wed, 27 Jul 2022 07:52:01 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/zjh36y01d12z</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/zjh36y01d12z</guid>
-    </item>
-    <item>
-      <title>[RBX3][Dedicated Servers] - 41H02/41H03</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/07/2022 07:17 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  27/07/2022 08:15 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Following a maintenance operation on the cooling system, servers on these two racks lost their power supply. We apologise for the inconvenience due&lt;/p&gt;      </description>
-      <pubDate>Wed, 27 Jul 2022 07:17:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rpgrl4ntywf2</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rpgrl4ntywf2</guid>
     </item>
   </channel>
 </rss>

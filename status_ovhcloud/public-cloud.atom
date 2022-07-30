@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-07-30T10:23:37Z</updated>
+  <updated>2022-07-30T10:45:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -33,6 +33,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;23:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - A maintenance operation is scheduled for the SGP1 region on &lt;b&gt;August 10, 2022, between 06:00 and 14:00 (UTC)&lt;/b&gt;. No disruption is expected on your instances. Some APIs will remain unreachable during the operation.&lt;br /&gt; &lt;br /&gt;The API endpoints that will be maintained are the following:&lt;br /&gt;    &lt;a href="https://compute.sgp1.cloud.ovh.net"&gt;https://compute.sgp1.cloud.ovh.net&lt;/a&gt;&lt;br /&gt;    &lt;a href="https://network.compute.sgp1.cloud.ovh.net"&gt;https://network.compute.sgp1.cloud.ovh.net&lt;/a&gt;&lt;br /&gt;    &lt;a href="https://volume.compute.sgp1.cloud.ovh.net"&gt;https://volume.compute.sgp1.cloud.ovh.net&lt;/a&gt; &lt;br /&gt;    &lt;a href="https://image.compute.sgp1.cloud.ovh.net"&gt;https://image.compute.sgp1.cloud.ovh.net&lt;/a&gt;&lt;br /&gt;    &lt;a href="https://workflow.sgp1.cloud.ovh.net"&gt;https://workflow.sgp1.cloud.ovh.net&lt;/a&gt; &lt;br /&gt;    &lt;a href="https://orchestration.sgp1.cloud.ovh.net"&gt;https://orchestration.sgp1.cloud.ovh.net&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;The other regions will remain accessible by API and via your OVH manager.&lt;br /&gt;This operation allows us to prepare for the future. Thanks to this OpenStack upgrade, we will be able to continue to improve our Public Cloud offering by providing you with new features in the coming months.&lt;br /&gt;The API calls you are used to using will not change, this new version is backwards compatible with the old one.&lt;br /&gt;The target versions of the OpenStack components in this region will be:&lt;br /&gt;    &lt;b&gt;Glance&lt;/b&gt; : 18 (Stein) ; &lt;br /&gt;    &lt;b&gt;Cinder&lt;/b&gt; : 14 (Stein) ; &lt;br /&gt;    &lt;b&gt;Nova&lt;/b&gt; : 19 (Stein) ; &lt;br /&gt;    &lt;b&gt;Neutron&lt;/b&gt; : 14 (Stein) ; &lt;br /&gt;    &lt;b&gt;Heat&lt;/b&gt; : 12 (Stein) ;&lt;br /&gt; &lt;br /&gt;The components not affected by this operation are : &lt;br /&gt;    &lt;b&gt;Keystone&lt;/b&gt; : 11 (Ocata) ;&lt;br /&gt;    &lt;b&gt;Swift&lt;/b&gt; : 2.25 (Ussuri) ; &lt;br /&gt;    &lt;b&gt;Horizon&lt;/b&gt; : 13 (Queens) ; &lt;br /&gt;    &lt;b&gt;Mistral&lt;/b&gt; : 7 (Rocky) ;&lt;br /&gt; &lt;br /&gt;This update is an important step in the development of the product. Other regions will be concerned by equivalent developments in the coming weeks. To know the detail of the new functionalities, go to &lt;a href="https://releases.openstack.org/stein/highlights.html"&gt;https://releases.openstack.org/stein/highlights.html&lt;/a&gt; &lt;br /&gt;Compute (Nova) &lt;a href="https://docs.openstack.org/nova/stein/reference/api-microversion-history.html#maximum-in-newton"&gt;https://docs.openstack.org/nova/stein/reference/api-microversion-history.html#maximum-in-newton&lt;/a&gt; &lt;br /&gt;Network (Neutron) &lt;a href="https://docs.openstack.org/releasenotes/neutron/stein.html"&gt;https://docs.openstack.org/releasenotes/neutron/stein.html&lt;/a&gt; &lt;br /&gt;Volume (Cinder) &lt;a href="https://docs.openstack.org/cinder/latest/contributor/api_microversion_history.html#maximum-in-newton"&gt;https://docs.openstack.org/cinder/latest/contributor/api_microversion_history.html#maximum-in-newton&lt;/a&gt; &lt;br /&gt;If you want to test the behavior of the updated software versions you can use the GRA9 and SBG7 regions which already expose the target versions.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10721074</id>
+    <published>2022-07-30T10:45:26Z</published>
+    <updated>2022-07-30T10:45:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xvb5g78rzvqw"/>
+    <title>PCI - GRA11 - host938480</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host938480.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2ea4e1d7-257f-4253-9f2e-9ff18b46f52f&lt;br /&gt;63c5bf18-51e8-499b-b635-51988483733a&lt;br /&gt;501058d7-722e-4937-86cd-2af749c2f7b4&lt;br /&gt;4decd1d8-09f2-40c5-a64f-b299351c7ea8&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10708152</id>
+    <published>2022-07-30T10:41:17Z</published>
+    <updated>2022-07-30T10:41:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/clqmqrbgyh1y"/>
+    <title>PCI - GRA5 - host1462996</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1462996.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;71e6289d-b76e-4d47-941a-26f16b1b30fc&lt;br /&gt;c40d2910-034b-4f07-b59c-3d265f20fe0a&lt;br /&gt;68f274dc-82fc-4cf1-9501-5b6cbfe464f2&lt;br /&gt;798816a2-ad39-4aff-b8aa-f37b04198639&lt;br /&gt;faa1768e-6dac-464f-aa36-62b497139d4c&lt;br /&gt;568429b3-03ef-43dd-859f-8055d3b4fe8b&lt;br /&gt;abf80235-d91e-41b4-9523-d4775dc0cfa7&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10723177</id>
     <published>2022-07-30T10:13:03Z</published>
     <updated>2022-07-30T10:13:03Z</updated>
@@ -49,14 +65,6 @@
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;04:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;04:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1455545.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;afc0ddd5-f430-43c0-a34e-5ef57a58e6cf&lt;br /&gt;d1e28cb1-82ad-440d-b7be-f8ef4471c8ce&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10721074</id>
-    <published>2022-07-30T01:39:02Z</published>
-    <updated>2022-07-30T01:39:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xvb5g78rzvqw"/>
-    <title>PCI - GRA11 - host938480</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host938480.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2ea4e1d7-257f-4253-9f2e-9ff18b46f52f&lt;br /&gt;63c5bf18-51e8-499b-b635-51988483733a&lt;br /&gt;501058d7-722e-4937-86cd-2af749c2f7b4&lt;br /&gt;4decd1d8-09f2-40c5-a64f-b299351c7ea8&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10717065</id>
     <published>2022-07-29T12:55:41Z</published>
     <updated>2022-07-29T12:55:41Z</updated>
@@ -71,14 +79,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s2qsln14dsjz"/>
     <title>PCI - BHS5 - host359832</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10708152</id>
-    <published>2022-07-28T10:42:03Z</published>
-    <updated>2022-07-28T10:42:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/clqmqrbgyh1y"/>
-    <title>PCI - GRA5 - host1462996</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1462996.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;71e6289d-b76e-4d47-941a-26f16b1b30fc&lt;br /&gt;c40d2910-034b-4f07-b59c-3d265f20fe0a&lt;br /&gt;68f274dc-82fc-4cf1-9501-5b6cbfe464f2&lt;br /&gt;798816a2-ad39-4aff-b8aa-f37b04198639&lt;br /&gt;faa1768e-6dac-464f-aa36-62b497139d4c&lt;br /&gt;568429b3-03ef-43dd-859f-8055d3b4fe8b&lt;br /&gt;abf80235-d91e-41b4-9523-d4775dc0cfa7&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10707632</id>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 30 Jul 2022 20:28:14 +0000</pubDate>
+    <pubDate>Sun, 31 Jul 2022 03:23:37 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Wed, 10 Aug 2022 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</guid>
+    </item>
+    <item>
+      <title>PCI - BHS5 - host359832</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host359832.bhs5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87ba764a-f975-49fe-9759-3a3528592470&lt;/p&gt;      </description>
+      <pubDate>Sun, 31 Jul 2022 03:18:25 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/c72hmwp2022j</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/c72hmwp2022j</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host984665</title>
@@ -199,14 +207,6 @@
       <pubDate>Mon, 25 Jul 2022 12:26:14 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/zz1wqhp70wk8</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/zz1wqhp70wk8</guid>
-    </item>
-    <item>
-      <title>[US-EAST-VA-1][Instance Backup] - 404 and 503 Error</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  25/07/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We no longer observe 404 and 503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our teams have increased the storage capacities and proceeded to a new load balancing on our infrastructure&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Incident still ongoing, resolution is being processed and will take some time. We will get back to you as soon as a significant progress is visible.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Initial investigation indicates that block storage and volume snapshot products are not impacted.&lt;br /&gt;A fix is currently being tested.&lt;br /&gt;We&apos;ll be back shortly once the test has been validated and is being deployed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  06/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We observe temporary 404 on GET method and 503 on PUT method, both due to misplaced objects.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams investigate to resolve the situation.&lt;/p&gt;      </description>
-      <pubDate>Mon, 25 Jul 2022 10:06:58 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/yvxfhybnrn8g</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/yvxfhybnrn8g</guid>
     </item>
   </channel>
 </rss>

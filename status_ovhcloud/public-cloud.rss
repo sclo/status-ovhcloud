@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 31 Jul 2022 11:53:40 +0000</pubDate>
+    <pubDate>Sun, 31 Jul 2022 22:30:05 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Wed, 10 Aug 2022 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0fbt5v38hw2k</guid>
+    </item>
+    <item>
+      <title>PCI - GRA7 - host1489341</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1489341.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;6caf40cd-0e2f-4c1a-940d-fc961777817b&lt;br /&gt;1c823b68-e3d7-4bd5-ad40-c1b271e726b3&lt;br /&gt;6af5fc0c-67d5-4141-98bf-16e095d6abfb&lt;br /&gt;b675730f-5db6-4a49-8726-cc8802fa5473&lt;br /&gt;abb02aea-2a88-499b-9217-a3e63f57c8dd&lt;/p&gt;      </description>
+      <pubDate>Sun, 31 Jul 2022 22:30:05 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/tmgbqxwxgv1y</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/tmgbqxwxgv1y</guid>
     </item>
     <item>
       <title>PCI - BHS5 - host359832</title>
@@ -199,14 +207,6 @@
       <pubDate>Mon, 25 Jul 2022 15:30:33 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/sl3rqc05tc56</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/sl3rqc05tc56</guid>
-    </item>
-    <item>
-      <title>[Worldwide][Public Cloud] - Neutron network issue</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  23/07/2022 12:19 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;We encountered a bug in neutron. The bug is being investigated and a patch will be deployed to prevent this incident in the future.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work in progress on SBG5 region is now resolved. &lt;br /&gt;Other regions are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work still in progress to resolve the issue. &lt;br /&gt;UK1 and SBG8 region is now resolved. We are working to resolve the remaining regions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Work in progress to resolve the issue. &lt;br /&gt;Majority of the regions improved. Impact is mainly SBG5, SBG6, SBG7, SBG8 and UK1 regions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; An issue has been discovered relating to the networking component (Neutron). The impact can be observed on both public and private networks.&lt;br /&gt;Impact is limited and not all VMs are impacted. The bug may not impact a VM, but after action such as reboot or migration may cause issues with network.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; We recommend avoiding actions such as restart and reinstall of instances.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; The bug is identified and the teams are mobilised to resolve the issue as soon as possible.&lt;/p&gt;      </description>
-      <pubDate>Mon, 25 Jul 2022 12:26:14 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/zz1wqhp70wk8</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/zz1wqhp70wk8</guid>
     </item>
   </channel>
 </rss>

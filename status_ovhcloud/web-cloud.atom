@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-07-31T11:53:40Z</updated>
+  <updated>2022-08-01T00:47:41Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10731635</id>
+    <published>2022-08-01T00:43:00Z</published>
+    <updated>2022-08-01T00:47:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/x78cxcljtp8t"/>
+    <title>[GRA3][Web Hosting] - Cluster031 - Filerz1606</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/07/2022 21:04 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  01/08/2022 00:43 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz1606 was unavailable&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10685924</id>
     <published>2022-07-29T13:26:49Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/3v1yhxbk3kj8"/>
     <title>[FR][OvertheBox] - Loss of connectivity</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/07/2022 14:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2022 14:49 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All services on this leaf with the Overthebox IP were disconnected, but the service continued to work with the IP of the connected Internet router.&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; The services have been migrated to another leaf.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10623173</id>
-    <published>2022-07-19T12:40:31Z</published>
-    <updated>2022-07-19T12:40:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/c6mq5dgpy7zz"/>
-    <title>[GRA][Webhosting] - Network slowness</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  19/07/2022 12:30 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - UPDATE:  We observed there is stability now. Our technical team continue to investigate the situation. We apologize for any inconvenience caused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Our  technical teams are investigating the root cause of the problem.&lt;br /&gt;There is a certainty that the problem is a network problem. &lt;br /&gt;We will keep you updated on the progression of the status of the incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our first investigation allowed us to identify the impacted clusters: Cluster020, Cluster021, Cluster023, Cluster025, Cluster026, Cluster027, Cluster028, Cluster029, Cluster030, Cluster031&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  18/07/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We observe network slowdowns impacting the hosting of websites&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams investigate with the network teams to determine the origin of the degradation&lt;/p&gt;</content>
   </entry>
 </feed>

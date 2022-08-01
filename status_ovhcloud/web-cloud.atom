@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-08-01T19:23:45Z</updated>
+  <updated>2022-08-01T22:25:40Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10739416</id>
+    <published>2022-08-01T22:25:40Z</published>
+    <updated>2022-08-01T22:25:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/wh1lbytspp4w"/>
+    <title>[GRA1][Webhosting] - server1832 Data Migration</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;22:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;22:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/08/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/08/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unavailability of each filerz for around 30 minutes during the migration. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate the server1832 to keep our infrastructure up-to-date.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10737982</id>
     <published>2022-08-01T16:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/zkbh3vp9lnn1"/>
     <title>[RBX7][Collaborative solutions] - Hosts unavailable</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 20/07/2022 14:15 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The root cause is related to this incident: https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt;  The VMs were migrated without any problems. Incident closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;19:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently restoring the backup on the impacted virtual machines.&lt;br /&gt;The first estimations predict a return of the service in the morning of 20/07/2022.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  19/07/2022 12:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some private exchange servers are unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The root cause is related to this incident: https://hosted-private-cloud.status-ovhcloud.com/incidents/8lksjj4kf45l&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working on the problem&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10647703</id>
-    <published>2022-07-20T18:58:28Z</published>
-    <updated>2022-07-20T18:58:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/g1wpyr9dlwpk"/>
-    <title>[GRA-BHS][Web Cloud Databases] - Migration Database Maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;05:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/07/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 13:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A downtime of one minute per customer may occur during this operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our policy of continuous improvement, we will carry out this maintenance for databases upgrades, from MySQL 5.6 to MySQL 5.7.&lt;/p&gt;</content>
   </entry>
 </feed>

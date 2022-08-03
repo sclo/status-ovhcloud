@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-08-03T09:25:21Z</updated>
+  <updated>2022-08-03T10:15:26Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -137,6 +137,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;23:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/08/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/08/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10751266</id>
+    <published>2022-08-03T10:13:17Z</published>
+    <updated>2022-08-03T10:15:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wlzbl6c3qcnn"/>
+    <title>[RBX2][Dedicated Servers] - 23B13</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 03/08/2022 09:37 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  03/08/2022 10:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack 23B13 have restarted&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disruption&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10750490</id>
     <published>2022-08-03T07:28:31Z</published>
     <updated>2022-08-03T07:50:04Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bjcb62vhqhwy"/>
     <title>[RBX2][NASHA] - TETE 254A</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/08/2022 11:40 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/08/2022 17:04 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During a switch from Tete A to Tete B we had a 10 minute cut.&lt;br /&gt;Our technicians worked on the issue in order to prevent a disturbance of services.&lt;br /&gt;The service is up again.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified, our teams are currently works on it. The service will be unavailable for about 10 minutes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/08/2022 11:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During a switch from Tete A to Tete B we had a 10 minute cut.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on in order to prevent a disturbance of services&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10743915</id>
-    <published>2022-08-02T13:48:23Z</published>
-    <updated>2022-08-02T13:48:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mty8xb9tn35d"/>
-    <title>[RBX7][DedicatedServers] - Rack R715B11</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  02/08/2022 12:40 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  02/08/2022 15:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers were unreachable.&lt;br /&gt;Our technical teams resolved the issue. All impacted servers are up.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  02/08/2022 12:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

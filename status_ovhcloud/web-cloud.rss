@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 02 Aug 2022 22:23:47 +0000</pubDate>
+    <pubDate>Wed, 03 Aug 2022 05:41:25 +0000</pubDate>
     <item>
       <title>[P19][VoIP] - Network maintenance notification</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Wed, 10 Aug 2022 02:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls</guid>
+    </item>
+    <item>
+      <title>[GRA7][WebPaaS] - GIT features activation maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/08/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/08/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to Minimized deployment when container resources change and pause crons on development environments after 14 days.&lt;/p&gt;      </description>
+      <pubDate>Thu, 04 Aug 2022 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 04 Aug 2022 22:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/r087ppt8352j</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/r087ppt8352j</guid>
     </item>
     <item>
       <title>[GRA1][Webhosting] - server1832 Data Migration</title>
@@ -203,15 +212,6 @@
       <pubDate>Thu, 21 Jul 2022 09:15:46 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/f8293ntdkwmy</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/f8293ntdkwmy</guid>
-    </item>
-    <item>
-      <title>[GRA1][Webhosting] - server1832 Data Migration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance&apos;s has been roll-backed due to a device not following the process to the end. &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 05:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/07/2022 06:54 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/07/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/07/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unavailability of each filerz for around 30 minutes during the migration. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate the server1832 to keep our infrastructure up-to-date.&lt;/p&gt;      </description>
-      <pubDate>Thu, 21 Jul 2022 07:00:00 +0000</pubDate>
-      <maintenanceEndDate>Thu, 21 Jul 2022 04:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/5s91hjx22xjh</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/5s91hjx22xjh</guid>
     </item>
   </channel>
 </rss>

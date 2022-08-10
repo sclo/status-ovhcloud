@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-08-10T02:23:45Z</updated>
+  <updated>2022-08-10T03:33:29Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -17,12 +17,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/08/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this operation, our customers may experience an unavailability of 1 minute &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  Within the framework of the continuous improvement of our services, we carry out an operation of migration of the databases from GRA1 to GRA3. The concerned cluster by this maintenance is: sql008 (GRA1). Containers will migrate to eu011 (GRA3)&lt;br /&gt;Please note that the current maintenance can take place 24/24.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10793757</id>
+    <published>2022-08-10T03:28:51Z</published>
+    <updated>2022-08-10T03:28:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bh84p8vch699"/>
+    <title>[P19/GRA][Collaborative solutions] - MX Plan</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;03:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 10/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  10/08/2022 01:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; MX Plan sending email service was unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls"&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;End time observed :&lt;/b&gt; 10/08/2022 01:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; MX Plan sending email service was unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams continue to work on the incident in order to keep the situation under observation&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10793883</id>
-    <published>2022-08-10T02:12:25Z</published>
-    <updated>2022-08-10T02:12:25Z</updated>
+    <published>2022-08-10T03:33:29Z</published>
+    <updated>2022-08-10T03:33:29Z</updated>
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/xyqxkd4nvx8q"/>
     <title>[P19/GRA][VoIP] - Services</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; VoIP services might be unavailable&lt;br /&gt;&lt;b&gt;Related Maintenance :&lt;/b&gt; &lt;a href="https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls"&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;03:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; VoIP services are functional again.&lt;br /&gt;Our teams keep the incident under observation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; VoIP services might be unavailable&lt;br /&gt;&lt;b&gt;Related Maintenance :&lt;/b&gt; &lt;a href="https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls"&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10747766</id>
@@ -31,14 +39,6 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/jcwplddy4wls"/>
     <title>[P19][VoIP] - Network maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Due to a technical incident we postpone the maintenance and proceed to a rollback.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/08/2022 23:59 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/08/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; VoIP services will be unavailable for a few minutes while the switchover to the new circuit takes place.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we need to remove network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10793757</id>
-    <published>2022-08-10T01:36:11Z</published>
-    <updated>2022-08-10T01:36:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bh84p8vch699"/>
-    <title>[P19/GRA][Collaborative solutions] - MX Plan</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;01:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;End time observed :&lt;/b&gt; 10/08/2022 01:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; MX Plan sending email service was unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams continue to work on the incident in order to keep the situation under observation&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10793293</id>

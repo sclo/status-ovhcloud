@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-08-12T03:47:11Z</updated>
+  <updated>2022-08-12T05:23:31Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -161,6 +161,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;00:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/08/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/08/2022 17:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10809999</id>
+    <published>2022-08-12T05:23:31Z</published>
+    <updated>2022-08-12T05:23:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/v1z2xkk1gtdk"/>
+    <title>[RBX1][Public Network] -12D08</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  12/08/2022 05:11 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is unreachable in the rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on in order to fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10746111</id>
     <published>2022-08-12T03:47:11Z</published>
     <updated>2022-08-12T03:47:11Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/2742366xpkv0"/>
     <title>VPS - UK2 - host1297183</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1297183.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2f04e2a3-46d2-46b2-bec1-f60e9424a996&lt;br /&gt;f2455d0c-f70f-4336-b1f8-f5e5f053d0f6&lt;br /&gt;a7ca819b-acbe-46e8-a1e5-4a62b6f2e254&lt;br /&gt;68c0a929-074f-461d-91d0-b0a44d3adaaf&lt;br /&gt;d8f36cba-c0d3-4831-9f0d-ca15f6e54e81&lt;br /&gt;2585f3ae-9cbc-47da-a358-55632821a154&lt;br /&gt;3a1eed2b-e8dc-46b3-8e1e-34a566691575&lt;br /&gt;b4ae6173-a6b1-4553-8d15-b3835d204898&lt;br /&gt;71359249-7481-4a38-a445-12c344d03635&lt;br /&gt;cc527406-1ca9-40f5-b0b5-aa2325ddc8f1&lt;br /&gt;d9d46524-937f-4501-94f8-8918eddc9bdb&lt;br /&gt;d2eafc02-80d5-4319-a4e9-23066f855315&lt;br /&gt;a3764747-f0a5-4bb7-bf6b-129478e96c54&lt;br /&gt;351d9ea8-2221-446b-924c-145c66b13219&lt;br /&gt;450b22cd-3562-4b10-9f6b-5b7749e4969b&lt;br /&gt;6c790951-f853-4d6f-8090-215c06dbf508&lt;br /&gt;eaa042e9-4586-4357-b559-cf9ffbee19ac&lt;br /&gt;efd784d5-5ce5-4a51-8197-2b919812fc11&lt;br /&gt;0626e4d0-2b4c-4605-8075-ea572401c25a&lt;br /&gt;827d21c8-b0ad-45c7-a6b0-5df9d860f5cc&lt;br /&gt;6feb8680-576f-4406-a7e5-677e9cc821bd&lt;br /&gt;efc0c406-7b49-4c1e-b1cf-20b68e343007&lt;br /&gt;5265af96-944c-4852-b96a-982d4a0db5a5&lt;br /&gt;3cd83d2f-1d86-4038-9a47-589bcf2bc15e&lt;br /&gt;25291a6a-5cd8-4796-839e-64b07c9dcb10&lt;br /&gt;a1578d21-e476-421f-ad69-e6ce18e3584b&lt;br /&gt;3b2fa59c-226e-48df-93a0-66bd3aefb954&lt;br /&gt;d1d4fbfd-df2c-4449-ab3c-eb67793f683c&lt;br /&gt;670a17b2-d3eb-4883-bc14-7eb9f5698da0&lt;br /&gt;60545c17-1249-4ce5-bc4d-7e5f772492bd&lt;br /&gt;927f8f45-b6c0-404c-9f3a-72d4ce7208ef&lt;br /&gt;f55e53e2-36bd-4f3c-b563-e708308bc9ba&lt;br /&gt;2521c76c-3d50-44ed-8b7a-e8617062ed5e&lt;br /&gt;6d3fb115-5df0-4889-b435-1bfd37ff397a&lt;br /&gt;f845ba65-a13d-40ac-af95-368791fb6510&lt;br /&gt;e98cd820-4fe7-4144-a0c4-5ec78ed7b58d&lt;br /&gt;62463298-10b5-4b62-9821-be22485f17ed&lt;br /&gt;1c8a76f0-b51a-478e-994a-fc79cec6dd8f&lt;br /&gt;f123ffb1-2f6e-4618-9b47-082349c51dd3&lt;br /&gt;85852c76-ae22-4814-a708-bbc953bac86d&lt;br /&gt;bf7a8afe-d4fb-4c6a-bb02-47dd8ae8c08a&lt;br /&gt;2fa89736-9891-4f42-81c1-1f8c5665f777&lt;br /&gt;db4d5f01-4a49-4fea-99bb-286c58d6d3de&lt;br /&gt;b002fd78-d693-4b11-9dd1-937caf421ae2&lt;br /&gt;31ab1f6f-51e9-494b-a7a2-f7fb684e5b58&lt;br /&gt;2476576b-5a47-4905-b466-11cc0a539817&lt;br /&gt;d28343d7-83a7-48de-9536-46a18e81ad46&lt;br /&gt;3c55fd17-7d83-4a97-989f-efd9a42165bc&lt;br /&gt;94fa8a52-b77b-47a2-9af2-748e32ff27ec&lt;br /&gt;26d94bba-17fc-476b-898a-733052d65b20&lt;br /&gt;a35a5427-e136-4bf7-9fc0-6b3f66fbc984&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10760263</id>
-    <published>2022-08-11T10:17:58Z</published>
-    <updated>2022-08-11T10:17:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0plsw0y8c7lp"/>
-    <title>[BHS7][Dedicated Server] - Network equipement operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/08/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/08/2022 11:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 16 Aug 2022 13:09:56 +0000</pubDate>
+    <pubDate>Tue, 16 Aug 2022 14:15:36 +0000</pubDate>
+    <item>
+      <title>[GRA1/GRA3][Web Hosting] - CloudDB migrations</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:15&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/08/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/08/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; &lt;br /&gt;During this operation, our customers may experience an unavailability of 1 minute&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; &lt;br /&gt;Within the framework of the continuous improvement of our services, we carry out an operation of migration of the DBMS instances from GRA1 to GRA3. The concerned clusters by this maintenance are: sql008 (GRA1). Containers will migrate to eu010 (GRA3).&lt;br /&gt;Please note that the current maintenance can take place 24/24.&lt;/p&gt;      </description>
+      <pubDate>Tue, 16 Aug 2022 15:15:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 18 Aug 2022 15:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/x7d3czjp1s6l</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/x7d3czjp1s6l</guid>
+    </item>
     <item>
       <title>[GRA1][Webhosting] - Filerz 1014 - Cluster 26</title>
       <description>
@@ -202,15 +211,6 @@
       <maintenanceEndDate>Fri, 05 Aug 2022 00:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/1mxv67fggm2s</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/1mxv67fggm2s</guid>
-    </item>
-    <item>
-      <title>[GRA7][WebPaaS] - GIT features activation maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance&apos;s time is over.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/08/2022 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/08/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to Minimized deployment when container resources change and pause crons on development environments after 14 days.&lt;/p&gt;      </description>
-      <pubDate>Thu, 04 Aug 2022 22:02:54 +0000</pubDate>
-      <maintenanceEndDate>Thu, 04 Aug 2022 22:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/r087ppt8352j</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/r087ppt8352j</guid>
     </item>
   </channel>
 </rss>

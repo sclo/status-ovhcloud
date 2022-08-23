@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-08-23T12:15:09Z</updated>
+  <updated>2022-08-23T12:31:14Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -145,6 +145,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;19:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10891016</id>
+    <published>2022-08-23T12:31:14Z</published>
+    <updated>2022-08-23T12:31:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/yg9vlhf5jndm"/>
+    <title>VPS - UK2 - host799436</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host799436.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps711027&lt;br /&gt;vps566539&lt;br /&gt;vps566538&lt;br /&gt;vps666411&lt;br /&gt;vps817546&lt;br /&gt;vps791225&lt;br /&gt;vps785355&lt;br /&gt;vps775569&lt;br /&gt;vps706872&lt;br /&gt;vps761983&lt;br /&gt;vps761829&lt;br /&gt;vps734958&lt;br /&gt;vps734046&lt;br /&gt;vps727622&lt;br /&gt;vps711907&lt;br /&gt;vps711550&lt;br /&gt;vps693223&lt;br /&gt;vps527902&lt;br /&gt;vps676331&lt;br /&gt;vps671967&lt;br /&gt;vps670939&lt;br /&gt;vps666038&lt;br /&gt;vps665086&lt;br /&gt;vps594887&lt;br /&gt;vps590321&lt;br /&gt;vps576244&lt;br /&gt;vps552593&lt;br /&gt;vps524057&lt;br /&gt;vps514882&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10890892</id>
     <published>2022-08-23T12:15:09Z</published>
     <updated>2022-08-23T12:15:09Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/m8gd55rjn6cv"/>
     <title>[GRA1][Dedicated servers] -Rack  G114B07</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;05:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/08/2022 03:10 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  23/08/2022 03:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers in the rack G114B07 are operational again. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on a cooling system.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/08/2022 03:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack G114B07 unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;   Our technical teams investigate to determine the origin of the incident.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on a cooling system.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/10888432</id>
-    <published>2022-08-23T04:18:39Z</published>
-    <updated>2022-08-23T04:18:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nn20lx26l5mk"/>
-    <title>VPS - SBG8 - host1400448</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1400448.sbg8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;0f6cd4dc-8e5b-43ca-9fc7-7227943db47d&lt;br /&gt;e2ec2aba-539c-42d6-bcb2-3f8970444359&lt;br /&gt;136d9e05-46f8-4a98-a863-e1e21ffdedca&lt;br /&gt;eee32872-3f3c-43e1-aa01-37ac2fd88538&lt;br /&gt;322aa8b9-ec03-4fba-bf47-174cf94e7635&lt;br /&gt;3d3ab65d-1538-4b62-b237-bcea1c65e77d&lt;br /&gt;3f81dc4d-f1d6-4acb-a75c-0d7bf2af7f6a&lt;br /&gt;ade78eb0-ea1b-48b0-b0ed-4da8577e9da1&lt;br /&gt;1eb31a3b-c415-4019-89f1-099c75dbc4f7&lt;br /&gt;680d84ad-b905-4833-8f20-2560f225cf98&lt;br /&gt;d9a3f2cb-32af-4a16-b77b-682060ae34ed&lt;br /&gt;9d3ae587-4dad-422d-aacb-fb27defe334a&lt;br /&gt;95cd8519-fa00-4ff5-8440-aaf71825aea8&lt;br /&gt;b3d8c934-28ab-4474-9116-8894e8fab745&lt;br /&gt;b2399cf8-060d-447c-946f-33d75b6ba231&lt;br /&gt;8965a557-e598-4614-b28c-41d664dcd4c4&lt;br /&gt;ade41890-b1ef-4a50-ab09-ab0cd93d975a&lt;br /&gt;c2b9593b-ba20-4da7-a943-201708b7af38&lt;br /&gt;bb5f185e-617a-447e-8059-e58d5a77189c&lt;br /&gt;d8822342-0b18-48fa-aceb-5410c11c2855&lt;br /&gt;d5bda5cd-96b1-4ee2-a275-4644ad0721c8&lt;br /&gt;80add13f-5aef-4fee-847c-30bcb2269be0&lt;br /&gt;0e1614db-a8e8-457e-8cb3-a53425669880&lt;br /&gt;7789e887-e43b-48ab-8c98-d1e196aedf5d&lt;br /&gt;d77b5021-ad5d-450f-b4cb-b4d35078431b&lt;br /&gt;218a2610-d539-41b6-9bbc-66cb679e233a&lt;br /&gt;d1308e42-7c9b-46e4-be6a-8ede67253f38&lt;br /&gt;fd8a5018-a9e4-4e68-9aa9-e5ab0846be65&lt;br /&gt;0f155e92-263a-4c16-a2c1-ba6c27d5fd95&lt;br /&gt;9d5b1258-21c0-4619-a401-6074c20e8494&lt;br /&gt;9c674522-059d-46c2-a9d4-dbb355e5fe48&lt;br /&gt;b9056f46-31e4-44a7-bb7a-fc441bb99177&lt;br /&gt;257623ac-7160-4295-b9af-f97334d39a55&lt;br /&gt;5d6f1844-0e1e-456b-94ca-3c51138477a0&lt;br /&gt;9c13fa45-aaa5-4444-9a25-0d3e565821e3&lt;br /&gt;fb582b7f-08d3-41da-874e-e5acb17d7959&lt;br /&gt;096cbcce-a8b1-4413-aac4-7896d2c3eb08&lt;br /&gt;91313f03-98c8-46f8-aaef-ea5df956d865&lt;br /&gt;51095644-6943-45e7-8d19-8b942e61b529&lt;br /&gt;c499fa0a-4f6b-472e-88d5-f94bdea925d0&lt;/p&gt;</content>
   </entry>
 </feed>

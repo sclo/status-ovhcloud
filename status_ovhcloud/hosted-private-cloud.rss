@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 22 Aug 2022 18:23:44 +0000</pubDate>
+    <pubDate>Tue, 23 Aug 2022 07:43:12 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
       <description>
@@ -22,6 +22,14 @@
       <maintenanceEndDate>Fri, 02 Sep 2022 15:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/6bx7y5x4c1s2</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/6bx7y5x4c1s2</guid>
+    </item>
+    <item>
+      <title>[BHS1A][Hosted Private Cloud] - tete-945 - Failover with impact</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  23/08/2022 06:31 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Some management VM are impacted and customer datastore on this pool.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; BHS1A&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our technical teams are currently investigating the cause of this issue.&lt;/p&gt;      </description>
+      <pubDate>Tue, 23 Aug 2022 07:43:12 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/x7vbxzy2fp21</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/x7vbxzy2fp21</guid>
     </item>
     <item>
       <title>[RBX2A][Hosted Private Cloud] - VMware Private Cloud</title>
@@ -213,14 +221,6 @@
       <pubDate>Fri, 05 Aug 2022 03:33:29 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/w9lf2wc6cys2</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/w9lf2wc6cys2</guid>
-    </item>
-    <item>
-      <title>[RBX2A][Hosted private Cloud] - Additionnal Zpool</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  04/08/2022 00:41 UTC&lt;br /&gt;&lt;b&gt;Start time:&lt;/b&gt;  04/08/2022 03:33 UTC&lt;br /&gt;Our technical teams resolved the issue. Impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  04/08/2022 00:41 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Some zpool are not mounted on the gwssl, sftp access issue&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Gateway ssl&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by operation on a maintenance about storage switchover.&lt;/p&gt;      </description>
-      <pubDate>Thu, 04 Aug 2022 03:36:35 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/1qyg865j6m9r</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/1qyg865j6m9r</guid>
     </item>
   </channel>
 </rss>

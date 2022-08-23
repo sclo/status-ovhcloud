@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 23 Aug 2022 18:00:24 +0000</pubDate>
+    <pubDate>Tue, 23 Aug 2022 19:00:35 +0000</pubDate>
     <item>
       <title>[LIM1][Cooling System] - L107A04</title>
       <description>
@@ -152,11 +152,19 @@
     <item>
       <title>[GRA1/GRA2][DedicatedServers] - Network equipement operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing an operation on a network equipment.&lt;/p&gt;      </description>
-      <pubDate>Tue, 23 Aug 2022 19:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing an operation on a network equipment.&lt;/p&gt;      </description>
+      <pubDate>Tue, 23 Aug 2022 19:00:35 +0000</pubDate>
       <maintenanceEndDate>Tue, 23 Aug 2022 23:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/pzk6mzwy6dhx</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/pzk6mzwy6dhx</guid>
+    </item>
+    <item>
+      <title>VPS - GRA4 - host786038</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host786038.gra4.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;15ecaa56-9857-4707-a7e4-3bd9ddcf17d2&lt;/p&gt;      </description>
+      <pubDate>Tue, 23 Aug 2022 18:57:58 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z3738mqt6p4y</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z3738mqt6p4y</guid>
     </item>
     <item>
       <title>[SBG3][Public Network] - S322B08</title>
@@ -215,14 +223,6 @@
       <maintenanceEndDate>Tue, 30 Aug 2022 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/577rz0gmwb2k</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/577rz0gmwb2k</guid>
-    </item>
-    <item>
-      <title>[GRA3][Dedicated Servers] - GRA0318A05A</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/08/2022 03:52 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  23/08/2022 06:18 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vrack network in the rack GRA0318A05A is reachable. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a failure on a cooling system.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/08/2022 03:52 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vrack network in the rack GRA0318A05A is still unreachable. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a failure on a cooling system. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A replacement of the impacted switch is being planned shortly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/08/2022 03:52 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vrack network in the rack GRA0318A05A is unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  A reboot of vrack switch is in progress.&lt;/p&gt;      </description>
-      <pubDate>Tue, 23 Aug 2022 06:27:36 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wb0zx7rsd4th</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wb0zx7rsd4th</guid>
     </item>
   </channel>
 </rss>

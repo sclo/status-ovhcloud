@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-08-27T02:23:41Z</updated>
+  <updated>2022-08-27T05:27:06Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8"/>
     <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;02:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2022  15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Every Kubernetes 1.18 will be force upgraded to the next minor version (1.19)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade a deprecated cluster to a supported newer version&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10973847</id>
+    <published>2022-08-27T05:27:06Z</published>
+    <updated>2022-08-27T05:27:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7r66pj2r7pt8"/>
+    <title>PCI - GRA3 - host1263644</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;05:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1263644.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;605d5dd1-f6d6-4845-8d92-611fa20357c0&lt;br /&gt;7b572e51-0853-4ed3-873f-e2a850ce21e3&lt;br /&gt;62857863-392f-4781-8bf8-552ad22fad00&lt;br /&gt;fdcc2a0c-6c21-44a6-8ee5-46c95ae6fd74&lt;br /&gt;38a73ebb-af63-453a-bc12-318023426c75&lt;br /&gt;369c1b86-56f2-4b96-bd66-503be36a3c3e&lt;br /&gt;5a950235-08d0-4847-a23d-6cccf3e8ea60&lt;br /&gt;c3c25888-5e2c-4e27-a691-8ea325a9b5bf&lt;br /&gt;0153badd-1a12-42b4-9cdd-cbad9cc33b74&lt;br /&gt;1c4c8a42-2583-46b2-a932-d683f6e91118&lt;br /&gt;29dc5d3b-8280-4f6e-8e02-cbe9ae4064a3&lt;br /&gt;91c9c2d0-c178-4875-b6ae-2b2fffa65fcc&lt;br /&gt;f86d672d-56e4-4707-9709-fe4f2670856c&lt;br /&gt;44f9c520-7c54-4414-ae96-0ea233a8e517&lt;br /&gt;8e97272e-b157-4fb2-bd0e-f03f6b7f89ce&lt;br /&gt;cfef8bfe-0d15-4874-b9f5-1079ac33a84b&lt;br /&gt;d155ee53-fe15-441f-b681-0cf87cc92d5d&lt;br /&gt;3cde996f-bd08-45dc-9bac-9132ce121595&lt;br /&gt;6d160393-fffc-469e-9480-ccb8025c0d48&lt;br /&gt;a88a77c8-dfec-4888-a8fe-478808ea1956&lt;br /&gt;e85750c3-b6d7-4cee-a400-3d2d4bc8710c&lt;br /&gt;376963bf-5377-4419-86ea-64f8a88c8dea&lt;br /&gt;5d738da9-c0f3-4bff-9877-68cb05d89173&lt;br /&gt;6001b6eb-086e-467c-a8cc-88722bda3261&lt;br /&gt;f4f74298-f4b5-465c-9a7d-2aad12425e89&lt;br /&gt;fceb8b83-f12d-463a-945a-4bad9b7c932b&lt;br /&gt;46f49dc4-d021-4f53-90c9-8e82375ff0c7&lt;br /&gt;0bbf6827-7b22-4c07-916d-79affbcf0083&lt;br /&gt;b8e835b8-589a-498d-a6a8-49c7a1b15ed3&lt;br /&gt;e298f3f1-aaa5-43c9-beef-e3bd96f02b43&lt;br /&gt;24da345d-f187-4231-a965-b6641120e042&lt;br /&gt;02d75056-2ff7-4d4e-b857-83e72e1b3ee4&lt;br /&gt;acce0264-fd23-425d-b8da-c24861d8f3b3&lt;br /&gt;b6e61673-c75b-479a-8eab-01670c3897c4&lt;br /&gt;d54747e2-c200-4b64-831f-3197950d4b35&lt;br /&gt;030f3699-fbfa-481d-93cd-656a3da23f76&lt;br /&gt;d5880222-dc9a-477d-a85b-0d201e8e1a4b&lt;br /&gt;d39e7a1a-fbb6-424a-b0dc-38bf8e869501&lt;br /&gt;ba5c562b-949e-4597-ae87-7aea3708330d&lt;br /&gt;eb48c36f-c619-48a7-ab7d-a36458256c9e&lt;br /&gt;da7adee5-1e01-4187-b2c5-6f3aa98660eb&lt;br /&gt;0168211a-a2c2-40bd-a559-6a7db4583bcd&lt;br /&gt;5cc9d2ce-5093-4a9c-a483-ada4a2b2d875&lt;br /&gt;665423e3-1adb-4571-8512-c42eaa2573d5&lt;br /&gt;6b5ea558-e178-4555-a4b3-6be0b1d22ea5&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10968145</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mw2j35k7148g"/>
     <title>PCI - SBG5 - host1379798</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;06:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;06:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1379798.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;eb76dd8c-098a-436e-92f4-44e201bbd1f6&lt;br /&gt;fca8e15c-d75f-44f4-bcb0-67b6b7324ef5&lt;br /&gt;6843b01c-078b-4dbb-9797-b7362d54e9e5&lt;br /&gt;df42189a-8e6d-4241-b464-375022c69ad3&lt;br /&gt;92a720c5-d77e-4aba-bb09-7c9df7f613c5&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/10903748</id>
-    <published>2022-08-24T21:57:08Z</published>
-    <updated>2022-08-24T21:57:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jrp8z8lvjblv"/>
-    <title>PCI - GRA5 - host1064949</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1064949.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2392be9a-c4ca-4391-beff-17ab4a38c60f&lt;/p&gt;</content>
   </entry>
 </feed>

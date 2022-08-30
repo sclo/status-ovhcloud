@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 30 Aug 2022 01:47:25 +0000</pubDate>
+    <pubDate>Tue, 30 Aug 2022 09:37:45 +0000</pubDate>
+    <item>
+      <title>[GRA7][Platform.sh] - Foundation upgrade to 3.22</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our partner communicated to OVHcloud that the following informations :&lt;br /&gt;o    As for each Foundation upgrade, we&apos;ll recreate the whole region, meaning at some point we&apos;ll have almost twice the number of instances (the old in 3.21, the new ones in 3.22).&lt;br /&gt;o    All projects and environments will continue to function during the upgrade; however, at one point each project will be reallocated resulting in a short interruption. Integrations and webhooks may fail during the maintenance, it&apos;s also possible to notice increased deployment times.&lt;br /&gt;o    Projects provisioning should not be impacted.&lt;/p&gt;      </description>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 05 Sep 2022 06:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/t12v0g5by2rg</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/t12v0g5by2rg</guid>
+    </item>
     <item>
       <title>[GRA3][Web Hosting] - Cluster031 - filerz1630</title>
       <description>
@@ -206,14 +215,6 @@
       <pubDate>Mon, 15 Aug 2022 18:09:35 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/gkksv82qw479</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/gkksv82qw479</guid>
-    </item>
-    <item>
-      <title>[GRA][Webhosting] - Cluster 024</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 15/08/2022 13:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  15/08/2022 14:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All offers on cluster024 are operational again. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by an issue on a cooling system in rack G122A11. &lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/08/2022 13:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; About 50 shared hosting are currently unreachable  on cluster024.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by an issue on a cooling system in rack G122A11. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A fix is in progress to restore the service rapidly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/08/2022 13:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; About 50 shared hosting are currently unreachable  on cluster024.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA3&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; Only Cloudweb offers on cluster024 are impacted by this issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently investigating the causse of this incident. &lt;br /&gt;For more information and the list of Impacted instances, please refer to the following link :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/fyd1gjy3qb86&quot;&gt;Impacted instances link&lt;/a&gt;&lt;/p&gt;      </description>
-      <pubDate>Mon, 15 Aug 2022 14:28:24 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/0dld2qw1wxw4</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/0dld2qw1wxw4</guid>
     </item>
   </channel>
 </rss>

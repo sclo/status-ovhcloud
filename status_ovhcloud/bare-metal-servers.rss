@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 31 Aug 2022 15:23:45 +0000</pubDate>
+    <pubDate>Wed, 31 Aug 2022 16:33:15 +0000</pubDate>
     <item>
       <title>[LIM1][Cooling System] - L107A04</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yg12b59k19ms</guid>
     </item>
     <item>
+      <title>[GRA1][Network] - Network equipment replacement</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some network flapping during the switchover.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, a network equipment will be replaced.&lt;/p&gt;      </description>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 01 Sep 2022 02:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hdpx8qfpt4ct</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hdpx8qfpt4ct</guid>
+    </item>
+    <item>
       <title>[GRA2/WAW1][DedicatedServers] - Network equipement operation</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2022 20:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2022 23:30UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do a operation on a network equipment.&lt;/p&gt;      </description>
@@ -211,14 +220,6 @@
       <pubDate>Wed, 31 Aug 2022 13:09:50 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dqktmpdfmx7j</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dqktmpdfmx7j</guid>
-    </item>
-    <item>
-      <title>VPS - GRA8 - host1417582</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra3-pciz2host160-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;GRA0310B06B&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1417582.gra8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps-1ebcffaa.vps.ovh.net&lt;br /&gt;vps-2a789f23.vps.ovh.net&lt;br /&gt;vps-2b548145.vps.ovh.net&lt;br /&gt;vps-4ead2497.vps.ovh.net&lt;br /&gt;vps-5a58779b.vps.ovh.net&lt;br /&gt;vps-5dd440c2.vps.ovh.net&lt;br /&gt;vps-5e9b1158.vps.ovh.net&lt;br /&gt;vps-6b64d3d9.vps.ovh.net&lt;br /&gt;vps-9b348a65.vps.ovh.net&lt;br /&gt;vps-33c952fe.vps.ovh.net&lt;br /&gt;vps-45fa2fb4.vps.ovh.net&lt;br /&gt;vps-048b3812.vps.ovh.net&lt;br /&gt;vps-51d9354a.vps.ovh.net&lt;br /&gt;vps-59c89b84.vps.ovh.net&lt;br /&gt;vps-252cf94e.vps.ovh.net&lt;br /&gt;vps-610bc4c7.vps.ovh.net&lt;br /&gt;vps-5066dcc6.vps.ovh.net&lt;br /&gt;vps-9028eb9e.vps.ovh.net&lt;br /&gt;vps-9598a843.vps.ovh.net&lt;br /&gt;vps-23273dd6.vps.ovh.net&lt;br /&gt;vps-58954d5c.vps.ovh.net&lt;br /&gt;vps-25228645.vps.ovh.net&lt;br /&gt;vps-a5b89b67.vps.ovh.net&lt;br /&gt;vps-aa7e1961.vps.ovh.net&lt;br /&gt;vps-b83768b0.vps.ovh.net&lt;br /&gt;vps-b579786d.vps.ovh.net&lt;br /&gt;vps-bb6c3007.vps.ovh.net&lt;br /&gt;vps-bd21d677.vps.ovh.net&lt;br /&gt;vps-c8c3de28.vps.ovh.net&lt;br /&gt;vps-c98d5d01.vps.ovh.net&lt;br /&gt;vps-c432a06a.vps.ovh.net&lt;br /&gt;vps-d05cbadc.vps.ovh.net&lt;br /&gt;vps-e6bb50ad.vps.ovh.net&lt;br /&gt;vps-e8f99930.vps.ovh.net&lt;br /&gt;vps-e3033edd.vps.ovh.net&lt;br /&gt;vps-e9903262.vps.ovh.net&lt;br /&gt;vps-f57b18c8.vps.ovh.net&lt;br /&gt;vps-f5182562.vps.ovh.net&lt;br /&gt;vps-fde8ec64.vps.ovh.net&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;      </description>
-      <pubDate>Wed, 31 Aug 2022 13:09:34 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/24yf6sp0knvf</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/24yf6sp0knvf</guid>
     </item>
   </channel>
 </rss>

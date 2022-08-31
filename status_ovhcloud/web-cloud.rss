@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 31 Aug 2022 07:23:53 +0000</pubDate>
+    <pubDate>Wed, 31 Aug 2022 09:24:28 +0000</pubDate>
     <item>
       <title>[GRA7][WebPaaS] - Foundation upgrade to 3.22</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Mon, 05 Sep 2022 06:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/t12v0g5by2rg</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/t12v0g5by2rg</guid>
+    </item>
+    <item>
+      <title>[Global][MX Plan2] - Disrupted access</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  31/08/2022 00:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Mailboxes may malfunction. We observe the following symptoms: &lt;br /&gt;Unable to check the mailbox&lt;br /&gt;Unavailable access via webmail&lt;br /&gt;Unable to send and receive mail.&lt;br /&gt;Mails waiting to be received are queued&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams are investigating to determine the origin of this degradation&lt;/p&gt;      </description>
+      <pubDate>Wed, 31 Aug 2022 09:23:15 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/nwtb128zql7d</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/nwtb128zql7d</guid>
     </item>
     <item>
       <title>[GRA][Webhosting] - Cluster 026 - Filerz1014</title>
@@ -206,15 +214,6 @@
       <maintenanceEndDate>Wed, 17 Aug 2022 23:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/7vr1pl5sy2tw</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/7vr1pl5sy2tw</guid>
-    </item>
-    <item>
-      <title>[GRA1/GRA3][Web Hosting] - CloudDB migrations</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/08/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/08/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; &lt;br /&gt;During this operation, our customers may experience an unavailability of 1 minute&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; &lt;br /&gt;Within the framework of the continuous improvement of our services, we carry out an operation of migration of the DBMS instances from GRA1 to GRA3. The concerned clusters by this maintenance are: sql008 (GRA1). Containers will migrate to eu010 (GRA3).&lt;br /&gt;Please note that the current maintenance can take place 24/24.&lt;/p&gt;      </description>
-      <pubDate>Wed, 17 Aug 2022 17:34:07 +0000</pubDate>
-      <maintenanceEndDate>Thu, 18 Aug 2022 00:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/x7d3czjp1s6l</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/x7d3czjp1s6l</guid>
     </item>
   </channel>
 </rss>

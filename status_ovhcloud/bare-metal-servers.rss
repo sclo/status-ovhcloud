@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Sep 2022 11:38:46 +0000</pubDate>
+    <pubDate>Fri, 02 Sep 2022 12:09:20 +0000</pubDate>
     <item>
       <title>[BHS7][Dedicated Server] - Network equipement operation</title>
       <description>
@@ -58,6 +58,15 @@
       <maintenanceEndDate>Mon, 05 Sep 2022 23:59:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lxpj05c2622m</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lxpj05c2622m</guid>
+    </item>
+    <item>
+      <title>[RBX/BHS][Backup Storage] - Firewall upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2022 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowdowns (a few seconds) may be observed during the deployment on your specific server.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the incident that occurred during the maintenance in https://bare-metal-servers.status-ovhcloud.com/incidents/c205tcjnl5q4, new deployment has been done successfully.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - The maintenance is completed, we keep the task in monitoring to validate the maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2022 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowdowns (a few seconds) may be observed during the deployment on your specific server.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the incident that occurred during the maintenance in https://bare-metal-servers.status-ovhcloud.com/incidents/c205tcjnl5q4, we&apos;ve rollback the change and we are now ready to plan a new deployment.&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Sep 2022 12:09:20 +0000</pubDate>
+      <maintenanceEndDate>Tue, 30 Aug 2022 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/577rz0gmwb2k</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/577rz0gmwb2k</guid>
     </item>
     <item>
       <title>VPS - GRA4 - host628215</title>
@@ -206,14 +215,6 @@
       <pubDate>Thu, 01 Sep 2022 13:22:51 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/1hk505jqnr63</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1hk505jqnr63</guid>
-    </item>
-    <item>
-      <title>VPS - GRA6 - host1509732</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra3-pciz2host177-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;GRA0316A02C&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1509732.gra6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;afd9c601-ee9c-4c22-be56-58319ea3c8ae&lt;br /&gt;ca2548f7-2105-47da-9fbb-42d4953e94be&lt;br /&gt;vps-0d047ae3.vps.ovh.net&lt;br /&gt;vps-2b9953eb.vps.ovh.net&lt;br /&gt;vps-2eebe38d.vps.ovh.net&lt;br /&gt;vps-3df2f815.vps.ovh.net&lt;br /&gt;vps-9dc6cf85.vps.ovh.net&lt;br /&gt;vps-036befc3.vps.ovh.net&lt;br /&gt;vps-42b2130a.vps.ovh.net&lt;br /&gt;vps-53e9fac0.vps.ovh.net&lt;br /&gt;vps-54dc10cf.vps.ovh.net&lt;br /&gt;vps-61dda0d8.vps.ovh.net&lt;br /&gt;vps-2240f25a.vps.ovh.net&lt;br /&gt;vps-13719a1b.vps.ovh.net&lt;br /&gt;vps-80820c3b.vps.ovh.net&lt;br /&gt;vps-02784594.vps.ovh.net&lt;br /&gt;vps-05049589.vps.ovh.net&lt;br /&gt;vps-8896109b.vps.ovh.net&lt;br /&gt;vps-67849307.vps.ovh.net&lt;br /&gt;vps-a4d6d264.vps.ovh.net&lt;br /&gt;vps-a38d4372.vps.ovh.net&lt;br /&gt;vps-b3373a3c.vps.ovh.net&lt;br /&gt;vps-b041654d.vps.ovh.net&lt;br /&gt;vps-c24a85e4.vps.ovh.net&lt;br /&gt;vps-c612a1e5.vps.ovh.net&lt;br /&gt;vps-c6498e60.vps.ovh.net&lt;br /&gt;vps-d87a22fc.vps.ovh.net&lt;br /&gt;vps-d2745fdb.vps.ovh.net&lt;br /&gt;vps-e9373f5a.vps.ovh.net&lt;br /&gt;vps-ee86abc9.vps.ovh.net&lt;br /&gt;vps-eec62b4e.vps.ovh.net&lt;br /&gt;vps-f6daf49a.vps.ovh.net&lt;br /&gt;vps-f11011ff.vps.ovh.net&lt;br /&gt;vps-ffe2cfa8.vps.ovh.net&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;      </description>
-      <pubDate>Thu, 01 Sep 2022 12:31:16 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5hxv6c1m56fl</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5hxv6c1m56fl</guid>
     </item>
   </channel>
 </rss>

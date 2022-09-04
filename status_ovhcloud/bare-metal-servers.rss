@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Sep 2022 12:38:28 +0000</pubDate>
+    <pubDate>Sun, 04 Sep 2022 01:42:18 +0000</pubDate>
     <item>
       <title>[BHS7][Dedicated Server] - Network equipement operation</title>
       <description>
@@ -58,6 +58,14 @@
       <maintenanceEndDate>Mon, 05 Sep 2022 23:59:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lxpj05c2622m</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lxpj05c2622m</guid>
+    </item>
+    <item>
+      <title>[RBX4][Network] - Rack 55C25</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 04/09/2022 01:04 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  04/09/2022 01:39 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted servers are reachable anew.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/09/2022 01:04 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers might have lost their connection.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment unexpectedly rebooted.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Sun, 04 Sep 2022 01:42:18 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5bd4bvlxr72v</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5bd4bvlxr72v</guid>
     </item>
     <item>
       <title>[RBX/BHS][Backup Storage] - Firewall upgrade</title>
@@ -207,14 +215,6 @@
       <pubDate>Thu, 01 Sep 2022 14:35:36 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8whsstmy9krf</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8whsstmy9krf</guid>
-    </item>
-    <item>
-      <title>VPS - GRA8 - host1275816</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host89-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G261A04&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1275816.gra8.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps-1b3c340e.vps.ovh.net&lt;br /&gt;vps-1f07f2cb.vps.ovh.net&lt;br /&gt;vps-2b8ccbf4.vps.ovh.net&lt;br /&gt;vps-2f4fd85e.vps.ovh.net&lt;br /&gt;vps-3b753f01.vps.ovh.net&lt;br /&gt;vps-4ce23e30.vps.ovh.net&lt;br /&gt;vps-5af1f13e.vps.ovh.net&lt;br /&gt;vps-6b64d3d9.vps.ovh.net&lt;br /&gt;vps-7bc6056a.vps.ovh.net&lt;br /&gt;vps-8f2525f0.vps.ovh.net&lt;br /&gt;vps-8f443801.vps.ovh.net&lt;br /&gt;vps-45fa2fb4.vps.ovh.net&lt;br /&gt;vps-47ab9c6e.vps.ovh.net&lt;br /&gt;vps-077aff86.vps.ovh.net&lt;br /&gt;vps-88fc5547.vps.ovh.net&lt;br /&gt;vps-98ffe751.vps.ovh.net&lt;br /&gt;vps-119dbe65.vps.ovh.net&lt;br /&gt;vps-189c8ef7.vps.ovh.net&lt;br /&gt;vps-282acde0.vps.ovh.net&lt;br /&gt;vps-412e67f1.vps.ovh.net&lt;br /&gt;vps-486d2cbd.vps.ovh.net&lt;br /&gt;vps-536dd147.vps.ovh.net&lt;br /&gt;vps-670eced6.vps.ovh.net&lt;br /&gt;vps-1690a72a.vps.ovh.net&lt;br /&gt;vps-1821a693.vps.ovh.net&lt;br /&gt;vps-5833d2ff.vps.ovh.net&lt;br /&gt;vps-13372e1f.vps.ovh.net&lt;br /&gt;vps-23273dd6.vps.ovh.net&lt;br /&gt;vps-66289d79.vps.ovh.net&lt;br /&gt;vps-92825e8e.vps.ovh.net&lt;br /&gt;vps-97782c72.vps.ovh.net&lt;br /&gt;vps-10552694.vps.ovh.net&lt;br /&gt;vps-a468195a.vps.ovh.net&lt;br /&gt;vps-b83768b0.vps.ovh.net&lt;br /&gt;vps-bb02af7e.vps.ovh.net&lt;br /&gt;vps-bb808f18.vps.ovh.net&lt;br /&gt;vps-c317622a.vps.ovh.net&lt;br /&gt;vps-ca9c812a.vps.ovh.net&lt;br /&gt;vps-d05cbadc.vps.ovh.net&lt;br /&gt;vps-df9915a6.vps.ovh.net&lt;br /&gt;vps-e48c0349.vps.ovh.net&lt;br /&gt;vps-e965bfb5.vps.ovh.net&lt;br /&gt;vps-ed4e71bf.vps.ovh.net&lt;br /&gt;vps-f00813f4.vps.ovh.net&lt;br /&gt;vps-f8157d8e.vps.ovh.net&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;      </description>
-      <pubDate>Thu, 01 Sep 2022 13:22:51 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/1hk505jqnr63</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1hk505jqnr63</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-09-05T15:23:55Z</updated>
+  <updated>2022-09-05T20:57:59Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8"/>
     <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;02:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2022  15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Every Kubernetes 1.18 will be force upgraded to the next minor version (1.19)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade a deprecated cluster to a supported newer version&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11060005</id>
+    <published>2022-09-05T20:57:59Z</published>
+    <updated>2022-09-05T20:57:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5n1bxszt21sj"/>
+    <title>[SBG][Public Cloud] - Object STORAGE</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;20:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  05/09/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some disturbances are observed on PUT requests and some latency is observed on GET requests&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are currently working on in order to fix it&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11058240</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/q4fs6d9rpkjn"/>
     <title>PCI - SBG7 - host1294148</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1294148.sbg7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;16b33106-75bd-4599-bff9-6e77687cf0a1&lt;br /&gt;05c8cd03-91b1-44f7-b2fe-fea30b06673a&lt;br /&gt;3ba5f5e7-08c5-4374-8a60-f66a52843e56&lt;br /&gt;490fb4cf-8d98-46fa-b4f2-1b93433f9eb9&lt;br /&gt;4ace0edd-e81a-4c22-9e1a-9095bbcbe046&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11038538</id>
-    <published>2022-09-02T06:06:24Z</published>
-    <updated>2022-09-02T06:06:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c6zl6cpdjk0h"/>
-    <title>PCI - BHS3 - host327360</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;06:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host327360.bhs3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f344bc27-d5fd-4282-be16-327e332db15a&lt;br /&gt;8f33fab9-da47-42cc-9a1c-48fdbe5ebda8&lt;br /&gt;c3d99859-f07d-4f1b-84fb-464fceb7d271&lt;br /&gt;4b1c7aa4-64b1-46b5-adac-67c8273b2fcc&lt;br /&gt;b8b02964-ed8b-4256-a2ec-d321816d976c&lt;br /&gt;a7597db6-3119-4b22-9b9e-88f651c6d921&lt;br /&gt;3bdaf9ee-d3e2-4742-ac26-badf0e42445c&lt;br /&gt;42103884-a397-43d5-ad25-827384844185&lt;br /&gt;9a1dce89-6899-4110-afa8-df1952b623a3&lt;br /&gt;8efafc3a-4879-4837-8817-621c7e5ac195&lt;br /&gt;ef808557-9409-44a4-9a41-4c8137a98b14&lt;br /&gt;1e84fed2-9389-4da3-87d9-b62f52599580&lt;br /&gt;0fa7ae17-12d0-4990-b801-43aa9289c711&lt;/p&gt;</content>
   </entry>
 </feed>

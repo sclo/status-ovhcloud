@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-09-05T07:12:19Z</updated>
+  <updated>2022-09-05T09:32:16Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/11056319</id>
+    <published>2022-09-05T09:29:00Z</published>
+    <updated>2022-09-05T09:32:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dy7y97r7404b"/>
+    <title>[GRA1][Web Hosting] - Cluster26 - Filerz1014</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/09/2022 09:14 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  05/09/2022 09:29 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness on some hosted websites&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/11016651</id>
     <published>2022-09-05T07:12:19Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/p47mrgp8s15q"/>
     <title>[Global][xDSL/FTTH] - Internet access</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/08/2022 07:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  18/08/2022 08:10 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Provider API is currently degraded.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  18/08/2022 07:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Testing Internet access eligibility and ordering on website and APIv6 is degraded. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  An intervention is in progress.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Provider API is currently degraded.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/10790132</id>
-    <published>2022-08-18T00:00:29Z</published>
-    <updated>2022-08-18T00:00:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/5jh2vhmzx8v9"/>
-    <title>[GRA1/GRA3][Web Hosting] - Sharedsql databases migration</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/08/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this operation, our customers may experience an unavailability of 1 minute &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt;  Within the framework of the continuous improvement of our services, we carry out an operation of migration of the databases from GRA1 to GRA3. The concerned cluster by this maintenance is: sql008 (GRA1). Containers will migrate to eu011 (GRA3)&lt;br /&gt;Please note that the current maintenance can take place 24/24.&lt;/p&gt;</content>
   </entry>
 </feed>

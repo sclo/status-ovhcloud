@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 06 Sep 2022 08:48:36 +0000</pubDate>
+    <pubDate>Tue, 06 Sep 2022 14:11:20 +0000</pubDate>
     <item>
       <title>[GRA/BHS][Public cloud] - End Of Life ML Serving</title>
       <description>
@@ -24,6 +24,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</guid>
     </item>
     <item>
+      <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2022  15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Every Kubernetes 1.18 will be force upgraded to the next minor version (1.19)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade a deprecated cluster to a supported newer version&lt;/p&gt;      </description>
+      <pubDate>Tue, 06 Sep 2022 14:11:20 +0000</pubDate>
+      <maintenanceEndDate>Thu, 08 Sep 2022 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8</guid>
+    </item>
+    <item>
       <title>[Global][PublicCloud] Private network port default configuration change</title>
       <description>
 &lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/09/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/09/2022 08:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The &quot;port security&quot; flag will be set to &quot;True&quot; by default on any newly created private networks. &lt;br /&gt;This will ensure we remain consistent with the default &quot;True&quot; policy like on vanilla OpenStack deployments.&lt;/p&gt;      </description>
@@ -31,15 +40,6 @@
       <maintenanceEndDate>Tue, 06 Sep 2022 08:10:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/z6qq4bcvsn11</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/z6qq4bcvsn11</guid>
-    </item>
-    <item>
-      <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1][Public cloud] - End of life for Kubernetes 1.18</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2022  15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Every Kubernetes 1.18 will be force upgraded to the next minor version (1.19)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade a deprecated cluster to a supported newer version&lt;/p&gt;      </description>
-      <pubDate>Tue, 06 Sep 2022 07:00:24 +0000</pubDate>
-      <maintenanceEndDate>Thu, 08 Sep 2022 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/cwwwqh7dnnp8</guid>
     </item>
     <item>
       <title>PCI - SBG5 - host1379798</title>

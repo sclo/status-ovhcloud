@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 12 Sep 2022 08:24:11 +0000</pubDate>
+    <pubDate>Mon, 12 Sep 2022 09:25:25 +0000</pubDate>
     <item>
       <title>[Spain][VoIP] - Network equipment upgrade</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Mon, 12 Sep 2022 20:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/vcf75m3gpl9w</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/vcf75m3gpl9w</guid>
+    </item>
+    <item>
+      <title>[ RBX-SBG-BHS][Web Cloud ] - CDN Infrastructure</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 10/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  10/09/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Logs and metrics have been partially unavailable. Logs platform configuration has been fixed and scale&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident on our logs platform&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;      </description>
+      <pubDate>Mon, 12 Sep 2022 09:20:57 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/lnrfqlxbkxxn</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/lnrfqlxbkxxn</guid>
     </item>
     <item>
       <title>[GRA1][Web Hosting] - Cluster026 - filerz1014</title>
@@ -202,14 +210,6 @@
       <pubDate>Mon, 29 Aug 2022 15:46:59 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/t8cvrp1qqk4y</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/t8cvrp1qqk4y</guid>
-    </item>
-    <item>
-      <title>[P19][MX Plan] - homez.511</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/08/2022 12:20 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  25/08/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The backup is completed, all services are operationals again. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was related to a data storage access.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The backup is in progress, the restoration is 84% complete.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The back up has had a malfunction. We need to reload it.&lt;br /&gt;This operation should  continue for about 24 hours.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Some mail sent between 12:15 UTC and 22:00 UTC might be bounced to the sender.&lt;br /&gt;The backup is still in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The backup is still in progress, the restoration is 84% complete.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams will restore a backup made on 23/08/22 at 01:15 UTC. &lt;br /&gt;Emails in transit since 23/08/22 at 12:15 UTC will be delivered when mailbox are operational&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Our technical teams determined that the incident was related to a data storage access.&lt;br /&gt;Our teams are working to restore the situation as soon as possible&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  23/08/2022 12:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Reception, transmission, mailbox access and redirection may be unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams investigate to determine the origin of the incident&lt;/p&gt;      </description>
-      <pubDate>Thu, 25 Aug 2022 18:29:21 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/dyzb4j3lgh17</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/dyzb4j3lgh17</guid>
     </item>
   </channel>
 </rss>

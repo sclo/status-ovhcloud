@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-09-12T08:07:23Z</updated>
+  <updated>2022-09-12T08:28:02Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;22:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/09/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/09/2022  06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be carrying out a maintenance on the cooling system of the rack L107A04.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11105313</id>
+    <published>2022-09-12T08:28:02Z</published>
+    <updated>2022-09-12T08:28:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/pckddfc1y4hh"/>
+    <title>[RBX7][Dedicated Servers] - R710B14</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  12/09/2022 10:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack R710B14 are currently unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams are investigating the cause of this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11105136</id>
     <published>2022-09-12T08:07:23Z</published>
     <updated>2022-09-12T08:07:23Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nnf9ts2yzt64"/>
     <title>[GRA][Network] - Rack GRA0316B05B</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 07/09/2022 09:23 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  07/09/2022 21:11 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted customers may observed additional delay for actions.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network device malfunction&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;20:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Maintenance will start soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;15:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Curative maintenance will be performed today from 21:00 UTC to 22:00 UTC.&lt;br /&gt;Only customers who have not configured LACP will be impacted during the maintenance.&lt;br /&gt;&lt;br /&gt;We will keep you informed of the progress of the maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/09/2022 09:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted customers may observed additional delay for actions.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network device malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A fix should be be deployed on 08/09/2022 21:00 UTC.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11082490</id>
-    <published>2022-09-08T17:16:39Z</published>
-    <updated>2022-09-08T17:16:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/j6y5fl68w3vq"/>
-    <title>VPS - GRA6 - host1001982</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;17:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1001982.gra6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps719286&lt;br /&gt;vps627065&lt;br /&gt;vps611789&lt;br /&gt;vps633364&lt;br /&gt;vps662241&lt;br /&gt;vps703670&lt;br /&gt;vps803427&lt;br /&gt;vps603798&lt;br /&gt;vps540496&lt;br /&gt;vps755529&lt;br /&gt;vps754084&lt;br /&gt;vps563221&lt;br /&gt;vps657481&lt;br /&gt;vps664608&lt;br /&gt;vps721102&lt;br /&gt;vps588419&lt;br /&gt;vps589519&lt;br /&gt;vps580881&lt;br /&gt;vps794452&lt;br /&gt;vps790130&lt;br /&gt;vps789835&lt;br /&gt;vps670468&lt;br /&gt;vps763991&lt;br /&gt;vps767678&lt;br /&gt;vps755313&lt;br /&gt;vps761335&lt;br /&gt;vps755984&lt;br /&gt;vps755828&lt;br /&gt;vps733088&lt;br /&gt;vps721918&lt;br /&gt;vps658256&lt;br /&gt;vps637561&lt;br /&gt;vps637560&lt;br /&gt;vps623470&lt;br /&gt;vps692026&lt;br /&gt;vps689301&lt;br /&gt;vps686980&lt;br /&gt;vps558226&lt;br /&gt;vps566109&lt;br /&gt;vps603161&lt;br /&gt;vps654110&lt;br /&gt;vps583958&lt;br /&gt;vps634677&lt;br /&gt;vps628090&lt;br /&gt;vps619687&lt;br /&gt;vps623498&lt;br /&gt;vps623331&lt;br /&gt;vps621130&lt;br /&gt;vps617008&lt;br /&gt;vps614599&lt;br /&gt;vps614323&lt;br /&gt;vps612934&lt;br /&gt;vps612887&lt;br /&gt;vps612791&lt;br /&gt;vps612721&lt;br /&gt;vps612683&lt;br /&gt;vps611651&lt;br /&gt;vps596126&lt;br /&gt;vps595191&lt;br /&gt;vps589627&lt;br /&gt;vps588375&lt;br /&gt;vps588408&lt;br /&gt;vps588367&lt;br /&gt;vps588352&lt;br /&gt;vps588297&lt;br /&gt;vps588286&lt;br /&gt;vps582245&lt;br /&gt;vps577616&lt;br /&gt;vps575621&lt;br /&gt;vps567854&lt;br /&gt;vps567719&lt;br /&gt;vps567691&lt;br /&gt;vps567535&lt;br /&gt;vps566707&lt;br /&gt;vps562414&lt;br /&gt;vps562381&lt;br /&gt;vps559626&lt;br /&gt;vps558040&lt;br /&gt;vps539282&lt;/p&gt;</content>
   </entry>
 </feed>

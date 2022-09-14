@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-09-14T20:51:45Z</updated>
+  <updated>2022-09-14T20:58:00Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11134312</id>
+    <published>2022-10-05T04:00:00Z</published>
+    <updated>2022-09-14T20:58:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/lnxr64tx9pvt"/>
+    <title>[BHS7][Hosted Private Cloud] - Network &amp; servers operation</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/09/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover.&lt;br /&gt;&lt;b&gt;Service improvement et :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10686175</id>
     <published>2022-09-30T12:00:00Z</published>
@@ -15,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/f3b3x0m537zz"/>
     <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:29&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End of Life Dedicated Cloud:&lt;/b&gt; 30 September 2022&lt;br /&gt;We informed you in October 2021 that our Dedicad Cloud service will reach its end of life and will be discontinued the 30st September 2022. This step is important for your VMware platforms to improve the quality of service, performance, and security of your clusters. Indeed, "Dedicated Cloud" hardware used, pre-2016, does not allow us to provide the best level of service and integration with new modern architectures of VMware.&lt;br /&gt;Following our previous email, many customers started to plan and/or to migrate and we encourage you to do the same to avoid the September deadline.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Guide to migrating to a new infrastructure:&lt;/b&gt;&lt;br /&gt;https://docs.ovh.com/gb/en/private-cloud/vdc-migration/&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11134294</id>
+    <published>2022-09-28T04:00:00Z</published>
+    <updated>2022-09-14T20:55:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/p75qgk1vcjwv"/>
+    <title>[RBX8][Hosted Private Cloud] - Network &amp; servers operation</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/09/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover.&lt;br /&gt;&lt;b&gt;Service improvement et :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11128026</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/mxfv730ltckg"/>
     <title>[EU-CA][Veeam] - Veeam Entreprise Manager operation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance period has ended.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;19:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/09/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The Veeam backupServer client will retry the the connection to launch backups.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to restart the solution Veeam Entreprise Manager to enforce new policies.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11026441</id>
-    <published>2022-08-31T21:29:13Z</published>
-    <updated>2022-08-31T21:29:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/dkqwc7dltkhh"/>
-    <title>[SBG][Hosted Private Cloud] - Network equipement replacement</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; loss of High Availability&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, a network equipment will be replaced.&lt;br /&gt;Clusters will be running on master nodes during the maintenance since slaves nodes aren't double attached.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10964792</id>
-    <published>2022-08-30T03:34:57Z</published>
-    <updated>2022-08-30T03:34:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/k0y5mqmm11tl"/>
-    <title>[PAR1C/P19][Hosted Private Cloud] - Network equipement operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;03:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;23:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/08/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, a network equipment will undergo an maintenance operation.&lt;/p&gt;</content>
   </entry>
 </feed>

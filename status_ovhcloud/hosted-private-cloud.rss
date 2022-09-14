@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 14 Sep 2022 20:29:28 +0000</pubDate>
+    <pubDate>Wed, 14 Sep 2022 20:44:28 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Tue, 20 Sep 2022 10:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/n362n9b1028q</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/n362n9b1028q</guid>
+    </item>
+    <item>
+      <title>[RBX2A][Hosted Private Cloud] Management plane upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/09/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; plane will not be available during the operation. VMs will continue to function normally&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
+      <pubDate>Mon, 19 Sep 2022 18:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 19 Sep 2022 20:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/3qz2msqjq0xj</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/3qz2msqjq0xj</guid>
     </item>
     <item>
       <title>[RBX8][Hosted Private Cloud] - Network &amp; servers operation</title>
@@ -217,14 +226,6 @@
       <maintenanceEndDate>Mon, 29 Aug 2022 04:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/f4pptz52296t</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/f4pptz52296t</guid>
-    </item>
-    <item>
-      <title>[RBX2][VMware Private Cloud] - tete-57</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/08/2022 00:15 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/08/2022 00:33 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Impact :&lt;/b&gt; pcc-001680 pcc-002812 pcc-002909 pcc-003350 pcc-004442 pcc-004798 pcc-005049&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;      </description>
-      <pubDate>Wed, 24 Aug 2022 00:45:00 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/3ynrfncdkh1j</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/3ynrfncdkh1j</guid>
     </item>
   </channel>
 </rss>

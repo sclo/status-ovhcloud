@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 14 Sep 2022 19:23:50 +0000</pubDate>
+    <pubDate>Wed, 14 Sep 2022 20:29:28 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Tue, 20 Sep 2022 10:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/n362n9b1028q</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/n362n9b1028q</guid>
+    </item>
+    <item>
+      <title>[RBX8][Hosted Private Cloud] - Network &amp; servers operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2022/09/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover.&lt;br /&gt;&lt;b&gt;Service improvement et :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
+      <pubDate>Mon, 19 Sep 2022 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 19 Sep 2022 10:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/37ckj31pqh63</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/37ckj31pqh63</guid>
     </item>
     <item>
       <title>[ERI1][Hosted Private Cloud] - Network equipment</title>
@@ -216,14 +225,6 @@
       <pubDate>Wed, 24 Aug 2022 00:45:00 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/3ynrfncdkh1j</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/3ynrfncdkh1j</guid>
-    </item>
-    <item>
-      <title>[BHS1A][Hosted Private Cloud] - tete-945 - Failover with impact</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/08/2022 06:31 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/08/2022 08:02 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; BHS1A&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by failover storage.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  23/08/2022 06:31 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Some management VM are impacted and customer datastore on this pool.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; BHS1A&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; Our technical teams are currently investigating the cause of this issue.&lt;/p&gt;      </description>
-      <pubDate>Tue, 23 Aug 2022 08:12:39 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/x7vbxzy2fp21</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/x7vbxzy2fp21</guid>
     </item>
   </channel>
 </rss>

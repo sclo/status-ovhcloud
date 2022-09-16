@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 16 Sep 2022 20:06:59 +0000</pubDate>
+    <pubDate>Fri, 16 Sep 2022 23:54:55 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud]  Switch Upgrade</title>
       <description>
@@ -141,6 +141,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vh21csph37j1</guid>
     </item>
     <item>
+      <title>[RBX2A][VMware Private Cloud] - Storage tete-102</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/09/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 16/09/2022 23:42 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; pcc-001867 were unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover issue&lt;/p&gt;      </description>
+      <pubDate>Fri, 16 Sep 2022 23:51:38 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/25z7qq8gm393</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/25z7qq8gm393</guid>
+    </item>
+    <item>
       <title>[Global][VMware Private Cloud] - VMware NSX operation</title>
       <description>
 &lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/09/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may lose access to their Vcenter management and hosts will be in maintenance mode during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
@@ -218,15 +226,6 @@
       <maintenanceEndDate>Fri, 09 Sep 2022 17:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/bg3bns4wbt48</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/bg3bns4wbt48</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][VMware Private Cloud] - Hosted Private Cloud Invoice update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud infrastructure, we will be doing an internal maintenance which involves doing an update to the Hosted Private Cloud invoice, by adding a new line at the end of the bill.&lt;/p&gt;      </description>
-      <pubDate>Thu, 08 Sep 2022 19:21:32 +0000</pubDate>
-      <maintenanceEndDate>Thu, 08 Sep 2022 19:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/w4vsk45qlg1h</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/w4vsk45qlg1h</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-09-17T18:23:35Z</updated>
+  <updated>2022-09-17T18:46:05Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587"/>
     <title>[GRA5 | GRA7 | GRA9 | SBG5 | WAW1 | SGP1| BHS5 | VA1 | OR1 | SYD1 | UK1 | DE1][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/10/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVHcloud Kubernetes API could be unavailable for few seconds&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; From OVHcloud Api, for NodePool resources, the RESIZING value of the "status" attribute will disappear and be replaced by more specific values (UPSCALING and DOWNSCALING, non-definitive naming) depending on whether the NodePool is requesting new nodes or deleting nodes.&lt;br /&gt;For terraform users, an update of the plugin "terraform-provider-ovh" will be required.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11163769</id>
+    <published>2022-09-17T18:46:05Z</published>
+    <updated>2022-09-17T18:46:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hd8lbsm1fg9y"/>
+    <title>PCI - GRA5 - host947171</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947171.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;bb4e803e-ba5b-433e-8a0e-74d9853f6b91&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11163383</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9thd0vdkdp97"/>
     <title>[GRA5/GRA7/GRA9/GRA11][Public Cloud] - G266A16</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;05:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 14/06/2022 04:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 14/06/2022 05:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We were having some disruption on the public and private network&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11123697</id>
-    <published>2022-09-13T22:00:40Z</published>
-    <updated>2022-09-13T22:00:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cfy05tx5lgb9"/>
-    <title>PCI - GRA11 - host1414231</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;21:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1414231.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;8c515eda-d1f3-4bc9-ac98-3aaa92ab1e41&lt;br /&gt;29092dbd-a7f2-4f2d-a6e7-c3fc15a23d6a&lt;br /&gt;a0e31af1-85ea-446e-a4a3-8fac26e94f79&lt;br /&gt;66ac69f7-560e-45d5-b8ad-4a7f1551c40c&lt;br /&gt;288e7159-7a0a-462c-ba92-dbc03c5bf092&lt;/p&gt;</content>
   </entry>
 </feed>

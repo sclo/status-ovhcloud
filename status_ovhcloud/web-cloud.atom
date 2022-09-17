@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-09-17T00:23:39Z</updated>
+  <updated>2022-09-17T09:06:48Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/11160413</id>
+    <published>2022-09-17T09:06:48Z</published>
+    <updated>2022-09-17T09:06:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/c5lt3j7lnn8w"/>
+    <title>[GRA][Webhosting] - Cluster10</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;09:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/09/2022 08:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites are unreachable on server1630&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; All offers on Cluster10 server1630&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently identifying the cause of this unavailability.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/11157173</id>
     <published>2022-09-16T23:29:01Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/t12v0g5by2rg"/>
     <title>[GRA7][WebPaaS] - Foundation upgrade to 3.22</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;07:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our partner communicated to OVHcloud that the following informations :&lt;br /&gt;o    As for each Foundation upgrade, we'll recreate the whole region, meaning at some point we'll have almost twice the number of instances (the old in 3.21, the new ones in 3.22).&lt;br /&gt;o    All projects and environments will continue to function during the upgrade; however, at one point each project will be reallocated resulting in a short interruption. Integrations and webhooks may fail during the maintenance, it's also possible to notice increased deployment times.&lt;br /&gt;o    Projects provisioning should not be impacted.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/11031424</id>
-    <published>2022-09-01T08:41:40Z</published>
-    <updated>2022-09-01T08:41:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bz45nj5m82sx"/>
-    <title>[RBX/GRA/SBG][Hosted Exchange] - ex3.mail.ovh.net</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;08:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  01/09/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  01/09/2022 08:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ex3.mail.ovh.net is reachable and all services are back to normal.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;08:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  01/09/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; ex3.mail.ovh.net is currently unreachable. &lt;br /&gt;Reception and transmission of mail are unavailable. Mails waiting to be received are currently queued&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technical teams investigate to determine the origin of the incident&lt;/p&gt;</content>
   </entry>
 </feed>

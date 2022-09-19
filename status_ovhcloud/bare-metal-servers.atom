@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-09-19T12:23:48Z</updated>
+  <updated>2022-09-19T12:51:33Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,6 +121,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/09/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/09/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11178808</id>
+    <published>2022-09-19T12:51:33Z</published>
+    <updated>2022-09-19T12:51:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s5704y2hj6fb"/>
+    <title>[GRA3][DedicatedServers] - Rack GRA0316B03C</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack GRA0316B03C are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11142518</id>
     <published>2022-09-19T12:16:19Z</published>
     <updated>2022-09-19T12:16:19Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/5fzww9zxh4qw"/>
     <title>[RBX3][Dedicated Servers] - 42C18</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/09/2022 23:02 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 17/09/2022 00:16 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The  public network is operational again.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on hardware equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;   16/09/2022 23:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 99% of servers are reachable. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on hardware equipment.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are working on the remaining server.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;23:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  16/09/2022 23:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The public network is currently inaccessible.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our technicians are investigating the cause of this incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11155516</id>
-    <published>2022-09-16T22:14:59Z</published>
-    <updated>2022-09-16T22:14:59Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/m5lh8tzv0nx6"/>
-    <title>[RBX3][Dedicated Servers] - 45B27</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The altigo out of service is the root cause of this incident. The remote reboot service is still not working. &lt;br /&gt;Our technicians are reviewing different options to restore the service. &lt;br /&gt;We will get back to you as soon as we have more information. &lt;br /&gt;Thank you for your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/09/2022 17:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Remote reboot device is temporarily unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;  Our teams are currently working to solve the problem&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,16 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 19 Sep 2022 21:23:44 +0000</pubDate>
+    <pubDate>Mon, 19 Sep 2022 21:31:33 +0000</pubDate>
+    <item>
+      <title>[LIM1][Dedicated Servers] - Switch maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network and vRack will be unavailable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a switch.&lt;/p&gt;      </description>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 29 Sep 2022 02:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/9v3hpsgb44qf</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9v3hpsgb44qf</guid>
+    </item>
     <item>
       <title>[GRA2][Network] - Network equipment operation</title>
       <description>
@@ -217,14 +226,6 @@
       <pubDate>Mon, 19 Sep 2022 13:38:31 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/569y1jwjypqd</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/569y1jwjypqd</guid>
-    </item>
-    <item>
-      <title>[GRA3][DedicatedServers] - Rack GRA0316B03C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 19/09/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/09/2022 12:52 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The servers were unavailable due to a circuit breaker that tripped during the following maintenance: https://network.status-ovhcloud.com/incidents/4nrd13hxfgfg&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; The incident is closed, all servers are back in service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack GRA0316B03C are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 19 Sep 2022 13:13:34 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/s5704y2hj6fb</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/s5704y2hj6fb</guid>
     </item>
   </channel>
 </rss>

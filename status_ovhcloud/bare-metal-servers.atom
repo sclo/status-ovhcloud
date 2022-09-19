@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-09-19T21:23:44Z</updated>
+  <updated>2022-09-19T21:31:33Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11184286</id>
+    <published>2022-09-29T00:00:00Z</published>
+    <updated>2022-09-19T21:31:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9v3hpsgb44qf"/>
+    <title>[LIM1][Dedicated Servers] - Switch maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network and vRack will be unavailable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a switch.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11133596</id>
     <published>2022-09-28T20:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/569y1jwjypqd"/>
     <title>VPS - UK2 - host1492166</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1492166.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;dc913e2e-c587-436c-a07c-52ccc58d5601&lt;br /&gt;0b84f31a-6a5a-492e-b7fa-42eabdfefac8&lt;br /&gt;8627e4b8-63ba-4e8f-a5dc-b8ab390c03ea&lt;br /&gt;e279fc8e-3079-48c9-ae2a-97ae85a3d95c&lt;br /&gt;fd6d48a7-e08e-4c45-a3e0-6c9ce7e2e52f&lt;br /&gt;2f318fac-cbe7-40d3-bc49-0cf1443f7944&lt;br /&gt;9f9f6e44-5831-495a-a498-01541f224af1&lt;br /&gt;a2f52e18-0830-48af-8eab-5e391a40fbd6&lt;br /&gt;dee28b18-c08c-426c-bb7f-b7f0bb684ab4&lt;br /&gt;fa6fc773-bd12-4f51-a61e-8be9145ee570&lt;br /&gt;2a6c7fa7-4c89-405d-a0ee-ffc89f107a60&lt;br /&gt;9a4a26d2-d289-444d-b20b-6835424b1505&lt;br /&gt;cdc283c2-dc19-4414-b329-b7945100092a&lt;br /&gt;7d5eff29-e7da-44a2-9679-811da98a7f25&lt;br /&gt;925e956b-e0d9-4e65-807b-052827667d30&lt;br /&gt;abbf4481-8810-427a-b6e7-1947bdcb0aeb&lt;br /&gt;1e555802-0551-4191-8237-7165556a55e8&lt;br /&gt;bb9553a4-89a2-43d1-be1f-31c527ba5771&lt;br /&gt;8469d983-841c-40ae-80df-46715d15aaec&lt;br /&gt;0c47efc7-5596-47ef-999e-5cb269362f69&lt;br /&gt;be704532-7e90-4269-a41b-609c4b570cb8&lt;br /&gt;5ca9a749-2df1-4d70-a504-9cf245bcd8a4&lt;br /&gt;169c3cd0-cf11-4a85-b1c5-2c02d51709b3&lt;br /&gt;c69e92bc-a203-4860-a9e4-35203e92db48&lt;br /&gt;ce74b8e3-0f13-4a8e-a8b5-c848b6042292&lt;br /&gt;400a07ba-0280-40f9-9d4b-b6c76a0419b2&lt;br /&gt;c5f5ff7b-0a5f-4db2-bdbb-09939fbfc2d2&lt;br /&gt;837e4729-5ea8-4ff3-96f1-4646d8243311&lt;br /&gt;7e8b2335-4159-4128-a180-19080ceeb3ae&lt;br /&gt;2f699f2d-c8fe-4dcf-a97f-0ca99f79f99b&lt;br /&gt;1f212b9e-2a36-48e2-a074-a6b7ae910b9b&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11178808</id>
-    <published>2022-09-19T13:13:34Z</published>
-    <updated>2022-09-19T13:13:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/s5704y2hj6fb"/>
-    <title>[GRA3][DedicatedServers] - Rack GRA0316B03C</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 19/09/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/09/2022 12:52 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The servers were unavailable due to a circuit breaker that tripped during the following maintenance: https://network.status-ovhcloud.com/incidents/4nrd13hxfgfg&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; The incident is closed, all servers are back in service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers on rack GRA0316B03C are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

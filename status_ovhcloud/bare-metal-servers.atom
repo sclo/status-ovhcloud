@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-09-19T21:43:02Z</updated>
+  <updated>2022-09-19T21:51:55Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11184469</id>
+    <published>2022-09-30T00:00:00Z</published>
+    <updated>2022-09-19T21:51:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/j49qp1398kjq"/>
+    <title>[RBX7][Dedicated Servers] - Switch maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;21:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/09/2022 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network and vRack will be unavailable for 5 minutes each.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a switch.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11184401</id>
     <published>2022-09-29T00:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bqsvhtq7bv9f"/>
     <title>VPS - BHS6 - host370727</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;19:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host370727.bhs6.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;a9891ebe-21f5-405b-8d4b-f342da391fa0&lt;br /&gt;14aa6166-2c9f-4a84-8149-63897ec8af60&lt;br /&gt;215b9ab8-fe31-44d7-bf15-4566cdc75b1c&lt;br /&gt;c7eb8f02-69c9-4680-9d28-159d522c5176&lt;br /&gt;111dec25-9d92-4fe0-8646-68d44a2945b2&lt;br /&gt;c00ed66a-78ea-46c3-9718-41bc0a176e18&lt;br /&gt;eb478eac-4fbf-4998-a25f-1ec25916ab2e&lt;br /&gt;ca367ec0-8265-471c-b9a6-83ea1b5606c2&lt;br /&gt;b634607b-09e5-4290-81c9-775bb1ba8ad3&lt;br /&gt;23990046-f5ed-4720-94cb-fdf0049994ca&lt;br /&gt;0c6cef48-d894-4f6a-899e-38e16f467071&lt;br /&gt;63685f03-ff25-41b6-aa28-e50e9199eabd&lt;br /&gt;da103bd5-8149-4538-bfa4-7c00c8ae795d&lt;br /&gt;bdc8e87b-a02c-4729-bef7-1dd932c7989c&lt;br /&gt;9fd2a779-6cad-4fa5-82f3-37ce980bceaf&lt;br /&gt;4ca8fc8f-5c6d-45ee-8562-9fea7057d187&lt;br /&gt;dfe944e4-0809-4483-96e1-94c2b33c4c4c&lt;br /&gt;999f653e-c06f-4bb0-9e87-61e47dad834a&lt;br /&gt;bbe420a9-0b14-4703-8c90-c269e63c2c7b&lt;br /&gt;945f8dd9-a992-48da-9214-3d26c38d453c&lt;br /&gt;550f6886-99d3-43a2-b2f9-99b12dd38e0a&lt;br /&gt;13ac9a44-b35a-4f6a-bcab-799a844be2bf&lt;br /&gt;9fe47f68-645a-4011-9db3-2436169b625f&lt;br /&gt;e1d4a7c1-9a72-48df-a3fc-878d1adef4fa&lt;br /&gt;f626c714-f241-4b28-877f-cd5df05860d1&lt;br /&gt;39191131-1dbf-4fb1-8e5f-c786d6d148c5&lt;br /&gt;98e70555-9eb8-4a97-a521-a9ab8062f6c4&lt;br /&gt;4ba0c0b6-b8a2-45ab-8a7f-02fe883e8246&lt;br /&gt;d517704a-bbe0-429d-a4e2-46b704242357&lt;br /&gt;5ed8fb60-3f0a-4fc5-a2db-792ea2825068&lt;br /&gt;4ddccb2b-ce3f-4351-ad46-df5ad9cd77cc&lt;br /&gt;1bfc53f8-1f39-4b55-8856-3134fe518d06&lt;br /&gt;0b5e922d-762e-4def-b263-fae19807661c&lt;br /&gt;0d377580-5394-450b-941c-27287fa35375&lt;br /&gt;726635a8-49f2-469b-a2f2-db44f994446b&lt;br /&gt;adfec90f-9de6-4635-affb-1c107c517640&lt;br /&gt;81634769-7239-4db9-805a-2ce70d266cd2&lt;br /&gt;e99ef909-c0ba-4907-ae56-15932a70c949&lt;br /&gt;311649d6-790b-4667-b6fd-45ae3cddb1a2&lt;br /&gt;1d4ce257-46d7-45f0-964b-fd3e1af30137&lt;br /&gt;07033f6f-0584-4e99-a49e-2ce745d411c5&lt;br /&gt;316ef810-04f2-4193-9638-bf9650e80638&lt;br /&gt;b132d133-5a25-43f0-a1a7-bb0a654bcdb8&lt;br /&gt;eca26933-b6ac-4b12-b248-7c33280d7ee2&lt;br /&gt;21119194-6e5d-4775-a33d-ea19a0d1e1a7&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11180414</id>
-    <published>2022-09-19T16:04:04Z</published>
-    <updated>2022-09-19T16:04:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/h3wvv4d1vysn"/>
-    <title>[RBX3][Dedicated Servers] - Rack 46I26</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 19/09/2022 14:57 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/09/2022 15:54 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network device was at fault.&lt;br /&gt;&lt;b&gt;Comment :&lt;/b&gt; Finally the network equipment is functional again after some reboot. All servers are back in service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; A network equipment is faulty, our teams will replace it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2022 14:57 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers on rack 46I26 are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of identifying the cause of the downtime.&lt;/p&gt;</content>
   </entry>
 </feed>

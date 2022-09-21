@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 21 Sep 2022 17:24:00 +0000</pubDate>
+    <pubDate>Wed, 21 Sep 2022 17:39:58 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud]  Switch Upgrade</title>
       <description>
@@ -76,6 +76,15 @@
       <maintenanceEndDate>Mon, 26 Sep 2022 09:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/30dw80df07nf</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/30dw80df07nf</guid>
+    </item>
+    <item>
+      <title>[RBX1A-SBG2A][Network] - SecNumCloud - hosts upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; hosts rebooted&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;/p&gt;      </description>
+      <pubDate>Mon, 26 Sep 2022 06:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</guid>
     </item>
     <item>
       <title>[SBG2A-RBX1A][HostedPrivateCloud] - SecNumCloud - vCenter upgrade</title>
@@ -220,14 +229,6 @@
       <maintenanceEndDate>Fri, 23 Sep 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/0vsqdcc900nn</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/0vsqdcc900nn</guid>
-    </item>
-    <item>
-      <title>[RBX2A][VMware Private Cloud] - Storage tete-102</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/09/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 16/09/2022 23:42 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2A&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; pcc-001867 were unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover issue&lt;/p&gt;      </description>
-      <pubDate>Fri, 16 Sep 2022 23:51:38 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/25z7qq8gm393</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/25z7qq8gm393</guid>
     </item>
   </channel>
 </rss>

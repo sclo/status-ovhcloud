@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 26 Sep 2022 05:00:28 +0000</pubDate>
+    <pubDate>Mon, 26 Sep 2022 06:00:51 +0000</pubDate>
     <item>
       <title>[RBX7][Network] - Network device operation</title>
       <description>
@@ -195,19 +195,19 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/30dw80df07nf</guid>
     </item>
     <item>
-      <title>[RBX1A-SBG2A][Network] - SecNumCloud - hosts upgrade</title>
+      <title>[SBG2A-RBX1A][VMwarePrivateCloud] - SecNumCloud - VMware NSX operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; hosts rebooted&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Sep 2022 06:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts will be put into maintenance mode.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
+      <pubDate>Mon, 26 Sep 2022 06:00:51 +0000</pubDate>
       <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</guid>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</guid>
     </item>
     <item>
       <title>[SBG2A-RBX1A][HostedPrivateCloud] - SecNumCloud - vCenter upgrade</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vCenter will be unavailable during the operation&lt;br /&gt;Following our continuous improvement policy, we are rolling a upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Sep 2022 06:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vCenter will be unavailable during the operation&lt;br /&gt;Following our continuous improvement policy, we are rolling a upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;      </description>
+      <pubDate>Mon, 26 Sep 2022 06:00:51 +0000</pubDate>
       <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/hd0lxn7vfc4g</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/hd0lxn7vfc4g</guid>
@@ -215,20 +215,20 @@
     <item>
       <title>[RBX1A][HostedPrivateCloud] - SecNumCloud - Veeam Backup Managed operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/09/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Backup and restore actions won&apos;t be available during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for Veeam the Backup Managed solution.&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Sep 2022 06:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/09/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Backup and restore actions won&apos;t be available during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for Veeam the Backup Managed solution.&lt;/p&gt;      </description>
+      <pubDate>Mon, 26 Sep 2022 06:00:35 +0000</pubDate>
       <maintenanceEndDate>Wed, 28 Sep 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/nbxghkrx46jc</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/nbxghkrx46jc</guid>
     </item>
     <item>
-      <title>[SBG2A-RBX1A][VMwarePrivateCloud] - SecNumCloud - VMware NSX operation</title>
+      <title>[RBX1A-SBG2A][Network] - SecNumCloud - hosts upgrade</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts will be put into maintenance mode.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Sep 2022 06:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; hosts rebooted&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;/p&gt;      </description>
+      <pubDate>Mon, 26 Sep 2022 06:00:33 +0000</pubDate>
       <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</guid>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</guid>
     </item>
   </channel>
 </rss>

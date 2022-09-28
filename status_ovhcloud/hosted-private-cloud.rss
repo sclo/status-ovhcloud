@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 28 Sep 2022 10:23:21 +0000</pubDate>
+    <pubDate>Wed, 28 Sep 2022 14:52:27 +0000</pubDate>
     <item>
       <title>[RBX7][Network] - Network device operation</title>
       <description>
@@ -58,6 +58,15 @@
       <maintenanceEndDate>Wed, 05 Oct 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/lnxr64tx9pvt</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/lnxr64tx9pvt</guid>
+    </item>
+    <item>
+      <title>[BHS/RBX][Hosted Private Cloud] - Upgrade Network Equipement</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/10/2022 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade our network equipments.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Oct 2022 04:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Oct 2022 10:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/z6jk08mv6vz6</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/z6jk08mv6vz6</guid>
     </item>
     <item>
       <title>[RBX1A][Network] - SecNumCloud - Network device operation</title>
@@ -218,15 +227,6 @@
       <maintenanceEndDate>Mon, 26 Sep 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/lhzhr2l4293h</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/lhzhr2l4293h</guid>
-    </item>
-    <item>
-      <title>[SBG2A-RBX1A][VMwarePrivateCloud] - SecNumCloud - VMware NSX operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts will be put into maintenance mode.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Sep 2022 06:00:51 +0000</pubDate>
-      <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/br9cxsbhj7g2</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 30 Sep 2022 13:23:44 +0000</pubDate>
+    <pubDate>Fri, 30 Sep 2022 15:54:07 +0000</pubDate>
     <item>
       <title>[RBX7][Network] - Network device operation</title>
       <description>
@@ -141,6 +141,15 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/2sxvmm7cqsfl</guid>
     </item>
     <item>
+      <title>[RBX1A-SBG2A][Network] - SecNumCloud - hosts upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; hosts rebooted&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; All hosts have to be upgraded frequently due to the VMware&apos;s matrix of compatibility.&lt;br /&gt;Builds will be pushed to the host, put in maintenance mode, all Virtual machines will be moved with Vmotion and last hosts will be rebooted .&lt;br /&gt;If we meet an issue during the reboot of the host , it will be replaced. (20 min)&lt;/p&gt;      </description>
+      <pubDate>Fri, 30 Sep 2022 15:54:07 +0000</pubDate>
+      <maintenanceEndDate>Fri, 30 Sep 2022 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fg73zl84369t</guid>
+    </item>
+    <item>
       <title>[SBG1-RBX2][HostedPrivateCloud] - SecNumCloud - sharedSQL Upgrade</title>
       <description>
 &lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the PCI DSS recommendations, sharedSQL instances are migrated to a new version.&lt;/p&gt;      </description>
@@ -219,15 +228,6 @@
       <maintenanceEndDate>Thu, 29 Sep 2022 09:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/r2r9p43lfpyq</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/r2r9p43lfpyq</guid>
-    </item>
-    <item>
-      <title>[SBG1C][Network] - Network equipement operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, a network equipment will undergo an maintenance operation.&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Sep 2022 02:58:13 +0000</pubDate>
-      <maintenanceEndDate>Thu, 29 Sep 2022 04:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/1sf51c3lbrt2</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/1sf51c3lbrt2</guid>
     </item>
   </channel>
 </rss>

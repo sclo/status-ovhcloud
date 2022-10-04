@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 04 Oct 2022 15:30:34 +0000</pubDate>
+    <pubDate>Tue, 04 Oct 2022 16:23:47 +0000</pubDate>
     <item>
       <title>[RBX7][Network] - Network device operation</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Wed, 12 Oct 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/jcf1y8n2wzfb</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/jcf1y8n2wzfb</guid>
+    </item>
+    <item>
+      <title>[BHS/RBX/SBG][Hosted Private Cloud] - Upgrade Network Equipement</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/10/2022 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade our network equipments.&lt;/p&gt;      </description>
+      <pubDate>Mon, 10 Oct 2022 04:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 10 Oct 2022 15:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/cmd2tg6j5sk8</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/cmd2tg6j5sk8</guid>
     </item>
     <item>
       <title>[SBG1C][Hosted Private Cloud] - Network equipement operation</title>
@@ -220,14 +229,6 @@
       <maintenanceEndDate>Wed, 28 Sep 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/nbxghkrx46jc</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/nbxghkrx46jc</guid>
-    </item>
-    <item>
-      <title>[LIM1C][HostedPrivateCloud] - Switchover notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 29/09/2022 15:10 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 29/09/2022 16:15 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; LIM1C&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; monitoring malfunction&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; None&lt;br /&gt;Some mails notifying switchover (master to slave - or - slave to master) for the following clusters were wrongly sent :&lt;br /&gt;&lt;br /&gt;cluster10430&lt;br /&gt;cluster6254&lt;br /&gt;cluster6280&lt;br /&gt;cluster6307&lt;br /&gt;cluster6002&lt;br /&gt;cluster6040&lt;br /&gt;cluster6064&lt;br /&gt;cluster6060&lt;br /&gt;cluster6013&lt;br /&gt;&lt;br /&gt;Please excuse us for the inconvenience.&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Sep 2022 17:52:16 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/vz8txwcrtmbz</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vz8txwcrtmbz</guid>
     </item>
   </channel>
 </rss>

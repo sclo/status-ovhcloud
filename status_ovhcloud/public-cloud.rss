@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 05 Oct 2022 11:39:15 +0000</pubDate>
+    <pubDate>Wed, 05 Oct 2022 14:01:15 +0000</pubDate>
     <item>
       <title>[GRA/BHS][Public cloud] - End Of Life ML Serving</title>
       <description>
@@ -31,6 +31,22 @@
       <maintenanceEndDate>Tue, 25 Oct 2022 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</guid>
+    </item>
+    <item>
+      <title>PCI - GRA5 - host947172</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947172.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;6e3c0450-0995-4d8b-a84a-0bc6fbdb6dba&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Oct 2022 14:01:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/wnpp7mw2zjj8</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/wnpp7mw2zjj8</guid>
+    </item>
+    <item>
+      <title>PCI - GRA3 - host1338721</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1338721.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;d119e949-51aa-4092-88d6-5470aa7593a9&lt;br /&gt;bddba71a-f5ea-42ba-b81d-d3b9ff8b152f&lt;br /&gt;49859e18-f3d0-4d7a-822f-87f5c84daf60&lt;br /&gt;3bdb949d-8dca-4a02-bfdd-4a5cb4c3505b&lt;br /&gt;06c00034-6323-45ce-a810-8c1a16e60c7d&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Oct 2022 13:59:58 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/kkzktnttnyvz</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/kkzktnttnyvz</guid>
     </item>
     <item>
       <title>PCI - GRA11 - host1217629</title>
@@ -191,23 +207,6 @@
       <pubDate>Fri, 30 Sep 2022 08:09:26 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ny3f9qvk3fv0</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ny3f9qvk3fv0</guid>
-    </item>
-    <item>
-      <title>[GRA7][Containers &amp; Orchestration] - Managed Private Registry</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2022 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2022 16:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Access to Harbor UI, Docker images (pull/push) and Helm charts will be unavailable for 1 minute.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a migration of 26 registries.&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Sep 2022 16:01:28 +0000</pubDate>
-      <maintenanceEndDate>Thu, 29 Sep 2022 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/p8qtvb57d0p6</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/p8qtvb57d0p6</guid>
-    </item>
-    <item>
-      <title>PCI - GRA7 - host1329814</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1329814.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;939b32f1-3fda-4583-8897-717578b581ee&lt;br /&gt;46d8fe94-985b-4d37-9424-7f219b92a153&lt;br /&gt;ff63193b-2180-44b0-aa40-e07eb0a8d761&lt;br /&gt;a2fad891-92e8-4960-82bf-eb519e0af3ef&lt;br /&gt;11ff6183-779b-4834-9f85-c743f00729f7&lt;br /&gt;daa838c5-954d-441d-a34e-d0ad12d41b96&lt;br /&gt;c2a60dda-d2d0-41df-9312-621bf43349e5&lt;br /&gt;6648d02c-822c-4c2d-92f1-10efc3595445&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Sep 2022 13:28:57 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/mrk3qt6blv8x</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/mrk3qt6blv8x</guid>
     </item>
   </channel>
 </rss>

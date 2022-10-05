@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 05 Oct 2022 14:23:51 +0000</pubDate>
+    <pubDate>Wed, 05 Oct 2022 14:56:50 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud] -   Network &amp; servers  operation</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/5jl21d2mtzd4</guid>
     </item>
     <item>
+      <title>[RBX8][Hosted Private Cloud] - Network device operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2022 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2022 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Hosted Private Cloud products to maintain consistency.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Oct 2022 04:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 07 Oct 2022 09:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/rt0th3pn1bjg</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rt0th3pn1bjg</guid>
+    </item>
+    <item>
       <title>[BHS/ERI/LIM/RBX][HostedPrivateCloud] - Upgrade Network Equipement</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/10/2022 09:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade some of our network equipments.&lt;/p&gt;      </description>
@@ -220,15 +229,6 @@
       <maintenanceEndDate>Fri, 07 Oct 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/mfcl3q62d48r</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/mfcl3q62d48r</guid>
-    </item>
-    <item>
-      <title>[SBG1-RBX2][HostedPrivateCloud] - SecNumCloud - sharedSQL Upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following the PCI DSS recommendations, sharedSQL instances are migrated to a newer version.&lt;/p&gt;      </description>
-      <pubDate>Mon, 03 Oct 2022 06:00:50 +0000</pubDate>
-      <maintenanceEndDate>Fri, 07 Oct 2022 19:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/9tttfy3dj1d6</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/9tttfy3dj1d6</guid>
     </item>
   </channel>
 </rss>

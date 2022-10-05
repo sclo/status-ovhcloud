@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-10-05T10:58:35Z</updated>
+  <updated>2022-10-05T12:56:58Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/jcf1y8n2wzfb"/>
     <title>[RBX7][Network] - Network device operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 12/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 12/10/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; A few seconds of Input/Output freeze when the service will do a switchover (2 times)&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Hosted Private Cloud products to maintain consistency.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11471981</id>
+    <published>2022-10-11T04:00:00Z</published>
+    <updated>2022-10-05T12:56:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/37scm5d5z8d6"/>
+    <title>[RBX][Hosted Private Cloud] - Upgrade Network Equipement</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;12:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade our network equipments.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/11417077</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/2sxvmm7cqsfl"/>
     <title>[SBG1C][Network] - Switch version upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;02:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2022 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to upgrade the version of a Top of Rack (TOR) switch&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10686175</id>
-    <published>2022-09-30T22:30:00Z</published>
-    <updated>2022-09-30T20:28:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/f3b3x0m537zz"/>
-    <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End of Life Dedicated Cloud:&lt;/b&gt; 30 September 2022&lt;br /&gt;We informed you in October 2021 that our Dedicad Cloud service will reach its end of life and will be discontinued the 30st September 2022. This step is important for your VMware platforms to improve the quality of service, performance, and security of your clusters. Indeed, "Dedicated Cloud" hardware used, pre-2016, does not allow us to provide the best level of service and integration with new modern architectures of VMware.&lt;br /&gt;Following our previous email, many customers started to plan and/or to migrate and we encourage you to do the same to avoid the September deadline.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Guide to migrating to a new infrastructure:&lt;/b&gt;&lt;br /&gt;https://docs.ovh.com/gb/en/private-cloud/vdc-migration/&lt;/p&gt;</content>
   </entry>
 </feed>

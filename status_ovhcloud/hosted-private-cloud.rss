@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 06 Oct 2022 03:00:26 +0000</pubDate>
+    <pubDate>Thu, 06 Oct 2022 03:31:04 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud] -   Network &amp; servers  operation</title>
       <description>
@@ -150,6 +150,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/l0g067zpygkf</guid>
     </item>
     <item>
+      <title>[SBG2][Network] - SecNumCloud - hosts upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2022 01:33 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There is some redundancy of the network cards managment and vrack unreachable on the esxi hosts .&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Oct 2022 03:31:04 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/lmj1rsxtlb91</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/lmj1rsxtlb91</guid>
+    </item>
+    <item>
       <title>[RBX8][Hosted Private Cloud]  Switch Upgrade</title>
       <description>
 &lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  05/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/10/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
@@ -220,15 +228,6 @@
       <maintenanceEndDate>Mon, 03 Oct 2022 06:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/9ptmxfscpsv3</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/9ptmxfscpsv3</guid>
-    </item>
-    <item>
-      <title>[RBX1A-SBG2A][Network] - SecNumCloud - hosts upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out a upgrade for vCSA and ESXi.&lt;/p&gt;      </description>
-      <pubDate>Mon, 03 Oct 2022 06:01:16 +0000</pubDate>
-      <maintenanceEndDate>Fri, 07 Oct 2022 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/5616xwzl3yy4</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/5616xwzl3yy4</guid>
     </item>
   </channel>
 </rss>

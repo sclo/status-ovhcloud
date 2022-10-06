@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 06 Oct 2022 10:23:41 +0000</pubDate>
+    <pubDate>Thu, 06 Oct 2022 15:05:04 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -40,6 +40,23 @@
       <maintenanceEndDate>Tue, 25 Oct 2022 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</guid>
+    </item>
+    <item>
+      <title>Migration of Horizon dashboard backend</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Upgrade and migration of the Openstack Horizon dashboard from Pike to Yoga.&lt;br /&gt;&lt;br /&gt;No impact is expected except a change of the backend IP address to 217.182.130.204&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Oct 2022 14:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 12 Oct 2022 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/pchrydxhzrwl</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/pchrydxhzrwl</guid>
+    </item>
+    <item>
+      <title>PCI - SBG5 - host1265215</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1265215.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;bb570c07-e5bc-4a1d-b2be-70bd6a5759b1&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Oct 2022 15:05:04 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/34g7s8yknj2d</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/34g7s8yknj2d</guid>
     </item>
     <item>
       <title>PCI - DE1 - host1003531</title>
@@ -192,22 +209,6 @@
       <pubDate>Fri, 30 Sep 2022 15:06:09 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/hqvbx2w8r45b</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/hqvbx2w8r45b</guid>
-    </item>
-    <item>
-      <title>PCI - GRA7 - host1132057</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1132057.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2b88e0c4-eacb-4ca2-a175-4941b8afcda9&lt;/p&gt;      </description>
-      <pubDate>Fri, 30 Sep 2022 12:04:03 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/dyl0zfw87c3j</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/dyl0zfw87c3j</guid>
-    </item>
-    <item>
-      <title>PCI - GRA7 - host1132057</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1132057.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2b88e0c4-eacb-4ca2-a175-4941b8afcda9&lt;/p&gt;      </description>
-      <pubDate>Fri, 30 Sep 2022 10:13:01 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/z7qlqn60gj9d</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/z7qlqn60gj9d</guid>
     </item>
   </channel>
 </rss>

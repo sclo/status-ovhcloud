@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 05 Oct 2022 14:23:50 +0000</pubDate>
+    <pubDate>Thu, 06 Oct 2022 00:49:09 +0000</pubDate>
+    <item>
+      <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/12/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.20).&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.20).&lt;/p&gt;      </description>
+      <pubDate>Mon, 12 Dec 2022 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 12 Dec 2022 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/vsyck6784rnj</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/vsyck6784rnj</guid>
+    </item>
     <item>
       <title>[GRA/BHS][Public cloud] - End Of Life ML Serving</title>
       <description>
@@ -199,14 +208,6 @@
       <pubDate>Fri, 30 Sep 2022 08:38:05 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9j2dntxx8djj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9j2dntxx8djj</guid>
-    </item>
-    <item>
-      <title>PCI - GRA5 - host1393775</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host145-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G266B08&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1393775.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;058567ee-2f71-4138-8f7b-51e116b4c424&lt;br /&gt;08acd152-bfab-4a32-a690-8837596d1f4c&lt;br /&gt;0942ff2c-e533-4a2e-985e-24f5dc36840b&lt;br /&gt;0c0e2412-a19a-4b4d-8326-24bc1264a73d&lt;br /&gt;0c970d30-739e-4160-8fce-efc90a305d34&lt;br /&gt;22ce9697-8973-48ea-8e73-b21f94049076&lt;br /&gt;2e9fdb02-18b5-41ba-a4c9-4f3ce02a6f4e&lt;br /&gt;330463b7-4ab7-49dc-8b5d-c6a812df912a&lt;br /&gt;3b5ae7d3-fe19-4a63-9804-93fbef76f118&lt;br /&gt;3bbb6c22-7bb1-4c35-abc6-baf64f4d850a&lt;br /&gt;44181d7f-f424-4623-ba23-5a6a2700d8c5&lt;br /&gt;4c8f27a8-4e9a-47c0-b973-5d712a836be7&lt;br /&gt;5066de36-9677-4bef-ac7f-a75b49a1750d&lt;br /&gt;5270eda7-a713-40a0-89b3-0dfe8bfca142&lt;br /&gt;5be2e864-225f-4256-bf46-dabccbb806e8&lt;br /&gt;5fdda615-f323-40b2-9f97-a8057e9edfe6&lt;br /&gt;6a4ca8b2-5ae4-4545-95c3-0b30e55b68a4&lt;br /&gt;6ff4e700-034e-4136-a796-3c10bd0e1725&lt;br /&gt;7d5899ef-1fd8-4b6a-a0d8-d17bc71ef43b&lt;br /&gt;803819fc-19d6-436a-ba7a-93d984a0fe43&lt;br /&gt;89aab684-54d0-4f13-bff1-6b6d008cbfc6&lt;br /&gt;9cbd7e98-fd56-41bc-b1a4-82a396636e60&lt;br /&gt;9fb52b42-3f19-44a7-91d9-4b7e5e6962e0&lt;br /&gt;aeda94c2-ad26-4816-8ca0-7dd649e2f706&lt;br /&gt;b012c65f-90c3-49da-9329-aa01118e863f&lt;br /&gt;b1b9d414-a1f4-493d-9560-e34d780262ac&lt;br /&gt;b3131867-26f0-4e74-a1da-780b69cb99ae&lt;br /&gt;b813a030-7aa1-4d40-a09a-61ad362f3c4c&lt;br /&gt;baf81842-5020-404c-8f7a-197e5f22573e&lt;br /&gt;c3121d74-5380-4d4d-9183-20f0e2d19ed8&lt;br /&gt;c8f145b7-e9e1-42c2-aa0a-e41da1cad3cf&lt;br /&gt;cc795077-1031-49f2-b118-2ba7adbc5c4f&lt;br /&gt;cda4a8c2-84a1-4607-b149-00ee4039f90b&lt;br /&gt;d3adabe8-ef0d-4b5e-aed8-dfa23dc381c0&lt;br /&gt;d56220bc-6bc1-43b1-b931-0cdd63f3fe6a&lt;br /&gt;d5d0214c-c55e-41cf-9ca0-5f4b175b94b4&lt;br /&gt;d62dd5b3-b2ae-42bf-bffd-24349c91b107&lt;br /&gt;dd203b11-7467-4799-a466-ba81836fe476&lt;br /&gt;e06263ae-292e-4452-bda9-5aecde2938c7&lt;br /&gt;e39e7b98-e041-46d9-8b36-bdfcb7c1c552&lt;br /&gt;e473316b-b54f-4582-94ac-a921513203ed&lt;br /&gt;e8cbc47f-4e84-411c-b395-0a618081b349&lt;br /&gt;ee1c6201-32a1-4965-9357-441da3a1b14b&lt;br /&gt;f6126ec7-af3c-4cfe-a139-167416420da4&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;      </description>
-      <pubDate>Fri, 30 Sep 2022 08:09:26 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ny3f9qvk3fv0</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ny3f9qvk3fv0</guid>
     </item>
   </channel>
 </rss>

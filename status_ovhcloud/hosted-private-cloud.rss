@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 07 Oct 2022 04:56:44 +0000</pubDate>
+    <pubDate>Fri, 07 Oct 2022 05:10:16 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud] -   Network &amp; servers  operation</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/7fbsgv291f6z</guid>
     </item>
     <item>
+      <title>[RBX2B][VMware Private Cloud - Storage] - tete-7707</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 07/10/2022 00:12 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 07/10/2022 01:24 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Access to the ssd-010151 datastore was unavailable.&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A corruption was caused by a hard disk issue.&lt;br /&gt;&lt;br /&gt;Our teams replaced the defective hardware.&lt;/p&gt;      </description>
+      <pubDate>Fri, 07 Oct 2022 04:57:03 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/v8dq2qghlxf3</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/v8dq2qghlxf3</guid>
+    </item>
+    <item>
       <title>[BHS1C][VMware Private Cloud] - cluster79</title>
       <description>
 &lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/10/2022 19:03 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/10/2022 19:17 UTC&lt;br /&gt;&lt;b&gt;Technical impact :&lt;/b&gt; The storage of these pools were temporarily unavailable: ssd-004448 ssd-004449 ssd-004450 ssd-004451 ssd-004454 ssd-004458 ssd-004463 ssd-004465 ssd-004466 ssd-004469 ssd-004591 ssd-004887&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failover&lt;/p&gt;      </description>
@@ -218,15 +226,6 @@
       <maintenanceEndDate>Wed, 05 Oct 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/lnxr64tx9pvt</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/lnxr64tx9pvt</guid>
-    </item>
-    <item>
-      <title>[RBX1A][Network] - SecNumCloud - Network device operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Our teams haven&apos;t totally completed the maintenance.&lt;br /&gt;We are planning in doing the rest of the operation in another task.&lt;br /&gt;We will inform you of the upcoming maintenance dates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;You can find below the new end time.&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 04/10/2022 12:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 04/10/2022 04:00 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 04/10/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Hosted Private Cloud products to maintain consistency.&lt;/p&gt;      </description>
-      <pubDate>Tue, 04 Oct 2022 12:24:03 +0000</pubDate>
-      <maintenanceEndDate>Tue, 04 Oct 2022 09:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/20nynps4tc6d</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/20nynps4tc6d</guid>
     </item>
   </channel>
 </rss>

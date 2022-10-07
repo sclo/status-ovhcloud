@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-10-07T09:24:05Z</updated>
+  <updated>2022-10-07T09:45:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -49,6 +49,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Upgrade and migration of the Openstack Horizon dashboard from Pike to Yoga.&lt;br /&gt;&lt;br /&gt;No impact is expected except a change of the backend IP address to 217.182.130.204&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11595714</id>
+    <published>2022-10-07T09:45:26Z</published>
+    <updated>2022-10-07T09:45:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k6ltjmjgzb6x"/>
+    <title>PCI - BHS1 - host267490</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;09:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host267490.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;782191ae-c749-4b65-8737-ae2ebb00da5e&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11598958</id>
+    <published>2022-10-07T09:39:35Z</published>
+    <updated>2022-10-07T09:39:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0hv3c67w2313"/>
+    <title>host1305304.gra7.cloud.ovh.net</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We will reboot this host to verify the cooling system&lt;br /&gt;Affected instance: 68244174-77ea-4b9e-b7d1-7a486bbb9d1e&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11595945</id>
     <published>2022-10-07T08:39:18Z</published>
     <updated>2022-10-07T08:39:18Z</updated>
@@ -63,14 +79,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b3293lj60y94"/>
     <title>PCI - GRA1 - host1395492</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1395492.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c2f4ea86-37f4-46d3-a541-251f53ab1a8b&lt;br /&gt;6ba60d86-4740-442e-bd89-75a0dc6e08f4&lt;br /&gt;9d3fad8c-82f1-4ba6-91d4-9cf1eef58b8f&lt;br /&gt;8742e410-b7cb-4200-8dda-2ed3935d437a&lt;br /&gt;418a84e2-5992-467c-a2f3-a7e7f6c8984b&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11595714</id>
-    <published>2022-10-07T08:23:17Z</published>
-    <updated>2022-10-07T08:23:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k6ltjmjgzb6x"/>
-    <title>PCI - BHS1 - host267490</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host267490.bhs1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;782191ae-c749-4b65-8737-ae2ebb00da5e&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11594041</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jtpdz3jcfbh4"/>
     <title>[GRA7][Public Cloud] - API</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;12:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  03/10/2022 09:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 03/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact:&lt;/b&gt; Our technical teams resolved the issue. The APIs are now available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams identified an incident on an internal database causing the failure within the APIs.&lt;br /&gt;APIs are now available again.&lt;br /&gt;We will keep the situation under observation for the next hour&lt;br /&gt;We apologise for any inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We also observe 500 errors in areas other than GRA7.&lt;br /&gt;We will get back to you as soon as we have more information&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2022 09:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; APIs of the public cloud offer are unreachable. VM already in operation continue to function normally&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams investigate to determine the origin of the incident&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11359703</id>
-    <published>2022-10-03T11:28:06Z</published>
-    <updated>2022-10-03T11:28:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c9sskvckhw7z"/>
-    <title>PCI - UK1 - host1134777</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;10:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1134777.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;2e961ff2-bbe8-43e4-87dd-5d8b0950e297&lt;br /&gt;69dd0699-5cd2-47ae-969c-c65c63dda7d0&lt;br /&gt;2e0972f5-c8e8-47df-903c-1019fa058ecb&lt;br /&gt;3edb98d8-b5b7-4179-a688-fb62da04ea2a&lt;br /&gt;2e47fd67-10c7-4370-affc-7aa5a805a6f3&lt;br /&gt;caee3246-cdc4-473e-84a5-77ff8a6fdf9c&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-10-12T11:09:24Z</updated>
+  <updated>2022-10-12T13:01:53Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,6 +121,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;22:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  12/10/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  12/10/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11497283</id>
+    <published>2022-10-12T13:01:53Z</published>
+    <updated>2022-10-12T13:01:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bpvy3fw2yqdy"/>
+    <title>[WAW/GRA][Network] - Network equipment operation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;12/10/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2022 12:55 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some additional latency on one-network operations during operation may be observed.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on a network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;12/10/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some additional latency on one-network operations during operation may be observed.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11435163</id>
     <published>2022-10-12T11:09:24Z</published>
     <updated>2022-10-12T11:09:24Z</updated>
@@ -159,14 +167,6 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ql9w08cypg6b"/>
     <title>VPS - DE2 - host1278869</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1278869.de2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;9e1f922e-035e-4906-afc9-62f0ad6158f6&lt;br /&gt;69615efa-1bed-4e8c-998c-23e8eef633b9&lt;br /&gt;e5fd6327-6f99-44e1-8912-350b4dcccae8&lt;br /&gt;b0b9e05b-e817-4328-96d0-968a641bb4e7&lt;br /&gt;110392c5-02ff-4e0c-9efd-739b30210ea8&lt;br /&gt;01dc05bf-7b27-42ee-867a-b02c5bdfbbe7&lt;br /&gt;ca77f6b1-b0fe-43df-b703-df92c5d7050c&lt;br /&gt;2a366868-6e07-4c58-8ab7-d75c1b2e14a1&lt;br /&gt;7ecfbcdd-7d84-480a-8843-7b2932a8312a&lt;br /&gt;de886d52-fbac-467d-9109-f09e26c5b0cc&lt;br /&gt;5bf09837-560f-4feb-8180-53a49c8364b3&lt;br /&gt;10d69a85-f9cc-49f0-9657-525c75fcd5bd&lt;br /&gt;2e4750c4-9670-430f-803d-a1bf4007658f&lt;br /&gt;1a914a26-94d4-48aa-98d8-92aa11dfb306&lt;br /&gt;6f7c905b-11d2-49c9-8190-d1461991bc38&lt;br /&gt;6d748a1a-e342-4d81-befb-af742bad2749&lt;br /&gt;81cb7c28-dbcc-4727-bcbd-37cc72811ff9&lt;br /&gt;38735e09-a97d-4067-bcc5-900f37b4ad1c&lt;br /&gt;2d6fe865-9e07-4a1b-a2a2-875da95338bb&lt;br /&gt;20bf2c4e-18ac-442e-a79f-632e9e06d49c&lt;br /&gt;1e9820ea-e1d2-4c7e-a71d-32caa4eb0c2e&lt;br /&gt;2ebbc7ea-c27a-4f1b-8436-e46b9b637bc4&lt;br /&gt;978abb8a-d6b0-4a25-8b89-90c15747b78c&lt;br /&gt;b0b7e168-7d91-4ca7-beb9-c5f1f8ce78b6&lt;br /&gt;1d8ba07b-a951-453f-bce9-72d17613ed29&lt;br /&gt;72627a47-e21f-411e-8411-761ad84c5d3e&lt;br /&gt;c67b85eb-12db-413f-b164-bad628ee0603&lt;br /&gt;2bbf1c32-4b6b-43be-ba3f-e7df0ce833ff&lt;br /&gt;b04e0a49-bf67-45cc-9eef-0472a2905230&lt;br /&gt;1be46ab6-9228-4c07-8525-0d85833167f9&lt;br /&gt;26e2bea4-ac8a-46fc-9608-4a8da0aa54f7&lt;br /&gt;4e76498b-3f3b-4ac6-90aa-5b23a8a0b3ec&lt;br /&gt;df94f22a-f780-4d01-813d-65602da42dcf&lt;br /&gt;077523a5-3008-4c04-97b3-5a72553dabcb&lt;br /&gt;9962ef59-6248-4d3d-87f2-17f29c761250&lt;br /&gt;32074069-8078-4136-b7ef-add1784b0560&lt;br /&gt;a533b94f-753b-4962-a2fc-345efb9b6a73&lt;br /&gt;e91bec0b-1e3a-4c25-973f-98e17bba4240&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11497283</id>
-    <published>2022-10-12T05:00:32Z</published>
-    <updated>2022-10-12T05:00:32Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bpvy3fw2yqdy"/>
-    <title>[WAW/GRA][Network] - Network equipment operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;12/10/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some additional latency on one-network operations during operation may be observed.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/11553630</id>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 19 Oct 2022 04:23:44 +0000</pubDate>
+    <pubDate>Wed, 19 Oct 2022 08:00:00 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -60,6 +60,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/z2hpzy2j1w86</guid>
     </item>
     <item>
+      <title>Glance Upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:05&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Oct 2022 10:05:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 19 Oct 2022 11:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/smwrp4xntw5g</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/smwrp4xntw5g</guid>
+    </item>
+    <item>
       <title>PCI - DE1 - host1460304</title>
       <description>
 &lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1460304.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;295ac1a0-9747-489c-8880-8a181a15131e&lt;/p&gt;      </description>
@@ -70,7 +79,7 @@
     <item>
       <title>[GRA7][Compute] - API</title>
       <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/10/2022 10:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/10/2022 16:34 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is complete and an improvement has been noted. Our teams will keep the incident under monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is underway.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2022 10:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase of API latency and timeout&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of patching the origin of these disturbances.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/10/2022 10:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/10/2022 23:25 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is complete and an improvement has been noted. Our teams will keep the incident under monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is underway.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2022 10:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase of API latency and timeout&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of patching the origin of these disturbances.&lt;/p&gt;      </description>
       <pubDate>Tue, 18 Oct 2022 23:44:20 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jfzdsmvs31lc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jfzdsmvs31lc</guid>
@@ -204,14 +213,6 @@
       <pubDate>Mon, 17 Oct 2022 12:34:18 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/hpcr52xc6x03</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/hpcr52xc6x03</guid>
-    </item>
-    <item>
-      <title>PCI - UK1 - host1213458</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1213458.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;1cbf3ddd-7cd0-4408-916f-ea4e88960282&lt;br /&gt;e6cc1049-aa27-4d9c-ad0a-fc37413c241c&lt;br /&gt;7bf94797-d491-4f7a-b45a-1b2299a98926&lt;br /&gt;325b5831-a589-444c-ae0b-aa68d10e6134&lt;br /&gt;8bb38f24-648f-45b7-8694-f8e1e6d1e6b3&lt;br /&gt;4cfeb0eb-7783-46c3-93db-afb988329040&lt;br /&gt;63a9566b-9c6c-498b-954b-27f45093c5b3&lt;br /&gt;93f906c3-1f86-4c29-b58a-e75cb2b6d16e&lt;br /&gt;bc028be2-ecec-4d9d-8efa-b91ba3a22c73&lt;/p&gt;      </description>
-      <pubDate>Mon, 17 Oct 2022 12:34:04 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/9kd2mvs3sjtd</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/9kd2mvs3sjtd</guid>
     </item>
   </channel>
 </rss>

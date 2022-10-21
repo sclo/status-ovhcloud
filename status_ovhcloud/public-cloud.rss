@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 20 Oct 2022 21:13:29 +0000</pubDate>
+    <pubDate>Fri, 21 Oct 2022 00:23:47 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Thu, 27 Oct 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1vbt2yxjyws3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1vbt2yxjyws3</guid>
+    </item>
+    <item>
+      <title>[EU/CA/APAC][Managed Kubernetes Service] - Kubernetes API backend maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, it will not be possible to create/reset/update/delete a MKS cluster, add/edit/delete a nodepool or create/edit/delete IP restrictions.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to improve the Registry API backend.&lt;/p&gt;      </description>
+      <pubDate>Wed, 26 Oct 2022 06:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Oct 2022 07:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/fs6yr26d7mf6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/fs6yr26d7mf6</guid>
     </item>
     <item>
       <title>[GRA5 | GRA7 | GRA9 | SBG5 | WAW1 | SGP1| BHS5 | VA1 | OR1 | SYD1 | UK1 | DE1][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
@@ -205,14 +214,6 @@
       <pubDate>Tue, 18 Oct 2022 20:30:23 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/spxgp1blg2gy</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/spxgp1blg2gy</guid>
-    </item>
-    <item>
-      <title>[GRA7][Public Cloud] Node slow delivery</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/10/2022 08:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/10/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was related to slowdowns on the API side: https://public-cloud.status-ovhcloud.com/incidents/jfzdsmvs31lc.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Our teams are in the process of fixing the slowdowns in the API.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is related to slowdowns on the API side: https://public-cloud.status-ovhcloud.com/incidents/jfzdsmvs31lc&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2022-10-18 08:26:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Node deliveries are slow.&lt;br /&gt;&lt;b&gt;Ongoing action :&lt;/b&gt; Our technical teams are investigating.&lt;/p&gt;      </description>
-      <pubDate>Tue, 18 Oct 2022 16:40:34 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/8xv5nqf9r6dw</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/8xv5nqf9r6dw</guid>
     </item>
   </channel>
 </rss>

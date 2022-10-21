@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-10-21T08:23:57Z</updated>
+  <updated>2022-10-21T09:17:45Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -57,20 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/10/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVHcloud Kubernetes API could be unavailable for few seconds&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; From OVHcloud Api, for NodePool resources, the RESIZING value of the "status" attribute will disappear and be replaced by more specific values (UPSCALING and DOWNSCALING, non-definitive naming) depending on whether the NodePool is requesting new nodes or deleting nodes.&lt;br /&gt;For terraform users, an update of the plugin "terraform-provider-ovh" will be required.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12392118</id>
+    <published>2022-10-21T09:17:04Z</published>
+    <updated>2022-10-21T09:17:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s9z8572rvgb4"/>
+    <title>[GRA][ObjectStorage] - Latency</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/10/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/10/2022 21:15 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Only HEAD and GET requests are impacted by latency.&lt;br /&gt;&lt;br /&gt;The degradation has been resolved, we are putting the ticket under surveillance to confirm the resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/10/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Traffic may experience additional latency.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Surge of legit traffic&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12420443</id>
     <published>2022-10-21T07:45:34Z</published>
     <updated>2022-10-21T07:45:34Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fnw69wkm025v"/>
     <title>PCI - GRA7 - host1329814</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1329814.gra7.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;972cf30f-1c94-4d96-9244-f1a305764f2b&lt;br /&gt;31c08fdd-d26c-4320-8fd8-dbc8d3d475cb&lt;br /&gt;a56141a6-dec0-4f3a-9016-1858895e01cb&lt;br /&gt;ff63193b-2180-44b0-aa40-e07eb0a8d761&lt;br /&gt;a2fad891-92e8-4960-82bf-eb519e0af3ef&lt;br /&gt;11ff6183-779b-4834-9f85-c743f00729f7&lt;br /&gt;daa838c5-954d-441d-a34e-d0ad12d41b96&lt;br /&gt;c2a60dda-d2d0-41df-9312-621bf43349e5&lt;br /&gt;6648d02c-822c-4c2d-92f1-10efc3595445&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12392118</id>
-    <published>2022-10-20T21:13:29Z</published>
-    <updated>2022-10-20T21:13:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s9z8572rvgb4"/>
-    <title>[GRA][ObjectStorage] - Latency</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Only HEAD and GET requests are impacted by latency.&lt;br /&gt;&lt;br /&gt;The degradation has been resolved, we are putting the ticket under surveillance to confirm the resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/10/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Traffic may experience additional latency.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Surge of legit traffic&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/11982751</id>

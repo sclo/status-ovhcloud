@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-10-22T15:18:36Z</updated>
+  <updated>2022-10-23T00:23:40Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587"/>
     <title>[GRA5 | GRA7 | GRA9 | SBG5 | WAW1 | SGP1| BHS5 | VA1 | OR1 | SYD1 | UK1 | DE1][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/10/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVHcloud Kubernetes API could be unavailable for few seconds&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; From OVHcloud Api, for NodePool resources, the RESIZING value of the "status" attribute will disappear and be replaced by more specific values (UPSCALING and DOWNSCALING, non-definitive naming) depending on whether the NodePool is requesting new nodes or deleting nodes.&lt;br /&gt;For terraform users, an update of the plugin "terraform-provider-ovh" will be required.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12517126</id>
+    <published>2022-10-23T00:10:26Z</published>
+    <updated>2022-10-23T00:10:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/w9n5gfz4v0d1"/>
+    <title>PCI - GRA3 - host783071</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host783071.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;0e75f82e-1c39-4f48-84aa-60b0026868b3&lt;br /&gt;7ed0d5a5-eae9-4882-ae1c-b4cf5e40630c&lt;br /&gt;57266c7a-cec9-46be-b52f-8a213d0a924f&lt;br /&gt;d74c3919-4ce0-4718-bc57-972ec2249177&lt;br /&gt;49dcf36a-e4a3-4fed-a9e6-51d499d164ee&lt;br /&gt;f8b479c5-86d5-4dbd-9048-457a57183bb8&lt;br /&gt;242e10e2-be53-4593-8a49-0a0160195c8e&lt;br /&gt;513ce40a-99c4-437f-ac17-78f6458b5ce1&lt;br /&gt;543a7bcc-c08a-4d86-a81d-9be889797412&lt;br /&gt;16ba043f-ee3e-4009-8af4-d33709932716&lt;br /&gt;7bed0b8f-259d-4118-8dae-26607d71ca66&lt;br /&gt;2f9f6962-3898-4474-b24d-5d8d6359655e&lt;br /&gt;2bab4adf-77a8-4bf8-86f3-9524166f068e&lt;br /&gt;709116db-2ab8-425c-8149-f4a1c936e62a&lt;br /&gt;8edaec5e-e30f-4465-97c6-5493e9afb6ba&lt;br /&gt;46010d71-67bb-475a-a38e-a32655119a46&lt;br /&gt;2d23ad0b-acad-4a90-8c38-252b4886f3d2&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12420443</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wmczr4j24m94"/>
     <title>[GRA][Public Cloud] - Put error/slow on GRA</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 15/10/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/10/2022 08:36 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update  :&lt;/b&gt; The fix is still being deployed. We will do a new update on 19/10/2022.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; The fix has been postponed for tomorrow the 18/10/2022.&lt;br /&gt;We will keep you informed of the operation progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams implemented a workaround in order to mitigate the impact.&lt;br /&gt;A fix is planned to be implemented during the afternoon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/10/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase of rate error on PUT requests (GRA region).&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of identifying the origin of these disturbances.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12241050</id>
-    <published>2022-10-18T23:44:20Z</published>
-    <updated>2022-10-19T08:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jfzdsmvs31lc"/>
-    <title>[GRA7][Compute] - API</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/10/2022 10:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/10/2022 23:25 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is complete and an improvement has been noted. Our teams will keep the incident under monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The patching is underway.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2022 10:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase of API latency and timeout&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are in the process of patching the origin of these disturbances.&lt;/p&gt;</content>
   </entry>
 </feed>

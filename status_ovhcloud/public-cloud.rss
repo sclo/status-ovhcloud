@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 26 Oct 2022 05:00:23 +0000</pubDate>
+    <pubDate>Wed, 26 Oct 2022 05:33:15 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -58,6 +58,14 @@
       <maintenanceEndDate>Wed, 26 Oct 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/fs6yr26d7mf6</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/fs6yr26d7mf6</guid>
+    </item>
+    <item>
+      <title>PCI - SBG5 - host1188721</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1188721.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;24121828-cea8-45e1-972c-4b56bca51fd6&lt;br /&gt;48ff332c-6c52-4e7b-90a4-8c7794eff6c9&lt;/p&gt;      </description>
+      <pubDate>Wed, 26 Oct 2022 05:33:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/5jzz0d3rk0q3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/5jzz0d3rk0q3</guid>
     </item>
     <item>
       <title>PCI - DE1 - host972946</title>
@@ -205,14 +213,6 @@
       <pubDate>Sat, 22 Oct 2022 15:17:56 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/6mb2zb6x85lc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/6mb2zb6x85lc</guid>
-    </item>
-    <item>
-      <title>[GRA][ObjectStorage] - Latency</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/10/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/10/2022 21:15 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Only HEAD and GET requests are impacted by latency.&lt;br /&gt;&lt;br /&gt;The degradation has been resolved, we are putting the ticket under surveillance to confirm the resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/10/2022 14:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Traffic may experience additional latency.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Surge of legit traffic&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 21 Oct 2022 09:17:04 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/s9z8572rvgb4</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/s9z8572rvgb4</guid>
     </item>
   </channel>
 </rss>

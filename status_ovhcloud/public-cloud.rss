@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 27 Oct 2022 07:00:31 +0000</pubDate>
+    <pubDate>Thu, 27 Oct 2022 08:02:45 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -42,10 +42,18 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</guid>
     </item>
     <item>
+      <title>[GRA5][Network] - Network Latencie</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;27/10/2022 02:30 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;27/10/2022 02:30 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;br /&gt;We keep the situation under observation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Managed Kubernetes Service clusters are also impacted by this incident (network instability and cluster edition)&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams continue to investigate. &lt;br /&gt;We apologise for the inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our initial investigation indicates an impact on the GRA5 region&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; host response is unstable. It is not possible to add new instances&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams investigate to determine the origin of the incident&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Oct 2022 08:02:45 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/spdqx4ghtnxq</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/spdqx4ghtnxq</guid>
+    </item>
+    <item>
       <title>[GRA][ManagedPrivateRegistry] - Registries operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/10/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Docker images/Helm charts won&apos;t be able to be push during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on the registries.&lt;br /&gt;The registries will be set in read-only mode during the operation. Pulling Docker images and Helm charts will be still possible during the operation. The operation can take up to 5mn.&lt;/p&gt;      </description>
-      <pubDate>Thu, 27 Oct 2022 08:00:00 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/10/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Docker images/Helm charts won&apos;t be able to be push during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on the registries.&lt;br /&gt;The registries will be set in read-only mode during the operation. Pulling Docker images and Helm charts will be still possible during the operation. The operation can take up to 5mn.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Oct 2022 08:00:26 +0000</pubDate>
       <maintenanceEndDate>Thu, 27 Oct 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1vbt2yxjyws3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1vbt2yxjyws3</guid>
@@ -65,14 +73,6 @@
       <pubDate>Thu, 27 Oct 2022 03:30:28 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/cpskfqt3x83p</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/cpskfqt3x83p</guid>
-    </item>
-    <item>
-      <title>[GRA5][Network] - Network Latencie</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;27/10/2022 02:30 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;br /&gt;We keep the situation under observation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Managed Kubernetes Service clusters are also impacted by this incident (network instability and cluster edition)&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams continue to investigate. &lt;br /&gt;We apologise for the inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our initial investigation indicates an impact on the GRA5 region&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; host response is unstable. It is not possible to add new instances&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams investigate to determine the origin of the incident&lt;/p&gt;      </description>
-      <pubDate>Thu, 27 Oct 2022 02:43:59 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/spdqx4ghtnxq</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/spdqx4ghtnxq</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host1058631</title>

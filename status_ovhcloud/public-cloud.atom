@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-10-26T20:51:24Z</updated>
+  <updated>2022-10-27T00:28:24Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1vbt2yxjyws3"/>
     <title>[GRA][ManagedPrivateRegistry] - Registries operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/10/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Docker images/Helm charts won't be able to be push during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on the registries.&lt;br /&gt;The registries will be set in read-only mode during the operation. Pulling Docker images and Helm charts will be still possible during the operation. The operation can take up to 5mn.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12629640</id>
+    <published>2022-10-27T00:28:24Z</published>
+    <updated>2022-10-27T00:28:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/spdqx4ghtnxq"/>
+    <title>[GRA7][Network] - Network Latencie</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our initial investigation indicates an impact on the GRA5 region&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 23:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; host response is unstable. It is not possible to add new instances&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams investigate to determine the origin of the incident&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12620837</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lkzjz461ndl4"/>
     <title>PCI - GRA1 - host1436617</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;05:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1436617.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;3d70968e-0dd0-4e69-ba26-6387121980f4&lt;br /&gt;74ed7d35-52ab-474c-a0b5-748882881bbe&lt;br /&gt;28b01925-fa55-4ce7-af64-f38226f7db1b&lt;br /&gt;89454687-8fcc-4831-83e4-3e164aefa86e&lt;br /&gt;6388378c-a01c-4b36-894a-9fa59269d994&lt;br /&gt;b6e94f52-1bca-4494-a0cf-ab1b922f0331&lt;br /&gt;52cec620-77ea-470a-b06c-830d006548e9&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12517126</id>
-    <published>2022-10-23T13:04:43Z</published>
-    <updated>2022-10-23T13:04:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/w9n5gfz4v0d1"/>
-    <title>PCI - GRA3 - host783071</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host783071.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;0e75f82e-1c39-4f48-84aa-60b0026868b3&lt;br /&gt;7ed0d5a5-eae9-4882-ae1c-b4cf5e40630c&lt;br /&gt;57266c7a-cec9-46be-b52f-8a213d0a924f&lt;br /&gt;d74c3919-4ce0-4718-bc57-972ec2249177&lt;br /&gt;49dcf36a-e4a3-4fed-a9e6-51d499d164ee&lt;br /&gt;f8b479c5-86d5-4dbd-9048-457a57183bb8&lt;br /&gt;242e10e2-be53-4593-8a49-0a0160195c8e&lt;br /&gt;513ce40a-99c4-437f-ac17-78f6458b5ce1&lt;br /&gt;543a7bcc-c08a-4d86-a81d-9be889797412&lt;br /&gt;16ba043f-ee3e-4009-8af4-d33709932716&lt;br /&gt;7bed0b8f-259d-4118-8dae-26607d71ca66&lt;br /&gt;2f9f6962-3898-4474-b24d-5d8d6359655e&lt;br /&gt;2bab4adf-77a8-4bf8-86f3-9524166f068e&lt;br /&gt;709116db-2ab8-425c-8149-f4a1c936e62a&lt;br /&gt;8edaec5e-e30f-4465-97c6-5493e9afb6ba&lt;br /&gt;46010d71-67bb-475a-a38e-a32655119a46&lt;br /&gt;2d23ad0b-acad-4a90-8c38-252b4886f3d2&lt;/p&gt;</content>
   </entry>
 </feed>

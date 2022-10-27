@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 27 Oct 2022 17:24:04 +0000</pubDate>
+    <pubDate>Thu, 27 Oct 2022 17:55:20 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -40,6 +40,22 @@
       <maintenanceEndDate>Thu, 10 Nov 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</guid>
+    </item>
+    <item>
+      <title>PCI - GRA5 - host947172</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947172.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;6e3c0450-0995-4d8b-a84a-0bc6fbdb6dba&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Oct 2022 17:55:20 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/9m1mcx1dv6x3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/9m1mcx1dv6x3</guid>
+    </item>
+    <item>
+      <title>PCI - GRA1 - host1265125</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1265125.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7c78ceea-9520-4d94-a1c8-4d9e489f67fc&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Oct 2022 17:51:49 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/lwkdc5wxgpmh</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/lwkdc5wxgpmh</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host947171</title>
@@ -196,23 +212,6 @@
       <maintenanceEndDate>Tue, 25 Oct 2022 11:30:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/98gjqtpnbd04</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/98gjqtpnbd04</guid>
-    </item>
-    <item>
-      <title>[GRA5 | GRA7 | GRA9 | SBG5 | WAW1 | SGP1| BHS5 | VA1 | OR1 | SYD1 | UK1 | DE1][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been postponed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/10/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVHcloud Kubernetes API could be unavailable for few seconds&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; From OVHcloud Api, for NodePool resources, the RESIZING value of the &quot;status&quot; attribute will disappear and be replaced by more specific values (UPSCALING and DOWNSCALING, non-definitive naming) depending on whether the NodePool is requesting new nodes or deleting nodes.&lt;br /&gt;For terraform users, an update of the plugin &quot;terraform-provider-ovh&quot; will be required.&lt;/p&gt;      </description>
-      <pubDate>Tue, 25 Oct 2022 07:53:31 +0000</pubDate>
-      <maintenanceEndDate>Tue, 25 Oct 2022 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/8s8mnd570587</guid>
-    </item>
-    <item>
-      <title>[EU/CA][Compute/Managed Kubernetes Service] - Public Cloud &amp; K8S degradation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2022 17:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/10/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing disruptions on :&lt;br /&gt;+ Tasks of the Public Cloud and VPS instances&lt;br /&gt;+ Invoicing of the instances &lt;br /&gt;+ Delivery of new projects&lt;br /&gt;+ Performance degradation or blocking on K8S Clusters&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our technical teams have determined that the disruption is due to a network problem that has blocked an internal platform. In order to correct the problem permanently, our teams will be upgrading our platform. We apologize for the inconvenience.&lt;/p&gt;      </description>
-      <pubDate>Mon, 24 Oct 2022 17:47:06 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/r411hc38q9nh</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/r411hc38q9nh</guid>
     </item>
   </channel>
 </rss>

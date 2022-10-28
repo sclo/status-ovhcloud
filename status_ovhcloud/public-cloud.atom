@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-10-28T08:24:16Z</updated>
+  <updated>2022-10-28T08:46:18Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh"/>
     <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/UK1][Public cloud] - End of life for Kubernetes 1.19</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/11/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.20).&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.20).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12644074</id>
+    <published>2022-10-28T08:46:18Z</published>
+    <updated>2022-10-28T08:46:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b85rcx5m3c0y"/>
+    <title>PCI - GRA5 - host1133585</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;08:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1133585.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;95d228e7-b6bc-42ac-9253-4b2cde95c0d6&lt;br /&gt;a690b1c5-9a2e-433e-be81-f82e3ea00032&lt;br /&gt;095d8387-021f-45b3-a317-85729354eb82&lt;br /&gt;95e7c1cb-127b-4a87-854f-edab69ef5923&lt;br /&gt;14006d73-dbc9-4d4f-81a6-9b2f8c161602&lt;br /&gt;8c502a65-03b2-4691-9f8a-4780557f0a8b&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12643849</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/w7nwzt7dr2qt"/>
     <title>[EU/CA/APAC][Managed Kubernetes Service] - Kubernetes API backend maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, it will not be possible to create/reset/update/delete a MKS cluster, add/edit/delete a nodepool or create/edit/delete IP restrictions.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to improve the Registry API backend.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12401634</id>
-    <published>2022-10-26T06:17:35Z</published>
-    <updated>2022-10-26T06:17:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fs6yr26d7mf6"/>
-    <title>[EU/CA/APAC][Managed Kubernetes Service] - Kubernetes API backend maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance is going to take an hour. Below you can find the start time and the new end time.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/10/2022 07:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;00:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, it will not be possible to create/reset/update/delete a MKS cluster, add/edit/delete a nodepool or create/edit/delete IP restrictions.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to improve the Registry API backend.&lt;/p&gt;</content>
   </entry>
 </feed>

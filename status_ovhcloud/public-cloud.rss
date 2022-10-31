@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 31 Oct 2022 21:26:44 +0000</pubDate>
+    <pubDate>Mon, 31 Oct 2022 23:02:05 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Thu, 10 Nov 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh</guid>
+    </item>
+    <item>
+      <title>[GRA][Public Cloud] - Upgrade network equipment</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/11/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/11/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Virtual machines will be unavailable for 20 minutes while the network equipment is rebooted.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we need to upgrade a network device to fix a bug.&lt;/p&gt;      </description>
+      <pubDate>Thu, 03 Nov 2022 20:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 03 Nov 2022 22:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/f0r2tzfrqy8m</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/f0r2tzfrqy8m</guid>
     </item>
     <item>
       <title>Glance Upgrade</title>
@@ -201,14 +210,6 @@
       <pubDate>Sun, 30 Oct 2022 11:43:47 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/lwkdc5wxgpmh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lwkdc5wxgpmh</guid>
-    </item>
-    <item>
-      <title>PCI - GRA5 - host947171</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947171.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;9de51eab-3ae3-43e2-a79a-8f6f64daf79b&lt;/p&gt;      </description>
-      <pubDate>Sun, 30 Oct 2022 11:43:06 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/jqdh4kj120jn</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/jqdh4kj120jn</guid>
     </item>
   </channel>
 </rss>

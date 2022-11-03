@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 02 Nov 2022 17:23:52 +0000</pubDate>
+    <pubDate>Thu, 03 Nov 2022 16:26:43 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Wed, 16 Nov 2022 05:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/96bcdwrv76bj</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/96bcdwrv76bj</guid>
+    </item>
+    <item>
+      <title>[BHS/RBX/LIM][Hosted Private Cloud] - Upgrade Network Equipement</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/11/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/11/2022 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times). &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade our network equipments.&lt;/p&gt;      </description>
+      <pubDate>Wed, 09 Nov 2022 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 09 Nov 2022 11:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/8y13yb4k8hf7</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/8y13yb4k8hf7</guid>
     </item>
     <item>
       <title>[RBX7][Hosted Private Cloud] - Network equipement operation</title>
@@ -217,15 +226,6 @@
       <maintenanceEndDate>Tue, 18 Oct 2022 07:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/fhsz330vjclw</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/fhsz330vjclw</guid>
-    </item>
-    <item>
-      <title>[SBG3][Hosted Private Cloud] - Network &amp; servers operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/10/2022 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/10/2022 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
-      <pubDate>Tue, 18 Oct 2022 04:12:18 +0000</pubDate>
-      <maintenanceEndDate>Tue, 18 Oct 2022 04:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/g6gf10x6hcy5</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/g6gf10x6hcy5</guid>
     </item>
   </channel>
 </rss>

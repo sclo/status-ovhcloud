@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-11-04T07:53:34Z</updated>
+  <updated>2022-11-04T08:16:15Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -41,6 +41,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/11/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.20).&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.20).&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12714287</id>
+    <published>2022-11-04T08:16:15Z</published>
+    <updated>2022-11-04T08:16:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4xvx0w3lnjnr"/>
+    <title>PCI - GRA3 - host576825</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host576825.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c04a9f68-3d40-4379-9a2b-f2a8950add64&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12713813</id>
+    <published>2022-11-04T08:15:48Z</published>
+    <updated>2022-11-04T08:15:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jj8b7p3zlzvk"/>
+    <title>PCI - GRA3 - host1416635</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1416635.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;804d56e0-d33b-407f-b4af-1882ecbf2a05&lt;br /&gt;e6409296-f5a3-465c-8855-ed28c27ca4bb&lt;br /&gt;9c6455f3-a701-49f2-92e4-a262264125c2&lt;br /&gt;52a787d0-5e4c-4368-814d-2a80d02b98aa&lt;br /&gt;52e410d1-5c0e-48c1-bcf6-ca64b927f6c4&lt;br /&gt;6263a5ae-618b-428d-b333-7474d771eaef&lt;br /&gt;d5d62f8c-8f7d-4bed-bb1b-1d1a78ab9002&lt;br /&gt;077ec0bb-dda0-496b-96d6-8d576ec98a4b&lt;br /&gt;f08dfae2-362b-4239-8c91-be3bf7963621&lt;br /&gt;4541f314-38eb-4072-b521-bfce323f15b8&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12713695</id>
     <published>2022-11-04T07:53:34Z</published>
     <updated>2022-11-04T07:53:34Z</updated>
@@ -71,14 +87,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5kw80rxcw43x"/>
     <title>PCI - GRA3 - host1551070</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1551070.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;b97ee02c-a4f2-43c5-8490-636d39590a62&lt;br /&gt;bad3d5cb-583c-4397-af07-cca2af71dd82&lt;br /&gt;098a68f4-4d4f-4e70-8bd2-9748bf0f55de&lt;br /&gt;303dcc58-6bbc-481a-9aa4-ac30695a2003&lt;br /&gt;3ac3f406-3fd1-4c14-82f2-33031919594b&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12713813</id>
-    <published>2022-11-04T06:58:28Z</published>
-    <updated>2022-11-04T06:58:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jj8b7p3zlzvk"/>
-    <title>PCI - GRA3 - host1416635</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1416635.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;804d56e0-d33b-407f-b4af-1882ecbf2a05&lt;br /&gt;e6409296-f5a3-465c-8855-ed28c27ca4bb&lt;br /&gt;9c6455f3-a701-49f2-92e4-a262264125c2&lt;br /&gt;52a787d0-5e4c-4368-814d-2a80d02b98aa&lt;br /&gt;52e410d1-5c0e-48c1-bcf6-ca64b927f6c4&lt;br /&gt;6263a5ae-618b-428d-b333-7474d771eaef&lt;br /&gt;d5d62f8c-8f7d-4bed-bb1b-1d1a78ab9002&lt;br /&gt;077ec0bb-dda0-496b-96d6-8d576ec98a4b&lt;br /&gt;f08dfae2-362b-4239-8c91-be3bf7963621&lt;br /&gt;4541f314-38eb-4072-b521-bfce323f15b8&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12713686</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ll6c3jcwnzjh"/>
     <title>PCI - SBG5 - host1232163</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1232163.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;8ee03ca6-7ad6-411d-af0b-4f44b8c82c21&lt;br /&gt;4eb9500b-4fef-4c16-b958-785534e392c0&lt;br /&gt;74cd0c15-692e-4673-a55a-a94cc7710115&lt;br /&gt;97ceef2b-9616-481b-94b9-0f0d4b0d0cc7&lt;br /&gt;44e04d64-c9ae-46d4-a5dc-19b9a6736fc5&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12694833</id>
-    <published>2022-11-02T14:23:47Z</published>
-    <updated>2022-11-02T14:23:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vh244m94prpw"/>
-    <title>[SBG5][Public Cloud] - Volume Snapshot (CEPH) II Block storage</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/11/2022 13:37 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/11/2022 14:16 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Servers damaged due to a cooling system issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2022 13:37 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Some hosts in multiple racks are currently unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating the cause of this incident.&lt;/p&gt;</content>
   </entry>
 </feed>

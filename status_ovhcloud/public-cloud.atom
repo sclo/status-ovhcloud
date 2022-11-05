@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-11-04T22:23:47Z</updated>
+  <updated>2022-11-05T00:48:27Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/r2b02742f7yh"/>
     <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/UK1][Public cloud] - End of life for Kubernetes 1.19</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/11/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.20).&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.20).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12721778</id>
+    <published>2022-11-05T00:48:27Z</published>
+    <updated>2022-11-05T00:48:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hxj7q4sz033d"/>
+    <title>PCI - GRA9 - host1344212</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;00:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1344212.gra9.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;fd710581-46c2-4d5b-a051-b8ffa9818820&lt;br /&gt;b40d8ddc-a585-41ff-9053-9ed4ffd2598e&lt;br /&gt;7b7eddf4-81c0-47c6-9455-e1f73b6882b1&lt;br /&gt;93d17695-b6de-4e26-ba74-c4f0acebbb51&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12720845</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3ttpympbtfrr"/>
     <title>PCI - GRA3 - host1426248</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;06:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1426248.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;75c792d5-92d9-43ac-b8b8-8aedb048cc22&lt;br /&gt;fb84e415-2b04-40d8-ba28-35740477f38b&lt;br /&gt;efe0f935-7c42-4c47-93ba-67a21de65d01&lt;br /&gt;570b1bdd-4221-496d-bd33-66cf0de14454&lt;br /&gt;4a6aac46-0a0c-461c-9266-91974b2da442&lt;br /&gt;4b5ddbd8-1555-4311-a9f7-967359264b81&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12710781</id>
-    <published>2022-11-03T23:15:03Z</published>
-    <updated>2022-11-03T23:15:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hk530ws56fn0"/>
-    <title>[WAW][Object Storage] - PCS/PCA</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;23:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 03/11/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 03/11/2022 23:05 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;A hardware had a malfunction on one of our loadbalancer&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - 22h25UTC:  The loadbalancer has been removed from DNS entries.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/11/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Some latencies are observed when one of our loadbalancer answers to all request&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it&lt;/p&gt;</content>
   </entry>
 </feed>

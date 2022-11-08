@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-11-07T23:30:52Z</updated>
+  <updated>2022-11-08T00:22:44Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -33,20 +33,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  08/11/2022 23:30 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The following maintenance will cause some connectivity issue for Internet access and OTB during the operation.&lt;br /&gt;&lt;b&gt;Related maintenance :&lt;/b&gt; &lt;a href="https://network.status-ovhcloud.com/incidents/0xfgdppglg6s"&gt;maintenance link&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/12745910</id>
+    <published>2022-11-08T00:22:44Z</published>
+    <updated>2022-11-08T00:22:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/pv99zf93vw62"/>
+    <title>[FR][xDSL/FTTH] - Old DNS server upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;00:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance is still in progress. We will inform you when it's completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;18:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/11/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/11/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are replacing hardware for an old DNS server (91.121.161.184). &lt;br /&gt;Some old modems are still using it, as they are the default value in the firmware.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The backup servers are available, so you most likely won't see a difference. If you do, please consider changing the DNS servers.&lt;br /&gt;&lt;br /&gt;If your modem are still using this server, we strongly advise you to move to the newer one :&lt;br /&gt;- dns1.isp.ovh.net&lt;br /&gt;91.121.61.147&lt;br /&gt;2001:41d0:304:1::2&lt;br /&gt;&lt;br /&gt;- dns2.isp.ovh.net&lt;br /&gt;87.98.149.171&lt;br /&gt;2001:41d0:304:1::1&lt;br /&gt;&lt;br /&gt;- dns3.isp.ovh.net&lt;br /&gt;91.121.58.181&lt;br /&gt;2001:41d0:304:1::2&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/12747920</id>
     <published>2022-11-07T22:51:34Z</published>
     <updated>2022-11-07T22:51:34Z</updated>
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/5wrw2nkxcrk5"/>
     <title>[Département 22][Internet Access] - xDSL &amp; FTTH</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/11/2022 21:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Loss of connection for customers in department 22.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; An intervention with the service provider has been initiated and we are making every effort to restore the service as soon as possible.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/12745910</id>
-    <published>2022-11-07T23:30:52Z</published>
-    <updated>2022-11-07T23:30:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/pv99zf93vw62"/>
-    <title>[FR][xDSL/FTTH] - Old DNS server upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance is still in progress. We will inform you when it's completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;18:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/11/2022 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/11/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are replacing hardware for an old DNS server (91.121.161.184). &lt;br /&gt;Some old modems are still using it, as they are the default value in the firmware.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; The backup servers are available, so you most likely won't see a difference. If you do, please consider changing the DNS servers.&lt;br /&gt;&lt;br /&gt;If your modem are still using this server, we strongly advise you to move to the newer one :&lt;br /&gt;- dns1.isp.ovh.net&lt;br /&gt;91.121.61.147&lt;br /&gt;2001:41d0:304:1::2&lt;br /&gt;&lt;br /&gt;- dns2.isp.ovh.net&lt;br /&gt;87.98.149.171&lt;br /&gt;2001:41d0:304:1::1&lt;br /&gt;&lt;br /&gt;- dns3.isp.ovh.net&lt;br /&gt;91.121.58.181&lt;br /&gt;2001:41d0:304:1::2&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/12693267</id>

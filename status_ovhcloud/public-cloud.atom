@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-11-16T09:14:30Z</updated>
+  <updated>2022-11-16T10:40:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/g027jbg1qvsb"/>
     <title>[Rbx4][Vrack] - Network  equipment  version  upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/11/2022 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/11/2022 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will upgrade the version one  network equipment. It will correct some malfunctions.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13197803</id>
+    <published>2022-11-16T10:40:26Z</published>
+    <updated>2022-11-16T10:40:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bcgbhc67c1k5"/>
+    <title>[GRA][Storage] - Object Storage Incident Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/11/2022 10:11 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The service is currently inreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams determine the origin of this service unavailability.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13177716</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/yqjn7mj22hb6"/>
     <title>PCI - UK1 - host801976</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host801976.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;f88a4edf-1633-4c16-9d3e-1635d653946b&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13128270</id>
-    <published>2022-11-15T12:49:13Z</published>
-    <updated>2022-11-15T12:49:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4926jdbb4bts"/>
-    <title>PCI - UK1 - host801983</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host801983.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;7f585d67-b2d9-46ad-83c3-1ad25ae6d771&lt;br /&gt;1221aa09-1082-4639-ad4d-171ef5f3158f&lt;br /&gt;08ee2412-2bd6-4f79-b7ab-8360f4855581&lt;br /&gt;c6540307-7133-4313-ac52-ebd5d890c687&lt;br /&gt;09429415-fe51-4e41-87b8-e9dae515d246&lt;br /&gt;fd2f341d-61ad-4938-95d8-41d6c0cef0fd&lt;br /&gt;d65650f6-8fa2-4d7d-9430-b83a4325b382&lt;br /&gt;ef055066-6ec2-4d1d-a8bb-616b913f8254&lt;br /&gt;c0ba0e5b-0540-437d-be2e-7103f9090aae&lt;br /&gt;ffa02252-2994-4ea7-b96d-a5fa8d171ab1&lt;br /&gt;2242337a-4ac8-4c42-ad67-6f8d870451a8&lt;/p&gt;</content>
   </entry>
 </feed>

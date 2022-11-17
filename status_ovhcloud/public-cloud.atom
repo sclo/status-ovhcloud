@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-11-17T17:23:58Z</updated>
+  <updated>2022-11-17T21:23:47Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/qtq9zxt7bvhh"/>
     <title>[GRA5 | GRA7 | GRA9 | SBG5 | WAW1 | SGP1| BHS5 | VA1 | OR1 | SYD1 | UK1 | DE1][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;22:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/11/2022 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/11/2022 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVHcloud Kubernetes API could be unavailable for few seconds &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; From OVHcloud Api, for NodePool resources, the RESIZING value of the "status" attribute will disappear and be replaced by more specific values (UPSCALING and DOWNSCALING) depending on whether the NodePool is requesting new nodes or deleting nodes. For terraform users, an update of the plugin "terraform-provider-ovh" will be required.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13301775</id>
+    <published>2022-11-17T21:23:47Z</published>
+    <updated>2022-11-17T21:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/shjyjl41gwnw"/>
+    <title>PCI - SBG5 - host1455573</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1455573.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;777d904f-3075-470c-9932-b750453161a5&lt;br /&gt;3e53aacd-e820-41b6-8935-0e6b24a5cbee&lt;br /&gt;d51d71df-4c37-4980-9755-061c72d26819&lt;br /&gt;25124a57-6a2e-449e-9ac1-366c47f18226&lt;br /&gt;20584c19-6758-4d13-b670-ff6ff331de30&lt;br /&gt;89e29c75-4a0e-4733-98bd-8659f371072e&lt;br /&gt;06647907-a5af-4999-9e01-3c02cbf31d1e&lt;br /&gt;8eafda26-15ec-4a56-84a9-0aa1c1a6377a&lt;br /&gt;c4883d3b-700c-4d8f-85c6-efe69bde7ae6&lt;br /&gt;c8e05fd9-3780-49a9-80f8-ebfc535d656b&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/12617894</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hcky867n9ch0"/>
     <title>PCI - UK1 - host801989</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host801989.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;51e1229f-897f-4c94-b9ce-6c80e11237d6&lt;br /&gt;e2943b6f-90e7-4b61-ad98-2a559e4c4c13&lt;br /&gt;ec08bbda-64f2-4e5f-8e7f-db42a182ed27&lt;br /&gt;a6702fb9-3363-4f05-be0a-debd151372f2&lt;br /&gt;78730802-fdbc-447c-a76c-4c19e4899fda&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13128214</id>
-    <published>2022-11-15T12:49:29Z</published>
-    <updated>2022-11-15T12:49:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bf4qvgfbjw86"/>
-    <title>PCI - UK1 - host801970</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host801970.uk1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c2999691-ce50-43ad-876d-4a277171f981&lt;br /&gt;23a8b7dd-b6cf-4023-823f-eaa099a9a240&lt;br /&gt;e5aa2361-5427-47fa-a56f-854e6dd26399&lt;br /&gt;785b614c-be75-4389-b989-938609f0b147&lt;br /&gt;04162da4-7469-497b-aa1b-a243c7d55a90&lt;br /&gt;e52b088a-8e3d-4ffb-a5d9-3077dcd523eb&lt;br /&gt;b31b3137-c4a4-41d6-82a1-8cd684bb2c2e&lt;/p&gt;</content>
   </entry>
 </feed>

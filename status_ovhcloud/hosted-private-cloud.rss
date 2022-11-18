@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 18 Nov 2022 17:57:45 +0000</pubDate>
+    <pubDate>Fri, 18 Nov 2022 21:05:44 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
       <description>
@@ -49,6 +49,15 @@
       <maintenanceEndDate>Tue, 22 Nov 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/bk8vwws5zv98</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/bk8vwws5zv98</guid>
+    </item>
+    <item>
+      <title>[BHS1A/RBX2A/RBX2B][VMware Private Cloud] - vCenter upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/11/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/11/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The current intervention will be done by pool. The management plane will be unavailable for 3 hours for each of them.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;      </description>
+      <pubDate>Mon, 21 Nov 2022 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 25 Nov 2022 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/kf0lzkl2k51z</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/kf0lzkl2k51z</guid>
     </item>
     <item>
       <title>[RBX][Hosted Private Cloud] - Upgrade Network Equipement</title>
@@ -217,15 +226,6 @@
       <maintenanceEndDate>Wed, 26 Oct 2022 08:49:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/d4hl90d4rz9v</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/d4hl90d4rz9v</guid>
-    </item>
-    <item>
-      <title>[SBG3][Hosted Private Cloud] -   Network &amp;  servers  operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2022 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/10/2022 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover &lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Oct 2022 02:13:05 +0000</pubDate>
-      <maintenanceEndDate>Wed, 26 Oct 2022 04:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/44jfhzx702sj</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/44jfhzx702sj</guid>
     </item>
   </channel>
 </rss>

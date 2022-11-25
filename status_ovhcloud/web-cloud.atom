@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-11-25T17:25:38Z</updated>
+  <updated>2022-11-25T20:02:50Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/7lbtx7v59th1"/>
     <title>[GRA1][Webhosting] - Owstats</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2022 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Only stats (Owstats) accesses are impacted, no impact to report on customer service.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to perform an maintenance on our storage servers for Web statistics, we need to stop the access of OWstats during a day for domain starting with a,c,d,e,g,i,n,o,r,v,w,x,y,z on cluster010.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/13680369</id>
+    <published>2022-11-25T19:50:00Z</published>
+    <updated>2022-11-25T20:02:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/8p3g32gzbhnn"/>
+    <title>[GRA1][Web Hosting] - Cluster023 - Filerz941</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;19:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/11/2022 19:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/11/2022 19:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness was observed on hosted websites&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/13672788</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dwt37sfgh58q"/>
     <title>[GRA7][PaaS] - Maintenance operation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;19:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2022 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/11/2022 20:00 UTC &lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Console User Interface, Git and Crons will be unavailable during the reindexing of git logs. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner will perform maintenance in the GRA7 region to release the latest features, bug fixes and performance updates. &lt;br /&gt;All projects and environments will continue to function during the upgrade.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/12379741</id>
-    <published>2022-11-08T11:08:42Z</published>
-    <updated>2022-11-08T11:08:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/2tvnfrrbv9mz"/>
-    <title>[Global][VoIP] - CP8851 Cisco phone firware update</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The 25% of the park planned for this evening went according to expectations.&lt;br /&gt;We will continue the maintenance the 02/11/2022 at the same hours.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;21:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The 5% of the park planned for this evening went according to expectations. &lt;br /&gt;We will continue tomorrow at the same hours&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The  current maintenance will begin today.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/10/2022 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/11/2022 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few minute of unavailability during the scheduled period&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to upgrade Cisco CP8851 phone's firmware.&lt;br /&gt;It will be rolled out as describe :&lt;br /&gt;5% of the park the 26th at 20:00 UTC&lt;br /&gt;25% of the park the 27th at 20:00 UTC&lt;br /&gt;100% of the park the 2nd at 20:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/10/2022 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/11/2022 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few minute of unavailability during the scheduled period&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to upgrade Cisco CP8851 phone's firmware.&lt;br /&gt;It will be rolled out as describe :&lt;br /&gt;5% of the park the 24th at 20:00 UTC&lt;br /&gt;25% of the park the 25th at 20:00 UTC&lt;br /&gt;100% of the park the 26th at 20:00 UTC&lt;/p&gt;</content>
   </entry>
 </feed>

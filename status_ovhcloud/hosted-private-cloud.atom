@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-11-28T14:14:19Z</updated>
+  <updated>2022-11-28T14:24:02Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/t4vqhv83022k"/>
     <title>[SBG3][Hosted Private Cloud] - Network equipement operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2022 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/11/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers might experience twice a few seconds of input/output freeze for storage equipment during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/13866076</id>
+    <published>2022-11-28T14:17:38Z</published>
+    <updated>2022-11-28T14:17:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/zyjl4f2g1gcn"/>
+    <title>[LIM1C][VMware Private Cloud] - vCenter upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/11/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/11/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The current intervention will be done by pool. The management plane will be unavailable for 3 hours for each of them.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/13656119</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/cy51f56t0tcd"/>
     <title>[RBX2A-RBX2B-BHS1A][HostedPrivateCloud] - vCenter upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/10/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2022 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vCenter will be unavailable during the operation&lt;br /&gt;Following our continuous improvement policy, we are rolling a upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/10/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2022 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vCenter will be unavailable during the operation&lt;br /&gt;Following our continuous improvement policy, we are rolling a upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/12211479</id>
-    <published>2022-11-02T04:32:30Z</published>
-    <updated>2022-11-02T04:32:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/by30s5vrttnw"/>
-    <title>[SBG3][Hosted Private Cloud] -   Network &amp; servers  operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;04:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The schedule maintenance has not been fully completed in time.&lt;br /&gt;An other post will be created as the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/11/2022 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/11/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams will carry out an update operation on storage equipment. This update will be performed first on the nodes in standby. Once the update is complete, a switchover will be performed to update the remaining devices. Expect a few seconds freeze of the inputs/outputs during the switchover &lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
   </entry>
 </feed>

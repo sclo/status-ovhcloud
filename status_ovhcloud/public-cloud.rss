@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 01 Dec 2022 07:23:44 +0000</pubDate>
+    <pubDate>Thu, 01 Dec 2022 08:53:15 +0000</pubDate>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -22,6 +22,14 @@
       <maintenanceEndDate>Thu, 08 Dec 2022 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/skqxk4lbsjw5</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/skqxk4lbsjw5</guid>
+    </item>
+    <item>
+      <title>[Global][Public Cloud Databases] - API Call</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/11/2022 22H00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; API call are slow, order of new service may take more time than usual. Existing database services are not impacted and should properly work.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams investigate to determine the origin of the incident&lt;/p&gt;      </description>
+      <pubDate>Thu, 01 Dec 2022 08:53:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/n9dr3v3j2svn</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/n9dr3v3j2svn</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host972182</title>
@@ -199,14 +207,6 @@
       <pubDate>Thu, 24 Nov 2022 18:06:33 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5x19z9cc7c86</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5x19z9cc7c86</guid>
-    </item>
-    <item>
-      <title>PCI - GRA9 - host1334309</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1334309.gra9.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;87279cf4-e94a-4b5a-ac2c-1a6850dc2742&lt;br /&gt;55395f40-a9c8-4501-b1bf-c7b3a1d4ba44&lt;br /&gt;64ec5170-34fe-44e9-b875-c4675c72305a&lt;br /&gt;eb137e72-902f-45ba-b5cf-365f923528bf&lt;br /&gt;c1623e9b-1e64-49d4-90c5-90d3988e7320&lt;br /&gt;660e4ad0-d489-433a-87c5-1f598756b0ac&lt;br /&gt;500ac398-7415-45ad-b1a6-fb228c767857&lt;/p&gt;      </description>
-      <pubDate>Thu, 24 Nov 2022 13:37:47 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/mjmddjxnys9d</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/mjmddjxnys9d</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 03 Dec 2022 19:52:03 +0000</pubDate>
+    <pubDate>Sat, 03 Dec 2022 22:31:10 +0000</pubDate>
+    <item>
+      <title>[MKS/US][Managed Kubernetes Service] - Database migration to managed IaasDB</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/12/2022 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, it will not be possible to create/reset/update/delete a Managed Kubernetes Service cluster, add/edit/delete a nodepool or create/edit/delete IP restrictions.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to migrate the &quot;US&quot; KAPI database from a IaaS (infrastructure as a service ) database with privileged rights to a &quot;normal&quot; IaaS database (without privileged rights).&lt;/p&gt;      </description>
+      <pubDate>Thu, 15 Dec 2022 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 15 Dec 2022 09:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/vymzh7lqsyg3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/vymzh7lqsyg3</guid>
+    </item>
     <item>
       <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
       <description>
@@ -199,14 +208,6 @@
       <pubDate>Tue, 29 Nov 2022 16:50:22 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/slgzwb9tr734</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/slgzwb9tr734</guid>
-    </item>
-    <item>
-      <title>[GRA/ERI][Storage] - Object Storage Swift/S3 Incident Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/11/2022 15:12 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 28/11/2022 15:18 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; The services were unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our teams determine the origin of the incident.&lt;br /&gt;&lt;br /&gt;Slowdowns were observed after the incident was resolved. A restart of services was performed at 16:00 UTC.&lt;br /&gt;All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Mon, 28 Nov 2022 15:45:28 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/2nt6rj7dl6vm</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/2nt6rj7dl6vm</guid>
     </item>
   </channel>
 </rss>

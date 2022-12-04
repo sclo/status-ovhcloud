@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-04T03:23:40Z</updated>
+  <updated>2022-12-04T08:28:04Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/skqxk4lbsjw5"/>
     <title>[GRA5][Workflow Management] - Mistral</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Referring to the last information, the affected component with this maintenance is Workflow Management. The timeline don't change.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/12/2022 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/12/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA5 will be unreachable for a duration of less than 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to migrate the Mistral services (workflow as a service for OpenStack) for one region from the current production platform to the new production platform based on Kubernetes&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14314977</id>
+    <published>2022-12-04T08:28:04Z</published>
+    <updated>2022-12-04T08:28:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vsznyprdp0kg"/>
+    <title>PCI - GRA1 - host1576825</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1576825.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;11ab480e-97b9-4f3c-aa7d-418fbe277d5c&lt;br /&gt;60a4522f-80a3-4705-85b3-7535052f1026&lt;br /&gt;f364ea0e-ba25-4d2e-af79-541e2cb60a91&lt;br /&gt;46366469-22fc-4703-b6e4-b8f4e26cff46&lt;br /&gt;510280c5-2bf2-41ff-af94-a5b58e089847&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14296651</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2y3h4f5l8jvc"/>
     <title>PCI - GRA3 - host911381</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;06:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host911381.gra3.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;eae810d6-c6c7-4368-8bab-e863636ad197&lt;br /&gt;ea969b04-f1ed-4778-8e44-90abb09bbdc2&lt;br /&gt;12fab8b2-62a0-45fc-a65d-f9447cf1e66f&lt;br /&gt;09d1ad4c-3d72-45cf-9359-647d5dbe198d&lt;br /&gt;a91f9758-f3ca-43d4-8eee-666ab0bc5578&lt;br /&gt;46a779ac-f616-4e4b-8023-5408e3736645&lt;br /&gt;1cc6fa0b-faa9-419d-8453-72ffab1b53c1&lt;br /&gt;8376afd5-b1c5-47c4-8418-290588574759&lt;br /&gt;b0b2f7dc-6396-4ed8-ae78-d096953d1855&lt;br /&gt;1f9e9397-45d2-4df8-8323-653f202ad97e&lt;br /&gt;ba217458-0fc4-4b07-91fd-70cbfd9b91f2&lt;br /&gt;158b5205-3f65-4b5b-8ad6-68795208d010&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/13949459</id>
-    <published>2022-11-29T21:22:54Z</published>
-    <updated>2022-11-29T21:22:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2x1nqb7q68gs"/>
-    <title>PCI - GRA11 - host1428606</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host94-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G261A09&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1428606.gra11.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;4c3eb89f-8218-4a0c-ac2b-1b423d0fb541&lt;br /&gt;&lt;br /&gt;(generated by Unity)&lt;/p&gt;</content>
   </entry>
 </feed>

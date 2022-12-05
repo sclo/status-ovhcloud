@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-12-05T08:34:20Z</updated>
+  <updated>2022-12-05T09:01:45Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -161,6 +161,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/12/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/12/2022 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance operation on multiple network equipments.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/14396271</id>
+    <published>2022-12-05T09:01:45Z</published>
+    <updated>2022-12-05T09:01:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/46rtcnlv26g4"/>
+    <title>[RBX][Dedicated Servers] - Room 01</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/12/2022 08:22 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 6 Servers in the room 01 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is due to the following maintenance https://network.status-ovhcloud.com/incidents/lbmryv77h78z&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/14394598</id>
     <published>2022-12-05T08:34:20Z</published>
     <updated>2022-12-05T08:34:20Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ps90rlsbqq7n"/>
     <title>[RBX4][Dedicated Servers] - 46L12</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2022 13:33 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/12/2022 21:36 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;A network hardware needed to be changed&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2022 13:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vrack on this rack 46L12 is currently unvailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on a network equipment. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress are made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2022 13:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The vrack on this rack 46L12 is currently unvailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/14298214</id>
-    <published>2022-12-04T20:55:08Z</published>
-    <updated>2022-12-04T20:55:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/13sqp00741fg"/>
-    <title>VPS - UK2 - host988753</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;03:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host988753.uk2.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;vps736754&lt;br /&gt;vps777502&lt;br /&gt;vps775583&lt;br /&gt;vps765028&lt;br /&gt;vps541745&lt;br /&gt;vps812729&lt;br /&gt;vps775609&lt;br /&gt;vps800613&lt;br /&gt;vps783031&lt;br /&gt;vps752939&lt;br /&gt;vps748473&lt;br /&gt;vps721284&lt;br /&gt;vps732047&lt;br /&gt;vps731504&lt;br /&gt;vps730320&lt;br /&gt;vps729874&lt;br /&gt;vps633577&lt;br /&gt;vps725327&lt;br /&gt;vps725223&lt;br /&gt;vps722430&lt;br /&gt;vps708679&lt;br /&gt;vps717281&lt;br /&gt;vps713528&lt;br /&gt;vps707190&lt;br /&gt;vps698011&lt;br /&gt;vps685321&lt;br /&gt;vps673889&lt;br /&gt;vps672836&lt;br /&gt;vps672136&lt;br /&gt;vps670467&lt;br /&gt;vps657177&lt;br /&gt;vps656547&lt;br /&gt;vps650796&lt;br /&gt;vps647794&lt;br /&gt;vps639721&lt;br /&gt;vps637709&lt;br /&gt;vps634558&lt;br /&gt;vps630361&lt;br /&gt;vps621919&lt;br /&gt;vps566505&lt;br /&gt;vps586062&lt;br /&gt;vps552226&lt;br /&gt;vps586762&lt;br /&gt;vps575940&lt;br /&gt;vps579492&lt;br /&gt;vps578636&lt;br /&gt;vps575170&lt;br /&gt;vps575157&lt;br /&gt;vps568205&lt;br /&gt;vps559226&lt;/p&gt;</content>
   </entry>
 </feed>

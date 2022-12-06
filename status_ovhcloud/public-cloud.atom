@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-05T23:25:55Z</updated>
+  <updated>2022-12-06T00:11:31Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -25,6 +25,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Referring to the last information, the affected component with this maintenance is Workflow Management. The timeline don't change.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/12/2022 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/12/2022 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA5 will be unreachable for a duration of less than 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to migrate the Mistral services (workflow as a service for OpenStack) for one region from the current production platform to the new production platform based on Kubernetes&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14446298</id>
+    <published>2022-12-06T00:11:31Z</published>
+    <updated>2022-12-06T00:11:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0q8dq5rkd6kg"/>
+    <title>PCI - DE1 - host972925</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;00:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;23:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host972925.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;91b2d2f4-8df2-43af-a02a-7debcca90886&lt;br /&gt;cde75953-cb07-4d11-b3c2-af8193167157&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14447102</id>
     <published>2022-12-05T23:21:51Z</published>
     <updated>2022-12-05T23:21:51Z</updated>
@@ -35,18 +43,10 @@
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14447354</id>
     <published>2022-12-05T23:19:42Z</published>
-    <updated>2022-12-05T23:25:55Z</updated>
+    <updated>2022-12-06T00:02:34Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/25k45z0829v4"/>
-    <title>[BHS][Public cloud ] - B719B07</title>
+    <title>[BHS][Public cloud] - B719B07</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;23:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/12/2022 22:49 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/12/2022 22:49 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14446298</id>
-    <published>2022-12-05T23:08:30Z</published>
-    <updated>2022-12-05T23:08:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0q8dq5rkd6kg"/>
-    <title>PCI - DE1 - host972925</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;23:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host972925.de1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;91b2d2f4-8df2-43af-a02a-7debcca90886&lt;br /&gt;cde75953-cb07-4d11-b3c2-af8193167157&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14438192</id>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-12-07T09:00:57Z</updated>
+  <updated>2022-12-07T10:23:49Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/l0btt5rf395j"/>
     <title>[Global][VoIP] - Infrastrucutre migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;02:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/12/2022 14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/12/2022 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are migrating VoIP services' infrastructure (to RBX8).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/14572211</id>
+    <published>2022-12-07T10:21:52Z</published>
+    <updated>2022-12-07T10:21:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/m7jh1kkhd290"/>
+    <title>[GRA][Databases] - CloudDB21.eu001 and sharedsql026.eu010</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/12/2022 09:44 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; clouddb21.eu001 and sharedsql026.eu010 are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical team need to change the power supply of this server&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/14496732</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/lpmzzjrd22f3"/>
     <title>[GRA][Webhosting] - Cluster026 - Filerz1014</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;  17/11/2022 17:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;   17/11/2022 18:15 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Slowdowns due to a problem with storage equipment.&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/11/2022 17:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites might be slow on filerz1014&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; All offers on cluster026&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams determine the cause of these slowdowns.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/13198455</id>
-    <published>2022-11-16T19:17:23Z</published>
-    <updated>2022-11-16T19:17:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/4pbqrnmkpr4x"/>
-    <title>[GRA][Webhosting] - SSL renew on all clusters</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 15/11/2022 15:25 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 15/11/2022 18:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There was a SSL certificate error on browser&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An equipment caused the incident&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/11/2022 15:25 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; SSL certificate error on browser&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Scope of impact :&lt;/b&gt; All offers with SSL new/renewed certificate&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams determine the origin of the disturbance you are experiencing.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Website are available but with security warning on browser, the default SSL certificate of the cluster is use.&lt;/p&gt;</content>
   </entry>
 </feed>

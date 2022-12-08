@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-08T22:23:47Z</updated>
+  <updated>2022-12-08T22:31:46Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14695670</id>
+    <published>2023-01-10T13:00:00Z</published>
+    <updated>2022-12-08T22:31:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ll8xkcg5r5y0"/>
+    <title>[GRA3][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/01/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA3 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14695203</id>
     <published>2023-01-09T13:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n6rqxg06gbfg"/>
     <title>PCI - SBG5 - host1337630</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;05:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1337630.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;472d4e6f-e5dc-4b77-805f-a69caa4eecdb&lt;br /&gt;214bf3e5-3227-47cd-9106-90a022c33bf9&lt;br /&gt;4539a3ca-9d67-4843-9b3e-dd9c9dc64834&lt;br /&gt;1d13c721-6b7b-4d86-bbf9-a482f1f8d73d&lt;br /&gt;d0f2901e-e982-4191-bb9c-8483ef2b41ab&lt;br /&gt;5e74059a-a1a7-442d-b3c8-20f53b0a05b3&lt;br /&gt;40b26340-d08f-4cee-a9f3-51d02fa2b3a9&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14465672</id>
-    <published>2022-12-06T06:50:09Z</published>
-    <updated>2022-12-06T06:50:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s3rpvk54xxv7"/>
-    <title>PCI - GRA1 - host647583</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;06:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;04:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host647583.gra1.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;aa93186c-13cf-4ee9-beab-60bb9e30bd17&lt;br /&gt;d1d58931-4244-4eb3-97d7-c70d023379fd&lt;br /&gt;994ce023-dd3b-47ef-a514-1afffa09800a&lt;br /&gt;86b95f70-7925-40b2-a472-0a2db07a5924&lt;br /&gt;1c3208ae-3c48-4b99-aa4e-6aca17e6bd50&lt;br /&gt;c18c9404-e613-4360-b603-cabc465e1fc5&lt;br /&gt;e073a944-f536-4f0d-8643-c475fcef3304&lt;br /&gt;66d2e872-b2ca-42e8-b1a8-8ded313a5963&lt;br /&gt;801de025-3b6d-4373-8831-cd5cafc8aa27&lt;br /&gt;a4c054ce-5152-4507-b2aa-14ec1374d04a&lt;br /&gt;02e0813f-dd78-4cfd-9b1d-e9d7acd96005&lt;br /&gt;ba1e7a40-2cc4-435a-a899-29744f7c7df1&lt;/p&gt;</content>
   </entry>
 </feed>

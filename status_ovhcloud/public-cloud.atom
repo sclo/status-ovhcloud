@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-09T11:23:41Z</updated>
+  <updated>2022-12-09T12:42:06Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vsyck6784rnj"/>
     <title>[US][Public cloud] - End of life for Kubernetes 1.19</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;00:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/12/2022 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.20).&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.20).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14744362</id>
+    <published>2022-12-09T12:42:06Z</published>
+    <updated>2022-12-09T12:42:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/q8kbxxxg4dn2"/>
+    <title>PCI - GRA5 - host1088332</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1088332.gra5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;c10ba414-ceef-479d-aa36-b2acae2cc6ae&lt;br /&gt;f4a834eb-80b8-4086-820c-e9ae480e0e97&lt;br /&gt;7ddd8487-645f-4961-8760-f29af3bff06e&lt;br /&gt;cfd3bcc9-fc62-44f6-91ce-fe41d4377ac4&lt;br /&gt;8fc90b4a-51cb-4eec-9d6b-b59bd0a61d77&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14737667</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6sfzq6yp1bgt"/>
     <title>[GRA2][Public Cloud] - G212B14</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/12/2022 14:37 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/12/2022 14:42 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; Public network was unavailable on rack G212B14&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/14476841</id>
-    <published>2022-12-06T14:24:14Z</published>
-    <updated>2022-12-06T14:24:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1qqtgrkxbjlk"/>
-    <title>PCI - SBG5 - host1337626</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;14:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1337626.sbg5.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;fbc61d4e-4ff5-4a58-97fd-82f9d3c78de0&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 12 Dec 2022 20:23:47 +0000</pubDate>
+    <pubDate>Mon, 12 Dec 2022 22:23:57 +0000</pubDate>
+    <item>
+      <title>[GRA7][WebPaaS] - Routine Auth Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/12/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/12/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance is expected to impact performance for Auth services, including the Console, User Accounting, Provisioning and Billing, although, services will remain available at all times.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing an routine maintenance to optimize performance service on Auth.&lt;/p&gt;      </description>
+      <pubDate>Wed, 14 Dec 2022 17:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 14 Dec 2022 19:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/fm6xktcjlg9j</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/fm6xktcjlg9j</guid>
+    </item>
     <item>
       <title>[GRA7][WebPaaS] - Routine Maintenance</title>
       <description>
@@ -205,15 +214,6 @@
       <pubDate>Wed, 30 Nov 2022 00:09:38 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/tqk4sfjtw0t1</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/tqk4sfjtw0t1</guid>
-    </item>
-    <item>
-      <title>[GRA1][Webhosting] - Owstats</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance will take longer than scheduled.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The generation of today&apos;s ownstats statistics has been stop.&lt;br /&gt;We are sorry for the inconvenience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2022 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Only stats (Owstats) accesses are impacted, no impact to report on customer service.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to perform an maintenance on our storage servers for Web statistics, we need to stop the access of OWstats during a day for domain starting with a,c,d,e,g,i,n,o,r,v,w,x,y,z on cluster010.&lt;/p&gt;      </description>
-      <pubDate>Tue, 29 Nov 2022 18:10:52 +0000</pubDate>
-      <maintenanceEndDate>Tue, 29 Nov 2022 17:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/7lbtx7v59th1</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/7lbtx7v59th1</guid>
     </item>
   </channel>
 </rss>

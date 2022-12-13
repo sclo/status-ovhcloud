@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 13 Dec 2022 14:02:23 +0000</pubDate>
+    <pubDate>Tue, 13 Dec 2022 16:53:11 +0000</pubDate>
     <item>
       <title>[GRA7][WebPaaS] - Routine Auth Maintenance</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Wed, 14 Dec 2022 19:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/fm6xktcjlg9j</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/fm6xktcjlg9j</guid>
+    </item>
+    <item>
+      <title>[GRA][Webhosting]- Filerz maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/12/2022 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/12/2022 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 15 minute downtime&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to improve the performance of filerz244 on cluster 027, we need to perform a maintenance operation on it. We expect the filerz to be unavailable during the operation&lt;/p&gt;      </description>
+      <pubDate>Tue, 13 Dec 2022 23:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 14 Dec 2022 00:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/yvrnw5dym9qd</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/yvrnw5dym9qd</guid>
     </item>
     <item>
       <title>[GRA7][WebPaaS] - Routine Maintenance</title>
@@ -206,14 +215,6 @@
       <maintenanceEndDate>Wed, 30 Nov 2022 23:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/2ntsby498vt3</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/2ntsby498vt3</guid>
-    </item>
-    <item>
-      <title>[GRA][Webhosting] - Filerz Incident Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2022 23:45 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/11/2022 00:05 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; Websites were unreachable on following filerz :&lt;br /&gt;Filerz74 cluster020&lt;br /&gt;Filerz70 cluster020&lt;br /&gt;Filerz71 cluster020&lt;br /&gt;Filerz201 cluster026&lt;br /&gt;Filerz43 cluster021&lt;br /&gt;filerz77 cluster23&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to instability on upstream network equipment.&lt;br /&gt;&lt;br /&gt;All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Wed, 30 Nov 2022 00:09:38 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/tqk4sfjtw0t1</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/tqk4sfjtw0t1</guid>
     </item>
   </channel>
 </rss>

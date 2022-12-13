@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 13 Dec 2022 22:22:16 +0000</pubDate>
+    <pubDate>Tue, 13 Dec 2022 23:23:48 +0000</pubDate>
     <item>
       <title>[ERI1/LIM3/RBX8][Dedicated Servers] - Network equipment maintenance</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Mon, 09 Jan 2023 23:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wbb6zsg4wdk6</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wbb6zsg4wdk6</guid>
+    </item>
+    <item>
+      <title>[BHS8][Dedicated Servers] -  Network equipment operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/12/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;      </description>
+      <pubDate>Tue, 27 Dec 2022 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 27 Dec 2022 09:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/m9pbh7xk8qsr</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/m9pbh7xk8qsr</guid>
     </item>
     <item>
       <title>[RBX8][Dedicated Servers] - Network equipment maintenance</title>
@@ -206,14 +215,6 @@
       <pubDate>Tue, 13 Dec 2022 13:30:02 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cz4g9hvkgfm2</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cz4g9hvkgfm2</guid>
-    </item>
-    <item>
-      <title>VPS - BHS2 - host399367</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host399367&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;172f76c2-1d48-47d2-9781-e98d6b58d978&lt;br /&gt;82600562-bf83-4e9d-aa3f-cffbae4c187a&lt;br /&gt;c16ee917-a71e-4b01-8013-ed0841a19eeb&lt;br /&gt;5b7a85dd-bc6c-466b-a638-7e24f2c14f6c&lt;br /&gt;5b81e506-976f-410e-9d20-fbc61728ce97&lt;br /&gt;b5948b81-38a0-444b-b9c2-3eed313b4da1&lt;br /&gt;c725ef19-3fe9-41b8-9277-829232dc6bcb&lt;br /&gt;189f5a6e-8c86-4dc9-85cc-22313295c3d6&lt;br /&gt;06dac840-afe5-464a-895c-1695ab32ee54&lt;br /&gt;2c79081c-d04d-45c1-81d7-103a5b266eb8&lt;br /&gt;b7326a5f-79f9-4dc8-8894-344d97c338d6&lt;br /&gt;bd628ff7-a703-45ec-9977-8f22849e719d&lt;br /&gt;2d24f3da-8e3d-42f0-879f-91df6256874d&lt;br /&gt;0b619e2b-948d-4255-9b42-3365cc037d66&lt;br /&gt;cea7f659-5fa5-4f88-ae45-65ebf4088a06&lt;br /&gt;844d325b-cd24-4a6f-865d-00739f8ce4aa&lt;br /&gt;dd2d73d2-1554-473f-8406-e5d174d923b0&lt;br /&gt;e20e42d3-2d47-437c-9adc-9bcf2dac99f0&lt;br /&gt;9f45c8d4-cbd4-4fc1-8477-a38e6a94b66a&lt;br /&gt;41f38ff3-3043-4f17-92fc-365a20d7fb6f&lt;br /&gt;f0f79798-fb2e-40be-8e4b-d50588d8871e&lt;br /&gt;1f90d7af-79df-40f6-81fe-25db3c82f05a&lt;br /&gt;96532310-d96a-42a0-8b2c-861a98acd8fa&lt;br /&gt;0d45abe3-87fd-4f43-b246-9809620fa179&lt;br /&gt;17b4278f-ea88-4239-9eeb-2ec409b9304d&lt;br /&gt;284a5f16-e753-4831-8983-6ca5fc2e3ef9&lt;br /&gt;721ab9d3-633e-42f7-a0fa-d66139fb9de8&lt;br /&gt;0c14ba80-3f45-420d-965f-6ccbf9f3109e&lt;br /&gt;bd3b5846-419c-40d5-bea5-7ccb9ea47f13&lt;br /&gt;505e3226-614f-4736-85cc-ae109199203a&lt;br /&gt;b5e0281a-d9ba-4abf-8550-55bee1ef919f&lt;br /&gt;f9589557-6e03-4686-8946-b0fd744d814a&lt;br /&gt;a2f091f7-8cba-453c-b2ee-aacd34887477&lt;br /&gt;7022a1bd-9fd8-4267-8d81-9c1fb086a259&lt;br /&gt;b89a2633-9126-45b9-be5d-6565ccf1af41&lt;br /&gt;a240771e-3ab3-44da-915f-54785d3f0cea&lt;br /&gt;033212bd-2573-4e25-a0eb-89e64e7d6271&lt;br /&gt;e3c086b4-853f-4856-b32c-c91f2bfe6991&lt;br /&gt;74b87b2e-b0bf-4959-b7e7-0e29f4432afb&lt;br /&gt;f4cd94cc-e4a7-4869-a8b7-0b7432b86796&lt;br /&gt;f7eee68b-10d2-4530-b439-397d91d8cc1d&lt;br /&gt;5d24b8cc-ed90-44b8-b654-78af7cbb79cc&lt;br /&gt;777d3507-0f5b-4c97-9e00-2ad50e594a98&lt;br /&gt;42e2587f-73b6-409c-92bc-36fd3821e9f0&lt;br /&gt;eb9c1a03-e8e5-4397-90b4-117e815d0dbd&lt;/p&gt;      </description>
-      <pubDate>Tue, 13 Dec 2022 13:30:01 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/r5zh47gx5d43</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/r5zh47gx5d43</guid>
     </item>
   </channel>
 </rss>

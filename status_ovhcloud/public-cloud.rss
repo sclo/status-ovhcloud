@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 14 Dec 2022 08:24:20 +0000</pubDate>
+    <pubDate>Wed, 14 Dec 2022 08:55:38 +0000</pubDate>
     <item>
       <title>[SBG5][Workflow Management] - Mistral</title>
       <description>
@@ -87,6 +87,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8vnpp89p15pz</guid>
     </item>
     <item>
+      <title>[EU][Public Cloud] - IP Block operations</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 13/12/2022 14:00&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 14/12/2022 05:00&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An ongoing operation caused the delay observed&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams identified that the degradation had also affected the public network and all the operations around the IP blocks (purchase, removal etc.).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  13/12/2022 14:00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Add/Remove of ipblock from vrack can take long times to be performed.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt;Our technical teams investigate to determine the origin of the degradation&lt;/p&gt;      </description>
+      <pubDate>Wed, 14 Dec 2022 08:55:38 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/30kz7zt01q48</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/30kz7zt01q48</guid>
+    </item>
+    <item>
       <title>PCI - GRA5 - host1067918</title>
       <description>
 &lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1067918&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;59f29898-8055-453a-bf1e-13fce122ca51&lt;br /&gt;a1b25695-31ca-4c93-a8ca-e068b5417cac&lt;/p&gt;      </description>
@@ -125,14 +133,6 @@
       <pubDate>Tue, 13 Dec 2022 16:24:54 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/dh5l65m1d34c</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/dh5l65m1d34c</guid>
-    </item>
-    <item>
-      <title>[EU][Public Cloud] - IP Block operations</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams identified that the degradation had also affected the public network and all the operations around the IP blocks (purchase, removal etc.).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  13/12/2022 14:00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Add/Remove of ipblock from vrack can take long times to be performed.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt;Our technical teams investigate to determine the origin of the degradation&lt;/p&gt;      </description>
-      <pubDate>Tue, 13 Dec 2022 17:02:25 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/30kz7zt01q48</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/30kz7zt01q48</guid>
     </item>
     <item>
       <title>PCI - BHS1 BHS3 - rack T02C27</title>

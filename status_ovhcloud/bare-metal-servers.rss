@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 14 Dec 2022 08:12:32 +0000</pubDate>
+    <pubDate>Wed, 14 Dec 2022 08:53:14 +0000</pubDate>
     <item>
       <title>[ERI1/LIM3/RBX8][Dedicated Servers] - Network equipment maintenance</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bpgpgmjc2fzg</guid>
     </item>
     <item>
+      <title>[EU][Dedicated Servers] - IP Block operations</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 13/12/2022 14:00&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 14/12/2022 05:00&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An ongoing operation caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams identified that the degradation had also affected the public network and all the operations around the IP blocks (purchase, removal etc.).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  13/12/2022 14:00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Add/Remove of ipblock from vRack can take long times to be performed.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt;Our technical teams investigate to determine the origin of the degradation&lt;/p&gt;      </description>
+      <pubDate>Wed, 14 Dec 2022 08:53:14 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dztj25vc8qx1</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dztj25vc8qx1</guid>
+    </item>
+    <item>
       <title>[BHS8][Dedicated Servers] - Network equipment operation</title>
       <description>
 &lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been postponed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/12/2022 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/12/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;      </description>
@@ -165,14 +173,6 @@
       <pubDate>Tue, 13 Dec 2022 18:31:40 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/489zj0t9r1c0</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/489zj0t9r1c0</guid>
-    </item>
-    <item>
-      <title>[EU][Dedicated Servers] - IP Block operations</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams identified that the degradation had also affected the public network and all the operations around the IP blocks (purchase, removal etc.).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  13/12/2022 14:00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Add/Remove of ipblock from vRack can take long times to be performed.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt;Our technical teams investigate to determine the origin of the degradation&lt;/p&gt;      </description>
-      <pubDate>Tue, 13 Dec 2022 17:02:18 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dztj25vc8qx1</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dztj25vc8qx1</guid>
     </item>
     <item>
       <title>VPS - UK2 - host1297205</title>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-12-13T23:49:54Z</updated>
+  <updated>2022-12-14T00:13:21Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wbb6zsg4wdk6"/>
     <title>[RBX8][Dedicated Servers] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;22:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/01/2023 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance operation on multiple network equipments.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15126637</id>
+    <published>2022-12-29T08:00:00Z</published>
+    <updated>2022-12-14T00:13:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r9l40m32plcv"/>
+    <title>[BHS8][Dedicated Servers] -  Network  equipment  operation</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/12/2022 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15125117</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mwg6rftgmcmy"/>
     <title>VPS - BHS2 - host279047</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279047&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;116bdefe-e7ea-40ce-999a-52d11850c9a9&lt;br /&gt;359fc6b9-3e34-4ffc-b044-bb8d27888178&lt;br /&gt;8f87ff65-795b-46cb-b777-cdb8b6e504a2&lt;br /&gt;9a475c74-a3e3-4214-b032-4f92fc0ee6b1&lt;br /&gt;f189f49e-f547-4099-8db3-746b9c3cea66&lt;br /&gt;b49f86b8-1459-477b-83d8-df6884429562&lt;br /&gt;5917c659-7cfc-4bfa-baa1-8d3c79bc230b&lt;br /&gt;2a94c3a2-ce89-4578-8800-ac3cd198bcc2&lt;br /&gt;77637dd0-115f-48af-a25e-4bf344ac4288&lt;br /&gt;5d1d1926-56a1-4fae-a620-ec5611428629&lt;br /&gt;f72de4de-2aff-4ce6-a551-c9e1314c932d&lt;br /&gt;3bc86f3a-4712-441b-80ac-105e470f9cd2&lt;br /&gt;37a21989-0151-40d4-89c2-ca5f3c6015c5&lt;br /&gt;b536adba-e7e3-40dd-8654-957c097df9b8&lt;br /&gt;28ecc04a-32a5-443c-ae97-90157b5cdd53&lt;br /&gt;4dcb8adc-e777-4149-8fae-6be2ae078aed&lt;br /&gt;37cf98a0-25c4-45e7-bf5f-78e0300a2523&lt;br /&gt;47eb0e0a-7595-43e8-9175-bf685b5f5ce7&lt;br /&gt;d0e3f4e1-1dc7-4d9b-8e0d-4219dfea50cc&lt;br /&gt;109dcf1f-eed0-4a4d-983d-bb9dd11d7787&lt;br /&gt;33b24a6a-c82b-4638-8663-d9ff7ff1acc9&lt;br /&gt;3b9d39db-beeb-4d76-9646-aaee7ad2dd56&lt;br /&gt;690dbd19-e9b4-4970-9073-a22ba659a596&lt;br /&gt;55410834-f0fd-492c-ae5a-01077b15eb5d&lt;br /&gt;668203d4-cb33-4f16-8a78-3ac3de7fb736&lt;br /&gt;381a7308-cc68-44ce-8cc8-d2272c17d23d&lt;br /&gt;4be9a0d2-4883-445b-b44b-50fb5d2994ba&lt;br /&gt;aa5e9f08-dad7-4d85-83b6-1c3d47184945&lt;br /&gt;4cf0c4f3-4c5c-4f7a-8c9a-07ae0a9a40f3&lt;br /&gt;216ea5d2-35db-4e9c-a3e1-7fff3bdcc142&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15086693</id>
-    <published>2022-12-13T13:30:04Z</published>
-    <updated>2022-12-13T13:30:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1mhjf69knkpy"/>
-    <title>VPS - BHS2 - host279684</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279684&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps83313&lt;br /&gt;vps120409&lt;br /&gt;vps132710&lt;br /&gt;vps143980&lt;br /&gt;vps127477&lt;br /&gt;vps171591&lt;br /&gt;vps77284&lt;br /&gt;vps125313&lt;br /&gt;vps176843&lt;br /&gt;vps81836&lt;br /&gt;vps129687&lt;br /&gt;vps151289&lt;br /&gt;vps135488&lt;br /&gt;vps168063&lt;br /&gt;vps125235&lt;br /&gt;vps159841&lt;br /&gt;vps178778&lt;br /&gt;vps140714&lt;br /&gt;vps88360&lt;br /&gt;vps121045&lt;br /&gt;vps185181&lt;br /&gt;vps186390&lt;br /&gt;vps63952&lt;br /&gt;vps184934&lt;br /&gt;vps183862&lt;br /&gt;vps148471&lt;br /&gt;vps181606&lt;br /&gt;vps173223&lt;br /&gt;vps132629&lt;br /&gt;vps170993&lt;br /&gt;vps170282&lt;br /&gt;vps169830&lt;br /&gt;vps169675&lt;br /&gt;vps166343&lt;br /&gt;vps164150&lt;br /&gt;vps163676&lt;br /&gt;vps162887&lt;br /&gt;vps162878&lt;br /&gt;vps157887&lt;br /&gt;vps157292&lt;br /&gt;vps151524&lt;br /&gt;vps155639&lt;br /&gt;vps153189&lt;br /&gt;vps151339&lt;br /&gt;vps149112&lt;br /&gt;vps143985&lt;br /&gt;vps139781&lt;br /&gt;vps137543&lt;br /&gt;vps137503&lt;br /&gt;vps134454&lt;br /&gt;vps132542&lt;br /&gt;vps127593&lt;br /&gt;vps127720&lt;br /&gt;vps121611&lt;br /&gt;vps124898&lt;/p&gt;</content>
   </entry>
 </feed>

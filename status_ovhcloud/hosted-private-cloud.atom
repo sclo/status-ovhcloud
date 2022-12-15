@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-12-15T08:34:29Z</updated>
+  <updated>2022-12-15T15:15:40Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/r70g6386cmmc"/>
     <title>[RBX8][HostedPrivateCloud] - Network equipent operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='year'&gt;2022&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/12/2022 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will upgrade the version of multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15255949</id>
+    <published>2022-12-15T15:15:40Z</published>
+    <updated>2022-12-15T15:15:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/hcj15vpnqkyl"/>
+    <title>[EU/CA][VMware Private Cloud] - Maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/12/2022 14:50 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/12/2022 14:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers won't have the possibility to access their Vcenter for 30 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be doing an internal maintenance on vCenter&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15230040</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/qk4hxdp21j8z"/>
     <title>[RBX2A-RBX2B-RBX2D-ERI1C-WAW1C-BHS1A][VMware Private Cloud] - vCenter upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/11/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/12/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The current intervention will be done by pool. The management plane will be unavailable for 3 hours for each of them.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/13663997</id>
-    <published>2022-11-28T12:30:21Z</published>
-    <updated>2022-11-28T12:30:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/xkxbv75svrch"/>
-    <title>[RBX8][Hosted Private Cloud] -  IPv6 DNS Resolver</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance is still planned.&lt;br /&gt;However we are moving the report to a more appropriate perimeter. &lt;br /&gt;&lt;b&gt;Related Maintenance :&lt;/b&gt; &lt;a href="https://bare-metal-servers.status-ovhcloud.com/incidents/cwh3zy6fv9vp"&gt;[Global][DNS Resolver] -  IPv6 Infrastructure Migration&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;22:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2022 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2022 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We need to move the IPv6 DNS Resolver to a new infrastructure.&lt;/p&gt;</content>
   </entry>
 </feed>

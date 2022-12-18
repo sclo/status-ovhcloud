@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2022-12-18T11:23:34Z</updated>
+  <updated>2022-12-18T12:01:41Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -137,20 +137,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;18:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/12/2022 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/12/2022 10:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to remove options 'rescue64-pro' and 'rescue64-ovh' and replace them by 'rescue-customer' in 'Boot rescue mode' for dedicated and virtual private servers.&lt;br /&gt;To use rescue mode, you can refer to the current link: https://docs.ovh.com/fr/dedicated/ovh-rescue/#en-pratique&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15480774</id>
+    <published>2022-12-18T12:01:41Z</published>
+    <updated>2022-12-18T12:01:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r4dfqkl3kl0k"/>
+    <title>[RBX2][DedicatedServers] - Rack 23A18</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/12/2022 10:11 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/12/2022 12:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2022 10:11 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack 23A18 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15481352</id>
     <published>2022-12-18T10:45:35Z</published>
     <updated>2022-12-18T10:45:35Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zfm02gzsx4sc"/>
     <title>[GRA3][Infrastructure] - Cooling System degradation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2022 10:12 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Cooling system performance may for lowered the time being.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15480774</id>
-    <published>2022-12-18T10:35:14Z</published>
-    <updated>2022-12-18T10:35:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r4dfqkl3kl0k"/>
-    <title>[RBX2][DedicatedServers] - Rack 23A18</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2022 10:11 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack 23A18 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15456780</id>

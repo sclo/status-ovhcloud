@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 19 Dec 2022 08:31:06 +0000</pubDate>
+    <pubDate>Mon, 19 Dec 2022 10:46:17 +0000</pubDate>
     <item>
       <title>[SBG5][Workflow Management] - Mistral</title>
       <description>
@@ -76,6 +76,15 @@
       <maintenanceEndDate>Wed, 04 Jan 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/bmvvj4v51sxk</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bmvvj4v51sxk</guid>
+    </item>
+    <item>
+      <title>User roles update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will do an update on the user role &apos;compute_operator&apos; in order to add the capability for the user to download the image&lt;/p&gt;      </description>
+      <pubDate>Mon, 19 Dec 2022 12:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 19 Dec 2022 13:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/51fr18gx1c73</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/51fr18gx1c73</guid>
     </item>
     <item>
       <title>PCI - GRA1 - host767249</title>
@@ -205,14 +214,6 @@
       <maintenanceEndDate>Fri, 16 Dec 2022 05:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8vnpp89p15pz</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8vnpp89p15pz</guid>
-    </item>
-    <item>
-      <title>[GRA][Storage] - Object Storage S3 Incident Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/11/2022 10:11 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 16/11/2022 11:08 UTC &lt;br /&gt;&lt;br /&gt;Following reverting of the fix implementation, the technical teams have identified the precise cause of the QoS drop.&lt;br /&gt;They have already made the necessary software changes to improve the QoS.&lt;br /&gt;&lt;br /&gt;The incident has therefore been resolved. As part of our policy of continuous improvement, the technical teams will continue to work on the software as well as on the infrastructure to prevent this drop in QoS from recurring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The fix has been reverted on GRA, and deployement is postponed on the other regions.&lt;br /&gt;Our team is actively working on solving the issue by deploying another fix soon.&lt;br /&gt;Customers will be informed when the new fix will be implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The fix is now deployed on our infrastructure.&lt;br /&gt;We are activating the fix today in the Graveline area.&lt;br /&gt;The other regions will be activated tomorrow Tuesday. As soon as all regions are updated, we will post a new update&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The fix has been successfully tested and our teams are in the process of deploying the fix to production services.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are currently testing a fix before the implementation which will solve the bug causing these issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; The situation remains stabilized, Our teams continue to work on the final fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; The service is available. Our teams are still working on the implementation of the final fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; The service is available. Our teams are still working on final fix. &lt;br /&gt;We will keep you informed of the progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update:&lt;/b&gt; The service is available. A final fix has yet to be deployed to permanently resolve the incident. Our teams are still working on its implementation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The service is available again. We keep the situation under observation for the next few hours&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/11/2022 10:11 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The service could be unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams determine the origin of this service unavailability.&lt;/p&gt;      </description>
-      <pubDate>Fri, 16 Dec 2022 13:39:05 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/bcgbhc67c1k5</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/bcgbhc67c1k5</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2022-12-20T10:00:23Z</updated>
+  <updated>2022-12-20T21:36:38Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15682940</id>
+    <published>2023-01-04T07:00:00Z</published>
+    <updated>2022-12-20T21:36:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/g919650mzw0m"/>
+    <title>[Global][VMware Private Cloud] - vCenter minor upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/01/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The management plane will be unavailable for 1 hour during the maintenance schedule.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;br /&gt;The operation will be done by pool. A communication will be send to inform customers of their specific schedule.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10686175</id>
     <published>2022-12-20T10:00:23Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/bk8vwws5zv98"/>
     <title>[RBX/ERI][Hosted Private Cloud] - Upgrade Network Equipement</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/11/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/11/2022 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times). &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade our network equipments.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/13997049</id>
-    <published>2022-11-30T13:27:23Z</published>
-    <updated>2022-11-30T13:27:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/xlkt1wjvdgy3"/>
-    <title>[RBX8][Hosted Private Cloud] - R820L21/R820L18/R820L23/R820L17</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 30/11/2022 09:20 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 30/11/2022 11:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Our first investigation is towards a scheduled maintenance (normally without impact) : &lt;a href="https://network.status-ovhcloud.com/incidents/1khfl101phrr"&gt;https://network.status-ovhcloud.com/incidents/1khfl101phrr&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - All the hosts are reachable. &lt;br /&gt;We keep the situation under observation for the next hour. &lt;br /&gt;We apologize for the inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/11/2022 09:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Host in R820L21, R820L18, R820L23 and R820L17 could be unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our first investigation is towards a scheduled maintenance (normally without impact) : &lt;a href="https://network.status-ovhcloud.com/incidents/1khfl101phrr"&gt;https://network.status-ovhcloud.com/incidents/1khfl101phrr&lt;/a&gt;&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

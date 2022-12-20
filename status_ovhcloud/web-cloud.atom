@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2022-12-19T19:32:02Z</updated>
+  <updated>2022-12-20T08:49:09Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/8j4mfbfmvhqv"/>
     <title>[GRA7][WebPaaS] - Routine Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/12/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/12/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Console User Interface, Git and Crons will be unavailable during the reindexing of git logs, which may take up to 6 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner will perform maintenance in the GRA7 region to release the latest underlying software upgrade. All projects and environments will continue to function during the upgrade.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15641819</id>
+    <published>2022-12-20T19:00:00Z</published>
+    <updated>2022-12-20T08:49:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/zklz9hdtlfqp"/>
+    <title>[GRA7][WebPaaS] - Routine Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/12/2022 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/12/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHcloud that they will be doing a routine maintenance on customers' projects. This maintenance is expected to not have impact on the projects: no downtime, nor performance issue are expected.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15223225</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/6d9btd5rjqvj"/>
     <title>[GRA1][Web Hosting] - Cluster026 - Filerz1014</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 09/12/2022 01:59 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 09/12/2022 02:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness to access hosted websites&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/14665985</id>
-    <published>2022-12-08T15:46:56Z</published>
-    <updated>2022-12-08T15:46:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/crl954wrwk6q"/>
-    <title>[FR][InternetAccess] - xDSL perturbation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/12/2022 12:10 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/12/2022 13:15 UTC &lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/12/2022 12:10 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers might experience perturbation in their xDSL traffic&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;A national (France) saturation has been detected. We don't see any perturbation so we are monitoring the situation.&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

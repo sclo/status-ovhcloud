@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-24T05:41:53Z</updated>
+  <updated>2022-12-24T12:03:59Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bmvvj4v51sxk"/>
     <title>[SBG7][Workflow Management] - Mistral</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/01/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of SBG7 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15704916</id>
+    <published>2022-12-24T12:03:59Z</published>
+    <updated>2022-12-24T12:03:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1qnprrv6wkzy"/>
+    <title>PCI - UK1 - host1179774</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;lon1-eri1-pciz1host15-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;E101E06&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1179774&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0529120a-765c-4f9f-8997-958874f1c5ff&lt;br /&gt;4c5118ea-8aec-4aea-a6ad-5ceaac0f79bb&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15700696</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/y05dcjrf0bc8"/>
     <title>PCI - DE1 - host798105</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;21:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;19:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host798105&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;7b439fd4-c473-455a-a9cc-e9c8c6c9b1bd&lt;br /&gt;044cf4a6-32e9-4a4a-8170-6753a2bab1f9&lt;br /&gt;dbead812-fffe-4b74-96d0-778c97f7a51b&lt;br /&gt;ad19c5a8-c87a-4f4c-ab76-038bc6448d4b&lt;br /&gt;941c7dce-3ce3-4a17-8154-fc9d1ad90c75&lt;br /&gt;1ff63e8e-7184-4984-bc3a-d53f490f1e7f&lt;br /&gt;b735a9bb-29d7-4b51-9469-e3285ad614a0&lt;br /&gt;849a1f9e-a627-4482-b46a-789f22ae8c2a&lt;br /&gt;21258eb2-c07a-4fa5-bf82-f43ee5d6373f&lt;br /&gt;eaa8ed51-c385-4da4-9e05-6020473c0c11&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15700628</id>
-    <published>2022-12-23T19:04:23Z</published>
-    <updated>2022-12-23T19:04:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2w9wdqlz7xzq"/>
-    <title>PCI - DE1 - host798105</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;19:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host798105&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;7b439fd4-c473-455a-a9cc-e9c8c6c9b1bd&lt;br /&gt;044cf4a6-32e9-4a4a-8170-6753a2bab1f9&lt;br /&gt;dbead812-fffe-4b74-96d0-778c97f7a51b&lt;br /&gt;ad19c5a8-c87a-4f4c-ab76-038bc6448d4b&lt;br /&gt;941c7dce-3ce3-4a17-8154-fc9d1ad90c75&lt;br /&gt;1ff63e8e-7184-4984-bc3a-d53f490f1e7f&lt;br /&gt;b735a9bb-29d7-4b51-9469-e3285ad614a0&lt;br /&gt;849a1f9e-a627-4482-b46a-789f22ae8c2a&lt;br /&gt;21258eb2-c07a-4fa5-bf82-f43ee5d6373f&lt;br /&gt;eaa8ed51-c385-4da4-9e05-6020473c0c11&lt;/p&gt;</content>
   </entry>
 </feed>

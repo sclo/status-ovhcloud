@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-26T18:57:30Z</updated>
+  <updated>2022-12-26T19:31:33Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -81,6 +81,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/01/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of SBG7 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15716586</id>
+    <published>2022-12-26T19:31:33Z</published>
+    <updated>2022-12-26T19:31:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fwf3t29v4xfk"/>
+    <title>PCI - SGP1 - host431656</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431656&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;07758965-cf27-4df7-bb8f-f3d49d4bc2df&lt;br /&gt;411263ed-ea52-498a-b9d4-986e66cfa302&lt;br /&gt;6db5808a-568c-44a4-9063-a0bc76951a1f&lt;br /&gt;d0abe9cc-a3f4-4ae4-81d5-5971296c2bc3&lt;br /&gt;c3fd7dda-0301-4cc8-a8a8-9938af54cb2d&lt;br /&gt;85510ec2-c4ea-4011-95e6-ee9f649b09f0&lt;br /&gt;f7cf5099-3bef-47fb-b279-56e7b1a585f1&lt;br /&gt;df5f11b6-d92e-4eeb-8963-6bf513757397&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15716604</id>
     <published>2022-12-26T18:57:30Z</published>
     <updated>2022-12-26T18:57:30Z</updated>
@@ -95,14 +103,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/yrxjqqj4180m"/>
     <title>PCI - UK1 - host1020969</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1020969&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;e886ae85-1144-411c-8fbc-b74d272c9164&lt;br /&gt;790b1d64-af4d-4318-8867-4b36018adbe6&lt;br /&gt;f91fb03c-83de-4a13-9565-ea8c2f1dd448&lt;br /&gt;a51118f9-f399-43c3-9b4b-433824783c5f&lt;br /&gt;f8497cbb-f458-4977-bca6-cef45d7a1301&lt;br /&gt;db35e778-30be-457a-a52f-1ccff9d704cb&lt;br /&gt;e8349e2d-688d-452f-945f-810a251df1d0&lt;br /&gt;84dfe128-adaf-4da9-8d09-7e5e03405194&lt;br /&gt;4b4d17b7-3e2f-44cb-ba7f-a9dd9e9a94af&lt;br /&gt;5ced2998-3f24-4d1b-994e-a78c764f097f&lt;br /&gt;ca8f00d8-3438-48b4-9032-dfb9ef910934&lt;br /&gt;c005bac2-5f96-4ecc-b741-b96e583f1d0d&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15716586</id>
-    <published>2022-12-26T18:53:10Z</published>
-    <updated>2022-12-26T18:53:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fwf3t29v4xfk"/>
-    <title>PCI - SGP1 - host431656</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431656&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;07758965-cf27-4df7-bb8f-f3d49d4bc2df&lt;br /&gt;411263ed-ea52-498a-b9d4-986e66cfa302&lt;br /&gt;6db5808a-568c-44a4-9063-a0bc76951a1f&lt;br /&gt;d0abe9cc-a3f4-4ae4-81d5-5971296c2bc3&lt;br /&gt;c3fd7dda-0301-4cc8-a8a8-9938af54cb2d&lt;br /&gt;85510ec2-c4ea-4011-95e6-ee9f649b09f0&lt;br /&gt;f7cf5099-3bef-47fb-b279-56e7b1a585f1&lt;br /&gt;df5f11b6-d92e-4eeb-8963-6bf513757397&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15715343</id>

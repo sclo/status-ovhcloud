@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-28T12:47:15Z</updated>
+  <updated>2022-12-28T13:07:41Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -82,19 +82,19 @@
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15728497</id>
-    <published>2022-12-28T13:00:00Z</published>
-    <updated>2022-12-28T12:00:23Z</updated>
+    <published>2022-12-28T13:00:35Z</published>
+    <updated>2022-12-28T13:00:35Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5cmqv79q789x"/>
     <title>[GRA/SBG/BHS/VIN][ObjectStorage] - QoS maintenance</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/12/2022 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You might observed an increase of HTTP error 5xx and possibly some connection issues.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; To increase our Quality of Service, we will do a maintenance on our front-end servers.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/12/2022 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You might observed an increase of HTTP error 5xx and possibly some connection issues.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; To increase our Quality of Service, we will do a maintenance on our front-end servers.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15729314</id>
-    <published>2022-12-28T12:47:15Z</published>
-    <updated>2022-12-28T12:47:15Z</updated>
+    <published>2022-12-28T13:07:41Z</published>
+    <updated>2022-12-28T13:07:41Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hl3twp36b6h8"/>
     <title>[GRA][ManagedPrivateRegistry] - Registries' partial unreachability</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 12:26 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some registries are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;The web interface is operational, but you may be unable to login.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Investigation reported that the docker registry is down.&lt;br /&gt;For impacted private registries, the docker registry is unavailable and will give certificate errors. The web interface is operational, but unable to login.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 12:26 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some registries are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;The web interface is operational, but you may be unable to login.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15727416</id>

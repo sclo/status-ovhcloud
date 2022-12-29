@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2022-12-29T07:23:39Z</updated>
+  <updated>2022-12-29T15:16:25Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -81,6 +81,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='year'&gt;2023&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/01/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of SBG7 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15728497</id>
+    <published>2022-12-29T15:16:25Z</published>
+    <updated>2022-12-29T15:16:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5cmqv79q789x"/>
+    <title>[GRA/SBG/BHS/VIN][ObjectStorage] - QoS maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/12/2022 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You might observed an increase of HTTP error 5xx and possibly some connection issues.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; To increase our Quality of Service, we will do a maintenance on our front-end servers.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15735443</id>
     <published>2022-12-29T07:16:58Z</published>
     <updated>2022-12-29T07:16:58Z</updated>
@@ -127,14 +135,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hl3twp36b6h8"/>
     <title>[GRA][ManagedPrivateRegistry] - Registries' partial unreachability</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/12/2022 12:26 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 28/12/2022 13:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is due to a problem with PKI of the Postgres instances used by the Managed Private Registry.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Investigation reported that the docker registry is down.&lt;br /&gt;For impacted private registries, the docker registry is unavailable and will give certificate errors. The web interface is operational, but unable to login.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 12:26 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some registries are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;The web interface is operational, but you may be unable to login.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15728497</id>
-    <published>2022-12-28T13:00:35Z</published>
-    <updated>2022-12-28T13:00:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5cmqv79q789x"/>
-    <title>[GRA/SBG/BHS/VIN][ObjectStorage] - QoS maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/12/2022 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/12/2022 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You might observed an increase of HTTP error 5xx and possibly some connection issues.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; To increase our Quality of Service, we will do a maintenance on our front-end servers.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15727416</id>

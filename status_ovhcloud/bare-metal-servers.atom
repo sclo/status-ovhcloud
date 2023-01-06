@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-01-06T08:43:44Z</updated>
+  <updated>2023-01-06T08:52:08Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -185,6 +185,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;22:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/01/2023 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance operation on multiple network equipments.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15783632</id>
+    <published>2023-01-06T08:52:08Z</published>
+    <updated>2023-01-06T08:52:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xvfq0gz386bh"/>
+    <title>[RBX8][DedicatedServers] - Rack R808L14</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;08:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/01/2023 08:44 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack R808L14 are down.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15783592</id>
     <published>2023-01-06T08:43:44Z</published>
     <updated>2023-01-06T08:43:44Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/gdsc84x34k1b"/>
     <title>[RBX8][DedicatedServers] - Rack R808L05</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/01/2023 04:46 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/01/2023 06:30 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;04:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/01/2023 04:46 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack R808L05 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15780790</id>
-    <published>2023-01-05T22:52:45Z</published>
-    <updated>2023-01-05T22:52:45Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zsxclk9xf0w7"/>
-    <title>VPS - BHS2 - host271338</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host271338&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;89dd46f4-4f64-42ad-b744-aacccad612b0&lt;br /&gt;456c6113-9f5c-4b54-8b16-69491257849b&lt;br /&gt;75ff27eb-62aa-4f3d-a369-bc3a91840218&lt;br /&gt;245e0593-746b-4c69-a506-19b5e771980b&lt;br /&gt;12705a86-1908-4d16-9b7e-d0cdffb39bdf&lt;br /&gt;3f71688f-7bb4-446a-a39c-07be7e083dc3&lt;br /&gt;4939dadf-5cce-48a6-8fbe-ba05758ae17a&lt;br /&gt;d516ba84-fdd8-4046-a5de-8beb78efa27a&lt;br /&gt;fb0410af-f4ab-4bde-8038-94e8aa0b0062&lt;br /&gt;76a96f58-0370-4214-bede-b0febb02d717&lt;br /&gt;629ea5c9-6af7-4116-9121-6b58b4738a33&lt;br /&gt;b35c3153-7bd6-45a2-a7ba-c71c08c7f11f&lt;br /&gt;331c47f2-55f7-4136-ae11-6cd63d51b362&lt;br /&gt;28504cc6-d53b-4e5d-a394-9b6f31cf0f32&lt;br /&gt;dc61a978-16a1-42b5-a689-8b709d83d396&lt;br /&gt;a37462c3-5a72-4872-9d65-fe450b18ee24&lt;br /&gt;ecf2088e-8f45-4e88-ac3b-b6467b63845a&lt;br /&gt;b05bf114-3953-4b5c-a9c3-b656194e3d63&lt;br /&gt;3fc84852-5d10-4e64-9be7-67e441f566db&lt;br /&gt;85d4f917-0a77-44d2-ba5d-1557f468879a&lt;br /&gt;659ff9f2-ac30-41b6-a381-389f546ad0b5&lt;br /&gt;669c5de3-093b-4e10-9a13-8cdb5a66246b&lt;br /&gt;fef5c6c2-e5de-4b11-8544-64284ffb02cb&lt;br /&gt;539c5a48-5df4-433e-8eae-1d1262a16c1f&lt;br /&gt;bd377935-67dd-4e2f-8c83-b22cefa039a9&lt;br /&gt;340dc8da-5394-46d1-8868-35f2ec9dfb53&lt;br /&gt;50342bfb-2789-4a43-bb13-c502e0c3606e&lt;br /&gt;cf02212b-0a5b-4f24-915b-a6d6f591a048&lt;br /&gt;cc85fcea-94fa-4f0c-a79e-a4749eeeb9ba&lt;br /&gt;8890bec4-2bf6-49c8-a706-94436c8783a1&lt;br /&gt;a25d313c-634a-49f3-9428-0294c0c90ba7&lt;br /&gt;6f6171e3-f768-47cd-81bf-f5a72978f6c4&lt;br /&gt;0e836007-cec9-4034-a5d6-3ff3cb9cb56d&lt;br /&gt;1dac986d-fb45-4235-bf90-a6717d2209a6&lt;br /&gt;082794e2-9f4d-4b93-bc73-f505e30c6c46&lt;br /&gt;fecd15e5-3a2f-4ac3-a79c-396b2e3d5a8f&lt;br /&gt;62468f09-50ac-4649-bc1d-5b04c8ed79e2&lt;br /&gt;4b522045-68d4-4aaf-81aa-f05878f4f072&lt;br /&gt;bd84d450-7b88-4c35-8ad2-9c3fc31b164a&lt;br /&gt;e8ecded3-f0e5-4d6d-b3cc-71414363aa1e&lt;br /&gt;adaaae95-030f-4034-8a56-95a327179ffe&lt;br /&gt;570b28d5-84e2-40e7-b6af-1c6efbb3326d&lt;br /&gt;db935847-5383-4627-acad-260acaeae31b&lt;/p&gt;</content>
   </entry>
 </feed>

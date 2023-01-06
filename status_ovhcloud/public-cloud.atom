@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-06T13:23:48Z</updated>
+  <updated>2023-01-06T15:28:12Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -95,6 +95,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dl2sgjt6cv3p"/>
     <title>[Global][Managed Kubernetes Service] - Managed Kubernetes clusters v1.22 delivery disabled</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/01/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delivery and reset of Managed Kubernetes clusters v1.22 disabled&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Following our end-of-support policy, the Managed Kubernetes Service team will mark as deprecated the Kubernetes version 1.22. It will no longer be possible to create Managed Kubernetes clusters under the 1.22 version, or to reset existing clusters into this version. For more details, please refer to these documentations: &lt;br /&gt;&lt;a href="https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/"&gt;https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/&lt;/a&gt; &lt;br /&gt;&lt;a href="https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/"&gt;https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15785627</id>
+    <published>2023-01-06T15:28:12Z</published>
+    <updated>2023-01-06T15:28:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/r0btsgxk8btg"/>
+    <title>PCI - BHS5 - host449359</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host449359&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;8b417720-a7dc-4ccf-bb96-82ee4b98c1de&lt;br /&gt;e7680d3a-b005-46ea-aeff-bcad51cdfe58&lt;br /&gt;60666265-f098-4075-ac7d-db871de58269&lt;br /&gt;07ab07b7-7c0a-4c4d-acf6-680e907bdfc0&lt;br /&gt;98e17482-8629-4532-abae-db17ec4b0d71&lt;br /&gt;b3ba09e8-2f8f-4ee8-a663-2a89f98b2869&lt;br /&gt;7ae9d413-3b99-47da-adf6-18aee62a6425&lt;br /&gt;260d1181-526b-4ebb-8fcb-f0c44334ebaa&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15784600</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hjzfslc9rqjn"/>
     <title>PCI - BHS1 - host279152</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;23:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279152&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;4c96100b-8733-4ef3-975b-cc3c60e3b18c&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15774264</id>
-    <published>2023-01-05T03:58:31Z</published>
-    <updated>2023-01-05T03:58:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b7hq51phtw1x"/>
-    <title>PCI - BHS3 - host279151</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;23:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279151&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;fed79e5a-c43d-49b8-b0f7-1b130408036d&lt;br /&gt;1350bf0c-e191-4f10-8d6c-33afd43bf47b&lt;br /&gt;83189d10-507a-4efd-ae1f-5f17bd354563&lt;br /&gt;f7f31588-6deb-4856-9923-2ff96f2d984a&lt;br /&gt;ec9d41c3-4c46-4515-b88f-a7d423b16267&lt;br /&gt;f3435e92-8f96-4240-8750-34fd5e612d77&lt;br /&gt;a7ef732d-2713-43ea-bc87-29e1533c0d08&lt;/p&gt;</content>
   </entry>
 </feed>

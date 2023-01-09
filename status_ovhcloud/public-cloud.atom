@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-09T02:26:16Z</updated>
+  <updated>2023-01-09T02:37:03Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -97,20 +97,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/01/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delivery and reset of Managed Kubernetes clusters v1.22 disabled&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Following our end-of-support policy, the Managed Kubernetes Service team will mark as deprecated the Kubernetes version 1.22. It will no longer be possible to create Managed Kubernetes clusters under the 1.22 version, or to reset existing clusters into this version. For more details, please refer to these documentations: &lt;br /&gt;&lt;a href="https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/"&gt;https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/&lt;/a&gt; &lt;br /&gt;&lt;a href="https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/"&gt;https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15799056</id>
+    <published>2023-01-09T02:37:03Z</published>
+    <updated>2023-01-09T02:37:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8l9gyw25v8kz"/>
+    <title>PCI - SGP1 - host431656</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431656&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;85643b96-ba67-45af-b0cf-454f9cb304f8&lt;br /&gt;f0b55c1c-eade-412a-81ea-4bbecc1481a3&lt;br /&gt;2fd2843e-a1d4-45ad-bf9e-77615ceeb7bd&lt;br /&gt;4d5b74be-b245-4a2b-a004-a7a6aa50034f&lt;br /&gt;bdf8afcb-240a-4c01-83c4-666889e4beef&lt;br /&gt;6db5808a-568c-44a4-9063-a0bc76951a1f&lt;br /&gt;85510ec2-c4ea-4011-95e6-ee9f649b09f0&lt;br /&gt;f7cf5099-3bef-47fb-b279-56e7b1a585f1&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15799042</id>
     <published>2023-01-09T02:26:16Z</published>
     <updated>2023-01-09T02:26:16Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1dyw03bmk2zv"/>
     <title>PCI - GRA11 - host1373772</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1373772&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f92e777b-4465-487d-b3e3-4f7e72586033&lt;br /&gt;7214c2a3-bb74-4a35-b44e-10a5af8c1211&lt;br /&gt;f3434e3a-ddd4-42e5-939e-c8ae69d86a80&lt;br /&gt;7d90ea8e-4943-4399-bc29-b85ddde385a1&lt;br /&gt;4e108109-3324-4299-915b-f93ff0388abc&lt;br /&gt;b0381ff6-67f0-42d3-8077-0c745c3e9cb7&lt;br /&gt;f97f3fd9-17f5-406c-b7d5-370db12b53be&lt;br /&gt;3f46ab2e-9acd-4e52-b688-dbe59fb6a82b&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15799056</id>
-    <published>2023-01-09T02:16:32Z</published>
-    <updated>2023-01-09T02:16:32Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/8l9gyw25v8kz"/>
-    <title>PCI - SGP1 - host431656</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431656&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;85643b96-ba67-45af-b0cf-454f9cb304f8&lt;br /&gt;f0b55c1c-eade-412a-81ea-4bbecc1481a3&lt;br /&gt;2fd2843e-a1d4-45ad-bf9e-77615ceeb7bd&lt;br /&gt;4d5b74be-b245-4a2b-a004-a7a6aa50034f&lt;br /&gt;bdf8afcb-240a-4c01-83c4-666889e4beef&lt;br /&gt;6db5808a-568c-44a4-9063-a0bc76951a1f&lt;br /&gt;85510ec2-c4ea-4011-95e6-ee9f649b09f0&lt;br /&gt;f7cf5099-3bef-47fb-b279-56e7b1a585f1&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15796207</id>

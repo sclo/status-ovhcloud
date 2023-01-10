@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 10 Jan 2023 23:07:57 +0000</pubDate>
+    <pubDate>Tue, 10 Jan 2023 23:48:03 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -58,6 +58,14 @@
       <maintenanceEndDate>Wed, 18 Jan 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jgw9rddmz81f</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jgw9rddmz81f</guid>
+    </item>
+    <item>
+      <title>[SYD, SGP, ERI, DE, BHS, GRA, SBG, RBX][ObjectStorage] - service perturbation</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 21:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some degradation and perturbation are observed on ObjectStorage services.&lt;br /&gt;&lt;b&gt;Related Incident:&lt;/b&gt; &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/xdklzwrtxyzg&quot;&gt;[Global][vRack Private Network] - vRack outage&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigation the issue.&lt;br /&gt;You may have experienced some unavailability. Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 10 Jan 2023 23:48:03 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/sr0y0x7tr88b</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/sr0y0x7tr88b</guid>
     </item>
     <item>
       <title>PCI - GRA1 - host783165</title>
@@ -204,15 +212,6 @@
       <pubDate>Mon, 09 Jan 2023 17:05:45 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/yl5mnbn4xlgv</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/yl5mnbn4xlgv</guid>
-    </item>
-    <item>
-      <title>[GRA7][Workflow Management] - Mistral</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/01/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA7 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;      </description>
-      <pubDate>Mon, 09 Jan 2023 15:43:47 +0000</pubDate>
-      <maintenanceEndDate>Mon, 09 Jan 2023 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/vc76h7w961vd</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/vc76h7w961vd</guid>
     </item>
   </channel>
 </rss>

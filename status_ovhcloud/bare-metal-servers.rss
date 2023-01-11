@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 11 Jan 2023 03:23:37 +0000</pubDate>
+    <pubDate>Wed, 11 Jan 2023 03:38:27 +0000</pubDate>
     <item>
       <title>[LIM1/GRA1][Dedicated Servers] - Network equipment maintenance</title>
       <description>
@@ -186,6 +186,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/00jq4ng7rnz9</guid>
     </item>
     <item>
+      <title>[RBX4][Network] - Rack 56D15</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/02/2023 05:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2023 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for 1 hour during the maintenance time.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are replacing a network equipment.&lt;/p&gt;      </description>
+      <pubDate>Wed, 11 Jan 2023 05:30:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 11 Jan 2023 06:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vc37fqjc9l8p</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vc37fqjc9l8p</guid>
+    </item>
+    <item>
       <title>[RBX8/SG3][Storage and Backups] - NASHA</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 10/01/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 11/01/2023 01:27 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to a network issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; NASHA SERVICE in SBG3 and RBX8 unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
@@ -217,14 +226,6 @@
       <maintenanceEndDate>Wed, 11 Jan 2023 00:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/h8c6j5rn6tqw</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/h8c6j5rn6tqw</guid>
-    </item>
-    <item>
-      <title>[ERI1][DedicatedServers] - Racks E102F10 E102E10 E102E07</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Most of the impacted servers are operational anew.&lt;br /&gt;Our technical teams are working on the remaining ones.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 23:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack E102F10, E102E10, and E102E07 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;      </description>
-      <pubDate>Wed, 11 Jan 2023 01:44:41 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lz8ll97lkytn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lz8ll97lkytn</guid>
     </item>
   </channel>
 </rss>

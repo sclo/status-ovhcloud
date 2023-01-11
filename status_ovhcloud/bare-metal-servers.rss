@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 11 Jan 2023 21:09:20 +0000</pubDate>
+    <pubDate>Wed, 11 Jan 2023 21:55:33 +0000</pubDate>
     <item>
       <title>[LIM1/GRA1][Dedicated Servers] - Network equipment maintenance</title>
       <description>
@@ -103,6 +103,15 @@
       <maintenanceEndDate>Wed, 25 Jan 2023 00:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/9wg211z4c25f</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9wg211z4c25f</guid>
+    </item>
+    <item>
+      <title>[Global][Dedicated Servers/VPS] - Rescue mode</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2023 10:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to remove options &apos;rescue64-pro&apos; and &apos;rescue64-ovh&apos; and replace them by &apos;rescue-customer&apos; in &apos;Boot rescue mode&apos; for dedicated and virtual private servers.&lt;br /&gt;To use rescue mode, you can refer to the current link: https://docs.ovh.com/fr/dedicated/ovh-rescue/#en-pratique&lt;/p&gt;      </description>
+      <pubDate>Tue, 24 Jan 2023 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 24 Jan 2023 10:45:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ntcq2vyk3bxc</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ntcq2vyk3bxc</guid>
     </item>
     <item>
       <title>[BHS8][Network] - Network equipment version upgrade</title>
@@ -219,14 +228,6 @@
       <pubDate>Wed, 11 Jan 2023 20:21:40 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/yz42vlcp2bz8</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yz42vlcp2bz8</guid>
-    </item>
-    <item>
-      <title>[BHS/SGP/SYD/VIN/HIL][Baremetal] - ARIN</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/01/2023 15:35 UTC&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/01/2023 16:37 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/01/2023 15:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customization of whois declarations of additional customer IP blocks is unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our providers are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 11 Jan 2023 16:41:02 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8c0clzcjvcxz</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8c0clzcjvcxz</guid>
     </item>
   </channel>
 </rss>

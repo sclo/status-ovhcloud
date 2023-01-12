@@ -4,17 +4,17 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-01-12T20:31:59Z</updated>
+  <updated>2023-01-12T20:46:17Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15831030</id>
     <published>2023-02-07T01:00:00Z</published>
-    <updated>2023-01-12T20:31:59Z</updated>
+    <updated>2023-01-12T20:46:17Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/x8tqq3lnldcf"/>
     <title>[RBX7][BAREMETAL] - Reload network device</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/02/2023 01:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2023 02:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Loss for vrack connection for all servers of the rack during reload.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to restart network devices to upgrade their configuration.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/02/2023 01:00UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2023 02:00UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Loss for vrack connection for all servers of the rack during reload.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade for multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15282460</id>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/pr19zjhwkq90"/>
     <title>[YMN1][Network] - Network equipment version upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/12/2022 16:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2022 17:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15831116</id>
+    <published>2023-01-25T20:00:00Z</published>
+    <updated>2023-01-12T20:44:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ql7j394tt774"/>
+    <title>[RBX7][Dedicated Servers] - Network equipment maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/01/2023 23:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade for multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15690058</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/g7wrw38p78g1"/>
     <title>[BHS8][Network] - Network equipment version upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/15813387</id>
-    <published>2023-01-17T04:00:00Z</published>
-    <updated>2023-01-10T20:02:31Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/n9p9gy2t7g3h"/>
-    <title>[BHS2][Private Network] - T02E18</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;20:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/01/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/01/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Private network unavailable during the maintenance (30minutes)&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

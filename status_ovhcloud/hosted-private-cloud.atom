@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2023-01-17T21:23:57Z</updated>
+  <updated>2023-01-17T22:13:33Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15866668</id>
+    <published>2023-02-02T08:00:00Z</published>
+    <updated>2023-01-17T22:13:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/hv701lyh52kd"/>
+    <title>[ERI1][Hosted Private Cloud] -E104B01/E104B02</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/02/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/02/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Racks E104B01 and E104B02 will be temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be doing electrical works on racks E104B01 and E104B02.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15865483</id>
     <published>2023-01-26T08:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/d22hhdssrjxd"/>
     <title>[RBX2B][Hosted Private Cloud] - tete-4003</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;17:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/12/2022 16:55 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/12/2022 17:15 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Below pools were temporarily unreachable:&lt;br /&gt;    •pcc-006604 &lt;br /&gt;    •pcc-006605&lt;br /&gt;    •pcc-006606&lt;br /&gt;    •pcc-006756&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/14646660</id>
-    <published>2022-12-23T20:31:26Z</published>
-    <updated>2022-12-23T20:31:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/b9f7vf7rgbfm"/>
-    <title>[Global][VMwarePrivateCloud] - vCenter minor upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;07:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/12/2022 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/12/2022 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The management plane will be unavailable for 1 hour during the maintenance schedule.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;br /&gt;The operation will be done by pool. A communication will be send to inform customers of their specific schedule.&lt;/p&gt;</content>
   </entry>
 </feed>

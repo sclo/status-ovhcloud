@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2023-01-17T20:39:01Z</updated>
+  <updated>2023-01-17T20:46:59Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/s0sfdvvmxtsc"/>
     <title>[RBX][Hosted Private Cloud] - Upgrade Storage Equipement</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;19:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/01/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/01/2023 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times). &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade some storage equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15866085</id>
+    <published>2023-01-23T07:00:00Z</published>
+    <updated>2023-01-17T20:46:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/k35gdm4hd42l"/>
+    <title>[EU/CA/Secnumcloud][Hosted Private Cloud] - vROps</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/01/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/01/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vROps unavailable during the upgrade&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we need to upgrade vROps (vRealize Operations) to its last version.&lt;br /&gt;The duration will be one hour per vrom.&lt;br /&gt;Customer can reschedule maintenance.&lt;br /&gt;Customer will be notified by email when the maintenance is scheduled.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/15866032</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/t126g69gqm7s"/>
     <title>[RBX2A-RBX2B-RBX2D-ERI1C-WAW1C-BHS1A][VMwarePrivateCloud] - vCenter upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/12/2022 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/12/2022 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The current intervention will be done by pool. The management plane will be unavailable for 3 hours for each of them.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/10686175</id>
-    <published>2022-12-20T10:00:23Z</published>
-    <updated>2022-12-20T10:00:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/f3b3x0m537zz"/>
-    <title>[Global][Dedicated Cloud] - End of Life Dedicated Cloud</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End of Life Dedicated Cloud:&lt;/b&gt; 30 September 2022&lt;br /&gt;We informed you in October 2021 that our Dedicad Cloud service will reach its end of life and will be discontinued the 30st September 2022. This step is important for your VMware platforms to improve the quality of service, performance, and security of your clusters. Indeed, "Dedicated Cloud" hardware used, pre-2016, does not allow us to provide the best level of service and integration with new modern architectures of VMware.&lt;br /&gt;Following our previous email, many customers started to plan and/or to migrate and we encourage you to do the same to avoid the September deadline.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Guide to migrating to a new infrastructure:&lt;/b&gt;&lt;br /&gt;https://docs.ovh.com/gb/en/private-cloud/vdc-migration/&lt;/p&gt;</content>
   </entry>
 </feed>

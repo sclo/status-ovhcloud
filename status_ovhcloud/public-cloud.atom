@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-19T14:00:40Z</updated>
+  <updated>2023-01-19T15:31:56Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -97,6 +97,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;23:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/02/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of WAW1 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15881254</id>
+    <published>2023-01-19T15:31:56Z</published>
+    <updated>2023-01-19T15:31:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl"/>
+    <title>[GRA][Public cloud] - S3 OpenIO</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 14:30 UTC &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may observe 503 on GET or PUT, followed by an inconsistent listing.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15865605</id>
     <published>2023-01-19T14:00:40Z</published>
     <updated>2023-01-19T14:00:40Z</updated>
@@ -135,14 +143,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3p40v0281jk1"/>
     <title>PCI - GRA7 - host1529742</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1529742&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;d098213c-9e2e-4c9a-a48b-467a6d93d255&lt;br /&gt;d4fef810-75df-425c-a800-bdd244310e31&lt;br /&gt;2ad191b3-e0fb-4fee-828f-fa09561bc02f&lt;br /&gt;d82a11ff-9f52-440f-b4f6-68e27a53a41d&lt;br /&gt;3c0a177e-bd38-4295-a9b5-50c94fa3f7b3&lt;br /&gt;c895f8d3-c692-4f56-b3ca-5abd6bf44a39&lt;br /&gt;19ba71f8-461d-4308-bc13-abb320fcf79d&lt;br /&gt;fd69b908-e64f-4e2e-bcab-3b8349f59c8d&lt;br /&gt;95998882-8ce3-46a7-826b-c717c26ad050&lt;br /&gt;fe6864c2-a554-4ba8-a6fb-b8d4ae9dea42&lt;br /&gt;ee8a0320-1168-483e-b307-0a8f22c28ad7&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15881254</id>
-    <published>2023-01-19T10:47:14Z</published>
-    <updated>2023-01-19T10:47:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl"/>
-    <title>[GRA][Public cloud] - S3 OpenIO</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may observe 503 on GET or PUT, followed by an inconsistent listing.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15878099</id>

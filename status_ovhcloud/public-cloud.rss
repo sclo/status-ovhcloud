@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 19 Jan 2023 14:00:40 +0000</pubDate>
+    <pubDate>Thu, 19 Jan 2023 15:31:56 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -105,6 +105,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ng9bqdv0dplt</guid>
     </item>
     <item>
+      <title>[GRA][Public cloud] - S3 OpenIO</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 14:30 UTC &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may observe 503 on GET or PUT, followed by an inconsistent listing.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it.&lt;/p&gt;      </description>
+      <pubDate>Thu, 19 Jan 2023 15:31:56 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl</guid>
+    </item>
+    <item>
       <title>[DE/BHS/GRA/WAW/SBG][Databases] - API maintenance</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/01/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Write operations on the API (e.g. create a new user, change a password, create a new cluster, etc.) will be temporarily disabled (~15mn for each region).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade a component of our internal control plane&lt;/p&gt;      </description>
@@ -146,14 +154,6 @@
       <pubDate>Thu, 19 Jan 2023 11:16:54 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/3p40v0281jk1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/3p40v0281jk1</guid>
-    </item>
-    <item>
-      <title>[GRA][Public cloud] - S3 OpenIO</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2023 09:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may observe 503 on GET or PUT, followed by an inconsistent listing.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it.&lt;/p&gt;      </description>
-      <pubDate>Thu, 19 Jan 2023 10:47:14 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/1mbjdb8d6mdl</guid>
     </item>
     <item>
       <title>PCI - BHS5 - host279216</title>

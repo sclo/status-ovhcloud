@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 20 Jan 2023 17:25:26 +0000</pubDate>
+    <pubDate>Fri, 20 Jan 2023 17:33:07 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -103,6 +103,14 @@
       <maintenanceEndDate>Wed, 01 Feb 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ng9bqdv0dplt</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ng9bqdv0dplt</guid>
+    </item>
+    <item>
+      <title>PCI - UK1 - host1011657</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1011657&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;807df216-2dc6-490a-88e9-ed879fd80f76&lt;br /&gt;f38c199c-ed0f-4cc8-8528-97f968add237&lt;br /&gt;ca876f3b-cb82-45fb-bc8b-fce0421bc21b&lt;br /&gt;2bcc8124-7248-49c8-a853-083330237a68&lt;br /&gt;ada3b48c-b56d-4174-8b9b-fc816ff8d43c&lt;br /&gt;6c45b166-9387-45a0-a815-c1a066a551b4&lt;br /&gt;b1d05ae9-b16f-4035-9d36-00d88414ba05&lt;br /&gt;6872aa1a-0767-4188-96f8-30d68eeebb54&lt;br /&gt;0d117152-b51f-4e11-a68d-c3d78a7ce13e&lt;br /&gt;5b4e660a-26b5-4b43-96b7-d63f93c4ee89&lt;br /&gt;3d868faf-efd9-4573-b4bc-fe21e76061ca&lt;br /&gt;95e08b13-0607-407f-af26-93f17f8326ee&lt;br /&gt;276c7c79-dbac-4561-b507-0a08ffabaca2&lt;/p&gt;      </description>
+      <pubDate>Fri, 20 Jan 2023 17:33:07 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/qrgc9ch71gcw</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/qrgc9ch71gcw</guid>
     </item>
     <item>
       <title>PCI - UK1 - host1120990</title>
@@ -209,15 +217,6 @@
       <maintenanceEndDate>Thu, 19 Jan 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/l8ds29jtb4t6</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/l8ds29jtb4t6</guid>
-    </item>
-    <item>
-      <title>[DE/BHS/GRA/WAW/SBG][Databases] - API maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2022 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/01/2022 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Write operations on the API (e.g. create a new user, change a password, create a new cluster, etc.) will be temporarily disabled (~15mn for each region).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade a component of our internal control plane&lt;/p&gt;      </description>
-      <pubDate>Thu, 19 Jan 2023 15:46:48 +0000</pubDate>
-      <maintenanceEndDate>Thu, 19 Jan 2023 18:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/jl9wm3m5w1br</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/jl9wm3m5w1br</guid>
     </item>
   </channel>
 </rss>

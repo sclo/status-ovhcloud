@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-01-22T09:07:42Z</updated>
+  <updated>2023-01-22T23:03:21Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/92k1xchtvjln"/>
     <title>[Global][Web Cloud] - VoIP - Services</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/01/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/01/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During operations, there will be the unavailability of sending sms for about 1 minute.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade customer component in VOIP Services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15907569</id>
+    <published>2023-01-22T23:03:21Z</published>
+    <updated>2023-01-22T23:03:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/61wzycfb8gjp"/>
+    <title>[ALL][VOIP] - CTI</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/01/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The reporting of events on the CTI (Computer Telephony Integration) does not work nominally .&lt;br /&gt;Also, the line registration  works but the feedback for the customer may not work&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15904186</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dbnfdsn4l8bp"/>
     <title>[RBX/SBG][Web Cloud] - VoIP - Carrier SIP</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;21:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;04:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/01/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/01/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade customer component in Carrier Sip infrastructure&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15811637</id>
-    <published>2023-01-10T17:33:00Z</published>
-    <updated>2023-01-10T17:33:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/hy5r2qyfcf71"/>
-    <title>[GRA1][Webhosting] - Cluster  028 - filerz975</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;17:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 15:44 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  10/01/2023 17:10 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware had a malfunction,  the defective component needed to be changed.&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Service is unreachable for customers on Filerz975. Our technicians are currently working on in order to fix it&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; 10/01/2023 15:44 UTC&lt;br /&gt;A reboot on a storage equipment was done.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/01/2023 15:44 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness is observed on some hosted websites&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

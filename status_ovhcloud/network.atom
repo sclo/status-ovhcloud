@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
   <title>Network &amp; Infrastructure Status - Incident History</title>
-  <updated>2023-01-25T20:23:55Z</updated>
+  <updated>2023-01-25T20:33:08Z</updated>
   <author>
     <name>Network &amp; Infrastructure</name>
   </author>
@@ -95,6 +95,22 @@
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/gmv6cmp5sfnw"/>
     <title>[US][Network] - Backbone maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2023 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some latency might be observed during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our backbone infrastructure, we will be doing a maintenance on multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/15935548</id>
+    <published>2023-02-23T02:00:00Z</published>
+    <updated>2023-01-25T20:33:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/jy99n1rlcvhj"/>
+    <title>[WASHINGTON][Network Services] - OVHcloud Connect</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time &lt;/b&gt;: 23/02/2023 02:00 UTC&lt;br /&gt;&lt;b&gt;End time &lt;/b&gt;: 23/02/2023 05:30 UTC&lt;br /&gt;&lt;b&gt;Service impact &lt;/b&gt;: Customers will be impacted depending on the number of ports and POPs used:&lt;br /&gt;     - OCC 1 port : About 1 hour traffic cut is expected&lt;br /&gt;     - OCC 2 ports : Minor traffic cut is expected (less than an hour).&lt;br /&gt;     - OCC 2x POP : No impact expected if BGP sessions has been configured&lt;br /&gt;&lt;b&gt;Service improvement  &lt;/b&gt;: As part of our continuous improvement policy and in order to have a homogeneous park for OVHcloud Connect, our teams will be doing an internal maintenance on a network equipment in the point of presence of Washington.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/15935514</id>
+    <published>2023-02-22T06:00:00Z</published>
+    <updated>2023-01-25T20:28:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/b0vnhbzlm138"/>
+    <title>[SEATTLE][Network Services] - OVHcloud Connect</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time &lt;/b&gt;: 22/02/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time &lt;/b&gt;: 22/02/2023 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact &lt;/b&gt;: Customers will be impacted depending on the number of ports and POPs used:&lt;br /&gt;     - OCC 1 port : About 1 hour traffic cut is expected&lt;br /&gt;     - OCC 2 ports : Minor traffic cut is expected (less than an hour).&lt;br /&gt;     - OCC 2x POP : No impact expected if BGP sessions has been configured&lt;br /&gt;&lt;b&gt;Service improvement  &lt;/b&gt;: As part of our continuous improvement policy and in order to have a homogeneous park for OVHcloud Connect, our teams will be doing an internal maintenance on a network equipment in the point of presence of Seattle.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:network.status-ovhcloud.com,2005:Incident/15775527</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/shv1rf4s7cyv"/>
     <title>[MAD][Network Services] - OVHcloud Connect</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time &lt;/b&gt;: 02/02/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;End time &lt;/b&gt;: 02/02/2023 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact &lt;/b&gt;: Customers will be impacted depending on the number of ports and POPs used:&lt;br /&gt;     - OCC 1 port : About 1 hour traffic cut is expected&lt;br /&gt;     - OCC 2 ports : Minor traffic cut is expected (less than an hour).&lt;br /&gt;     - OCC 2x POP : No impact expected if BGP sessions has been configured&lt;br /&gt;&lt;b&gt;Service improvement  &lt;/b&gt;: As part of our continuous improvement policy and in order to have a homogeneous park for OVHcloud Connect, our teams will be doing an internal maintenance on a network equipment in the point of presence of Madrid.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/15923053</id>
-    <published>2023-02-02T08:00:00Z</published>
-    <updated>2023-01-24T17:08:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/096573ck3dc2"/>
-    <title>[LIM1][Cooling System] - L107B01</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/02/2022 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/02/2022 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, servers in rack L107B01 will be unreachable for 1 hour and a half.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be doing a maintenance on our water cooling system.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/15696417</id>
-    <published>2023-02-02T07:00:00Z</published>
-    <updated>2022-12-22T21:41:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/49mh3qlrl9cm"/>
-    <title>[RBX5/RBX6][Infrastructure] - Electrical backgroud work</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/02/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some preventive maintenance on a low voltage electrical panel (the n°2).&lt;/p&gt;</content>
   </entry>
 </feed>

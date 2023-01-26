@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 26 Jan 2023 13:24:03 +0000</pubDate>
+    <pubDate>Thu, 26 Jan 2023 16:28:48 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/72w5q4t9g71x</guid>
     </item>
     <item>
+      <title>[WAW1 | SGP1 | SYD1 | UK1 | OR1 | VA1][Public cloud] - Node upgrade maintenance step 1</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/01/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is update our internal infrastructure&lt;/p&gt;      </description>
+      <pubDate>Thu, 26 Jan 2023 16:28:48 +0000</pubDate>
+      <maintenanceEndDate>Thu, 26 Jan 2023 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/x6m3lq97mlgm</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/x6m3lq97mlgm</guid>
+    </item>
+    <item>
       <title>PCI - GRA1 - host711600</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host711600&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;d2cfe037-190a-4604-a073-51b573fd5673&lt;br /&gt;b0dcfdf2-b15c-44d0-b590-da31c844e4b2&lt;br /&gt;142c3f19-0adc-4ec1-ac25-8775b5e29e5a&lt;br /&gt;a7d9d5ae-5c65-4004-9799-336d13612564&lt;br /&gt;b4b8bdad-2661-47ea-a994-4a4f5920c587&lt;br /&gt;fa166000-5023-414f-8c03-aefefe86455f&lt;br /&gt;680bc2f4-2a3f-4249-83b3-083a3e3825ce&lt;/p&gt;      </description>
@@ -208,14 +217,6 @@
       <pubDate>Wed, 25 Jan 2023 14:41:12 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/dr9zkgzhkwq3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/dr9zkgzhkwq3</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 - host673266</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra-z1c9-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G133A07&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host673266&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;1c6b24ee-c148-45ba-99a8-4cf80476e8be&lt;br /&gt;1fa26b43-a0d1-4c20-8310-20b51ef9189d&lt;br /&gt;233d806c-697f-449d-8131-f98f11eca5f5&lt;br /&gt;2e5df68f-9dc5-4db6-b7e7-2e2202c98157&lt;br /&gt;52cc4cf4-057c-4a41-bbb8-6fd266bcafae&lt;br /&gt;5d339aca-86b4-41aa-9330-07710c02b3e9&lt;br /&gt;71dd95da-d853-432c-b2a6-4c83c7ba9df6&lt;br /&gt;a4421867-7681-47c8-b834-2d238023f969&lt;br /&gt;a64f2c22-bb35-4a1c-b320-81a955946e0e&lt;br /&gt;f256ced9-9906-4a69-a1e7-2e17d0dae0a0&lt;/p&gt;      </description>
-      <pubDate>Wed, 25 Jan 2023 14:40:53 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/hkn6dy7cz8q8</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/hkn6dy7cz8q8</guid>
     </item>
   </channel>
 </rss>

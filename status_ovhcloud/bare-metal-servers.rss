@@ -4,7 +4,25 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 27 Jan 2023 22:41:12 +0000</pubDate>
+    <pubDate>Fri, 27 Jan 2023 23:00:40 +0000</pubDate>
+    <item>
+      <title>[WAW1][Dedicated Servers] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Mar 2023 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 23 Mar 2023 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sycd8dt5fjhb</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/sycd8dt5fjhb</guid>
+    </item>
+    <item>
+      <title>[SBG3][Dedicated Servers] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2023 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Wed, 22 Mar 2023 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 22 Mar 2023 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8kldxzd764ck</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8kldxzd764ck</guid>
+    </item>
     <item>
       <title>[SBG3][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -211,24 +229,6 @@
       <maintenanceEndDate>Wed, 15 Feb 2023 12:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ydpv7mv8j4vk</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ydpv7mv8j4vk</guid>
-    </item>
-    <item>
-      <title>[ERI1][Dedicated Servers] - E102G11</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack E102G11 will be temporarily unreachable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to replace a piece of equipment to ensure an operational remote reboot system.&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Feb 2023 06:00:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 15 Feb 2023 07:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bzbrjxjpl267</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bzbrjxjpl267</guid>
-    </item>
-    <item>
-      <title>[RBX1][Dedicated Servers] - 17B01</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/02/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are moving servers from Rack 17B01.&lt;/p&gt;      </description>
-      <pubDate>Tue, 14 Feb 2023 23:00:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 15 Feb 2023 05:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rpkcs4xmln82</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rpkcs4xmln82</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-29T19:23:57Z</updated>
+  <updated>2023-01-29T21:40:01Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2023 17:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As described in our public roadmap (https://github.com/ovh/public-cloud-roadmap/issues/259), this maintenance is scheduled to provide to the MKS users the possibility to update their Managed Kubernetes Services. This release will rollout/rebuild the Kubernetes nodes onto a GNU/Linux kernel in version 5.4 (based on the Ubuntu kernel linux-image-generic-hwe-18.04). &lt;br /&gt;Additional information: All new delivered nodes will be installed with this new GNU/Linux Kernel version.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15969141</id>
+    <published>2023-01-29T21:40:01Z</published>
+    <updated>2023-01-29T21:40:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1144d9wzn5xd"/>
+    <title>PCI - GRA5 - host945292</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host945292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;67bd5447-4bab-458e-92f3-35e25c5b6deb&lt;br /&gt;5a931cef-4e6e-4624-adcd-58079b072f82&lt;br /&gt;f23fd125-3ca8-4f73-83fd-fdeb8e383a4f&lt;br /&gt;14d170d7-fe0b-45ad-b0bf-877c813c1be1&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15968589</id>
     <published>2023-01-29T19:00:20Z</published>
     <updated>2023-01-29T19:00:20Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3500ptd24d98"/>
     <title>PCI - GRA5 - host945292</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host945292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;67bd5447-4bab-458e-92f3-35e25c5b6deb&lt;br /&gt;5a931cef-4e6e-4624-adcd-58079b072f82&lt;br /&gt;f23fd125-3ca8-4f73-83fd-fdeb8e383a4f&lt;br /&gt;14d170d7-fe0b-45ad-b0bf-877c813c1be1&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15952712</id>
-    <published>2023-01-27T15:46:25Z</published>
-    <updated>2023-01-27T15:46:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/h5nvtq58hk57"/>
-    <title>PCI - GRA3 - host1582652</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1582652&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;258f4fc3-8404-4ca3-878f-5d85d46f8ca6&lt;br /&gt;da6509b0-11d5-4b2d-9299-b464623675b5&lt;br /&gt;f6054812-1691-4e59-b4c3-5895c10f0ca3&lt;br /&gt;ef5b447d-8bd0-44e4-b7c8-252d926073f4&lt;br /&gt;b24b308d-70d0-40dc-8e2e-534737ce683c&lt;br /&gt;db862d3f-0f74-4dcf-8739-6255fe1a84fb&lt;br /&gt;23a459b7-70be-43f3-8469-81008157c10e&lt;br /&gt;0e2f470f-738d-42f1-9f25-9be8e6b65e41&lt;/p&gt;</content>
   </entry>
 </feed>

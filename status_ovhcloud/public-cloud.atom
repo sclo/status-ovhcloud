@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-30T14:47:12Z</updated>
+  <updated>2023-01-30T15:01:15Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -121,6 +121,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; For GET/HEAD:&lt;br /&gt;-2% of objects might be unavailable (latency or 503 instead of 200)&lt;br /&gt;-0.4% of objects will be unavailable (503 instead of 200)&lt;br /&gt;for PUTs:&lt;br /&gt;-slowdowns to be expected on 2% of traffic&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15975024</id>
+    <published>2023-01-30T15:01:15Z</published>
+    <updated>2023-01-30T15:01:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30"/>
+    <title>[BHS/GRA][AI] - Notenooks/Training/Aps</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can't currently create an AI workload with a attached PCS volume using the manager. Workaround is to use the CLI, APIv6 or Regional API. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15973565</id>
     <published>2023-01-30T14:47:12Z</published>
     <updated>2023-01-30T14:47:12Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wm8m22v2b2qs"/>
     <title>PCI - GRA5 - host1412428</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;06:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;06:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1412428&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;24444c6a-1009-4aeb-b199-961f8c56d06a&lt;br /&gt;1558ae8c-4997-4b11-9488-2c39e79eca9d&lt;br /&gt;0a3a939d-4dc0-4a8d-bf43-4cf767491c16&lt;br /&gt;852267c4-44ae-45ec-ae30-7c762651e077&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15969656</id>
-    <published>2023-01-30T00:20:49Z</published>
-    <updated>2023-01-30T00:20:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ttk8d054d7j1"/>
-    <title>PCI - BHS5 - host431625</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host431625&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;d6c5cf50-6b5f-48fd-979b-717676f07b76&lt;br /&gt;3740114e-6466-4486-922e-09803abb81d0&lt;br /&gt;8fe30c1b-563c-4eea-a623-fa444fb03560&lt;br /&gt;80dac733-06e4-4e07-b354-0faa086be183&lt;/p&gt;</content>
   </entry>
 </feed>

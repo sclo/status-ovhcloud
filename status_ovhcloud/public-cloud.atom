@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-01-31T18:59:02Z</updated>
+  <updated>2023-01-31T19:12:17Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -121,12 +121,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some latency may be observed on this service&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15987785</id>
+    <published>2023-01-31T19:12:17Z</published>
+    <updated>2023-01-31T19:12:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7fxs1rbqh7r7"/>
+    <title>PCI - GRA5 - host1045698</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;19:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1045698&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;e4fcc749-8e5b-4944-bdae-79d2dc0c11cd&lt;br /&gt;f8baaac6-1c2d-4c9c-b36f-224d0dc027b2&lt;br /&gt;ada860a8-efc0-4d3b-bcbe-7b4f6d0a247a&lt;br /&gt;67ed5f56-0c18-4073-ba59-9d9bf30636a4&lt;br /&gt;52013f69-9550-4282-9bf5-515b88dd4dd0&lt;br /&gt;52d5e1d3-eaa3-479a-999d-4923702e1104&lt;br /&gt;f07011e0-719a-49f7-906b-dc844f8b1ab5&lt;br /&gt;3bddc226-eebe-4071-b43f-73d5fbfc36c7&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15987695</id>
-    <published>2023-01-31T18:59:02Z</published>
-    <updated>2023-01-31T18:59:02Z</updated>
+    <published>2023-01-31T19:05:09Z</published>
+    <updated>2023-01-31T19:05:09Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jxm40ymgbn12"/>
     <title>PCI - GRA5 - host945293</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host945293&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;52cb2ea9-78a3-4b08-aefb-c1bc944ae786&lt;br /&gt;d3b6a512-9aa5-4a94-8b45-eef25d2eb6dc&lt;br /&gt;0d1b98f5-6798-4d9f-9d6e-b8959dc24c11&lt;br /&gt;3738aeff-d773-4b32-9deb-b98aaca0552d&lt;br /&gt;c777f17f-141a-48fa-afd2-840deeb8ecf4&lt;br /&gt;7f678234-3e47-4e26-b0fa-30bdf27df539&lt;br /&gt;ebc6690d-3661-450c-a8cb-bff8b3ac63ce&lt;br /&gt;3f6f0d24-445b-431b-b358-729edb6f9d10&lt;br /&gt;3169bbd7-2f17-4b0e-ae5a-82e2007d23bc&lt;br /&gt;e7af053c-05fa-41b1-bb57-c6aaa3f44db6&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;19:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host945293&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;52cb2ea9-78a3-4b08-aefb-c1bc944ae786&lt;br /&gt;d3b6a512-9aa5-4a94-8b45-eef25d2eb6dc&lt;br /&gt;0d1b98f5-6798-4d9f-9d6e-b8959dc24c11&lt;br /&gt;3738aeff-d773-4b32-9deb-b98aaca0552d&lt;br /&gt;c777f17f-141a-48fa-afd2-840deeb8ecf4&lt;br /&gt;7f678234-3e47-4e26-b0fa-30bdf27df539&lt;br /&gt;ebc6690d-3661-450c-a8cb-bff8b3ac63ce&lt;br /&gt;3f6f0d24-445b-431b-b358-729edb6f9d10&lt;br /&gt;3169bbd7-2f17-4b0e-ae5a-82e2007d23bc&lt;br /&gt;e7af053c-05fa-41b1-bb57-c6aaa3f44db6&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15987497</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vf6xh22drpvl"/>
     <title>PCI - GRA7 - host1035673</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1035673&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;97bd8dc9-a200-42a9-9c5b-c4647f8b0b5d&lt;br /&gt;56eab6da-fb43-4fe1-8289-9b02f8a6b0e9&lt;br /&gt;93e9e48b-8126-4769-891e-ff38c7bcd333&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15974305</id>
-    <published>2023-01-30T23:00:25Z</published>
-    <updated>2023-01-30T23:00:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/21r5stkdgc11"/>
-    <title>[Lim][Public Cloud/Object storage] - vRack</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - Verification is currently underway for the maintenance items.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; For GET/HEAD on existing objects:&lt;br /&gt;-10% of objects could be unavailable (latency or 503 instead of 200) - Only 1 replica available out of 3.&lt;br /&gt;-1.5% of objects will be unavailable (503 instead of 200)&lt;br /&gt;For GET/HEAD on non-existing objects:&lt;br /&gt;-10% of objects could answer 503 instead of 404&lt;br /&gt;for PUTs:&lt;br /&gt;-10% of objects may encounter disturbances.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

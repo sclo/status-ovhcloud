@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 31 Jan 2023 14:23:57 +0000</pubDate>
+    <pubDate>Tue, 31 Jan 2023 14:33:18 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bd54klzl2rb6</guid>
     </item>
     <item>
+      <title>PCI - GRA5 - host1305260</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1305260&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;c996ff6f-e34a-482d-b43e-e2186f753d2c&lt;br /&gt;47259595-ba4b-4ceb-a15f-420b1595e782&lt;br /&gt;45c2a8b8-29fc-4a51-af78-b8147c7c7433&lt;br /&gt;94e56321-3566-49cb-9f7a-64907ebed722&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 Jan 2023 14:33:18 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/8g100l84tsr0</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/8g100l84tsr0</guid>
+    </item>
+    <item>
       <title>[BHS/GRA][AI] - Notebooks/Training/Aps</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 31/01/2023 12:23 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can&apos;t currently create an AI workload with a attached PCS volume using the manager. Workaround is to use the CLI, APIv6 or Regional API. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Mon, 30 Jan 2023 14:47:12 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/g8j084d4jgrs</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/g8j084d4jgrs</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 - host897435</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host897435&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;93ffd48f-e6da-4ca1-a8a8-9a6b595a0161&lt;/p&gt;      </description>
-      <pubDate>Mon, 30 Jan 2023 13:40:52 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/4t052mzn973k</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/4t052mzn973k</guid>
     </item>
   </channel>
 </rss>

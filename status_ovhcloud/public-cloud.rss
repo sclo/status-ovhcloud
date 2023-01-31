@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 31 Jan 2023 14:02:54 +0000</pubDate>
+    <pubDate>Tue, 31 Jan 2023 14:10:08 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bd54klzl2rb6</guid>
     </item>
     <item>
+      <title>[BHS/GRA][AI] - Notebooks/Training/Aps</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 31/01/2023 12:23 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can&apos;t currently create an AI workload with a attached PCS volume using the manager. Workaround is to use the CLI, APIv6 or Regional API. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 Jan 2023 14:10:08 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30</guid>
+    </item>
+    <item>
       <title>[GRA5/GRA7/GRA9/SBG5/BHS5/DE1][Public cloud] - Node upgrade maintenance step 2</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/02/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is update our internal infrastructure.&lt;/p&gt;      </description>
@@ -198,14 +206,6 @@
       <maintenanceEndDate>Mon, 30 Jan 2023 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/2zlwb02byh4z</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/2zlwb02byh4z</guid>
-    </item>
-    <item>
-      <title>[BHS/GRA][AI] - Notebooks/Training/Aps</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can&apos;t currently create an AI workload with a attached PCS volume using the manager. Workaround is to use the CLI, APIv6 or Regional API. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;      </description>
-      <pubDate>Mon, 30 Jan 2023 15:05:23 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30</guid>
     </item>
     <item>
       <title>PCI - GRA1 - host897435</title>

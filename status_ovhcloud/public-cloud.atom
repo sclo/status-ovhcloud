@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-01T09:24:36Z</updated>
+  <updated>2023-02-01T10:02:53Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;23:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/02/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of WAW1 will be unreachable for 5 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15994427</id>
+    <published>2023-02-01T10:02:53Z</published>
+    <updated>2023-02-01T10:02:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6tb3n23gxq9n"/>
+    <title>[SBG][Storage] - Object Storage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latencies and disconnection with the API s3 responses.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15993867</id>
     <published>2023-02-01T09:23:55Z</published>
     <updated>2023-02-01T09:23:56Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kv03s47d9c30"/>
     <title>[BHS/GRA][AI] - Notebooks/Training/Aps</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 31/01/2023 12:23 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2023 13:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can't currently create an AI workload with a attached PCS volume using the manager. Workaround is to use the CLI, APIv6 or Regional API. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15930828</id>
-    <published>2023-01-31T13:00:45Z</published>
-    <updated>2023-01-31T13:00:45Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/72w5q4t9g71x"/>
-    <title>[GRA5/GRA7/GRA9/SBG5/BHS5/DE1][Public cloud] - Node upgrade maintenance step 2</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;11:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/02/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is update our internal infrastructure.&lt;/p&gt;</content>
   </entry>
 </feed>

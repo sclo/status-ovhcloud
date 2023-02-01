@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 01 Feb 2023 01:23:54 +0000</pubDate>
+    <pubDate>Wed, 01 Feb 2023 14:29:45 +0000</pubDate>
     <item>
       <title>[GRA3][Mail] - Filerz1858 / Filerz1864</title>
       <description>
@@ -49,6 +49,14 @@
       <maintenanceEndDate>Thu, 02 Feb 2023 02:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/g3nlf519g5fb</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/g3nlf519g5fb</guid>
+    </item>
+    <item>
+      <title>[GRA1][Webhosting] - Cluster 020</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/02/2023 14:08 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness on some hosted websites&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; GRA1&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently investigating.&lt;/p&gt;      </description>
+      <pubDate>Wed, 01 Feb 2023 14:29:45 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/rg28ch359xy6</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/rg28ch359xy6</guid>
     </item>
     <item>
       <title>[GRA3][Mail] - Filerz 1853 / Filerz 1856</title>
@@ -210,14 +218,6 @@
       <pubDate>Sat, 21 Jan 2023 22:35:57 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/q8xd8y2hqbmc</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/q8xd8y2hqbmc</guid>
-    </item>
-    <item>
-      <title>[FR][Databases] - databases C5B</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/01/2023 07:50 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/01/2023 14:13 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; It was due to a malfunction on the last migration and on a software.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - On the B infrastructure It may impact incoming calls which would arrive on another DataBase, and which would therefore not have the information that the line is registered, so the call could not succeed.&lt;br /&gt;The malfunction has been identified , it is about the replication of records between the DataBases. Our technicians are currently  fixing it&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/01/2023 07:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Our teams have idenfied an issue on dabatases C5B. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams  with our equipments supplier are investigating on this issue. &lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Sat, 21 Jan 2023 14:19:24 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/d35wczp7jqb9</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/d35wczp7jqb9</guid>
     </item>
   </channel>
 </rss>

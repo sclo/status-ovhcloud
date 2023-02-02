@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 02 Feb 2023 10:40:33 +0000</pubDate>
+    <pubDate>Thu, 02 Feb 2023 11:40:04 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -87,6 +87,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/stqgl3kftr20</guid>
     </item>
     <item>
+      <title>[SBG][Storage] - Object Storage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 01/02/2023 12:30 UTC &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A workaround has been implemented. Customers aren&apos;t impacted anymore since 12:30 UTC.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latencies and disconnection with the API s3 responses.&lt;br /&gt;Connection timeout might also be observed for https://s3.sbg.perf.cloud.ovh.net and https://s3.sbg.io.cloud.ovh.net&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are still working to solve the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latencies and disconnection with the API s3 responses.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;      </description>
+      <pubDate>Thu, 02 Feb 2023 11:40:04 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/6tb3n23gxq9n</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/6tb3n23gxq9n</guid>
+    </item>
+    <item>
       <title>[GRA1/2/3/4/9/11][Public Cloud] - Block Storage</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/02/2023 07:40 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/02/2023 09:45 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Multiple network equipment caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/02/2023 07:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Latency is being observed on  block storage in GRA1, GRA2, GRA3, GRA4, GRA9 and GRA11&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Multiple network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;      </description>
@@ -128,14 +136,6 @@
       <maintenanceEndDate>Wed, 01 Feb 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ng9bqdv0dplt</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ng9bqdv0dplt</guid>
-    </item>
-    <item>
-      <title>[SBG][Storage] - Object Storage</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A workaround has been implemented. Customers aren&apos;t impacted anymore since 12:30 UTC.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latencies and disconnection with the API s3 responses.&lt;br /&gt;Connection timeout might also be observed for https://s3.sbg.perf.cloud.ovh.net and https://s3.sbg.io.cloud.ovh.net&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are still working to solve the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latencies and disconnection with the API s3 responses.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;      </description>
-      <pubDate>Wed, 01 Feb 2023 12:40:18 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/6tb3n23gxq9n</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/6tb3n23gxq9n</guid>
     </item>
     <item>
       <title>PCI - GRA7 - host1035673</title>

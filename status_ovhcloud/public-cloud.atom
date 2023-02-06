@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-06T13:34:28Z</updated>
+  <updated>2023-02-06T14:14:10Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -57,12 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;23:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The registries will be set in read-only mode. They will also be unavailable for a few minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16039836</id>
+    <published>2023-02-06T14:05:03Z</published>
+    <updated>2023-02-06T14:05:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/m384nn3gdpzc"/>
+    <title>PCI - GRA3 - host1172383</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;11:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1172383&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;dfcd6917-9c5c-4295-8a9f-5b76e82b1600&lt;br /&gt;efe2b4e9-50f2-46d1-ba63-94282ca4f2e4&lt;br /&gt;d66fe064-28d5-4753-a1f4-118bbc936f46&lt;br /&gt;15c99e3d-0079-4152-8cc3-edaf095fd812&lt;br /&gt;07f90c62-6cb2-4ba6-b7f7-d2d0d4ae5141&lt;br /&gt;b065a866-0b52-461e-be66-dcb0e58eda52&lt;br /&gt;d62df81f-9471-4d4b-bff4-10f9d8e82522&lt;br /&gt;ff023284-f7f5-4e02-a544-c0f2953015e7&lt;br /&gt;fec9dbb9-6171-4799-8501-8fddfaa42fa9&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16038792</id>
     <published>2023-02-06T13:34:28Z</published>
-    <updated>2023-02-06T13:34:28Z</updated>
+    <updated>2023-02-06T14:14:10Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xmsw97h1stkf"/>
     <title>[GRA][Storage] - ObjectStorage  perturbation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/02/2023 09:30 UTC &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;08:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some perturbation an s3 ObjectStorage&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 06/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/02/2023 09:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is due to abnormal behaviour of the ratelimiting at the keystone.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;08:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience some perturbation an s3 ObjectStorage&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16039402</id>
@@ -95,14 +103,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/p8c84w5bgxkh"/>
     <title>[Global][ManagesKubernetes] - Api instabilities</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;12:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;12:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - No more instabilities are reported.&lt;br /&gt;Like the linked incident, we are monitoring the situation the time being.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/02/2023 10:53 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; creating, updating or deleting cluster or node action may encounter instabilities.&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; &lt;a href="https://customer-service.status-ovhcloud.com/incidents/8bjxs2t3hf9s"&gt;[Global][API] - Api instabilities&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16039836</id>
-    <published>2023-02-06T11:01:33Z</published>
-    <updated>2023-02-06T11:01:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/m384nn3gdpzc"/>
-    <title>PCI - GRA3 - host1172383</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;11:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1172383&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;dfcd6917-9c5c-4295-8a9f-5b76e82b1600&lt;br /&gt;efe2b4e9-50f2-46d1-ba63-94282ca4f2e4&lt;br /&gt;d66fe064-28d5-4753-a1f4-118bbc936f46&lt;br /&gt;15c99e3d-0079-4152-8cc3-edaf095fd812&lt;br /&gt;07f90c62-6cb2-4ba6-b7f7-d2d0d4ae5141&lt;br /&gt;b065a866-0b52-461e-be66-dcb0e58eda52&lt;br /&gt;d62df81f-9471-4d4b-bff4-10f9d8e82522&lt;br /&gt;ff023284-f7f5-4e02-a544-c0f2953015e7&lt;br /&gt;fec9dbb9-6171-4799-8501-8fddfaa42fa9&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16039398</id>

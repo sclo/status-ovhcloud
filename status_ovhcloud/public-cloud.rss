@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 07 Feb 2023 10:03:08 +0000</pubDate>
+    <pubDate>Tue, 07 Feb 2023 10:26:47 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -67,6 +67,23 @@
       <maintenanceEndDate>Wed, 08 Feb 2023 06:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4zss95dh0tq1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4zss95dh0tq1</guid>
+    </item>
+    <item>
+      <title>[GRA1][Network] - G212B14</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/02/2023 10:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2023 11:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Private and Public Network are unreachable for all VM of the rack &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to change a hardware.&lt;/p&gt;      </description>
+      <pubDate>Tue, 07 Feb 2023 10:26:47 +0000</pubDate>
+      <maintenanceEndDate>Tue, 07 Feb 2023 11:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/jnym2x20vbvx</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/jnym2x20vbvx</guid>
+    </item>
+    <item>
+      <title>PCI - GRA5 - 5 hosts</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host12-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G212B14&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host963703&lt;br /&gt;host963707&lt;br /&gt;host963710&lt;br /&gt;host963713&lt;br /&gt;host963714&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;1229bcb8-bc96-4cb0-b588-41989483efe4&lt;br /&gt;27902f7e-e964-40f9-9975-b3360c2c77ca&lt;br /&gt;2b941c30-6547-40e8-98ef-3cd8a643bd96&lt;br /&gt;469051fc-60b6-4e5f-8062-f1834a8412ed&lt;br /&gt;5e3190c0-50cf-4abb-b657-beb0ac169ee5&lt;br /&gt;865c2280-0663-493c-8750-a89e6e7f0ca4&lt;br /&gt;8dd9eadf-ff5a-48be-9c05-88c0e0f954df&lt;br /&gt;94b8e8f1-9953-41a5-943a-0f713a0ffab6&lt;br /&gt;9df482da-0563-4f19-a96e-499ce2c1f281&lt;br /&gt;a1096462-077c-4989-b35e-14aa6d92df80&lt;br /&gt;aa56e040-126b-45ba-918f-1a88befbf142&lt;br /&gt;b907ceae-18d6-4556-9c96-e34993ed22de&lt;br /&gt;f43e1dcb-b3c0-49e9-a2e1-895e0a8651cb&lt;/p&gt;      </description>
+      <pubDate>Tue, 07 Feb 2023 10:09:27 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/z4q45c01sx4k</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/z4q45c01sx4k</guid>
     </item>
     <item>
       <title>PCI - GRA7 - host971150</title>
@@ -195,22 +212,6 @@
       <pubDate>Sun, 05 Feb 2023 01:58:42 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/nwvc1wbz75dc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/nwvc1wbz75dc</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 - host572779</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host572779&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;73b3a8db-1f92-4ef4-ab47-ceac9d5789dc&lt;br /&gt;7664fabd-da33-40bd-b727-1931d2c8f461&lt;br /&gt;3224a767-bf3b-42c7-b5e8-ae25c8f43929&lt;br /&gt;d5930632-ada4-4adb-87b4-1d16989ac2e7&lt;br /&gt;9bd3ece7-d747-4d60-b393-b7455918cf24&lt;br /&gt;29f89e8b-4842-4738-9c26-094aeb07b59a&lt;/p&gt;      </description>
-      <pubDate>Sun, 05 Feb 2023 01:56:28 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/bl471qmnnp0q</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/bl471qmnnp0q</guid>
-    </item>
-    <item>
-      <title>PCI - GRA3 - host1258085</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1258085&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;ca2b44f4-8c31-4b24-91d8-93c2934d4a2f&lt;br /&gt;b39c2e21-a155-4dac-ace8-d2261fc189b3&lt;br /&gt;8d18ab3a-7120-4875-b6ca-15168dcbcd2e&lt;br /&gt;b423a36f-0b65-4e44-afd1-af7b4ad6bc9c&lt;br /&gt;37b9fee3-5391-4157-9e3e-74e96a540f4d&lt;br /&gt;8f2ae65d-bd6c-4c2e-89ae-9831449a784b&lt;br /&gt;0d473dd9-c04d-483a-b656-000d0f8b0246&lt;br /&gt;aba6fe24-7a85-46c6-9082-3ba7f2b7643e&lt;br /&gt;8e582ea4-e7f3-41a4-8b48-575bfbc169f4&lt;br /&gt;b5cbd23b-dca4-4cea-831e-ae514a5ffd5e&lt;br /&gt;9d09e885-3dcd-4337-82c3-6a400fe3a93b&lt;br /&gt;823b4f6c-ae68-4ef2-a6aa-6d5229353ae2&lt;br /&gt;cfac4f9e-b4b0-4d84-8796-bb4cb545afbb&lt;br /&gt;3971bdd1-a601-4149-a310-5a8d1bddd787&lt;br /&gt;d899933a-a80f-4637-8da5-4b2dcc62a22a&lt;br /&gt;6dd77311-ed14-449d-8633-48f2145aae09&lt;br /&gt;5ab1a9b8-8ae1-4c95-a766-e42d8d68fe5f&lt;br /&gt;ec871078-8ac9-4c67-b133-b49802c928c4&lt;br /&gt;3fc351ce-296a-4cb1-be6c-b288c3b680fc&lt;br /&gt;68dc16a5-1f7c-49f2-a319-9c02c6bcb2a1&lt;br /&gt;dd0fde22-09c6-447a-9310-72b4af5d2a28&lt;br /&gt;7552ef06-3317-4576-8e68-fd3c198a229c&lt;br /&gt;d0f6dbe4-0fe9-4281-8a44-9e0e609d7c8e&lt;br /&gt;be3fe442-73c3-4cff-a260-c7e3be2b7ee5&lt;br /&gt;286c97e7-16fc-41db-82d3-b14490ff5e6a&lt;br /&gt;f8ef8ac3-3444-4f9a-8787-36ae544f63f0&lt;br /&gt;290d47dc-83c4-4d8e-9228-4007531a4983&lt;br /&gt;b3e74e01-d67c-412f-b70a-3c11e9627984&lt;br /&gt;92748399-57b8-4015-8c28-c839d8a18b9c&lt;br /&gt;b263feee-944c-4773-906b-c6bc13ce58af&lt;br /&gt;8f6fae62-257e-4957-b133-6d6581d84dfb&lt;br /&gt;01ad1a9c-0917-4403-8960-735be1695285&lt;br /&gt;69a72672-1a01-466c-83aa-dbde8eb0d796&lt;br /&gt;b064958b-4492-4f7b-ab11-e7626b63f7a8&lt;br /&gt;9117d228-5984-42b2-a52f-76ed4cbe6687&lt;br /&gt;a26b7de7-b20d-4c32-8b57-1839a7e99841&lt;br /&gt;28c3f11e-510d-4401-89ba-984ce91d7792&lt;br /&gt;4fcb4d1c-561e-4b53-8030-e7563bb936e7&lt;br /&gt;448bc191-ad15-4e92-8db0-f8bdc5e5afa1&lt;br /&gt;59d8d7f5-6a85-48d0-a4ec-eab4e8b15343&lt;/p&gt;      </description>
-      <pubDate>Sun, 05 Feb 2023 00:00:06 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/7jk7t4hwdgk0</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/7jk7t4hwdgk0</guid>
     </item>
   </channel>
 </rss>

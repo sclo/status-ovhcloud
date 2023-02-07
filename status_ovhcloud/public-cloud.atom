@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-07T10:09:27Z</updated>
+  <updated>2023-02-07T10:26:47Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4zss95dh0tq1"/>
     <title>[LIM][Public Cloud] - Network maintenance maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; - &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/02/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on multiple network equipment in Limburg.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16051842</id>
+    <published>2023-02-07T10:26:47Z</published>
+    <updated>2023-02-07T10:26:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jnym2x20vbvx"/>
+    <title>[GRA1][Network] - G212B14</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/02/2023 10:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2023 11:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Private and Public Network are unreachable for all VM of the rack &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to change a hardware.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16051689</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nwvc1wbz75dc"/>
     <title>PCI - GRA1 - host673292</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host673292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;636e9bf7-df75-4749-b24e-58f15289107b&lt;br /&gt;fd76bd7b-bba9-4b5f-8a82-fcf189eb9fdf&lt;br /&gt;a0e16441-7999-4cea-b0ef-1afd97d0539d&lt;br /&gt;d160d6e6-0164-4837-948c-ab85d2e44459&lt;br /&gt;cebc1854-9984-4ddb-b80c-ebe9cfef2ce3&lt;br /&gt;06597e5d-37af-484a-8d32-17091b50070d&lt;br /&gt;a3a88158-409a-4f24-9007-e017e47fb95f&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16029202</id>
-    <published>2023-02-05T01:56:28Z</published>
-    <updated>2023-02-05T01:56:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bl471qmnnp0q"/>
-    <title>PCI - GRA1 - host572779</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host572779&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;73b3a8db-1f92-4ef4-ab47-ceac9d5789dc&lt;br /&gt;7664fabd-da33-40bd-b727-1931d2c8f461&lt;br /&gt;3224a767-bf3b-42c7-b5e8-ae25c8f43929&lt;br /&gt;d5930632-ada4-4adb-87b4-1d16989ac2e7&lt;br /&gt;9bd3ece7-d747-4d60-b393-b7455918cf24&lt;br /&gt;29f89e8b-4842-4738-9c26-094aeb07b59a&lt;/p&gt;</content>
   </entry>
 </feed>

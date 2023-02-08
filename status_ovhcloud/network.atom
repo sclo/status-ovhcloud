@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
   <title>Network &amp; Infrastructure Status - Incident History</title>
-  <updated>2023-02-08T23:39:10Z</updated>
+  <updated>2023-02-08T23:46:34Z</updated>
   <author>
     <name>Network &amp; Infrastructure</name>
   </author>
@@ -185,6 +185,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time &lt;/b&gt;: 22/02/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time &lt;/b&gt;: 22/02/2023 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact &lt;/b&gt;: Customers will be impacted depending on the number of ports and POPs used:&lt;br /&gt;     - OCC 1 port : About 1 hour traffic cut is expected&lt;br /&gt;     - OCC 2 ports : Minor traffic cut is expected (less than an hour).&lt;br /&gt;     - OCC 2x POP : No impact expected if BGP sessions has been configured&lt;br /&gt;&lt;b&gt;Service improvement  &lt;/b&gt;: As part of our continuous improvement policy and in order to have a homogeneous park for OVHcloud Connect, our teams will be doing an internal maintenance on a network equipment in the point of presence of Seattle.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/16069037</id>
+    <published>2023-02-21T23:30:00Z</published>
+    <updated>2023-02-08T23:46:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/qtrm6rv8g8ty"/>
+    <title>[London][OVHcloud Connect] - Load Balancer</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;01:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;23:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/02/2023 23:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2023 01:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Objective of maintenance is to standardise the network configuration of backbone equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:network.status-ovhcloud.com,2005:Incident/16068980</id>
     <published>2023-02-21T21:00:00Z</published>
     <updated>2023-02-08T23:39:10Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/f8pwpcqs8nf9"/>
     <title>[SBG3][Network] - Annual maintenance UPS 7T2</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;04:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/02/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Switching the ups to static bypass and battery discharge test.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be replacing a part on the power supply.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/16058360</id>
-    <published>2023-02-20T09:00:00Z</published>
-    <updated>2023-02-07T22:54:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/x4zhpl89fl36"/>
-    <title>[WAW1][Infrastructure] - Electrical works on W16B06</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/02/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2023 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance period on the W16B06 racks.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We will carry out the replacement of defective energy supply system equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

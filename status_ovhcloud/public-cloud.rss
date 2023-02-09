@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 09 Feb 2023 17:43:33 +0000</pubDate>
+    <pubDate>Thu, 09 Feb 2023 17:57:13 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -60,10 +60,19 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/m37j7hxgqwtl</guid>
     </item>
     <item>
+      <title>[GRA][Managed Private Registry] - Kube-proxy</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2023 13:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/02/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to following all last features deployed K8s services, we will migrate Kube-Proxy to a more performant implementation.&lt;/p&gt;      </description>
+      <pubDate>Thu, 09 Feb 2023 17:57:13 +0000</pubDate>
+      <maintenanceEndDate>Thu, 09 Feb 2023 16:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/r8xsvjrsb7tw</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/r8xsvjrsb7tw</guid>
+    </item>
+    <item>
       <title>[GRA/SBG/UK/DE/WAW/BHS][Cloud Databases] - Data Bases</title>
       <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2023 16H00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are not able to order services in private network. Already existing services are not impacted&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it&lt;/p&gt;      </description>
-      <pubDate>Thu, 09 Feb 2023 17:35:08 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;New Service impact :&lt;/b&gt;Customer might not be able to order services in private network. Already existing services are not impacted. Public network services are not impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2023 16H00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are not able to order services in private network. Already existing services are not impacted&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technicians are currently working on in order to fix it&lt;/p&gt;      </description>
+      <pubDate>Thu, 09 Feb 2023 17:55:17 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/t2n72pwys2d7</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/t2n72pwys2d7</guid>
     </item>
@@ -82,15 +91,6 @@
       <pubDate>Thu, 09 Feb 2023 14:05:05 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jqbsn5ghy52v</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jqbsn5ghy52v</guid>
-    </item>
-    <item>
-      <title>[GRA][Managed Private Registry] - Kube-proxy</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2023 13:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/02/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to following all last features deployed K8s services, we will migrate Kube-Proxy to a more performant implementation.&lt;/p&gt;      </description>
-      <pubDate>Thu, 09 Feb 2023 13:30:45 +0000</pubDate>
-      <maintenanceEndDate>Thu, 09 Feb 2023 16:30:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/r8xsvjrsb7tw</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/r8xsvjrsb7tw</guid>
     </item>
     <item>
       <title>[UK1][Workflow Management] - Mistral</title>

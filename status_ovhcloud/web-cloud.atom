@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-02-08T16:25:19Z</updated>
+  <updated>2023-02-10T23:11:47Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/16094900</id>
+    <published>2023-02-14T22:00:00Z</published>
+    <updated>2023-02-10T23:11:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/8rcw87v72h7r"/>
+    <title>[GRA1][WebHosting] - Cluster003 - filerz918</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;23:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/02/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unavailability of the filerz for around 30 minutes during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are going to migrate the filerz918 to keep our infrastructure up-to-date.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/16064404</id>
     <published>2023-02-08T16:25:19Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/qzvc1mwnr718"/>
     <title>[GRA/RBX/SBG][Network] - SSL connection</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to improve security protocol to access the infra. The goal is to improve our quality by getting a better notation regarding our SSL connection.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to improve security protocol to access the infra. The goal is to improve our quality by getting a better notation regarding our SSL connection.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/15907569</id>
-    <published>2023-01-24T20:29:08Z</published>
-    <updated>2023-01-24T20:29:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/61wzycfb8gjp"/>
-    <title>[ALL][VOIP] - CTI</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/01/2023 22:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/01/2023 20:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The reporting of events on the CTI (Computer Telephony Integration) was not working nominally .&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;&lt;b&gt;Current status :&lt;/b&gt;  Resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt;A network intervention is planned for 24/01/2023 at 20:00 UTC to fix the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/01/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The reporting of events on the CTI (Computer Telephony Integration) does not work nominally .&lt;br /&gt;Also, the line registration  works but the feedback for the customer may not work&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-13T20:58:32Z</updated>
+  <updated>2023-02-13T22:58:59Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rl27tk0dlbny"/>
     <title>[GRA][ManagedPrivateRegistry] - Registries version upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;23:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The registries will be set in read-only mode and the registries will be unavailable for a few minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16129004</id>
+    <published>2023-02-15T14:00:00Z</published>
+    <updated>2023-02-13T22:58:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/491bmsf43qdv"/>
+    <title>[BHS1A][Public cloud] - Migration uservice to Kubernetes</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None               &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Migrate the current Pcc microservice from standalone container host to Kubernetes infrastructure&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15867040</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0xz50ydcrrsg"/>
     <title>PCI - GRA1 - host673292</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host673292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;636e9bf7-df75-4749-b24e-58f15289107b&lt;br /&gt;fd76bd7b-bba9-4b5f-8a82-fcf189eb9fdf&lt;br /&gt;a0e16441-7999-4cea-b0ef-1afd97d0539d&lt;br /&gt;d160d6e6-0164-4837-948c-ab85d2e44459&lt;br /&gt;cebc1854-9984-4ddb-b80c-ebe9cfef2ce3&lt;br /&gt;06597e5d-37af-484a-8d32-17091b50070d&lt;br /&gt;a3a88158-409a-4f24-9007-e017e47fb95f&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16084631</id>
-    <published>2023-02-10T05:22:40Z</published>
-    <updated>2023-02-10T05:22:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dd9gjzxsmqsl"/>
-    <title>PCI - GRA5 - host1088316</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;04:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1088316&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;c73634e1-640e-40e2-9fbc-8ab335f7b817&lt;br /&gt;85872e3f-ee8b-42d6-9814-141d22c10a8a&lt;br /&gt;15cac69d-49cc-483e-89eb-3e42dd10b5bc&lt;br /&gt;81c2c330-ffff-4a22-8f5b-49bb8a9fb60d&lt;br /&gt;8a4591df-fa51-4ad5-899a-2c230d1cfd1e&lt;br /&gt;2250c2cc-7c17-4d23-ad3e-b1c206b26aa1&lt;br /&gt;922c1b07-c604-4f65-b434-5c88e379a182&lt;br /&gt;0c96143c-a7d3-4205-bfd4-ded780a514b8&lt;/p&gt;</content>
   </entry>
 </feed>

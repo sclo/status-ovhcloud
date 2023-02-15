@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 15 Feb 2023 14:00:07 +0000</pubDate>
+    <pubDate>Wed, 15 Feb 2023 14:09:04 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -94,6 +94,14 @@
       <maintenanceEndDate>Tue, 28 Feb 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/63dhwpxzgd0m</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/63dhwpxzgd0m</guid>
+    </item>
+    <item>
+      <title>PCI - BHS5 - host381218</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host381218&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;a871beb5-04b2-41cd-8bb2-c4546b382a3a&lt;/p&gt;      </description>
+      <pubDate>Wed, 15 Feb 2023 14:09:04 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/zdsncm37mcc9</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/zdsncm37mcc9</guid>
     </item>
     <item>
       <title>[BHS1A][Public cloud] - Migration uservice to Kubernetes</title>
@@ -208,15 +216,6 @@
       <pubDate>Mon, 13 Feb 2023 19:09:39 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/p9sjh61wgm7r</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/p9sjh61wgm7r</guid>
-    </item>
-    <item>
-      <title>[GRA][Containers &amp; Orchestration] - legacy Redis registries upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/02/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Garbage collection, replication and vulnerability scan will not be possible during the upgrade on legacy registries.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of the redis behind the registries.&lt;/p&gt;      </description>
-      <pubDate>Mon, 13 Feb 2023 14:37:43 +0000</pubDate>
-      <maintenanceEndDate>Mon, 13 Feb 2023 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/5r3xpfff1scf</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/5r3xpfff1scf</guid>
     </item>
   </channel>
 </rss>

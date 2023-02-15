@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 15 Feb 2023 10:46:02 +0000</pubDate>
+    <pubDate>Wed, 15 Feb 2023 11:08:32 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -105,21 +105,21 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/491bmsf43qdv</guid>
     </item>
     <item>
+      <title>[GRA][ManagedPrivateRegistry] - Registries version upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The registries will be set in read-only mode. They will also be unavailable for a few minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;      </description>
+      <pubDate>Wed, 15 Feb 2023 11:08:32 +0000</pubDate>
+      <maintenanceEndDate>Wed, 15 Feb 2023 11:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/m37j7hxgqwtl</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/m37j7hxgqwtl</guid>
+    </item>
+    <item>
       <title>PCI - UK1 - host1261767</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1261767&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;39d30bf9-17f7-4a6a-b348-7f87ae9baa52&lt;br /&gt;f359bcbd-e34b-4c3f-b959-92dfac1d4f0a&lt;br /&gt;9bbd500d-0bc8-4608-b3d3-ece020ed884e&lt;br /&gt;a1ece918-d6f9-4679-8fa9-5fdd926af7b5&lt;br /&gt;9c0320d7-248e-4c84-a17d-ef1783072ba7&lt;br /&gt;4249b4be-4b54-4f6a-8ac3-a98b2106af1e&lt;br /&gt;516c7f3a-5263-4b97-b4e4-cdcf626841a3&lt;br /&gt;8286ac78-233c-4e2f-bdf7-443fb05396b1&lt;br /&gt;b62d5a61-2ae1-482d-97c5-99acf2351370&lt;br /&gt;d0fa304a-c891-4408-aac7-96fd59887157&lt;br /&gt;d175952b-1e46-4502-b990-a506ba906529&lt;br /&gt;f674734f-8e2f-4427-a053-d361c8a5207b&lt;br /&gt;02d930d2-5aa3-460f-bba7-6b7ff780c607&lt;br /&gt;779053cd-793a-47fe-a0ae-c3c29c6efb9f&lt;br /&gt;1f69738c-5088-4151-ac83-1bf9da95263f&lt;br /&gt;27790bc6-c95c-4d41-9af0-94da8e76268b&lt;br /&gt;59a1ec74-9193-492a-b2f3-8c005bddf21d&lt;br /&gt;79eae6f8-ddce-4c0d-bf98-0bb6a7d12321&lt;br /&gt;b617ea73-b984-42bc-b03b-e5f7ed4be8be&lt;br /&gt;df7a0788-ea2f-4cd2-bccc-5c90ff9ddfa2&lt;br /&gt;03020fe7-4dd2-44ed-8a53-38a351aa9e2f&lt;br /&gt;0625cd75-b941-4384-90fb-e22c535bd58c&lt;br /&gt;bd0ed12c-cd44-4972-9c6c-14be7c89589c&lt;br /&gt;cdc02e0b-00e8-48d6-932d-5ce1be1dbaef&lt;br /&gt;f7d0580a-08af-4978-a451-4eec70820ab5&lt;br /&gt;aa363750-3e89-45c7-9090-b2ca287682a2&lt;/p&gt;      </description>
       <pubDate>Wed, 15 Feb 2023 10:46:02 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/16rk7k3h2133</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/16rk7k3h2133</guid>
-    </item>
-    <item>
-      <title>[GRA][ManagedPrivateRegistry] - Registries version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The registries will be set in read-only mode. They will also be unavailable for a few minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Feb 2023 07:00:02 +0000</pubDate>
-      <maintenanceEndDate>Wed, 15 Feb 2023 11:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/m37j7hxgqwtl</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/m37j7hxgqwtl</guid>
     </item>
     <item>
       <title>PCI - BHS5 - host449354</title>

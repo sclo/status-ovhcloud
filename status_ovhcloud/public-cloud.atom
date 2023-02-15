@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-15T18:05:06Z</updated>
+  <updated>2023-02-15T19:14:09Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/63dhwpxzgd0m"/>
     <title>[Global][Public cloud] Keystone migration (auth.cloud.ovh.net)</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The scope of the maintenance has been adjusted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;03:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During operations, the following action will not be available:&lt;br /&gt;• Creation of new EC2 credentials&lt;br /&gt;• Creation of new trust/projet/users/role assignment&lt;br /&gt;• Openstack password reset&lt;br /&gt;• Creation of new heat stack&lt;br /&gt;• Creation of new mistral cron trigger&lt;br /&gt;• Creation of the first data processing job of a public cloud project&lt;br /&gt;• Creation of the first k8s managed cluster of a public cloud project&lt;br /&gt;• Creation of the first AI model deployment of a public cloud project&lt;br /&gt;Note that all other actions, like token or openstack ressource creation will still be possible, and token issued before the migration will also work after.&lt;br /&gt;To ensure 0 downtime during the migration, beware to follow the DNS without cache.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Major upgrade of the Openstack Identity service. This will allow us to enable identity federation in the future.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16152445</id>
+    <published>2023-02-15T19:14:09Z</published>
+    <updated>2023-02-15T19:14:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/40tt7chkf8m5"/>
+    <title>PCI - GRA5 - host1373746</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1373746&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f1651435-7155-4971-a485-5edca5b28437&lt;br /&gt;59d65f5d-e076-4416-b110-b3ff92a36dfe&lt;br /&gt;2d78ec8a-ab79-4de1-9676-d9f51fbe1670&lt;br /&gt;6eed9584-b78d-412b-a093-4851b17f920d&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16148886</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rsr829hgkhfs"/>
     <title>PCI - GRA1 - host673292</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;07:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;07:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host673292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;636e9bf7-df75-4749-b24e-58f15289107b&lt;br /&gt;fd76bd7b-bba9-4b5f-8a82-fcf189eb9fdf&lt;br /&gt;a0e16441-7999-4cea-b0ef-1afd97d0539d&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16132734</id>
-    <published>2023-02-14T06:20:47Z</published>
-    <updated>2023-02-14T06:20:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bkthcjnwwggq"/>
-    <title>PCI - GRA1 - host673292</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;06:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;06:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host673292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;636e9bf7-df75-4749-b24e-58f15289107b&lt;br /&gt;fd76bd7b-bba9-4b5f-8a82-fcf189eb9fdf&lt;br /&gt;a0e16441-7999-4cea-b0ef-1afd97d0539d&lt;/p&gt;</content>
   </entry>
 </feed>

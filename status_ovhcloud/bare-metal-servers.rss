@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 14 Feb 2023 23:44:35 +0000</pubDate>
+    <pubDate>Wed, 15 Feb 2023 00:14:56 +0000</pubDate>
     <item>
       <title>[WAW1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -123,6 +123,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7m2tcrg4sxwq</guid>
     </item>
     <item>
+      <title>[WAW1/GRA1/RBX1/LIM1][Network] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Mar 2023 20:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 06 Mar 2023 23:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0jqy83cvgnh0</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0jqy83cvgnh0</guid>
+    </item>
+    <item>
       <title>[ERI1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/03/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
@@ -220,15 +229,6 @@
       <maintenanceEndDate>Thu, 23 Feb 2023 11:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f2ftjcdv276k</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f2ftjcdv276k</guid>
-    </item>
-    <item>
-      <title>[LIM3][DedicatedServers] - IPMI replacement - Rack LIM0312B03B</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/02/2023 05:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/02/2023 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI service will be unavailable during the maintenance time.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are replacing an equipment related to the IPMI service.&lt;/p&gt;      </description>
-      <pubDate>Thu, 23 Feb 2023 05:30:00 +0000</pubDate>
-      <maintenanceEndDate>Thu, 23 Feb 2023 06:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fy8xys6j11ty</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fy8xys6j11ty</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-15T21:05:04Z</updated>
+  <updated>2023-02-15T22:41:49Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -89,6 +89,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The scope of the maintenance has been adjusted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;03:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During operations, the following action will not be available:&lt;br /&gt;• Creation of new EC2 credentials&lt;br /&gt;• Creation of new trust/projet/users/role assignment&lt;br /&gt;• Openstack password reset&lt;br /&gt;• Creation of new heat stack&lt;br /&gt;• Creation of new mistral cron trigger&lt;br /&gt;• Creation of the first data processing job of a public cloud project&lt;br /&gt;• Creation of the first k8s managed cluster of a public cloud project&lt;br /&gt;• Creation of the first AI model deployment of a public cloud project&lt;br /&gt;Note that all other actions, like token or openstack ressource creation will still be possible, and token issued before the migration will also work after.&lt;br /&gt;To ensure 0 downtime during the migration, beware to follow the DNS without cache.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Major upgrade of the Openstack Identity service. This will allow us to enable identity federation in the future.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16129004</id>
+    <published>2023-02-15T22:41:49Z</published>
+    <updated>2023-02-15T22:41:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/491bmsf43qdv"/>
+    <title>[BHS1A][Public cloud] - Migration uservice to Kubernetes</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;22:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note the new maintenance end date: &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 23:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None               &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Migrate the current Pcc microservice from standalone container host to Kubernetes infrastructure&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16152445</id>
     <published>2023-02-15T21:05:04Z</published>
     <updated>2023-02-15T21:05:04Z</updated>
@@ -143,14 +151,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cxyqm42gf6yg"/>
     <title>PCI - GRA5 - host1071613</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1071613&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;7fcc8ce0-a1ab-4f0b-b7a5-f40c66827cb4&lt;br /&gt;5f1218b5-19bd-4c5f-92fd-cc101713397d&lt;br /&gt;6ca7799b-eec7-4248-87bb-713e8939a6ba&lt;br /&gt;314f2366-e9df-40fc-a849-0eeb4ca33daa&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16129004</id>
-    <published>2023-02-15T17:18:22Z</published>
-    <updated>2023-02-15T17:18:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/491bmsf43qdv"/>
-    <title>[BHS1A][Public cloud] - Migration uservice to Kubernetes</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note the new maintenance end date: &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 23:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None               &lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Migrate the current Pcc microservice from standalone container host to Kubernetes infrastructure&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16147163</id>

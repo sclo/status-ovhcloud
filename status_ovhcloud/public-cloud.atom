@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-27T14:05:03Z</updated>
+  <updated>2023-02-27T14:48:33Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The scope of the maintenance has been adjusted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;03:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During operations, the following action will not be available:&lt;br /&gt;• Creation of new EC2 credentials&lt;br /&gt;• Creation of new trust/projet/users/role assignment&lt;br /&gt;• Openstack password reset&lt;br /&gt;• Creation of new heat stack&lt;br /&gt;• Creation of new mistral cron trigger&lt;br /&gt;• Creation of the first data processing job of a public cloud project&lt;br /&gt;• Creation of the first k8s managed cluster of a public cloud project&lt;br /&gt;• Creation of the first AI model deployment of a public cloud project&lt;br /&gt;Note that all other actions, like token or openstack ressource creation will still be possible, and token issued before the migration will also work after.&lt;br /&gt;To ensure 0 downtime during the migration, beware to follow the DNS without cache.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Major upgrade of the Openstack Identity service. This will allow us to enable identity federation in the future.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16294147</id>
+    <published>2023-02-27T14:48:33Z</published>
+    <updated>2023-02-27T14:48:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6kk2dvrfxh42"/>
+    <title>[GRA1][Storgage] - CEPH unavailability</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/02/2023 14:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some CEPH cluster are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams need to shut down some CEPH cluster on to resolved an issue.&lt;br /&gt;An update will be post when the clusters are shut down.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16293621</id>
     <published>2023-02-27T14:05:03Z</published>
     <updated>2023-02-27T14:05:03Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kkbvw806mtsj"/>
     <title>PCI - GRA7 - host1135146</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1135146&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;6f1c17c9-dfd3-40ee-b9dc-45e18b928276&lt;br /&gt;4b9ba434-4c25-4c86-ba49-8a989e92108b&lt;br /&gt;f2f5ac70-0bee-49de-99d9-7f7cb6745b0d&lt;br /&gt;5e3383c9-64c8-4cbe-a067-87f049bdd9cc&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16264078</id>
-    <published>2023-02-24T08:28:47Z</published>
-    <updated>2023-02-24T08:30:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vch0qlggct2s"/>
-    <title>[GRA/UK][Object Storage] - PCS Standard and Object storage HighPerf</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/02/2023 22:30 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 22/02/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An abusive usage caused impact on our authentication component.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
 </feed>

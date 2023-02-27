@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 27 Feb 2023 14:05:03 +0000</pubDate>
+    <pubDate>Mon, 27 Feb 2023 14:48:33 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
       <description>
@@ -114,6 +114,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/63dhwpxzgd0m</guid>
     </item>
     <item>
+      <title>[GRA1][Storgage] - CEPH unavailability</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/02/2023 14:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some CEPH cluster are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams need to shut down some CEPH cluster on to resolved an issue.&lt;br /&gt;An update will be post when the clusters are shut down.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Feb 2023 14:48:33 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/6kk2dvrfxh42</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/6kk2dvrfxh42</guid>
+    </item>
+    <item>
       <title>PCI - GRA1 - host887974</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra-z1c54-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G127B25&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host887974&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;e28e7041-d59a-4d01-b9b0-d7d7c6f00f24&lt;/p&gt;      </description>
@@ -208,14 +216,6 @@
       <pubDate>Fri, 24 Feb 2023 08:29:55 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/kkbvw806mtsj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/kkbvw806mtsj</guid>
-    </item>
-    <item>
-      <title>[GRA/UK][Object Storage] - PCS Standard and Object storage HighPerf</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/02/2023 22:30 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 22/02/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An abusive usage caused impact on our authentication component.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Fri, 24 Feb 2023 08:28:47 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/vch0qlggct2s</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/vch0qlggct2s</guid>
     </item>
   </channel>
 </rss>

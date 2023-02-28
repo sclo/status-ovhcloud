@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
   <title>Network &amp; Infrastructure Status - Incident History</title>
-  <updated>2023-02-28T17:00:25Z</updated>
+  <updated>2023-02-28T17:41:52Z</updated>
   <author>
     <name>Network &amp; Infrastructure</name>
   </author>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/16307084</id>
+    <published>2023-09-05T06:30:00Z</published>
+    <updated>2023-02-28T17:41:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/v48zcj2ym2v0"/>
+    <title>[RBX2/RBX4][Infrastructure] - Electrical background work</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/09/2023 06:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/09/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some preventive electrical background work.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:network.status-ovhcloud.com,2005:Incident/15715790</id>
     <published>2023-06-20T06:30:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/mg9rzk2s1bfq"/>
     <title>[PAR][Network Services] - OVHcloud Connect</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time &lt;/b&gt;: 02/03/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time &lt;/b&gt;: 02/03/2023 23:30 UTC &lt;br /&gt;&lt;b&gt;Service impact &lt;/b&gt;: Customers will be impacted depending on the number of ports and POPs used:&lt;br /&gt;     - OCC 1 port : About 1 hour traffic cut is expected&lt;br /&gt;     - OCC 2 ports : Minor traffic cut is expected (less than an hour).&lt;br /&gt;     - OCC 2x POP : No impact expected if BGP sessions has been configured&lt;br /&gt;&lt;b&gt;Service improvement  &lt;/b&gt;: As part of our continuous improvement policy and in order to have a homogeneous park for OVHcloud Connect, our teams will be doing an internal maintenance on a network equipment in the point of presence of Paris.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/16229272</id>
-    <published>2023-03-02T12:00:00Z</published>
-    <updated>2023-02-22T02:03:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/zmvwqb6kz1vc"/>
-    <title>[BHS][Infrastructure] - Electric transformer T1</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;02:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/03/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  As part of our continuous improvement policy, we are going to implement of the electric transformer T1&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-02-28T21:43:43Z</updated>
+  <updated>2023-02-28T22:18:46Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -193,19 +193,19 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host16-a70&lt;br /&gt;gra2-pciz2host59-a70&lt;br /&gt;gra2-pciz2host60-a70&lt;br /&gt;gra2-pciz2host68-a70&lt;br /&gt;gra2-pciz2host117-a70&lt;br /&gt;gra-z1c12-a70&lt;br /&gt;gra-z1c14-a70&lt;br /&gt;gra-z1c17-a70&lt;br /&gt;gra-z1c35-a70&lt;br /&gt;gra-z1c38-a70&lt;br /&gt;gra-z1c61-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G133A10&lt;br /&gt;G133A12&lt;br /&gt;G133A15&lt;br /&gt;G134A15&lt;br /&gt;G134A16&lt;br /&gt;G205A01&lt;br /&gt;G205B23&lt;br /&gt;G212A11&lt;br /&gt;G254B05&lt;br /&gt;G254B06&lt;br /&gt;G264B11&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host723964&lt;br /&gt;host755881&lt;br /&gt;host907365&lt;br /&gt;host782051&lt;br /&gt;host893553&lt;br /&gt;host1067903&lt;br /&gt;host986217&lt;br /&gt;host1017865&lt;br /&gt;host1146601&lt;br /&gt;host1344257&lt;br /&gt;host1146843&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;In order to minimise your downtime, please hard reboot your instance from Nova API or Horizon dashboard before the maintenance window&lt;/p&gt;&lt;br /&gt;0c221f0d-2350-4c8e-b124-a45a3498c319&lt;br /&gt;0da25cef-193c-4211-bcfe-9a7286f503ae&lt;br /&gt;155047c1-2dc0-478d-b34b-a8f72d234ef1&lt;br /&gt;4c11072d-6289-4cfa-b6ea-421482c547e8&lt;br /&gt;51adac4b-7d04-4ec7-b6b3-b36fbedaed7c&lt;br /&gt;575653a0-9de7-477a-9249-f80f997f10df&lt;br /&gt;67963808-b3e2-49f7-bcb7-e73a696399a5&lt;br /&gt;931a457c-aa3f-4308-8f24-107ed8e9328a&lt;br /&gt;9648fe18-b87a-4e97-a261-6bce8b024323&lt;br /&gt;a08da76c-904c-442b-9559-821dde1078ea&lt;br /&gt;a816a199-4432-446c-a964-f2ffa863e855&lt;br /&gt;c9ad55b7-f40e-4653-86e9-8e9fa2c16160&lt;br /&gt;cafc07ae-aa7b-41bb-89b3-795cc71460a0&lt;br /&gt;d19b97c3-7e59-423e-b4c4-b0b2185f58dc&lt;br /&gt;dcd30f50-8fe6-41c0-9abd-744e0b5f4176&lt;br /&gt;e266f420-f8dc-43e3-bd12-be3017388fcd&lt;br /&gt;edd6f740-224b-4c5b-8a3c-c0a0b7216594&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16308924</id>
+    <published>2023-02-28T22:18:46Z</published>
+    <updated>2023-02-28T22:18:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ck365yfh1f1x"/>
+    <title>[GRA/UK/DE/WAW/SBG][Public Cloud] - Object Storage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase of error rate when accessing Object Storage&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/7zv3ystdf5f6&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16308675</id>
     <published>2023-02-28T21:42:20Z</published>
     <updated>2023-02-28T21:42:20Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7zv3ystdf5f6"/>
     <title>[Global][Public Cloud] - Control Panel Access</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some Public Cloud project can't be managed through control panel.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Horizon and APIs remain available.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307918</id>
-    <published>2023-02-28T21:05:03Z</published>
-    <updated>2023-02-28T21:05:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nqb8w2q63wgh"/>
-    <title>PCI - GRA5 - host945292</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host945292&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;67bd5447-4bab-458e-92f3-35e25c5b6deb&lt;br /&gt;5a931cef-4e6e-4624-adcd-58079b072f82&lt;br /&gt;f23fd125-3ca8-4f73-83fd-fdeb8e383a4f&lt;br /&gt;14d170d7-fe0b-45ad-b0bf-877c813c1be1&lt;/p&gt;</content>
   </entry>
 </feed>

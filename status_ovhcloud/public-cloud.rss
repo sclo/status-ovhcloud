@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 01 Mar 2023 14:19:57 +0000</pubDate>
+    <pubDate>Wed, 01 Mar 2023 14:39:47 +0000</pubDate>
     <item>
       <title>[SYD1][Network] - vRack Network equipment homogenization</title>
       <description>
@@ -195,6 +195,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/rzk0f2lc0nmc</guid>
     </item>
     <item>
+      <title>[SYD2][Public Cloud] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be upgrading the version of multiple network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be upgrading the version of multiple network equipment&lt;/p&gt;      </description>
+      <pubDate>Wed, 01 Mar 2023 14:39:47 +0000</pubDate>
+      <maintenanceEndDate>Wed, 01 Mar 2023 14:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/ptrp02v9kl4m</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/ptrp02v9kl4m</guid>
+    </item>
+    <item>
       <title>PCI - GRA7 - host1415211</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1415211&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;51cb4192-a57b-4c8f-be0c-4aee39ae4b4e&lt;/p&gt;      </description>
@@ -217,15 +226,6 @@
       <pubDate>Wed, 01 Mar 2023 13:20:06 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/wyhkxhqfr2ym</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/wyhkxhqfr2ym</guid>
-    </item>
-    <item>
-      <title>[GRA][ManagedPrivateRegistry] - Registries version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/03/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The registries will be set in read-only mode and the registries will be unavailable for a few minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;      </description>
-      <pubDate>Wed, 01 Mar 2023 13:01:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 01 Mar 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/rl27tk0dlbny</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/rl27tk0dlbny</guid>
     </item>
   </channel>
 </rss>

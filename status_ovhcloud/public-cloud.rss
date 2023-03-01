@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 01 Mar 2023 08:24:04 +0000</pubDate>
+    <pubDate>Wed, 01 Mar 2023 08:34:36 +0000</pubDate>
     <item>
       <title>[SYD1][Network] - vRack Network equipment homogenization</title>
       <description>
@@ -204,6 +204,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ptrp02v9kl4m</guid>
     </item>
     <item>
+      <title>[ALL][PublicCloud][ManagedKubernetesService] - Delivery slowness or temporarily not working</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2023 23:30UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Keystone migration&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The root cause has been identified.&lt;br /&gt;&lt;b&gt;Related Page :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/63dhwpxzgd0m&quot;&gt;[Global][Public cloud] Keystone migration (auth.cloud.ovh.net)&lt;/a&gt;&lt;br /&gt;Our technical teams continue to work on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delivery of managed cluster and all associated resources is not working for all new Public cloud tenant.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 01 Mar 2023 08:34:36 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/0khhsh06ww8w</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/0khhsh06ww8w</guid>
+    </item>
+    <item>
       <title>PCI - GRA7 - host1415211</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host107-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G263B12&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1415211&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;51cb4192-a57b-4c8f-be0c-4aee39ae4b4e&lt;/p&gt;      </description>
@@ -219,14 +227,6 @@
       <maintenanceEndDate>Wed, 01 Mar 2023 18:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/z9356fyz8nh1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/z9356fyz8nh1</guid>
-    </item>
-    <item>
-      <title>[GRA][Data and Analytics] - Data processing</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 28/02/2023 22:58 UTC&lt;br /&gt;&lt;b&gt;Impacted service :&lt;/b&gt; Data processing services was down.&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/ck365yfh1f1x&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to a load increase on the GRA clusters.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Tue, 28 Feb 2023 23:11:33 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/761s2441gswl</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/761s2441gswl</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-03-02T14:49:01Z</updated>
+  <updated>2023-03-02T14:57:08Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -177,6 +177,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;17:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/03/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be upgrading the version of multiple network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16324501</id>
+    <published>2023-03-02T14:57:08Z</published>
+    <updated>2023-03-02T14:57:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/r3sg0ggfhf88"/>
+    <title>PCI - GRA1 - host646890</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host646890&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0bf7ad06-403c-4799-b6df-16334fee50ee&lt;br /&gt;b3b4f1b5-fd58-4b83-a2cf-bbcae6cba4e9&lt;br /&gt;a6a9d25d-7f6a-4864-b701-d23653987d46&lt;br /&gt;38419b23-e462-422a-97fb-3a542662dd53&lt;br /&gt;a1c8f450-3373-43b9-99ef-77e768cca505&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16324484</id>
+    <published>2023-03-02T14:55:02Z</published>
+    <updated>2023-03-02T14:55:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/qt0gt5cf1q4j"/>
+    <title>PCI - GRA3 - host1395687</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1395687&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;39a9f6f5-bfda-4e85-b483-b18542007fa4&lt;br /&gt;48b6d256-3d87-4cdd-89e1-bd837af35ca0&lt;br /&gt;6c7aecf5-ba64-4d20-b2f6-68c6c6023832&lt;br /&gt;31180fbb-1cca-4f96-a088-80f881ebba0b&lt;br /&gt;62fa3dc1-5447-48c6-9e56-201f8ddd4ab5&lt;br /&gt;f8ddf7d0-3239-48c9-b308-715e80e33fc5&lt;br /&gt;2b932457-eb4d-42cc-92da-824916709c49&lt;br /&gt;5f45f705-d3a3-4b86-ac44-ecc43a51d330&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16324390</id>
     <published>2023-03-02T14:42:14Z</published>
     <updated>2023-03-02T14:42:14Z</updated>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j8tpdrj0vblk"/>
     <title>PCI - GRA1 - host646910</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host646910&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;c6e5e1c8-a062-4bcb-8e3e-653d6995582d&lt;br /&gt;0e8ba5f3-38b7-47e3-8c7e-8daa73d9f76c&lt;br /&gt;97f55f0f-c4cb-415f-b785-37d8bd8ea33b&lt;br /&gt;3124a2a8-2dc6-43e6-b993-6ad9302c282a&lt;br /&gt;77ac2e5b-fd20-472e-937a-bcb9326a8054&lt;br /&gt;24d7a4e7-932c-4f70-be56-9e9ebf3dc19e&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16324382</id>
-    <published>2023-03-02T14:41:36Z</published>
-    <updated>2023-03-02T14:41:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cbsqmpdspywd"/>
-    <title>PCI - GRA1 - host646896</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host646896&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;eaa2496f-67c0-4bf6-bb08-09f80e5c38b0&lt;br /&gt;1dc52d82-2fa7-45a0-a15e-5ee31500fe8b&lt;br /&gt;8d7962a2-da61-490e-abff-8d131f6f5ca2&lt;br /&gt;d2f2601c-fff6-432c-81a6-8c97b4f89fb3&lt;br /&gt;c0f19fea-5f90-4b8e-8eb0-5f3e6251d18d&lt;br /&gt;1a6e7319-3e2c-4d59-b96d-3be325fb22bb&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16324377</id>
-    <published>2023-03-02T14:41:34Z</published>
-    <updated>2023-03-02T14:41:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bzkqx9dyxcty"/>
-    <title>PCI - GRA1 - host646894</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host646894&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;3a0815ef-ae61-4b56-a7f3-54607284f25c&lt;br /&gt;84b1f7e2-b8d6-4799-95b9-4cd301fdd857&lt;br /&gt;4ccd1b9a-57c6-4e72-be68-e7f27275d0d1&lt;br /&gt;e3abb4c0-82d5-4cbb-be96-e23e5337bf74&lt;br /&gt;9601f5f8-14d2-40df-8348-ec8e4e5a0a6a&lt;/p&gt;</content>
   </entry>
 </feed>

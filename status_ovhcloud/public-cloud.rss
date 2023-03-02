@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 02 Mar 2023 16:29:20 +0000</pubDate>
+    <pubDate>Thu, 02 Mar 2023 16:43:39 +0000</pubDate>
     <item>
       <title>[SYD1][Network] - vRack Network equipment homogenization</title>
       <description>
@@ -195,6 +195,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/kj1284bnpf3v</guid>
     </item>
     <item>
+      <title>PCI - GRA1 - host1051631</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1051631&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;1109ab34-450e-4c3a-b8ce-f1eccabdee41&lt;br /&gt;49d09024-4835-41dc-9a53-01ecbf1f7a27&lt;br /&gt;2d0515b0-5736-4d00-8d82-920def4068dd&lt;br /&gt;8c85648f-031c-4e44-b452-02277094e373&lt;br /&gt;cf46d93a-019e-46e2-bba3-ad330cf7e458&lt;br /&gt;afab5c4c-388c-4143-ab67-0d4e0d64b4ed&lt;br /&gt;5fdaa52b-6ca2-4bee-ba66-2517a7a8a984&lt;br /&gt;f29f5dc1-14cd-49d7-a18f-9a4cc63882bd&lt;/p&gt;      </description>
+      <pubDate>Thu, 02 Mar 2023 16:43:39 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/h1snzqsnb1s0</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/h1snzqsnb1s0</guid>
+    </item>
+    <item>
       <title>[ALL][Public Cloud][Managed Kubernetes Service] - Cluster deletion requests return error</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/02/28 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2023/03/02 14:30 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A malfunction was observed on the keystone update.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A patch has been applied with success. Our technicians are in the process of verifying the proper functioning of the product.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - After identifying the root cause, our teams are working on the repair. We will make an update when progress has been made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams have discovered that a cluster reset may not work. They continue to work to resolve this issue.&lt;br /&gt;Update will be published when significant update are made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Existing clusters are impacted if the customer requests a deletion.&lt;br /&gt;Cluster creation is operational again&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Existing clusters are not impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/02/28 06:00 AM UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All Managed Kubernetes Service deletion requests return are not operational at the moment and the service will be marked as ERROR in the OVHcloud control plane and information displays by the APIv6 endpoints. Resources will be deleted by our team once the root cause detected and patch.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;Our technicians are currently working on in order to fix it&lt;/p&gt;      </description>
@@ -217,14 +225,6 @@
       <pubDate>Thu, 02 Mar 2023 15:43:07 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7jx4w5r403xp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7jx4w5r403xp</guid>
-    </item>
-    <item>
-      <title>PCI - GRA3 - host1044828</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1044828&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;da493943-9644-49a9-8266-dc34ffd4897b&lt;br /&gt;5f473c30-5394-4eef-ac88-79c3611a7cf2&lt;br /&gt;1cc39bdc-8abe-42dd-869c-8ae81f49c1e9&lt;br /&gt;b8b2eb65-09c9-494f-a5f2-d740531cb144&lt;br /&gt;bddba71a-f5ea-42ba-b81d-d3b9ff8b152f&lt;br /&gt;fc4a8557-b790-442c-ae5e-a76d504a44b2&lt;/p&gt;      </description>
-      <pubDate>Thu, 02 Mar 2023 15:41:50 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/9zdhwdmz468k</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/9zdhwdmz468k</guid>
     </item>
   </channel>
 </rss>

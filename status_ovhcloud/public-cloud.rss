@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 08 Mar 2023 10:18:31 +0000</pubDate>
+    <pubDate>Wed, 08 Mar 2023 10:29:35 +0000</pubDate>
     <item>
       <title>[SYD1][Network] - vRack Network equipment homogenization</title>
       <description>
@@ -168,21 +168,21 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lgml9nz9lc81</guid>
     </item>
     <item>
+      <title>PCI - GRA1 GRA5 - 5 hosts</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host61-a70&lt;br /&gt;gra2-pciz2host63-a70&lt;br /&gt;gra-z1c4-a70&lt;br /&gt;gra-z1c27-a70&lt;br /&gt;gra-z1c35-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G133A02&lt;br /&gt;G134A07&lt;br /&gt;G134A15&lt;br /&gt;G254B07&lt;br /&gt;G254B09&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host650653&lt;br /&gt;host770201&lt;br /&gt;host782030&lt;br /&gt;host1157738&lt;br /&gt;host1159900&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;In order to minimise your downtime, please hard reboot your instance from Nova API or Horizon dashboard before the maintenance window&lt;/p&gt;&lt;br /&gt;0bcf4119-926f-49e6-8de2-40cc0a28b755&lt;br /&gt;17217d30-7201-482a-aef4-4a007fef109e&lt;br /&gt;1a215d25-fca5-42fc-8d20-2d11cf3ced7c&lt;br /&gt;843b2b5d-89f2-4dfb-aca9-a097e50fcc50&lt;br /&gt;9025c4b0-e155-4945-941d-57225d4ca7fc&lt;br /&gt;ad169c99-c2a1-4e09-8664-f33ff1c3d8f7&lt;br /&gt;b1de89fb-54dc-4a2d-9f6c-492e645da2a0&lt;br /&gt;dac92329-795d-4ee1-9132-9fa48864da49&lt;br /&gt;e3ac86f9-b257-43c0-9609-6e28393d9fdc&lt;br /&gt;e4e2e407-60a6-4fe7-ba89-bf690654071a&lt;/p&gt;      </description>
+      <pubDate>Wed, 08 Mar 2023 10:29:35 +0000</pubDate>
+      <maintenanceEndDate>Wed, 08 Mar 2023 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/3hmpw1v8h7ct</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/3hmpw1v8h7ct</guid>
+    </item>
+    <item>
       <title>[GRA][PublicCloud] Token creation slowness</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/03/2023 09:27 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness when issuing new token in PCI GRA regions.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on resolving the issue.&lt;br /&gt;Update will post as significant progress.&lt;/p&gt;      </description>
       <pubDate>Wed, 08 Mar 2023 10:18:31 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/n3lnrfz69ql2</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/n3lnrfz69ql2</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 GRA5 - 5 hosts</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host61-a70&lt;br /&gt;gra2-pciz2host63-a70&lt;br /&gt;gra-z1c4-a70&lt;br /&gt;gra-z1c27-a70&lt;br /&gt;gra-z1c35-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G133A02&lt;br /&gt;G134A07&lt;br /&gt;G134A15&lt;br /&gt;G254B07&lt;br /&gt;G254B09&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host650653&lt;br /&gt;host770201&lt;br /&gt;host782030&lt;br /&gt;host1157738&lt;br /&gt;host1159900&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;In order to minimise your downtime, please hard reboot your instance from Nova API or Horizon dashboard before the maintenance window&lt;/p&gt;&lt;br /&gt;0bcf4119-926f-49e6-8de2-40cc0a28b755&lt;br /&gt;17217d30-7201-482a-aef4-4a007fef109e&lt;br /&gt;1a215d25-fca5-42fc-8d20-2d11cf3ced7c&lt;br /&gt;843b2b5d-89f2-4dfb-aca9-a097e50fcc50&lt;br /&gt;9025c4b0-e155-4945-941d-57225d4ca7fc&lt;br /&gt;ad169c99-c2a1-4e09-8664-f33ff1c3d8f7&lt;br /&gt;b1de89fb-54dc-4a2d-9f6c-492e645da2a0&lt;br /&gt;dac92329-795d-4ee1-9132-9fa48864da49&lt;br /&gt;e3ac86f9-b257-43c0-9609-6e28393d9fdc&lt;br /&gt;e4e2e407-60a6-4fe7-ba89-bf690654071a&lt;/p&gt;      </description>
-      <pubDate>Wed, 08 Mar 2023 09:50:15 +0000</pubDate>
-      <maintenanceEndDate>Wed, 08 Mar 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/3hmpw1v8h7ct</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/3hmpw1v8h7ct</guid>
     </item>
     <item>
       <title>PCI - SBG5 - host1041110</title>

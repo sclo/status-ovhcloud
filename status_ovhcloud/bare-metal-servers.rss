@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 09 Mar 2023 01:09:07 +0000</pubDate>
+    <pubDate>Thu, 09 Mar 2023 03:49:06 +0000</pubDate>
     <item>
       <title>[BHS8][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -204,21 +204,21 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hd88f3xsltvw</guid>
     </item>
     <item>
+      <title>[RBX8][Dedicated Servers] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/03/2023 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Thu, 09 Mar 2023 03:49:06 +0000</pubDate>
+      <maintenanceEndDate>Thu, 09 Mar 2023 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/2g7dmh9dy0m6</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/2g7dmh9dy0m6</guid>
+    </item>
+    <item>
       <title>VPS - UK2 - host1437031</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437031&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;13a79ea3-9aea-4874-99f8-962cd85afc5e&lt;br /&gt;314510fa-67c7-4443-b832-dd37bcad3835&lt;br /&gt;5ef71739-8a7e-46eb-8b00-948507e8c0fc&lt;br /&gt;bc597078-b7ec-4069-9c33-bdabac4f0514&lt;br /&gt;7600fcf1-18af-4cd5-bdd2-e84aac1ca32a&lt;br /&gt;013cf34e-24b2-4200-bcad-03a6198e7662&lt;br /&gt;7afe3849-6fa0-4b0a-8ad7-9c4ad002abfb&lt;br /&gt;924c19b6-4d13-4cbd-bc34-26967901640c&lt;br /&gt;3dd6e3c8-9902-4bba-8698-ceb13a0a1260&lt;br /&gt;f01a41ee-9597-4005-b88e-5eca8072422d&lt;br /&gt;badcc495-5ebd-4329-be2d-15753f5f7c75&lt;br /&gt;cc14e5b9-a6df-4985-9590-5287d16202a2&lt;br /&gt;3929399b-963b-4570-96df-c3760c258554&lt;br /&gt;082a4962-34ee-43fb-8c56-b96a19c08329&lt;br /&gt;a8516395-a928-4868-8157-792a8313c328&lt;br /&gt;e96fcb89-4c38-447b-afa9-eddd579825a9&lt;br /&gt;60d02895-6b2c-4c33-8d7b-2d71bfe60365&lt;br /&gt;dfc5695f-9c2b-4e8e-b328-36d11b4bc632&lt;br /&gt;5d9552f1-ac20-4adf-80d8-befd5b004178&lt;br /&gt;3ca1f884-1dba-4089-b580-5e7871f42cf8&lt;br /&gt;9e262f2b-da45-46af-a118-f3fe1686fe3b&lt;br /&gt;170277ea-3b80-4132-813f-1388c4fa8d0a&lt;br /&gt;2185ce15-9198-440a-ba46-1a2e3a786101&lt;br /&gt;288f0429-7317-480b-becf-d0e98289d9d5&lt;br /&gt;afaeadc5-1ce3-40db-ac09-cbd5eda86fb2&lt;br /&gt;ec19861c-8f3f-4137-84d2-204504eb6d6a&lt;br /&gt;693977ce-690e-40f2-a5c1-ebaadcb40312&lt;br /&gt;c896f742-7564-4fc3-b1d2-0a539478cecd&lt;br /&gt;ed5aa7d8-3721-4938-b324-e72a92fe5a1a&lt;br /&gt;6cb872c4-9a7b-40cd-bf3e-37152e794db9&lt;br /&gt;8ce4c819-6916-45a2-80e4-e6e4d0e0b0ce&lt;/p&gt;      </description>
       <pubDate>Thu, 09 Mar 2023 01:09:07 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/m39hhxw460s7</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/m39hhxw460s7</guid>
-    </item>
-    <item>
-      <title>[RBX8][Dedicated Servers] - Network equipment version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/03/2023 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
-      <pubDate>Thu, 09 Mar 2023 01:00:00 +0000</pubDate>
-      <maintenanceEndDate>Thu, 09 Mar 2023 05:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/2g7dmh9dy0m6</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/2g7dmh9dy0m6</guid>
     </item>
     <item>
       <title>[LIM1/GRA1/RBX1/RBX8][Network] - Network equipment version upgrade</title>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 15 Mar 2023 10:52:01 +0000</pubDate>
+    <pubDate>Wed, 15 Mar 2023 11:12:30 +0000</pubDate>
     <item>
       <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
       <description>
@@ -141,6 +141,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lsb0llvp2dbl</guid>
     </item>
     <item>
+      <title>[EU/CA][LogsDataPlatform] - TLS 1.3 by default</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note the new maintenance start date: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/03/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/03/2023 14:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/03/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/03/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None, except if you do not support TLS 1.3.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Following our continuous improvement policy, we will be doing an internal maintenance to enable TLS 1.3 by default on Logs Data Platform.&lt;br /&gt;&lt;br /&gt;The cipher suites supported after this maintenance will be :&lt;br /&gt;&lt;tt&gt;* TLS 1.2 Cipher Suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;     The server accepted the following 3 cipher suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256       256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384             256       ECDH: prime256v1 (256 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256             128       ECDH: prime256v1 (256 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt; * TLS 1.3 Cipher Suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_CHACHA20_POLY1305_SHA256                      256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_AES_256_GCM_SHA384                            256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_AES_128_GCM_SHA256                            128       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;/p&gt;      </description>
+      <pubDate>Thu, 16 Mar 2023 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 16 Mar 2023 14:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</guid>
+    </item>
+    <item>
       <title>[Global][Databases] - MongoDB upgrade</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Some &quot;Essential&quot; plan services with the maintenance scheduled on March 13 faced issue during their migration. For these services, we restored the data from the latest backup done (in average one hour before the application of the maintenance).&lt;br /&gt;Services initially planed to be migrated on March 14 will be rescheduled on the following days.&lt;br /&gt;Sorry for the inconvenience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/03/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for business and enterprise plans, a small downtime may be experienced for essential plans (less than 15mn).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of our MongoDB offer.&lt;/p&gt;      </description>
@@ -148,15 +157,6 @@
       <maintenanceEndDate>Sun, 26 Mar 2023 09:40:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4wbsn6c6ys85</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4wbsn6c6ys85</guid>
-    </item>
-    <item>
-      <title>[EU/CA][LogsDataPlatform] - TLS 1.3 by default</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/03/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/03/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None, except if you do not support TLS 1.3.&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; Following our continuous improvement policy, we will be doing an internal maintenance to enable TLS 1.3 by default on Logs Data Platform.&lt;br /&gt;&lt;br /&gt;The cipher suites supported after this maintenance will be :&lt;br /&gt;&lt;tt&gt;* TLS 1.2 Cipher Suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;     The server accepted the following 3 cipher suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256       256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384             256       ECDH: prime256v1 (256 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256             128       ECDH: prime256v1 (256 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt; * TLS 1.3 Cipher Suites:&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_CHACHA20_POLY1305_SHA256                      256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_AES_256_GCM_SHA384                            256       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;br /&gt;&lt;tt&gt;        TLS_AES_128_GCM_SHA256                            128       ECDH: X25519 (253 bits)&lt;/tt&gt;&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Mar 2023 13:00:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 15 Mar 2023 14:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</guid>
     </item>
     <item>
       <title>PCI - GRA3 - host770185</title>

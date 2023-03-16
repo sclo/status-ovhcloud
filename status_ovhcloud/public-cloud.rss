@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 16 Mar 2023 03:20:06 +0000</pubDate>
+    <pubDate>Thu, 16 Mar 2023 03:40:37 +0000</pubDate>
     <item>
       <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Tue, 09 May 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/rslskky2xmxw</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/rslskky2xmxw</guid>
+    </item>
+    <item>
+      <title>[US-EAST-VA-2][Workflow Management] - Mistral</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of US-EAST-VA-2 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;      </description>
+      <pubDate>Thu, 20 Apr 2023 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 20 Apr 2023 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/4pymmcgq4z1j</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/4pymmcgq4z1j</guid>
     </item>
     <item>
       <title>[GRA6][Workflow Management] - Mistral</title>
@@ -220,15 +229,6 @@
       <maintenanceEndDate>Thu, 16 Mar 2023 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/f4027065nd9y</guid>
-    </item>
-    <item>
-      <title>[Global][Databases] - MongoDB upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Some &quot;Essential&quot; plan services with the maintenance scheduled on March 13 faced issue during their migration. For these services, we restored the data from the latest backup done (in average one hour before the application of the maintenance).&lt;br /&gt;Services initially planed to be migrated on March 14 will be rescheduled on the following days.&lt;br /&gt;Sorry for the inconvenience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/03/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for business and enterprise plans, a small downtime may be experienced for essential plans (less than 15mn).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of our MongoDB offer.&lt;/p&gt;      </description>
-      <pubDate>Mon, 13 Mar 2023 13:19:23 +0000</pubDate>
-      <maintenanceEndDate>Sun, 26 Mar 2023 09:40:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/4wbsn6c6ys85</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/4wbsn6c6ys85</guid>
     </item>
   </channel>
 </rss>

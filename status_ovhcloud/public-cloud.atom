@@ -1,213 +1,211 @@
-
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- force IE browsers in compatibility mode to use their most aggressive rendering engine -->
-
-    <meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"bc12d0ca7c","applicationID":"5568624,5587075","transactionName":"IlgMRUFXWFhWEE5XRQ5ZFm5VWVddXQVOVEUTWBBuBggH","queueTime":0,"applicationTime":20,"agent":""}</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-    
-    <meta name="google-site-verification" content="zkGmv5KaIk6MSXZKto5vTWO-I_eOv8Is1Tm5MwjDqhY" />
-
-    <title>Error 503 - Blast the tumbeasts!</title>
-
-    <!-- Mobile viewport optimization h5bp.com/ad -->
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-
-
-    <meta name="google-site-verification" content="zkGmv5KaIk6MSXZKto5vTWO-I_eOv8Is1Tm5MwjDqhY">
-
-    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
-    <meta http-equiv="cleartype" content="on">
-
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-    <script type="text/javascript">
-      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-        analytics.load("yrl223ypcgqwe36mpxlc");
-        analytics.page();
-
-      }}();
-
-      analytics.ready(function() {
-        if (window.location.href.indexOf('manage.') == -1 && true) {
-          olark('api.box.show');
-        } else {
-          olark('api.box.hide');
-        }
-      });
-
-    </script>
-
-
-
-
-    <link rel="shortcut icon" type="image/x-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png" />
-    <link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-57x57-precomposed-5c491f48c00b91d5cf8b0839521a13b98ba3cd2167c5e0e53040ccf401227556.png" sizes="57x57">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-72x72-precomposed-94327076268b47cc7da838952f5e89a5ed9dcdde2734db231491e328d23e9962.png" sizes="72x72">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-114x114-precomposed-1e9664e05d1a3dc5cd67ee3b3c17215526a04a3b0a2e018bd26c5fa73482392f.png" sizes="114x114">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-120x120-precomposed-5d71ac87ecfc852fef52505af1eade3674709a530e7ed2ddb3ff44ab62db52f7.png" sizes="120x120">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-144x144-precomposed-f140e6b87ce676b2388742ebce8292476ba938f73a49c4c15e86565a224bb93d.png" sizes="144x144">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-152x152-precomposed-38fe2c387837f45dfab255be5670c7b3aad29cf6dbc5b8e4cdce30f61259b9ce.png" sizes="152x152">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-167x167-precomposed-b776218c8fb96a430158776d0749c2f81143c94f40c4427e53e32e4c786c87c0.png" sizes="167x167">
-<link rel="apple-touch-icon" href="https://dka575ofm4ao0.cloudfront.net/assets/base/apple-touch-icon-180x180-precomposed-8819023509ff72c1f8945709243c9bab8b40c9bac0eb7891ad75b36600c7c7f9.png" sizes="180x180">
-
-    <meta name="stripe-key" content="pk_nJqsBQM6Nzl9uHnxbmYlJ85IXM3k8" />
-    <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="MaQlI8Id+nTRF00AqtleoSLv4hcD4QIOk/+t+Wf6Mk04zzfBcTEBVvaogbP1weDAq82lKlBnm6mBwa5zwqEnDw==" />
-
-    <!-- Le fonts -->
-<style>
-  @font-face {
-    font-family: 'proxima-nova';
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaLight-f0b2f7c12b6b87c65c02d3c1738047ea67a7607fd767056d8a2964cc6a2393f7.eot?host=manage.statuspage.io');
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaLight-f0b2f7c12b6b87c65c02d3c1738047ea67a7607fd767056d8a2964cc6a2393f7.eot?host=manage.statuspage.io#iefix') format('embedded-opentype'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaLight-e642ffe82005c6208632538a557e7f5dccb835c0303b06f17f55ccf567907241.woff?host=manage.statuspage.io') format('woff'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaLight-0f094da9b301d03292f97db5544142a16f9f2ddf50af91d44753d9310c194c5f.ttf?host=manage.statuspage.io') format('truetype');
-    font-weight:300;
-    font-style:normal;
-  }
-   
-  @font-face {
-    font-family: 'proxima-nova';
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegular-366d17769d864aa72f27defaddf591e460a1de4984bb24dacea57a9fc1d14878.eot?host=manage.statuspage.io');
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegular-366d17769d864aa72f27defaddf591e460a1de4984bb24dacea57a9fc1d14878.eot?host=manage.statuspage.io#iefix') format('embedded-opentype'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegular-2ee4c449a9ed716f1d88207bd1094e21b69e2818b5cd36b28ad809dc1924ec54.woff?host=manage.statuspage.io') format('woff'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegular-a40a469edbd27b65b845b8000d47445a17def8ba677f4eb836ad1808f7495173.ttf?host=manage.statuspage.io') format('truetype');
-    font-weight:400;
-    font-style:normal;
-  }
-   
-  @font-face {
-    font-family: 'proxima-nova';
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegularIt-0bf83a850b45e4ccda15bd04691e3c47ae84fec3588363b53618bd275a98cbb7.eot?host=manage.statuspage.io');
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegularIt-0bf83a850b45e4ccda15bd04691e3c47ae84fec3588363b53618bd275a98cbb7.eot?host=manage.statuspage.io#iefix') format('embedded-opentype'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegularIt-0c394ec7a111aa7928ea470ec0a67c44ebdaa0f93d1c3341abb69656cc26cbdd.woff?host=manage.statuspage.io') format('woff'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaRegularIt-9e43859f8015a4d47d9eaf7bafe8d1e26e3298795ce1f4cdb0be0479b8a4605e.ttf?host=manage.statuspage.io') format('truetype');
-    font-weight:400;
-    font-style:italic;
-  }
-   
-  @font-face {
-    font-family: 'proxima-nova';
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaSemibold-09566917307251d22021a3f91fc646f3e45f8d095209bcd2cded8a1979f06e54.eot?host=manage.statuspage.io');
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaSemibold-09566917307251d22021a3f91fc646f3e45f8d095209bcd2cded8a1979f06e54.eot?host=manage.statuspage.io#iefix') format('embedded-opentype'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaSemibold-86724fb2152613d735ba47c3f47a9ad2424b898bea4bece213dacee40344f966.woff?host=manage.statuspage.io') format('woff'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaSemibold-cf3e4eb7fbdf6fb83e526cc2a0141e55b01097e6e1abfd4cbdc3eda75d183f74.ttf?host=manage.statuspage.io') format('truetype');
-    font-weight:500;
-    font-style:normal;
-  }
-   
-  @font-face {
-    font-family: 'proxima-nova';
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaBold-622ea489d20e12e691663f83217105e957e2d3d09703707d40155a29c06cc9d9.eot?host=manage.statuspage.io');
-    src: url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaBold-622ea489d20e12e691663f83217105e957e2d3d09703707d40155a29c06cc9d9.eot?host=manage.statuspage.io#iefix') format('embedded-opentype'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaBold-c8dc577ff7f76d2fc199843e38c04bb2e9fd15889421358d966a9f846c2ed1cd.woff?host=manage.statuspage.io') format('woff'),
-         url('https://dka575ofm4ao0.cloudfront.net/assets/ProximaNovaBold-27177fe9242acbe089276ee587feef781446667ffe9b6fdc5b7fe21ad73e12f3.ttf?host=manage.statuspage.io') format('truetype');
-    font-weight:700;
-    font-style:normal;
-  }
-</style>
-
-
-    <!-- Le styles -->
-
-    <link rel="stylesheet" media="screen" href="https://dka575ofm4ao0.cloudfront.net/packs/0.04c5d678cb5f523ad012.css" /><link rel="stylesheet" media="screen" href="https://dka575ofm4ao0.cloudfront.net/packs/19.04c5d678cb5f523ad012.css" />
-    <link rel="stylesheet" media="all" href="https://dka575ofm4ao0.cloudfront.net/assets/statlastrap/application-bd50c9357bfe5415d36fb969437a7f707ef3be5ccc149ee72573970cbe8095ef.css" />
-
-
-    
-  </head>
-
-  <body class="minimal error_503">
-
-      <div class="layout-content minimal">
-      <a class="sp-logo logo" href="https://www.statuspage.io"><img src="https://dka575ofm4ao0.cloudfront.net/assets/logos/statuspage-wordmark-dccea2371ab14ccf7f2ee8e3d06dd1fb4ab893611cb5eeba2c10f9caa59533a0.svg" /></a>
-    
-    
-<div class="content error error-404">
-  <center style="margin-bottom:75px;">
-    <img src="https://dka575ofm4ao0.cloudfront.net/assets/error/error_window-ae8b9fa39785dc567cf992fad146d8c33377026c21f23c54926667362120ad46.svg" />
-  </center>
-  <h4>Server not responding</h4>
-  <p>
-    The server gremlins strike again....those traps must not be working. Check back in a couple minute(s) to see if the problem resolves itself, otherwise check below for system status information.
-  </p>
-
-  <h5>Statuspage system status</h5>
-  <p>
-    <strong><span id="official-system-status"></span></strong><br>
-  </p>
-</div>
-
-    
-
-      <img class="atlassian-logo logo" src="https://dka575ofm4ao0.cloudfront.net/assets/logos/atlassian-4d8650ac43be3655b2e368fe0dcc872bd86b2e9be019c80f56c4d9069cf1ff09.svg" width="150" height="19" />
-  </div>
-
-
-    <script src="https://dka575ofm4ao0.cloudfront.net/assets/application-67c2a7616894f034f3e1aa5985acfa2bfefc093e5868a4f833ee7764dd49db24.js"></script>
-
-    
-
-
-<!-- FOR FLASH NOTICES -->
-
-
-
-<!-- FOR ERROR -->
-
-
-
-
-
-
-
-    
-  <script src="https://dka575ofm4ao0.cloudfront.net/packs/common-86e49d04a06d70253838.chunk.js"></script>
-  <script src="https://dka575ofm4ao0.cloudfront.net/packs/globals-2cd253bfa2687068e267.chunk.js"></script>
-
-    <script src="https://dka575ofm4ao0.cloudfront.net/packs/runtime-f8d05dfa0d9e3506006d.js"></script>
-    
-    
-    <script src="https://dka575ofm4ao0.cloudfront.net/packs/components-9a49915c0c21c5d510f4.chunk.js"></script>
-
-
-    <script>
-      $(function() {
-
-        SP.unloading = false;
-        $(window).unload(function() {
-          SP.unloading = true;
-        });
-
-      })
-    </script>
-
-        <script type="text/javascript" src="//dka575ofm4ao0.cloudfront.net/se.js"></script>
-<script type="text/javascript">
-  window.setStatusPageText({
-    urlOverride: 'https://metastatuspage.com',
-    code: 'doesntmatter',
-    elem: '#official-system-status',
-    secure: false
-  });
-</script>
-
-
-      <!-- OneTrust Cookies Consent Notice (statuspage.io, en-GB) start -->
-  <script src="https://cdn.cookielaw.org/consent/0800f092-2124-46ec-b11d-b4f48b677302.js" type="text/javascript" charset="UTF-8"></script>
-  <script type="text/javascript">
-    function OptanonWrapper() { }
-  </script>
-  <!-- OneTrust Cookies Consent Notice (statuspage.io, en-GB) end -->
-
-  </body>
-</html>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:public-cloud.status-ovhcloud.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
+  <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
+  <title>Public Cloud Status - Incident History</title>
+  <updated>2023-03-20T13:20:40Z</updated>
+  <author>
+    <name>Public Cloud</name>
+  </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16500644</id>
+    <published>2023-05-09T08:00:00Z</published>
+    <updated>2023-03-14T21:59:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rslskky2xmxw"/>
+    <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/05/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The service will be unreachable for less than one minute.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520986</id>
+    <published>2023-04-20T13:00:00Z</published>
+    <updated>2023-03-16T03:52:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ks4lbf1f6jtw"/>
+    <title>[US-WEST-OR-2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;03:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of US-WEST-OR-2 will be unreachable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520823</id>
+    <published>2023-04-20T13:00:00Z</published>
+    <updated>2023-03-16T03:50:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4pymmcgq4z1j"/>
+    <title>[US-EAST-VA-2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of US-EAST-VA-2 will be unreachable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520578</id>
+    <published>2023-04-12T13:00:00Z</published>
+    <updated>2023-03-16T03:20:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j1g5xy2jbgq0"/>
+    <title>[GRA6][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;03:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA6 will be unreachable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520175</id>
+    <published>2023-04-12T13:00:00Z</published>
+    <updated>2023-03-16T02:49:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hv0bmlv745pv"/>
+    <title>[BHS2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;02:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of BHS2 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520000</id>
+    <published>2023-04-12T13:00:00Z</published>
+    <updated>2023-03-16T02:44:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/33p0jzt8c2y5"/>
+    <title>[GRA8][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;02:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;02:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA8 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16519210</id>
+    <published>2023-04-12T13:00:00Z</published>
+    <updated>2023-03-16T01:50:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/989031017zqw"/>
+    <title>[BHS6][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of BHS6 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16520460</id>
+    <published>2023-04-05T13:00:00Z</published>
+    <updated>2023-03-16T03:09:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4b6c38jd7db4"/>
+    <title>[SYD2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;03:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of SYD2 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16519628</id>
+    <published>2023-04-05T13:00:00Z</published>
+    <updated>2023-03-16T02:10:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xgsct3klc8jn"/>
+    <title>[SGP2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;02:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of SGP2 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16519465</id>
+    <published>2023-04-05T13:00:00Z</published>
+    <updated>2023-03-16T02:01:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c4y92wzh3hsy"/>
+    <title>[GRA4][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA4 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16519114</id>
+    <published>2023-04-05T13:00:00Z</published>
+    <updated>2023-03-16T01:42:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/qk63bt601m52"/>
+    <title>[GRA2][Workflow Management] - Mistral</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/04/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/04/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All mistral endpoints of GRA2 will be unreachable for 5 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will migrate Mistral to a new production platform.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307894</id>
+    <published>2023-03-29T11:00:00Z</published>
+    <updated>2023-02-28T19:40:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k8t48810zhjb"/>
+    <title>[SYD1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/03/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307896</id>
+    <published>2023-03-28T13:00:00Z</published>
+    <updated>2023-02-28T19:41:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n30sr0xj2b8m"/>
+    <title>[SGP1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/03/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/03/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307957</id>
+    <published>2023-03-27T20:30:00Z</published>
+    <updated>2023-02-28T19:47:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0vpfkmd3k0zw"/>
+    <title>[RBX7][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307907</id>
+    <published>2023-03-23T20:30:00Z</published>
+    <updated>2023-02-28T19:42:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/92m059cwd7y2"/>
+    <title>[RBX7/SBG3/GRA1/WAW1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307908</id>
+    <published>2023-03-23T08:00:00Z</published>
+    <updated>2023-02-28T19:42:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/68vy8f06jsjg"/>
+    <title>[BHS1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307913</id>
+    <published>2023-03-22T20:30:00Z</published>
+    <updated>2023-02-28T19:42:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zfq3tvv2hzlc"/>
+    <title>[RBX7/SBG3/GRA1/WAW1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307921</id>
+    <published>2023-03-22T08:00:00Z</published>
+    <updated>2023-02-28T19:44:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7f72kt4n6cf1"/>
+    <title>[BHS1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307925</id>
+    <published>2023-03-21T20:30:00Z</published>
+    <updated>2023-02-28T19:44:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dhk248w3g9rt"/>
+    <title>[RBX7/LIM1/GRA1/ERI1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307928</id>
+    <published>2023-03-21T08:00:00Z</published>
+    <updated>2023-02-28T19:45:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9yg5k3t2qvsh"/>
+    <title>[BHS1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/15767746</id>
+    <published>2023-03-21T08:00:00Z</published>
+    <updated>2023-01-04T02:05:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/y60khlc5g6h0"/>
+    <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;02:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.21).&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.21).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16495836</id>
+    <published>2023-03-21T07:00:00Z</published>
+    <updated>2023-03-14T15:44:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gc68qng54g5k"/>
+    <title>PCI - GRA5 GRA7 - 11 hosts</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host44-a70&lt;br /&gt;gra2-pciz2host50-a70&lt;br /&gt;gra2-pciz2host51-a70&lt;br /&gt;gra2-pciz2host58-a70&lt;br /&gt;gra2-pciz2host61-a70&lt;br /&gt;gra2-pciz2host64-a70&lt;br /&gt;gra2-pciz2host68-a70&lt;br /&gt;gra2-pciz2host76-a70&lt;br /&gt;gra2-pciz2host77-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G205B08&lt;br /&gt;G205B17&lt;br /&gt;G205B18&lt;br /&gt;G205B23&lt;br /&gt;G252B09&lt;br /&gt;G252B10&lt;br /&gt;G254B04&lt;br /&gt;G254B07&lt;br /&gt;G254B10&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host577807&lt;br /&gt;host1019474&lt;br /&gt;host1157720&lt;br /&gt;host1157738&lt;br /&gt;host1132045&lt;br /&gt;host1132062&lt;br /&gt;host1145766&lt;br /&gt;host1164586&lt;br /&gt;host1237347&lt;br /&gt;host1237351&lt;br /&gt;host1238240&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;16849c10-64a7-4336-9341-2df235e88b43&lt;br /&gt;18a93e35-a5f5-45e5-ba71-e6bb6f19c7fb&lt;br /&gt;3ad0867e-70eb-4d5d-86d8-9da1b73067e4&lt;br /&gt;3e05ac52-db2f-4cec-8d68-39ddc5ac514c&lt;br /&gt;4163065a-54af-44d8-b2d1-ec4a02add284&lt;br /&gt;41e17fb8-6b93-44ba-bd70-03ea6f154cbf&lt;br /&gt;439aef13-9254-401f-a540-d29ee72ed0af&lt;br /&gt;5756a470-4fd7-4f5d-a9ad-1188bf346a96&lt;br /&gt;58fe79d5-5d53-446b-a725-e4a13107fc3a&lt;br /&gt;63c627bb-0c0e-46a6-a621-1d07fee626d3&lt;br /&gt;6ce78d73-e7bc-4580-b2b3-c3d62c4c2004&lt;br /&gt;6fa16236-bc86-4b8b-8b6f-2ceaa83d8694&lt;br /&gt;869165cb-6789-41ac-b155-0f001898f3f6&lt;br /&gt;8b6749b7-90b1-4197-8ce3-2144cdce5c98&lt;br /&gt;aceecfd3-bf66-4a60-9619-14c92182be91&lt;br /&gt;ae891614-a6b0-4451-b1d4-4c0e33ef462b&lt;br /&gt;bf59f152-deed-469a-802a-b89560e6d303&lt;br /&gt;c343a537-67ba-4af0-8a2c-c86fec74ce12&lt;br /&gt;c3ad8baa-1882-459a-9f7a-7a5147ef430d&lt;br /&gt;c522d26a-521d-4224-a480-4d66c3b2a134&lt;br /&gt;d0e0b16e-1053-4207-ba8c-232f6adec332&lt;br /&gt;e523e074-c3a6-4688-aeaf-5e369cce6881&lt;br /&gt;ec51c608-b6bf-4db5-a4cb-f7b6fcc97085&lt;br /&gt;ee9f9f7d-8201-4dda-af43-611483ab9f70&lt;br /&gt;f6a7f30e-ac74-4321-b7f4-289c52509777&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307943</id>
+    <published>2023-03-20T20:00:00Z</published>
+    <updated>2023-02-28T19:46:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c81cz5c35fn9"/>
+    <title>[RBX1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:29&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307944</id>
+    <published>2023-03-20T11:38:21Z</published>
+    <updated>2023-03-20T11:38:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/m4vd7q7l36bz"/>
+    <title>[BHS1][Network] - vRack Network equipment homogenization</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16566380</id>
+    <published>2023-03-20T08:05:03Z</published>
+    <updated>2023-03-20T08:05:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/tcfdv3bdlhw7"/>
+    <title>PCI - DE1 - host1023113</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1023113&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;ee302d5e-473e-413c-a2c9-7b7e719287d2&lt;br /&gt;f709fe04-990c-49bb-92fc-60043999d733&lt;br /&gt;e121632a-5f5d-405b-9717-0483cad9a14f&lt;br /&gt;46a73983-e917-4660-9d8a-d4521d295afe&lt;br /&gt;3a9efb41-b134-4933-809d-cfc37e2733ed&lt;br /&gt;875860e3-2efb-4dba-aa0a-4b713e0c29b8&lt;br /&gt;977f8183-51a8-408e-8cc6-937972cdb343&lt;br /&gt;7f76bc7b-bd1e-4412-9f3c-1be9278a585a&lt;br /&gt;9e77d3bc-a56f-486b-9fc9-f9d9db8f9e53&lt;br /&gt;2b1494cf-01dd-4868-b104-6d480fe62a92&lt;br /&gt;385222d5-a30d-4030-9087-89738dadec66&lt;br /&gt;36d8fe9d-6265-40b3-b2a9-7c2e193cc02f&lt;br /&gt;ee85dffb-e652-43ad-b15b-29a72565cd2f&lt;br /&gt;d396f6f9-aded-4817-8a95-63d85ecc9c89&lt;br /&gt;af5b4aa3-29b0-40ea-9043-3391ed697b8c&lt;br /&gt;c2c14317-91b3-4ec3-b622-b286dfde3e88&lt;br /&gt;a7a4d0f6-9104-4182-9dc0-d0250bdc0f06&lt;br /&gt;6dffc055-0f4e-496b-a22c-1773c3b3b602&lt;br /&gt;1b2bf2a6-063a-4649-9edd-e52e75c13d8e&lt;br /&gt;3c245ba3-b65e-4dc2-9962-2af0857ff76a&lt;br /&gt;0be61f3f-1f7b-4237-aef6-906ba5e8c70f&lt;br /&gt;d9da1665-545f-4001-9bf3-de28f8e95925&lt;br /&gt;bebe021b-c4c7-45c9-a22b-1d78d31ef330&lt;br /&gt;03d0612c-76dd-4b48-b1eb-2a25b2ba38ab&lt;br /&gt;e2b7e0ca-1ae1-4ef2-9320-b087bef49070&lt;br /&gt;96cc5c4e-41e7-4a6b-b147-e9d165c97b44&lt;br /&gt;b1b29878-c75f-4e44-9c28-a82a983fca73&lt;br /&gt;81e5b7ea-1bb1-4c6a-b230-81df1783c230&lt;br /&gt;f77dd9a5-07e3-4d10-8acb-dfe5bb0eb06b&lt;br /&gt;e687cae5-a76d-4215-85fb-259f26ba2ba8&lt;br /&gt;51ca8217-0896-43d6-8b4a-1e9ef71149b4&lt;br /&gt;ea955b66-c0b2-404d-9668-d802641a5667&lt;br /&gt;c1281107-50ea-44a2-bea7-05f762ea3c42&lt;br /&gt;17c73b56-8cc5-480e-83cc-cd6250354064&lt;br /&gt;29881769-8d55-47d0-99c1-ff0bfd3cce70&lt;br /&gt;6b757597-3257-40bf-8de6-c43e42268788&lt;br /&gt;0581cd30-e3c6-42d6-b7d2-1b702648c17b&lt;br /&gt;9181b8fe-fbbf-45e7-b304-198b010bd622&lt;br /&gt;4791dc28-6127-4cc1-8f68-c0b83d2065de&lt;br /&gt;9f8b925c-40b6-438c-84c5-3b5754864321&lt;br /&gt;dd2091e6-a4f9-4db4-8e4c-52605192ac89&lt;br /&gt;42897187-6ffd-4d8e-aace-0fa633f62893&lt;br /&gt;4584bb93-51f2-4f0d-bd16-62dacb674738&lt;br /&gt;66735ec2-c57e-47ab-845a-8d168b169b76&lt;br /&gt;b0038fe3-8b30-49a6-aeb0-d6d2ca3d85ed&lt;br /&gt;ddf3a772-a52b-445c-8d80-29a165e7ecc5&lt;br /&gt;796628b0-eb2a-461c-8e51-9e5f0c4df2b9&lt;br /&gt;d8f67ec1-6fd5-4cec-bb90-1c287ea7da8d&lt;br /&gt;3ff3aae8-684b-4596-8bc6-ac6c5edf2d74&lt;br /&gt;e07266f6-44ce-4b7d-807f-f0320f896818&lt;br /&gt;94551495-c9a9-4536-a2b7-7e1566a4ffe2&lt;br /&gt;157602f0-da27-495e-92a3-da13aacfed1e&lt;br /&gt;6ae3bb62-7b47-4536-862b-fb221bb4cea3&lt;br /&gt;9f01e6eb-359f-44aa-b2b3-40253185f21e&lt;br /&gt;d13dd6c4-01a9-4615-87b9-7b592313c3ee&lt;br /&gt;69c120d2-773d-4b00-8dbd-a71568163aa8&lt;br /&gt;ad28440e-2c77-4c14-8d87-2976b52dd758&lt;br /&gt;75e99d73-0974-43f9-93ce-f3ea9cb35f49&lt;br /&gt;a2b1450b-9566-4e0d-b5de-19740c84721e&lt;br /&gt;df5f752b-ae43-482f-8f83-e06476b64344&lt;br /&gt;ab570f64-0a91-42f5-bbe2-7844455c7362&lt;br /&gt;b51ce4a6-9031-4e3d-b044-cbc5a6bdf943&lt;br /&gt;e75e5936-e098-41ec-a54b-a5e1d02128a0&lt;br /&gt;6139bb4f-7c2d-40a5-8ac3-7862d672e049&lt;br /&gt;b2580ad9-4f79-4774-a476-4cd0a45d6161&lt;br /&gt;0d5eee12-9f7a-4ac4-9fa2-c57cdf8b0bcf&lt;br /&gt;f36ec3b6-8ac4-49af-b140-ce3632560d37&lt;br /&gt;567475d5-8675-4e48-83c5-9bc1958c7f20&lt;br /&gt;e84cc15b-7142-4b37-b9ef-837369c06cde&lt;/p&gt;</content>
+  </entry>
+</feed>

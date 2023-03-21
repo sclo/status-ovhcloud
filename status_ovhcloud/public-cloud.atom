@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-03-21T15:43:44Z</updated>
+  <updated>2023-03-21T17:10:58Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -169,6 +169,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2023 23:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16594361</id>
+    <published>2023-03-21T17:10:58Z</published>
+    <updated>2023-03-21T17:10:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j3nbvycxbtrb"/>
+    <title>PCI - BHS1 - host279103</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279103&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;8748b89a-aa04-4236-b71b-5f3c40a9b185&lt;br /&gt;731f6658-287a-4861-a65f-dd16d308d19c&lt;br /&gt;614923ce-b7c2-4b52-a467-a94b345a1d43&lt;br /&gt;86e84ed9-cf71-4878-ba30-467b51debda7&lt;br /&gt;d31d36bd-9de4-4065-bc1f-e379b01a4846&lt;br /&gt;b122c2fc-72dd-4a70-9782-663393397702&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16592707</id>
     <published>2023-03-21T15:16:03Z</published>
     <updated>2023-03-21T15:16:04Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/370n3lyvx7gt"/>
     <title>PCI - GRA5 - host963710</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;11:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;11:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host963710&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;27902f7e-e964-40f9-9975-b3360c2c77ca&lt;br /&gt;f43e1dcb-b3c0-49e9-a2e1-895e0a8651cb&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16307928</id>
-    <published>2023-03-21T10:41:09Z</published>
-    <updated>2023-03-21T10:41:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9yg5k3t2qvsh"/>
-    <title>[BHS1][Network] - vRack Network equipment homogenization</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment to homogenize our network infrastructure.&lt;/p&gt;</content>
   </entry>
 </feed>

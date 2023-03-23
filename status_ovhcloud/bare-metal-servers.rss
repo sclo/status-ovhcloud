@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Mar 2023 14:43:20 +0000</pubDate>
+    <pubDate>Thu, 23 Mar 2023 14:54:13 +0000</pubDate>
     <item>
       <title>[GRA1/LIM1/RBX7][Dedicated Servers] -  Network equipement operation</title>
       <description>
@@ -85,6 +85,15 @@
       <maintenanceEndDate>Tue, 11 Apr 2023 23:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5gfgh9j20c4c</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5gfgh9j20c4c</guid>
+    </item>
+    <item>
+      <title>[SBG3][Dedicated Servers] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2023 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for the customers who have set the aggregation properly (OLA configured). &lt;br /&gt;Otherwise, clients who have not defined the aggregation will have their servers temporarily unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 11 Apr 2023 04:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hvd12qsnh685</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hvd12qsnh685</guid>
     </item>
     <item>
       <title>[GRA2/ER1/RBX4][Dedicated Servers] - Network equipement operation</title>
@@ -220,14 +229,6 @@
       <maintenanceEndDate>Thu, 23 Mar 2023 23:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/gg9whj3n92tw</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gg9whj3n92tw</guid>
-    </item>
-    <item>
-      <title>[SBG5][Dedicated Servers] - 506A02C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/03/2023 13:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers inthis rack 506A02C are currently unreachable. &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A failure on a cooling system module caused this incident. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a resolution of this issue.&lt;/p&gt;      </description>
-      <pubDate>Thu, 23 Mar 2023 14:34:17 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/h0pk5d9bxcs6</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/h0pk5d9bxcs6</guid>
     </item>
   </channel>
 </rss>

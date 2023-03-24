@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 24 Mar 2023 13:26:55 +0000</pubDate>
+    <pubDate>Fri, 24 Mar 2023 13:36:03 +0000</pubDate>
     <item>
       <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
       <description>
@@ -168,6 +168,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0vpfkmd3k0zw</guid>
     </item>
     <item>
+      <title>PCI - GRA7 - host1380691</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1380691&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f033b2ee-1327-44fc-ba49-156200799ee2&lt;br /&gt;b795b72b-78ab-45f3-998c-efada705e14c&lt;br /&gt;ad51d085-8795-400c-a4d4-b329f5f7bbee&lt;br /&gt;627541d4-1b7a-4500-ac7c-e717f1b099e9&lt;br /&gt;01988498-a1e7-4b18-a572-775e6a452a7b&lt;br /&gt;52aaaf1a-ef5d-4ac1-b6c0-81452a312d94&lt;br /&gt;56571c4a-6f39-42d3-9584-b2eb166e1e85&lt;br /&gt;1c2f6fb6-c76c-4183-b552-8b2350f9850b&lt;/p&gt;      </description>
+      <pubDate>Fri, 24 Mar 2023 13:36:03 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/3gqlkj1t45m6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/3gqlkj1t45m6</guid>
+    </item>
+    <item>
       <title>[Global][Databases] - MongoDB upgrade</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Some &quot;Essential&quot; plan services with the maintenance scheduled on March 13 faced issue during their migration. For these services, we restored the data from the latest backup done (in average one hour before the application of the maintenance).&lt;br /&gt;Services initially planed to be migrated on March 14 will be rescheduled on the following days.&lt;br /&gt;Sorry for the inconvenience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/03/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected for business and enterprise plans, a small downtime may be experienced for essential plans (less than 15mn).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of our MongoDB offer.&lt;/p&gt;      </description>
@@ -216,15 +224,6 @@
       <pubDate>Thu, 23 Mar 2023 18:05:02 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/33p1r3v2rqr2</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/33p1r3v2rqr2</guid>
-    </item>
-    <item>
-      <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud]]End of life for Kubernetes1.20</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.21).&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.21).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.21).&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.21).&lt;/p&gt;      </description>
-      <pubDate>Thu, 23 Mar 2023 17:08:56 +0000</pubDate>
-      <maintenanceEndDate>Thu, 23 Mar 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/y60khlc5g6h0</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/y60khlc5g6h0</guid>
     </item>
   </channel>
 </rss>

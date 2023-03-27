@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-03-27T11:33:36Z</updated>
+  <updated>2023-03-27T12:01:27Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -185,6 +185,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A new schedule has been validated.&lt;br /&gt;The maintenance will start a hour earlier.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/03/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2023 23:30 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/03/2023 23:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment in RBX7, SBG3 and WAW1.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16661877</id>
+    <published>2023-03-27T12:01:27Z</published>
+    <updated>2023-03-27T12:01:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wrdx3bh2k8zn"/>
+    <title>[BHS8][DedicatedServers] - Racks BHS0806A02A BHS0806A02B BHS0806A02C</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 11:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the racks BHS0806A02A BHS0806A02B BHS0806A02C are down&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16238710</id>
     <published>2023-03-27T11:33:36Z</published>
     <updated>2023-03-27T11:33:36Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/js2l46pm7djm"/>
     <title>VPS - SGP2 - host409212</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host409212&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;96073e08-73d4-4a1b-82c9-5718c7b336a8&lt;br /&gt;de22d3dc-9669-4882-8a6c-deb470aefbca&lt;br /&gt;3b877a8b-7191-4461-937e-6a0c32419e84&lt;br /&gt;6e8da37f-1822-4a0e-9254-06b0e91972ea&lt;br /&gt;04aa72c4-e132-4ce1-bbbb-fc9027fca092&lt;br /&gt;0778c5f5-f142-464d-b758-ce4e0a95d129&lt;br /&gt;3c7a3caf-d44d-42bd-84c4-9d23b6efd99f&lt;br /&gt;c3fd6752-2dff-4d75-8f49-3594f4f6f2d2&lt;br /&gt;96127d49-c6e0-4adf-8485-96742725362c&lt;br /&gt;2cb37e1d-ba3c-4eb6-b1b4-5610ae1d1515&lt;br /&gt;595998ff-7b1f-423c-b463-6f55ffdb51e6&lt;br /&gt;159631e0-7db1-4003-80b4-bedc402f3cb0&lt;br /&gt;5041eaec-1e78-406e-a94c-2951d9746869&lt;br /&gt;3e23b5b7-1d75-48c1-bf4a-4c3769bbdb51&lt;br /&gt;083417d8-f6f4-4579-a7f8-87dfd67f4ab6&lt;br /&gt;25c19823-6dcd-4134-96e4-d0705a40293d&lt;br /&gt;d31ce2d6-b26b-471f-8214-9ae00e3d2b86&lt;br /&gt;12b6d627-2ab7-49b3-b633-ae5cf7aa0521&lt;br /&gt;e1350724-065e-4273-b1f2-eba0dc9f75e4&lt;br /&gt;8f778219-06e3-4bb7-8429-2dd9f040fa93&lt;br /&gt;f3c15e0f-3c5d-4715-973d-821a5aa9136a&lt;br /&gt;3c812e57-be2b-455e-a745-0e4362e2b47c&lt;br /&gt;e6dbe896-0d61-4915-85be-46b813582ae1&lt;br /&gt;4d900d16-015e-4e4b-81ab-ce759de4c6fb&lt;br /&gt;27748948-b2ee-415a-b3f9-494ce858691b&lt;br /&gt;9eef2f12-221b-444f-9022-16caee69494c&lt;br /&gt;3a58650a-c851-4894-827a-e5275b2ae61a&lt;br /&gt;be61dfc2-81cc-4bfe-959c-4b9c45ea0cbe&lt;br /&gt;f50fd5ef-f3fe-4354-a376-71eb697156db&lt;br /&gt;97fe69ff-d93c-492d-b957-69409eea4c0a&lt;br /&gt;61114b2b-09ba-42d6-8786-bd881ae9ddc9&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16499277</id>
-    <published>2023-03-27T03:45:34Z</published>
-    <updated>2023-03-27T03:45:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ns3bgdf9s8hy"/>
-    <title>[ERI1][Dedicated Servers] - ERI0112D04C</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 02:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/03/2023 03:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The Vrack network will be unavailable during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will replace a switch on the ERI0112D04C rack.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;02:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;19:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 02:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/03/2023 03:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The Vrack network will be unavailable during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will replace a switch on the ERI0112D04C rack.&lt;/p&gt;</content>
   </entry>
 </feed>

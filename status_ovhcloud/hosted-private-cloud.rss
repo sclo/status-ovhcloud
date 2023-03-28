@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 28 Mar 2023 08:00:22 +0000</pubDate>
+    <pubDate>Tue, 28 Mar 2023 14:42:06 +0000</pubDate>
     <item>
       <title>[SBG3][Hosted Private Cloud] - Network &amp; servers operation</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Mon, 03 Apr 2023 08:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/bws4w6b3y7j5</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/bws4w6b3y7j5</guid>
+    </item>
+    <item>
+      <title>[Global][VMwarePrivateCloud] - VMware NSX operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/03/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/04/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts will be put into maintenance mode and vSphere access blocked during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling an update for VMware NSX related product.&lt;/p&gt;      </description>
+      <pubDate>Tue, 28 Mar 2023 15:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 14 Apr 2023 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/72pymz11zcww</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/72pymz11zcww</guid>
     </item>
     <item>
       <title>[EU/CA][Hosted Private Cloud] - Network maintenance</title>
@@ -214,15 +223,6 @@
       <maintenanceEndDate>Thu, 02 Mar 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/1xdd7xcy3fhg</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/1xdd7xcy3fhg</guid>
-    </item>
-    <item>
-      <title>[EU/CA/SNC][VMwarePrivateCloud] - vRealize Operations (vROps) upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/02/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/02/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vROps unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for vRealize Operations (vROps).&lt;/p&gt;      </description>
-      <pubDate>Fri, 24 Feb 2023 15:15:27 +0000</pubDate>
-      <maintenanceEndDate>Fri, 24 Feb 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/qjwrm3vqkpxn</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/qjwrm3vqkpxn</guid>
     </item>
   </channel>
 </rss>

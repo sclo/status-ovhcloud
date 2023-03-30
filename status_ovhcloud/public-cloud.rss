@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 30 Mar 2023 09:43:18 +0000</pubDate>
+    <pubDate>Thu, 30 Mar 2023 14:58:01 +0000</pubDate>
     <item>
       <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
       <description>
@@ -114,6 +114,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/qk63bt601m52</guid>
     </item>
     <item>
+      <title>PCI - WAW1 - host1437737</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437737&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;147d5ef9-1c1b-4f08-8183-c7171971b582&lt;br /&gt;ebade51f-7421-4c04-a790-2e7376392d9a&lt;br /&gt;b56a9353-da4f-4362-92c3-950147713755&lt;br /&gt;c479e36b-eaf9-4ffd-bdf3-6be85db900d4&lt;br /&gt;4e01613f-7411-4013-8b24-979d5db72f49&lt;br /&gt;b79f1b01-bd33-4b77-86ed-7e460765c9ea&lt;br /&gt;e9184572-7d33-4530-bf37-734dae44e44a&lt;br /&gt;c24d01af-24cf-46ef-80c0-7270b790d9b1&lt;br /&gt;b5c80b33-636b-4f7f-a6d4-a58473ef1ed3&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Mar 2023 14:58:01 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/n4ksv9xgz6js</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/n4ksv9xgz6js</guid>
+    </item>
+    <item>
       <title>PCI - GRA1 - host1051637</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1051637&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;396e337f-735a-48cf-9ceb-30090cd61e08&lt;br /&gt;fbc44a18-5f90-4fc5-82fc-268e5c49df82&lt;br /&gt;f4ebe466-52c8-477f-81ee-a5a9d42b7e16&lt;br /&gt;265d401a-c6fb-4679-9c9f-ef5b2a21c52d&lt;br /&gt;212571c4-2755-480b-a08f-55af4887745d&lt;br /&gt;59e40764-8295-4dfd-9068-89cbf0d6a38b&lt;br /&gt;1164e0b3-aca8-40e5-89ca-b8bc4a01646e&lt;br /&gt;3bd6c3e0-606c-4198-9a8b-bdab646d9c18&lt;/p&gt;      </description>
@@ -213,14 +221,6 @@
       <maintenanceEndDate>Tue, 28 Mar 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/36vdwnv8y8sc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/36vdwnv8y8sc</guid>
-    </item>
-    <item>
-      <title>[GRA1][STORAGE] - Volume Snapshot (CEPH)</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/03/2023 21:57 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/03/2023 23:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/4mgfv64k3t2y&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 21:57 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Volume Snapshot (CEPH) was temporarily unavailable in GRA1&lt;br /&gt;Since 27/03/2023 23:30 UTC, the service is back to normal&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/4mgfv64k3t2y&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/03/2023 21:57 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Volume Snapshot (CEPH) is temporarily unavailable in GRA1&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/4mgfv64k3t2y&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem.&lt;/p&gt;      </description>
-      <pubDate>Tue, 28 Mar 2023 00:00:47 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/1l01sr34tbgf</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/1l01sr34tbgf</guid>
     </item>
   </channel>
 </rss>

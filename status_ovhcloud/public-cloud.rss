@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 13 Apr 2023 09:43:19 +0000</pubDate>
+    <pubDate>Thu, 13 Apr 2023 12:57:35 +0000</pubDate>
+    <item>
+      <title>[GLOBAL][ManagedKubernetesService] Managed nodes OS upgrades for clusters in NO DOWNTIME policy update configuration</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected but you should have enough nodes in your K8S cluster to allow a rolling upgrade of them and to absorb a rescheduling of your workload without downtime.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will upgrade all public cloud instances (a.k.a. nodes) managed by the MKS team and running in your Kubernetes clusters to upgrade them from the operating system Ubuntu 18.04.06 LTS version to the Ubuntu 22.04.02 LTS version.&lt;br /&gt;Only clusters with an upgrade policy set to &quot;NO DOWNTIME&quot; are targeted by this maintenance.&lt;br /&gt;To prevent non wanted upgrade on services configured in NO DOWNTIME mode, we leave it up to the customers more time to manage this upgrade by themselves.&lt;br /&gt;But, as the Ubuntu 18.04 LTS support will be disabled on the 31/05/2023, be aware that in case of critical vulnerability, we kept the right to force upgrade impacted services to patch as soon as possible vulnerable managed control planes and nodes.&lt;/p&gt;      </description>
+      <pubDate>Tue, 13 Jun 2023 08:30:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 15 Jun 2023 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
+    </item>
     <item>
       <title>[BHS5/GRA5/7/9][ManagedKubernetesService] - Nodes underlying OS LTS update</title>
       <description>
@@ -123,6 +132,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/84d79ns9l9x1</guid>
     </item>
     <item>
+      <title>[GRA7][Public Cloud ] - OpenStack Network API Latency</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/04/2023 12:21 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack GRA7 is experiencing the high latency and the OpenStack network API may also experience some latency.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on this issue.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Apr 2023 12:57:35 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/zrkhbjct39yz</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/zrkhbjct39yz</guid>
+    </item>
+    <item>
       <title>PCI - GRA11 - host1305747</title>
       <description>
 &lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1305747&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;8de7af1b-af6f-468a-ba98-ee0d8b23acea&lt;/p&gt;      </description>
@@ -207,22 +224,6 @@
       <pubDate>Wed, 12 Apr 2023 13:06:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ll1f2z32yjfk</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ll1f2z32yjfk</guid>
-    </item>
-    <item>
-      <title>PCI - GRA5 - host1038739</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1038739&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0962762d-5bc5-4266-94b9-6455d8e1625a&lt;br /&gt;d29f411a-9910-4fd7-8887-96e3751095de&lt;br /&gt;87e963cb-cbc1-423d-87e2-fc24c0385af1&lt;br /&gt;534c21d1-9147-4186-8be4-4db0d2d2500a&lt;br /&gt;95ae3465-9799-4b30-9efe-1fc36f4ff325&lt;/p&gt;      </description>
-      <pubDate>Wed, 12 Apr 2023 13:05:26 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/gkxggmq5s6ft</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/gkxggmq5s6ft</guid>
-    </item>
-    <item>
-      <title>PCI - GRA5 - host1038725</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1038725&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;49541362-d392-4dee-a1c2-895d88b1e84f&lt;br /&gt;2a433b0a-c3a6-45db-8e18-d607129c22d4&lt;br /&gt;8e31b9b8-66e9-4911-a752-e4d948da15bb&lt;br /&gt;7f98534a-4821-4164-acde-48c859617d6c&lt;br /&gt;a21dd834-247c-4614-a4f7-b8aab4125cfe&lt;br /&gt;b28f1020-b8d8-42f4-be46-b51533b5c894&lt;br /&gt;fe231d37-b4d3-43e8-9305-5379d11953d7&lt;br /&gt;cbd2fed6-a9de-4e05-9f24-445f9bc9714d&lt;br /&gt;4bfd68f8-dc99-4033-ac31-03956db53c4c&lt;br /&gt;851f6fe6-10b5-465b-90e3-07c96b81cbe0&lt;br /&gt;78a85f0f-d9f5-474e-9bcc-b97683872f88&lt;/p&gt;      </description>
-      <pubDate>Wed, 12 Apr 2023 13:05:24 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/wv8pyz3zdtwt</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/wv8pyz3zdtwt</guid>
     </item>
   </channel>
 </rss>

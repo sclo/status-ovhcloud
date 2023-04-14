@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 14 Apr 2023 17:03:40 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2023 22:28:01 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud] - Network equipement operation</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Wed, 19 Apr 2023 04:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/tc63f869hqzn</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/tc63f869hqzn</guid>
+    </item>
+    <item>
+      <title>[Global][Hosted Private Cloud] - Migration Omnios</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/04/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/05/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The datastore will be unavailable for a very short period at the end of the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will perform filer transfers.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Apr 2023 18:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 05 May 2023 18:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/5m0qd16lt7d8</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/5m0qd16lt7d8</guid>
     </item>
     <item>
       <title>[Global][VMwarePrivateCloud] - vCenter major upgrade and ESXi upgrade</title>
@@ -214,15 +223,6 @@
       <maintenanceEndDate>Fri, 24 Mar 2023 17:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/h00w4cnj3y53</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/h00w4cnj3y53</guid>
-    </item>
-    <item>
-      <title>[Global][VMwarePrivateCloud] - vCenter major upgrade and and ESXi upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/03/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will be inaccessible during the maintenance. Hosts will be rebooted, but there is no impact as the hosts are in maintenance mode.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution and ESXi for customers with and without Zerto service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/03/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will be inaccessible during the maintenance. Hosts will be rebooted, but there is no impact as the hosts are in maintenance mode.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are rolling an upgrade for the VMware vCenter Server Appliance solution and ESXi for customers with and without Zerto service.&lt;/p&gt;      </description>
-      <pubDate>Fri, 24 Mar 2023 18:17:18 +0000</pubDate>
-      <maintenanceEndDate>Fri, 24 Mar 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/h1wl7nmhs4lh</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/h1wl7nmhs4lh</guid>
     </item>
   </channel>
 </rss>

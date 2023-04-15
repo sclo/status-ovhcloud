@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 15 Apr 2023 02:57:40 +0000</pubDate>
+    <pubDate>Sat, 15 Apr 2023 03:06:26 +0000</pubDate>
     <item>
       <title>[EU/CA][LogsDataPlatform] - Protocol migration</title>
       <description>
@@ -24,6 +24,15 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
     </item>
     <item>
+      <title>[EU/CA][LogsDataPlatform] - End of redirection for old OSD instances</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/06/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/06/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;Following our continuous improvement policy, we will perfom an maintenance on LDP. &lt;br /&gt;Please note that after this maintenance, old uri of your OpenSearch Dashboards instances will stop to be redirected.&lt;/p&gt;      </description>
+      <pubDate>Thu, 01 Jun 2023 12:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 01 Jun 2023 14:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/27l4dtrdh4m0</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/27l4dtrdh4m0</guid>
+    </item>
+    <item>
       <title>[BHS5/GRA5/7/9][ManagedKubernetesService] - Nodes underlying OS LTS update</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/05/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/05/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will upgrade our public cloud nodes underlying OS from Ubuntu 18.04 LTS to Ubuntu 22.04 LTS.&lt;br /&gt;Only clusters with an upgrade policy set to &quot;always update&quot; are targeted&lt;/p&gt;      </description>
@@ -40,6 +49,15 @@
       <maintenanceEndDate>Wed, 17 May 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/cr5b92tr89yl</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/cr5b92tr89yl</guid>
+    </item>
+    <item>
+      <title>[SGP1][Network] - Network equipment operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/05/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/05/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment.&lt;/p&gt;      </description>
+      <pubDate>Wed, 10 May 2023 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 10 May 2023 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/xk8y5qx1h4wz</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/xk8y5qx1h4wz</guid>
     </item>
     <item>
       <title>[RBX1/LIM1/ERI1][Network] - Network equipment operation</title>
@@ -204,22 +222,6 @@
       <pubDate>Fri, 14 Apr 2023 13:33:53 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/bl0rdy13qtmm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bl0rdy13qtmm</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 - host896679</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host896679&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;5aeff1cc-1dce-48d3-be6e-9f5cfeaf4302&lt;br /&gt;911c2e79-cf42-49a6-98d4-09c6a4b55dc5&lt;br /&gt;6a4ad1a0-123b-4a47-b085-93f3260dbbd1&lt;br /&gt;6e90051e-98d2-424a-832f-1957c33926b3&lt;br /&gt;25d1b04b-335b-439c-8618-b13f4791f807&lt;br /&gt;092b3ed4-759a-4832-9875-debb04898237&lt;br /&gt;0253b7bb-99db-4889-a38d-2474f5299e1d&lt;br /&gt;bd282106-d2b1-4494-8bef-2ff5ccc9bcf3&lt;br /&gt;50d0a304-921b-46b2-8d49-52a25a4105a2&lt;br /&gt;cf7743ee-b480-4373-9a18-5f8157a6c79c&lt;/p&gt;      </description>
-      <pubDate>Fri, 14 Apr 2023 13:33:34 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/pv2fcxjvg8ry</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/pv2fcxjvg8ry</guid>
-    </item>
-    <item>
-      <title>PCI - GRA3 - host896649</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host896649&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f6c34dc5-c0a9-4302-b643-70141e3221a2&lt;br /&gt;c09299e3-f3b6-41f9-aa1f-7f9aeb04d4d3&lt;/p&gt;      </description>
-      <pubDate>Fri, 14 Apr 2023 13:33:14 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/9gdtphxjgw22</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/9gdtphxjgw22</guid>
     </item>
   </channel>
 </rss>

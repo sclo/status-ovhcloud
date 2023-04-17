@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-04-17T20:43:27Z</updated>
+  <updated>2023-04-17T22:11:46Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -95,6 +95,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/z6m608ym3hdc"/>
     <title>[GRA7][WebPaaS] - Routine Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2023 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/04/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade; however, Console User Interface, Git and Crons will be unavailable during the reindexing of git logs, which may take up to 6 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a routine maintenance on customers' projects. This maintenance is expected to not have impact on the projects: no downtime, nor performance issue are expected.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/16895541</id>
+    <published>2023-04-24T15:00:00Z</published>
+    <updated>2023-04-17T22:11:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/lh66lzw018xs"/>
+    <title>[BHS/GRA][Web Hosting] - OVHcloud Web Statistics</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2023 15:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/07/2023 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our product lifecycle management, we have decided to end the access of its predecessor: Urchin statistics collection service. It won't be available from Monday 24 april 2023.&lt;br /&gt;Since 2021, we have made available our new tool to display your website statistics, called OVHcloud Web Statistics which can be accessed with your hosting logs.&lt;br /&gt;Documentation about OVHcloud Web Statistics: https://docs.ovh.com/us/en/hosting/shared_view_my_websites_logs_and_statistics/ .&lt;br /&gt;&lt;br /&gt;Please note that this maintenance only covers Webhosting statistics before February 2020. &lt;br /&gt;Statistics after February 2020 are available in Owstats. &lt;br /&gt;&lt;b&gt;Logs collection&lt;/b&gt; and &lt;b&gt;Daily statistics&lt;/b&gt; aren't in the scope of the maintenance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Timeline :&lt;/b&gt;&lt;br /&gt; Monday 24 April 2023: Closing of the service accessibility&lt;br /&gt; Monday 24 April 2023: End of Support, Shutdown of the service&lt;br /&gt; Monday 24 July 2023: Data deletion&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt; We will update this task during the proposed timeline.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/16866313</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/ymxq47jb53hs"/>
     <title>[GRA][Webhosting] - Cluster027 - Filerz259</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 12/04/2023 09:46 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  12/04/2023 12:33 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2023 09:46 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowness on filerz259&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on this issue.&lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/16784777</id>
-    <published>2023-04-12T04:03:15Z</published>
-    <updated>2023-04-12T04:03:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/n162svj22yng"/>
-    <title>[GRA][WebHosting] - Data Migration - Filerz125</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;21:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unavailability of the Filerz125 for around 30 minutes during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are going to migrate the Filerz125 to keep our infrastructure up-to-date.&lt;/p&gt;</content>
   </entry>
 </feed>

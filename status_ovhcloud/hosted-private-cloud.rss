@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 19 Apr 2023 15:43:31 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2023 20:13:16 +0000</pubDate>
     <item>
       <title>[RBX8][Hosted Private Cloud] - Network equipement operation</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Tue, 25 Apr 2023 14:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/zcbc54sj4sbm</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/zcbc54sj4sbm</guid>
+    </item>
+    <item>
+      <title>[Global][HostedPrivateCloud] - Zerto update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/04/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/05/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; synchronization between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 1 hour per site.&lt;/p&gt;      </description>
+      <pubDate>Tue, 25 Apr 2023 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Sat, 06 May 2023 19:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/8b12d7n12j0m</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/8b12d7n12j0m</guid>
     </item>
     <item>
       <title>[Global][VMware Private Cloud] - ESXi upgrade</title>
@@ -216,14 +225,6 @@
       <maintenanceEndDate>Mon, 03 Apr 2023 08:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/bws4w6b3y7j5</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/bws4w6b3y7j5</guid>
-    </item>
-    <item>
-      <title>[RBX2B][Storage] - tete-3185</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 31/03/2023 06:29 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 31/03/2023 08:26 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a hardware module failure.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  31/03/2023 06:29 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Storage services are available for all our clients.&lt;br /&gt;&lt;b&gt;Ongoin Actions:&lt;/b&gt; All services are operational, we keep this incident under monitoring for 2 hours &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a hardware module failure.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; All services are operational again, however we keep this incident under observation for 2 hours.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 31/03/2023 06:29 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt;  Storage services are unavailable for the following clients: pcc-002131 / pcc-005153&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a hardware module failure.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;A replacement of the affected module is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt;  31/03/2023 06:29 UTC&lt;br /&gt;&lt;b&gt;User impact :&lt;/b&gt; Storage services are unavailable for the following clients: pcc-002131 / pcc-005153&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX2B&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 31 Mar 2023 11:02:10 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/09xs0dblbj0j</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/09xs0dblbj0j</guid>
     </item>
   </channel>
 </rss>

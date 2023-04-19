@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-04-19T22:43:23Z</updated>
+  <updated>2023-04-19T23:05:03Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -145,6 +145,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16915565</id>
+    <published>2023-04-19T23:05:03Z</published>
+    <updated>2023-04-19T23:05:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7j7lzs5xzt1w"/>
+    <title>PCI - UK1 - host1437859</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;23:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437859&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;423c7c90-658a-40b1-98d4-b57273511103&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16915124</id>
     <published>2023-04-19T22:18:46Z</published>
     <updated>2023-04-19T22:18:46Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nqbxqj338s6l"/>
     <title>PCI - DE1 - host1620277</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1620277&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f728d2d7-4371-4400-863b-bf774733bf02&lt;br /&gt;be89bfec-91c3-47de-8afa-81ffb7673e5b&lt;br /&gt;20575293-c4ba-459c-a070-903394d6ad32&lt;br /&gt;f664a98d-f8eb-4cdf-ab67-3af7bab0ab61&lt;br /&gt;2e1866bb-7f88-4658-8cd4-08b8764bbfaf&lt;br /&gt;bd15104c-8688-4e6f-b370-6893c9f35a1e&lt;br /&gt;ec535cb6-80f2-474f-a567-a4e314ce68a7&lt;br /&gt;3dfdea1b-fa17-4c8c-8c6b-5be4003514ec&lt;br /&gt;91f08520-17cb-4efb-b479-c292f1b0b5cc&lt;br /&gt;ead82af8-5087-4e9a-a700-9df917ae76d8&lt;br /&gt;50ef4afa-7707-4fc5-a624-632a5622b310&lt;br /&gt;67e480ef-01ab-48c7-abcb-930991db56d4&lt;br /&gt;06d1a18d-4ad5-4649-bbdb-53c8c9cc6f28&lt;br /&gt;d89d7e77-29ab-4caa-b920-add0d231192b&lt;br /&gt;83d89dc7-3cea-4db6-9d1a-5fe98a1ba493&lt;br /&gt;34040041-e858-4377-bd0e-6a14ff63d3ac&lt;br /&gt;e0c48431-a031-4d28-974e-2b213c3e1ec3&lt;br /&gt;e2c3197a-6418-4f67-b9c0-2a0a218a31d4&lt;br /&gt;243cf98d-9964-4af1-8f6f-65b4897a7e73&lt;br /&gt;42f9a02f-c19e-4829-93c7-744e84203f6c&lt;br /&gt;050aee07-d919-4575-8f70-d98236b2e6f5&lt;br /&gt;0d6ab96a-380f-498a-b68d-450630c1c543&lt;br /&gt;bbedde54-f1dc-4042-a0b0-858fd8ef1c2e&lt;br /&gt;cf6d6fa4-0b3b-4687-bc51-622faecc0cae&lt;br /&gt;cf92471c-1c40-4eed-909d-2a15ef25c75d&lt;br /&gt;e4873c2f-f494-4292-bf05-3578e33af4cc&lt;br /&gt;dd08627d-94ce-4282-a303-4cc26f17fc4b&lt;br /&gt;6b0503ad-c0a0-4156-a41e-1e7407752d47&lt;br /&gt;ef051c17-3b79-490a-bf89-fa40a9d39714&lt;br /&gt;b0846a1b-a743-4141-a4f5-2efe1f9c1122&lt;br /&gt;10dd2ba3-2b19-422d-9218-d879c5f63e18&lt;br /&gt;671ded72-ce89-42af-ac4a-b989bb9bafa6&lt;br /&gt;32975e5f-797c-45cf-b36a-58480ceaac5f&lt;br /&gt;bc53609d-7062-4c55-a2f8-9bfefff65f91&lt;br /&gt;d9a3b722-b4f8-4afc-9081-7760f77a6b50&lt;br /&gt;520ab8c2-5517-4325-894d-a66686eac156&lt;br /&gt;cb6687de-d268-410c-bdb4-75eda80ac431&lt;br /&gt;555a9398-e262-4f00-92f2-e3082e84284a&lt;br /&gt;8488d26c-406b-483b-980b-613693fc704f&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16910229</id>
-    <published>2023-04-19T11:14:37Z</published>
-    <updated>2023-04-19T11:14:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/f0v10tn6zg3f"/>
-    <title>PCI - WAW1 - host1437737</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437737&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;147d5ef9-1c1b-4f08-8183-c7171971b582&lt;br /&gt;ebade51f-7421-4c04-a790-2e7376392d9a&lt;br /&gt;b56a9353-da4f-4362-92c3-950147713755&lt;br /&gt;c479e36b-eaf9-4ffd-bdf3-6be85db900d4&lt;br /&gt;4e01613f-7411-4013-8b24-979d5db72f49&lt;br /&gt;b79f1b01-bd33-4b77-86ed-7e460765c9ea&lt;br /&gt;e9184572-7d33-4530-bf37-734dae44e44a&lt;br /&gt;c24d01af-24cf-46ef-80c0-7270b790d9b1&lt;br /&gt;b5c80b33-636b-4f7f-a6d4-a58473ef1ed3&lt;/p&gt;</content>
   </entry>
 </feed>

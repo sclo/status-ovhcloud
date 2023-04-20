@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-04-20T20:43:24Z</updated>
+  <updated>2023-04-20T22:02:31Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -169,6 +169,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/04/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be temporarily unreachable for 30 minutes each during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are moving servers inside the same rack.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16925005</id>
+    <published>2023-04-20T22:02:31Z</published>
+    <updated>2023-04-20T22:02:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wd9jjm9fcxmd"/>
+    <title>VPS - UK2 - host1261789</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;22:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1261789&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;ba1490c3-1769-41ce-a7c4-fd154fbab0cc&lt;br /&gt;5f4b544c-f4d6-4503-83fe-d9ddd5e84604&lt;br /&gt;78e066e7-2cb8-4775-8e8e-d00dda6fdca1&lt;br /&gt;c8001c90-ca10-4aae-89de-9783cdf1ba8a&lt;br /&gt;b3818d19-8d76-4662-a09c-f5fc9c2b055f&lt;br /&gt;7f00441e-c224-4238-bf68-4985bb0426f9&lt;br /&gt;f4997776-d417-4bc5-8b5f-e12533711f12&lt;br /&gt;6d69b771-89bb-41b3-b9ab-06748a1fd00a&lt;br /&gt;7955c940-2e89-4064-9745-558e5b0f8dab&lt;br /&gt;4700f771-5e62-4c0e-910f-356491f72154&lt;br /&gt;5b523684-bdf1-4a26-a5b5-80a874bd0b33&lt;br /&gt;4ef03aed-a145-4120-9cbb-2d5b6a44afc1&lt;br /&gt;3a954d6e-5b1c-4914-bb0e-b76c791b87f8&lt;br /&gt;9aa31c54-6c24-4dd8-a01c-33b0e5455690&lt;br /&gt;a15086f8-f879-4b75-9c2f-1667d9d20e17&lt;br /&gt;ffac7a21-a3d5-4af9-9f79-1d0dfcd59edd&lt;br /&gt;a952e27c-b84b-4c0a-8c16-145c5250e9db&lt;br /&gt;e11abfa6-535d-4e05-9207-bf4881b55080&lt;br /&gt;3c253c25-a6d3-4e8e-8108-9385351991a0&lt;br /&gt;b9a3b72e-cb7b-4b95-b770-da2042e43c28&lt;br /&gt;7b409493-1501-4c77-996b-b4c0c7fa321e&lt;br /&gt;f8321749-7d0f-49e2-857a-a0b6e5e47fa1&lt;br /&gt;03b6272b-8fc9-45f7-8d75-26f2c61dccd8&lt;br /&gt;23a6cd8f-c823-4192-b4f6-2e86e6bde1a7&lt;br /&gt;b742b0a5-ca79-41ae-940c-2e09529546e6&lt;br /&gt;68a97f2f-3834-4b13-ab57-b7d1aa42ba9a&lt;br /&gt;3c6164d3-7f91-4559-883b-0fe0d50a0f02&lt;br /&gt;22c1ac2c-da03-4cc8-94b2-dbc9102f8bf6&lt;br /&gt;2f563429-3cbe-4962-ae6c-27980563c61d&lt;br /&gt;5a811c4a-2745-461a-8976-13409aa72528&lt;br /&gt;2a28ddb1-19c9-42dd-a3d2-418b2d9349ca&lt;br /&gt;6a344d48-9717-4e06-80fa-081bfd32a831&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16923204</id>
     <published>2023-04-20T20:05:04Z</published>
     <updated>2023-04-20T20:05:04Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/y6b5yw0y5pf4"/>
     <title>[GRA][Network] - Network equipment maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/04/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be upgrading the version of a network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16919050</id>
-    <published>2023-04-20T13:05:03Z</published>
-    <updated>2023-04-20T13:05:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/q1xfxt288vx6"/>
-    <title>VPS - GRA1 - host647563</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host647563&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps282120&lt;br /&gt;vps235679&lt;br /&gt;vps296923&lt;br /&gt;vps293701&lt;br /&gt;vps288340&lt;br /&gt;vps287400&lt;br /&gt;vps287006&lt;br /&gt;vps281371&lt;br /&gt;vps280656&lt;br /&gt;vps279744&lt;br /&gt;vps279131&lt;br /&gt;vps220835&lt;br /&gt;vps268904&lt;br /&gt;vps268044&lt;br /&gt;vps261062&lt;br /&gt;vps248670&lt;br /&gt;vps247509&lt;br /&gt;vps239883&lt;br /&gt;vps239676&lt;br /&gt;vps236400&lt;br /&gt;vps233907&lt;br /&gt;vps228661&lt;br /&gt;vps227565&lt;br /&gt;vps221934&lt;br /&gt;vps220132&lt;br /&gt;vps219153&lt;br /&gt;vps218087&lt;br /&gt;vps216707&lt;br /&gt;vps209525&lt;br /&gt;vps208424&lt;br /&gt;vps205881&lt;/p&gt;</content>
   </entry>
 </feed>

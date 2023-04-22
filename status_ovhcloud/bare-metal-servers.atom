@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-04-22T07:03:46Z</updated>
+  <updated>2023-04-22T09:01:04Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -177,6 +177,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/04/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be temporarily unreachable for 30 minutes each during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are moving servers inside the same rack.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16937041</id>
+    <published>2023-04-22T09:01:04Z</published>
+    <updated>2023-04-22T09:01:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/5fr0ts29cckh"/>
+    <title>VPS - GRA1 - host647563</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host647563&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps282120&lt;br /&gt;vps235679&lt;br /&gt;vps296923&lt;br /&gt;vps293701&lt;br /&gt;vps288340&lt;br /&gt;vps287400&lt;br /&gt;vps287006&lt;br /&gt;vps281371&lt;br /&gt;vps280656&lt;br /&gt;vps279744&lt;br /&gt;vps279131&lt;br /&gt;vps220835&lt;br /&gt;vps268904&lt;br /&gt;vps268044&lt;br /&gt;vps261062&lt;br /&gt;vps248670&lt;br /&gt;vps247509&lt;br /&gt;vps239883&lt;br /&gt;vps239676&lt;br /&gt;vps236400&lt;br /&gt;vps233907&lt;br /&gt;vps228661&lt;br /&gt;vps227565&lt;br /&gt;vps221934&lt;br /&gt;vps220132&lt;br /&gt;vps219153&lt;br /&gt;vps218087&lt;br /&gt;vps216707&lt;br /&gt;vps209525&lt;br /&gt;vps208424&lt;br /&gt;vps205881&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16935505</id>
     <published>2023-04-22T07:03:46Z</published>
     <updated>2023-04-22T07:03:46Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/k3tg704y3q81"/>
     <title>[SGP1][Network] - Rack 050811</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/04/2023 20:34 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 21/04/2023 20:37 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; network equipment malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/04/2023 20:34 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network is down.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; network equipment malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16932273</id>
-    <published>2023-04-21T17:38:51Z</published>
-    <updated>2023-04-21T17:38:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/dpr5pcjnjzrr"/>
-    <title>[RBX8][Dedicated Servers] - R821R16 - R821R17 - R821R18</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/04/2023 16:42 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 21/04/2023 17:37 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue. &lt;br /&gt;Our technical teams resolved the issue. All impacted servers are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/04/2023 16:42 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Due to an electrical issue, some servers in the listed racks are unreachable. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on this issue.&lt;/p&gt;</content>
   </entry>
 </feed>

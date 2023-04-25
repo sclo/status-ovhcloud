@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-04-25T03:29:58Z</updated>
+  <updated>2023-04-25T03:33:36Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -145,6 +145,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;22:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/04/2022 04:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/04/2022 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Interruption of the public network on rack 46K09 during maintenance (30 minutes).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams must perform a reboot of a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16958412</id>
+    <published>2023-04-25T03:31:11Z</published>
+    <updated>2023-04-25T03:33:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/y3ynjm182x44"/>
+    <title>[BHS8][Network] - BHS0807A03C</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/04/2023 03:17 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/04/2023 03:22 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the loss of some servers in this rack BHS0807A03C.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16782847</id>
     <published>2023-04-24T23:38:07Z</published>
     <updated>2023-04-24T23:38:07Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fnfh9pmmjr4d"/>
     <title>[RBX3][Dedicated Servers] - Rack 45B22</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;05:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;18:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/04/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/04/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be temporarily unreachable for 30 minutes each during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are moving servers inside the same rack.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16948489</id>
-    <published>2023-04-24T04:02:29Z</published>
-    <updated>2023-04-24T04:02:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xlpvww5vcvrj"/>
-    <title>VPS - WAW2 - host1291285</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;03:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1291285&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;98a5f54e-1b04-40c3-81cc-cb100f1b72dd&lt;br /&gt;c03c08a4-c591-42de-bfa3-0757e2e6e3ee&lt;br /&gt;aecd2721-0ae8-4568-8bee-01b6c1df359a&lt;br /&gt;3c18a805-bbc0-4a0d-968d-6463021c43c0&lt;br /&gt;2a57708c-5eac-4d40-9aac-31135f7a7114&lt;br /&gt;0a307b56-a7ad-4dbd-a85c-5bc9d995e51c&lt;br /&gt;0f16deb9-3e61-4b29-8177-d38a95743499&lt;br /&gt;d4dfaea5-7cad-40bb-9710-8f3044e723ce&lt;br /&gt;e0d2ac5b-0d01-4adc-8f25-a392a7d48c61&lt;br /&gt;09cec878-a99a-4e87-bdc8-62c83dc45289&lt;br /&gt;9ce9d449-fabe-4db2-96db-4f7323c31ef3&lt;br /&gt;f8e02e6e-e4db-424f-a75f-8fffcb95006d&lt;br /&gt;4b2f26ca-167a-490e-8936-a6d277d0178c&lt;br /&gt;7708f491-24b6-4847-9e40-1e837e7ac57e&lt;br /&gt;5ddc6587-3867-409b-9a05-8d0a1ce8f249&lt;br /&gt;b3f1d1dc-2dca-4084-af00-9a8f198da6f4&lt;br /&gt;31977846-4675-4da7-8680-d7f9238183bb&lt;br /&gt;ab8c372b-87cf-4882-bc11-77bc906d6bf7&lt;br /&gt;c1089e22-0c76-4951-89cf-0e4fff2fce53&lt;br /&gt;15131373-8ba7-421d-addf-9cd5c7567042&lt;br /&gt;160e2189-ef55-48d8-b010-00f6b2b2e63a&lt;br /&gt;f013cbdb-4cd3-4f2e-b370-cce932606980&lt;br /&gt;4984fbc2-e408-49a8-9166-0e3ab775cd76&lt;br /&gt;205dc571-d227-4c32-8c8e-ab1d613e99b2&lt;br /&gt;72ec1866-6666-434b-80d9-c1d274f531f9&lt;br /&gt;632eb775-a7d7-425e-8802-e27783c5e264&lt;br /&gt;6f7e7d50-d0eb-4fca-9438-91ae868c848b&lt;br /&gt;2ed303b4-7c98-4520-a1e9-7f6a036d61f4&lt;br /&gt;6f5c316e-35d9-4597-a1be-15aa458f0be1&lt;br /&gt;06a76c76-0d3e-4df9-b68e-cdb5fcf85464&lt;br /&gt;53f2a9b9-1b10-490c-b100-b3fc924fdf9c&lt;br /&gt;733022c1-16a2-4ddb-9643-27a8b28b3099&lt;br /&gt;e206d5d2-1a43-4405-9ecf-124ef690a7b8&lt;br /&gt;46d0546f-0ed0-4d98-bb91-2296a28f6ad7&lt;br /&gt;2cc38656-7a23-4cec-81fd-eb1764019b68&lt;br /&gt;09caefa5-8acf-4240-a4ab-44a92b8393a3&lt;br /&gt;7216e159-6100-42fe-af51-2c0d0026042d&lt;br /&gt;b89e84b8-f8c4-4927-8774-6a2e894fedf1&lt;br /&gt;451caedc-4c15-412d-a750-1c016e82145a&lt;br /&gt;7ae0d556-eece-4f72-bbfe-53f84a1c0826&lt;br /&gt;c3a91bb0-2436-48e1-b5a6-c8e0d0e8afe9&lt;br /&gt;a6500569-fb83-4be6-ad5f-b5828fdd7805&lt;br /&gt;f1089eef-0717-4a20-9f70-6e92e614c8f3&lt;br /&gt;4179340b-4fa4-47aa-b45b-5b3a76d836f2&lt;br /&gt;9dfdbbec-1445-402d-a910-78c96293e746&lt;br /&gt;e5aace43-2c3f-4581-8460-d05517f712fa&lt;br /&gt;a8e75606-5459-4594-8088-fb5b52c78658&lt;/p&gt;</content>
   </entry>
 </feed>

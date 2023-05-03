@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-05-02T21:54:46Z</updated>
+  <updated>2023-05-03T09:47:08Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rslskky2xmxw"/>
     <title>[GRA][ManagedPrivateRegistry] -  Registries version upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/05/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The service will be unreachable for less than one minute.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we need to perform a version upgrade on the registries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17130186</id>
+    <published>2023-05-03T09:47:08Z</published>
+    <updated>2023-05-03T09:47:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5ng5vjgmlr8f"/>
+    <title>PCI - GRA3 - host799217</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;09:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host799217&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;bfe4d089-2e2c-4d04-8e6a-78648fc487e7&lt;br /&gt;f4e3e05c-b277-49e6-aa9f-cf7e4f7f90bf&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16871677</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rmm5r9gnv4bw"/>
     <title>PCI - GRA5 - host1003871</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;11:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1003871&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;1b24ac5a-0606-4344-9547-1a64c09e25ec&lt;br /&gt;046045b6-8c39-4cb4-8d9d-e1e9471f2135&lt;br /&gt;bbfcf35b-14fd-4f30-ba96-8f3d32e2961e&lt;br /&gt;a79d1cbd-d40b-46f4-b3b0-537bca30afb7&lt;br /&gt;afd459c2-4d36-46c9-ae39-17b6ba2e4f49&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/16980218</id>
-    <published>2023-04-27T09:53:41Z</published>
-    <updated>2023-04-27T09:53:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vpnjjfdyx9qd"/>
-    <title>[Global][Management] - Manager and APIv6 perturbation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/04/2023 09:24 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/04/2023 09:36 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software malfunction&lt;br /&gt;Public Cloud manager and APIv6 were unavailable.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
 </feed>

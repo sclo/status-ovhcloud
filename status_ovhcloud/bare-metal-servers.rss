@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 05 May 2023 14:57:33 +0000</pubDate>
+    <pubDate>Sat, 06 May 2023 03:59:39 +0000</pubDate>
     <item>
       <title>[RBX/LIM/SBG/ERI][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -195,6 +195,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5y22658wb8w8</guid>
     </item>
     <item>
+      <title>VPS - GRA1 - host574618</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra-z1b6-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G122A07&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host574618&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps204344&lt;br /&gt;vps229024&lt;br /&gt;vps233652&lt;br /&gt;vps282119&lt;/p&gt;      </description>
+      <pubDate>Sat, 06 May 2023 03:59:39 +0000</pubDate>
+      <maintenanceEndDate>Wed, 26 Apr 2023 17:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/25wnydpv8jn5</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/25wnydpv8jn5</guid>
+    </item>
+    <item>
       <title>[GRA3][Dedicated Servers] - GRA0326A06B</title>
       <description>
 &lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/05/2023 13:30 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/05/2023 14:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack GRA0326A06B were temporarily unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/05/2023 13:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack GRA0326A06B are temporarily unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
@@ -217,15 +226,6 @@
       <pubDate>Thu, 04 May 2023 21:48:24 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/d3b2fy5jgdgt</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/d3b2fy5jgdgt</guid>
-    </item>
-    <item>
-      <title>[RBX6/GRA2/ERI1][Dedicated Servers] - Network equipment version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/05/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/05/2023 21:27 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/05/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/05/2023 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on network equipment.&lt;/p&gt;      </description>
-      <pubDate>Thu, 04 May 2023 21:28:05 +0000</pubDate>
-      <maintenanceEndDate>Thu, 04 May 2023 22:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/27ps0v0133nl</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/27ps0v0133nl</guid>
     </item>
   </channel>
 </rss>

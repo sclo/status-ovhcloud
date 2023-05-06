@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-05-06T03:59:39Z</updated>
+  <updated>2023-05-06T07:40:27Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -177,6 +177,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;02:30&lt;/var&gt; - &lt;var data-var='time'&gt;03:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;17:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2023 02:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/05/2023 03:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be unavailable for servers in rack ERI0112D04C for 1 hour&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17161994</id>
+    <published>2023-05-06T07:40:27Z</published>
+    <updated>2023-05-06T07:40:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/12g2wrm382ql"/>
+    <title>[RBX5][Network] - Rack 46E05</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams resolved the issue for most of the impacted services.&lt;br /&gt;We are hands on the remaining ones.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/05/2023 07:29 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/16908935</id>
     <published>2023-05-06T03:59:39Z</published>
     <updated>2023-05-06T03:59:39Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xwt7r639lkjl"/>
     <title>[LIM3][Network] - LIM0311B03B</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/05/2023 06:49 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/05/2023 08:41 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a defective switch.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Our team has replaced the faulty switch. The servers are being reconnected.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/05/2023 06:49 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network is unavailable on LIM0311B03B.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a defective switch.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team will do the switch replacement.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17147635</id>
-    <published>2023-05-04T21:48:24Z</published>
-    <updated>2023-05-04T21:48:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/d3b2fy5jgdgt"/>
-    <title>[GRA2][Dedicated Servers] - G233B14</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 04/05/2023 19:36 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/05/2023 21:38 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failure on a cooling system module.&lt;br /&gt;Our technical teams resolved the issue. All impacted servers are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 04/05/2023 19:36 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/05/2023 21:38 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Failure on a cooling system module.&lt;br /&gt;Our technical teams resolved the issue. We keep this task under monitoring for few hours.&lt;/p&gt;</content>
   </entry>
 </feed>

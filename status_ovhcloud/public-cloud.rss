@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 17 May 2023 02:43:14 +0000</pubDate>
+    <pubDate>Wed, 17 May 2023 02:49:58 +0000</pubDate>
+    <item>
+      <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud] - End of life for Kubernetes 1.21</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/07/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.22).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.22).&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Jul 2023 06:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 06 Jul 2023 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/kv4b88qmz8s6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/kv4b88qmz8s6</guid>
+    </item>
     <item>
       <title>[EU/CA][LogsDataPlatform] - Protocol migration</title>
       <description>
@@ -209,15 +218,6 @@
       <maintenanceEndDate>Wed, 10 May 2023 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/xk8y5qx1h4wz</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/xk8y5qx1h4wz</guid>
-    </item>
-    <item>
-      <title>[OR1/SGP1/SYD1/VA1/WAW1][ManagedKubernetesService] - Nodes underlying OS LTS update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/05/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will upgrade our public cloud nodes underlying OS from Ubuntu 18.04 LTS to Ubuntu 22.04 LTS.&lt;br /&gt;Only clusters with an upgrade policy set to &quot;always update&quot; are targeted&lt;/p&gt;      </description>
-      <pubDate>Wed, 10 May 2023 10:05:46 +0000</pubDate>
-      <maintenanceEndDate>Thu, 11 May 2023 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/zr5mpl1jhcfd</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/zr5mpl1jhcfd</guid>
     </item>
   </channel>
 </rss>

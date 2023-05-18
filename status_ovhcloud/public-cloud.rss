@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 17 May 2023 17:05:07 +0000</pubDate>
+    <pubDate>Thu, 18 May 2023 12:14:54 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud] - End of life for Kubernetes 1.21</title>
       <description>
@@ -94,6 +94,14 @@
       <maintenanceEndDate>Wed, 31 May 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/f671hp5tktcz</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/f671hp5tktcz</guid>
+    </item>
+    <item>
+      <title>PCI - GRA5 - host947171</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host5-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G212A16&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947171&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0ab88b10-6a27-4af5-bad6-5fe8f2687dc1&lt;br /&gt;3197cbbf-0f8b-4115-94ac-e736ffcfc37f&lt;br /&gt;36343731-ae8e-4dc1-b958-0a373055a7b1&lt;br /&gt;529ce522-29c4-4a85-ad38-53ef5aba3e6b&lt;br /&gt;53011920-227f-4717-89a0-ae863ee49823&lt;br /&gt;5475ea09-8300-4701-8f58-e840545d853a&lt;br /&gt;79dfe463-5884-46c2-9b7f-2bf1086538ed&lt;br /&gt;9ad01ebb-418a-42d5-b036-8610602cff1e&lt;br /&gt;a3f97b4b-d2c0-4036-abab-38513b2712d8&lt;br /&gt;c4759413-f0ce-4d34-8ed8-86a4cfc96790&lt;br /&gt;dcd9fb18-0051-440a-a0aa-b297a76522ec&lt;br /&gt;e2efbe4b-a46e-4829-9e82-041f5a47f536&lt;br /&gt;f0640a5e-89ca-4fc7-a074-c7cb6a3d398d&lt;/p&gt;      </description>
+      <pubDate>Thu, 18 May 2023 12:14:54 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/wk84y9pds3wc</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/wk84y9pds3wc</guid>
     </item>
     <item>
       <title>PCI - UK1 - host1307911</title>
@@ -208,15 +216,6 @@
       <pubDate>Fri, 12 May 2023 13:05:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/qyw3vnmy563s</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/qyw3vnmy563s</guid>
-    </item>
-    <item>
-      <title>[Global][Managed Kubernetes Service] - Deprecation of the Kubernetes version 1.23</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/05/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/05/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delivery and reset of Managed Kubernetes clusters v1.23 disabled&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Following our end-of-support policy, the Managed Kubernetes Service team will mark as deprecated the Kubernetes version 1.23. &lt;br /&gt;It will no longer be possible to create Managed Kubernetes clusters under the 1.23 version, or to reset existing clusters into this version. &lt;br /&gt;For more details, please refer to these documentations: https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/ and https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/&lt;/p&gt;      </description>
-      <pubDate>Thu, 11 May 2023 15:48:34 +0000</pubDate>
-      <maintenanceEndDate>Thu, 11 May 2023 07:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/cpnb0gm4vjtp</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/cpnb0gm4vjtp</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 22 May 2023 13:21:16 +0000</pubDate>
+    <pubDate>Mon, 22 May 2023 13:35:44 +0000</pubDate>
     <item>
       <title>[RBX/LIM/SBG/ERI][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -150,6 +150,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c6prctyhm4cg</guid>
     </item>
     <item>
+      <title>[GRA2][Dedicated Servers] - G265B15</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/05/2023 13:03 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 22/05/2023 12:16 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Mon, 22 May 2023 13:34:06 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sjy2qxbt1xy3</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/sjy2qxbt1xy3</guid>
+    </item>
+    <item>
       <title>[GRA2][Dedicated Servers] - G266B15</title>
       <description>
 &lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A replacement of the affected equipment is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/05/2023 12:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers  in this rack G266B15 are currently unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Issue on cooling module system.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are workining on this issue.&lt;/p&gt;      </description>
@@ -213,14 +221,6 @@
       <pubDate>Wed, 17 May 2023 17:33:09 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0w25zztc5rrf</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0w25zztc5rrf</guid>
-    </item>
-    <item>
-      <title>[SYD/SGP][VirtalPrivateServers] - Traffic bandwidth limitation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 01/05/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 17/05/2023 14:29 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a bug in a metric component of our infrastructure.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; Our teams are in the process of putting a fix in production to solve the problem. Update will be post as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/05/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some VPS traffic have been limited.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Email percentage calculation is in progress. Correct limitation will be apply on each VPS&lt;br /&gt;For VPS solutions hosted in Sydney and Singapore: There is traffic limitation : 1TB traffic/month for the Starter and Value ranges, 2TB/month for the Essential range, 3TB/month for the Comfort range, and 4TB/month for the Elite range. Bandwidth is reduced to 10Mbit/s once the monthly quota has been exceeded.&lt;br /&gt;An email alert is sent regarding the bandwidth reduction.&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 17 May 2023 14:39:06 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lf4z6c4l6n47</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lf4z6c4l6n47</guid>
     </item>
   </channel>
 </rss>

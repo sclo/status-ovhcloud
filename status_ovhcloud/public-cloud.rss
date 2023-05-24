@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 24 May 2023 15:51:48 +0000</pubDate>
+    <pubDate>Wed, 24 May 2023 16:43:39 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -67,6 +67,14 @@
       <maintenanceEndDate>Wed, 31 May 2023 00:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5vd59pntl396</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5vd59pntl396</guid>
+    </item>
+    <item>
+      <title>[UK][Storage] - Object Storage Swift</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/05/2023 09:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are getting error 503 for object storage swift&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 24 May 2023 16:43:06 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/rrz72118t57r</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/rrz72118t57r</guid>
     </item>
     <item>
       <title>PCI - BHS5 - host328072</title>
@@ -208,14 +216,6 @@
       <pubDate>Wed, 17 May 2023 17:05:07 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/53gtxby480ph</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/53gtxby480ph</guid>
-    </item>
-    <item>
-      <title>[GRA][Public Cloud] - Cloud Databases</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 17/05/2023 12:20 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 17/05/2023 14:30 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Database migration of our workflow manager in GRA was corrupted due to a schema update. &lt;br /&gt;Our technical teams redeployed it and now everything is back to normal. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/05/2023 12:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Any action concerning the creation/deletion/update of databases is unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 17 May 2023 14:41:48 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/7mhzfq6q6zj1</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/7mhzfq6q6zj1</guid>
     </item>
   </channel>
 </rss>

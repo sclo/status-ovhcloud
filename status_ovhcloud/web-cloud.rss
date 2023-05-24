@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 24 May 2023 16:09:40 +0000</pubDate>
+    <pubDate>Wed, 24 May 2023 16:27:48 +0000</pubDate>
     <item>
       <title>[GRA][WebHosting] - Service Migration</title>
       <description>
@@ -103,6 +103,14 @@
       <maintenanceEndDate>Wed, 24 May 2023 22:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/v6nr97gyxtfh</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/v6nr97gyxtfh</guid>
+    </item>
+    <item>
+      <title>[FR][VoIP] - SMS</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/05/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some SMS have the status &quot;waiting to be received&quot; or &quot;not sent&quot; but are in fact received by the customer&lt;br /&gt;Since 24/05/2023 15:50 UTC, the situation is back to normal.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently working to solve the problem&lt;/p&gt;      </description>
+      <pubDate>Wed, 24 May 2023 16:27:48 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/4z5q4c0qlt3w</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/4z5q4c0qlt3w</guid>
     </item>
     <item>
       <title>[FR][VoIP] - SMS reception delay</title>
@@ -213,15 +221,6 @@
       <maintenanceEndDate>Wed, 17 May 2023 00:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/3c4q32b12zkx</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/3c4q32b12zkx</guid>
-    </item>
-    <item>
-      <title>[GRA1][Web Hosting] - LoadBalancer Update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance has been postponed and will be rescheduled.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/05/2023 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/05/2023 12:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Related Maintenance :&lt;/b&gt; &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/1x633g43hgy8&quot;&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade our load balancer software. &lt;br /&gt;This update will be deployed for all webhosting clusters in GRA1.&lt;/p&gt;      </description>
-      <pubDate>Wed, 17 May 2023 15:07:16 +0000</pubDate>
-      <maintenanceEndDate>Mon, 22 May 2023 12:30:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/18544lzcypq1</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/18544lzcypq1</guid>
     </item>
   </channel>
 </rss>

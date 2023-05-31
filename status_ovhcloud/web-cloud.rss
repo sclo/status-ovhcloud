@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 31 May 2023 21:06:27 +0000</pubDate>
+    <pubDate>Wed, 31 May 2023 21:34:41 +0000</pubDate>
     <item>
       <title>[GRA][WebHosting] - Cluster003 - Filerz890</title>
       <description>
@@ -49,6 +49,15 @@
       <maintenanceEndDate>Tue, 06 Jun 2023 22:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/l7kmpmy9kyvp</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/l7kmpmy9kyvp</guid>
+    </item>
+    <item>
+      <title>[GRA7][WebPaaS] - Infrastructure Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/06/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/06/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; At one point, a short downtime of no more than 10 minutes will be experienced. Integrations and webhooks may fail during the maintenance, and you may notice increased deployment times.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a infrastructure maintenance on OVHCLOUD-FR-1 region to release the latest features, bug fixes and performance updates. All projects and environments will continue to function during the upgrade except at one point.&lt;/p&gt;      </description>
+      <pubDate>Mon, 05 Jun 2023 19:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 05 Jun 2023 20:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/h3855qps6cy4</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/h3855qps6cy4</guid>
     </item>
     <item>
       <title>[GRA][Web Hosting] - Data Migration - Filerz867</title>
@@ -215,14 +224,6 @@
       <pubDate>Thu, 25 May 2023 12:45:35 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/4z5q4c0qlt3w</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/4z5q4c0qlt3w</guid>
-    </item>
-    <item>
-      <title>[FR][VoIP] - SMS reception delay</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/05/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/05/2023 15:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were experiencing delay in the reception/emission of SMS.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/05/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers might experience delay in the reception/emission of SMS.&lt;br /&gt;No latency is experienced for messages received/sent after 15:50 UTC.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently working to solve the problem&lt;/p&gt;      </description>
-      <pubDate>Thu, 25 May 2023 12:44:26 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/mfr6qqfsj0sr</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/mfr6qqfsj0sr</guid>
     </item>
   </channel>
 </rss>

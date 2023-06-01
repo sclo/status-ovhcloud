@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-01T17:43:28Z</updated>
+  <updated>2023-06-01T17:59:02Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6ctzn8x1bc8f"/>
     <title>[WAW1][Network] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;01:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/06/2023 19:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17445208</id>
+    <published>2023-06-01T17:59:02Z</published>
+    <updated>2023-06-01T17:59:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/yynw184w96n3"/>
+    <title>PCI - GRA9 - host1620590</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1620590&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;54350ae3-52fa-449f-9da2-0657bfbfc731&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17444910</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kyptn1y62grk"/>
     <title>[GRA][Managed Private Registry] - Harbor maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;Below you can find the new end time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/05/2023 19:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; There were unexpected timeouts between 09:30 UTC and 10:10 UTC. The situation has since returned to normal.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;02:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/05/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/05/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A downtime of less than 10 seconds might be observed twice during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to improve Harbor 2 infrastructure upgrade on GRA region.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17354447</id>
-    <published>2023-05-24T17:03:36Z</published>
-    <updated>2023-05-24T17:03:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rrz72118t57r"/>
-    <title>[UK][Storage] - Object Storage Swift</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/05/2023 16:09 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/05/2023 16:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were getting error 503 for object storage swift&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network issue caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/05/2023 16:09 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are getting error 503 for object storage swift&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

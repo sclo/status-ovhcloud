@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jun 2023 20:43:22 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2023 23:10:44 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Thu, 15 Jun 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
+    </item>
+    <item>
+      <title>PCI - GRA11 - host1603331</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1603331&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;39e2f662-39e3-496e-80a6-d6081a2acd4f&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Jun 2023 23:10:44 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/1m911j8brhsc</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/1m911j8brhsc</guid>
     </item>
     <item>
       <title>PCI - GRA9 - host1610106</title>
@@ -204,14 +212,6 @@
       <pubDate>Tue, 30 May 2023 17:18:32 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/zsdv0rph3g5n</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/zsdv0rph3g5n</guid>
-    </item>
-    <item>
-      <title>[DE][Managed Private Registry] - Registries unavailable</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/05/30 13:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2023/05/30 13:44 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt;The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A malfunction on a software needed to be fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/05/30 13:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2023/05/30 13:44 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt;The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/05/30 13:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are unable to pull and push Docker images or to login to Harbor UI.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 30 May 2023 15:46:24 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/8x74jkydvyml</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/8x74jkydvyml</guid>
     </item>
   </channel>
 </rss>

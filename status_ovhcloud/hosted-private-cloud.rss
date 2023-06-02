@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jun 2023 04:43:17 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2023 08:52:13 +0000</pubDate>
     <item>
       <title>[RBX7][Hosted Private Cloud] - Network equipement operation</title>
       <description>
@@ -67,6 +67,14 @@
       <maintenanceEndDate>Fri, 09 Jun 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m1kb5psytrfp</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m1kb5psytrfp</guid>
+    </item>
+    <item>
+      <title>[BHS/ERI/LIM/SBG/WAW/RBX][Hosted Private Cloud] - Veeam Licensing</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Please note the incident.&lt;br /&gt;&lt;br /&gt;Following all the necessary information.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time:&lt;/b&gt;  01/06/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Endtime:&lt;/b&gt; 06/06/2023 18h00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are in the process of renewing the Veeam licensing, but due to some issues, we entered into a Grace Period.&lt;br /&gt;You may experience some issues to get new licenses from our Veeam Enterprise offer, and messages speaking about Grace Period.&lt;br /&gt;This isn’t impacting our Managed Veeam Backup offer.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; We are working the renewal with our partner, we expect to receive the new license in the following days.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; : Current license entered into Grace Period.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;br /&gt;&lt;br /&gt;OVHcloud Technical team&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Jun 2023 08:52:13 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/z9j924tqx1q0</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/z9j924tqx1q0</guid>
     </item>
     <item>
       <title>[BHS][Vmware Private cloud] - Hosts unreachable</title>
@@ -216,15 +224,6 @@
       <pubDate>Mon, 15 May 2023 07:45:43 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/nncffhmsyx2d</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/nncffhmsyx2d</guid>
-    </item>
-    <item>
-      <title>[Global][HostedPrivateCloud] - Zerto update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Due to a reorganization of the schedule, the maintenance will be extended to the next date: 12/05/2023 19:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/04/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/05/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; synchronization between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 1 hour per site.&lt;/p&gt;      </description>
-      <pubDate>Fri, 12 May 2023 19:24:19 +0000</pubDate>
-      <maintenanceEndDate>Fri, 12 May 2023 19:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/8b12d7n12j0m</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/8b12d7n12j0m</guid>
     </item>
   </channel>
 </rss>

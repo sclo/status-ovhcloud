@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jun 2023 08:58:18 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2023 09:36:44 +0000</pubDate>
     <item>
       <title>[RBX7][Hosted Private Cloud] - Network equipement operation</title>
       <description>
@@ -69,6 +69,15 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m1kb5psytrfp</guid>
     </item>
     <item>
+      <title>[RBX1A/SBG2A][HostedPrivateCloud] - GWSSL operation</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/05/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere wont be available during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a operation on deployments of the GatewaySSL VMs.&lt;/p&gt;      </description>
+      <pubDate>Fri, 02 Jun 2023 09:36:44 +0000</pubDate>
+      <maintenanceEndDate>Fri, 02 Jun 2023 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/jzzccxjtqtmx</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/jzzccxjtqtmx</guid>
+    </item>
+    <item>
       <title>[BHS/ERI/LIM/SBG/WAW/RBX][Hosted Private Cloud] - Veeam Licensing</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Please note the incident.&lt;br /&gt;&lt;br /&gt;Following all the necessary information.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time:&lt;/b&gt;  01/06/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Endtime:&lt;/b&gt; 06/06/2023 18h00&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are in the process of renewing the Veeam licensing, but due to some issues, we entered into a Grace Period.&lt;br /&gt;You may experience some issues to get new licenses from our Veeam Enterprise offer, and messages speaking about Grace Period.&lt;br /&gt;This isn’t impacting our Managed Veeam Backup offer.&lt;br /&gt;&lt;b&gt;Ongoing Actions:&lt;/b&gt; We are working the renewal with our partner, we expect to receive the new license in the following days.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; : Current license entered into Grace Period.&lt;/p&gt;      </description>
@@ -101,15 +110,6 @@
       <maintenanceEndDate>Mon, 29 May 2023 14:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/w6bpx6v51hkg</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/w6bpx6v51hkg</guid>
-    </item>
-    <item>
-      <title>[RBX1A/SBG2A][HostedPrivateCloud] - GWSSL operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/05/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere wont be available during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform a operation on deployments of the GatewaySSL VMs.&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 May 2023 06:00:10 +0000</pubDate>
-      <maintenanceEndDate>Fri, 02 Jun 2023 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/jzzccxjtqtmx</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/jzzccxjtqtmx</guid>
     </item>
     <item>
       <title>[RBX1A/SBG2A][HostedPrivateCloud] - GWSSL operation</title>

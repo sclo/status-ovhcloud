@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Jun 2023 23:43:13 +0000</pubDate>
+    <pubDate>Sat, 03 Jun 2023 01:43:14 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Thu, 15 Jun 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
+    </item>
+    <item>
+      <title>PCI - GRA11 - host1392013</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1392013&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;a2f29c94-b7bd-416d-8642-d205f8114451&lt;br /&gt;e2944dd9-935c-4265-adc8-9e60ef000fa1&lt;br /&gt;7d22e20b-b2c4-4152-bdd7-90b6ce940851&lt;br /&gt;ad44385b-5ef2-4c93-b96b-dbe6a663c11b&lt;br /&gt;29970b7b-7ea8-40fa-ad79-d4ea734ab6b0&lt;br /&gt;18485593-6a8f-4bd9-833d-4ac21b5167ae&lt;/p&gt;      </description>
+      <pubDate>Sat, 03 Jun 2023 01:24:29 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/b232rtw5kzm6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/b232rtw5kzm6</guid>
     </item>
     <item>
       <title>PCI - GRA11 - host1603331</title>
@@ -204,14 +212,6 @@
       <pubDate>Tue, 30 May 2023 23:08:22 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4cgytzry8mjj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4cgytzry8mjj</guid>
-    </item>
-    <item>
-      <title>[DE1/GRA9 /GRA3/GRA11/SBG7/BHS5][Loadbalancer] - FIP unavailable</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/05/30 13:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2023/05/30 17:14 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A malfunction on a software needed to be fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The disruption on DE1 has been fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Related incident :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/8x74jkydvyml&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/05/30 13:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers are unable to join their Floating ip link to Octavia loadbalancer&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 30 May 2023 17:18:32 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/zsdv0rph3g5n</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/zsdv0rph3g5n</guid>
     </item>
   </channel>
 </rss>

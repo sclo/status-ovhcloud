@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-04T04:43:10Z</updated>
+  <updated>2023-06-04T05:21:54Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73"/>
     <title>[GLOBAL][ManagedKubernetesService] Managed nodes OS upgrades for clusters in "Do not update" and "Minimum unavailability" policy update configuration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact is expected but you should have enough nodes in your K8S cluster to allow a rolling upgrade of them and to absorb a rescheduling of your workload without downtime.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will upgrade all public cloud instances (a.k.a. nodes) managed by the MKS team and running in your Kubernetes clusters to upgrade them from the operating system Ubuntu 18.04.06 LTS version to the Ubuntu 22.04.02 LTS version.&lt;br /&gt;Clusters with an upgrade policy set to "Do not update / NEVER_UPDATE" and "Minimum unavailability / MINIMAL_DOWNTIME" are targeted by this maintenance.&lt;br /&gt;To prevent non wanted upgrade on MKS services, we leave it up to the customers more time to manage this upgrade by themselves.&lt;br /&gt;But, as the Ubuntu 18.04 LTS support will be disabled on the 31/05/2023, be aware that in case of critical vulnerability, we kept the right to force upgrade impacted services to patch as soon as possible vulnerable managed control planes and nodes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17467725</id>
+    <published>2023-06-04T05:21:54Z</published>
+    <updated>2023-06-04T05:21:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pr08wj13y9xg"/>
+    <title>PCI - DE1 - host990333</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;05:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host990333&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;5b14e8be-77ad-4bb6-864f-220c47f775eb&lt;br /&gt;f614fa8b-c917-432c-9f2f-be0c58d528e5&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17467450</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pcpkkdj2t0m2"/>
     <title>PCI - WAW1 - host1437737</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;05:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;05:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437737&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;ac2c8bc7-9f23-4795-ac1e-198ef810d2ee&lt;br /&gt;147d5ef9-1c1b-4f08-8183-c7171971b582&lt;br /&gt;b56a9353-da4f-4362-92c3-950147713755&lt;br /&gt;c24d01af-24cf-46ef-80c0-7270b790d9b1&lt;br /&gt;b5c80b33-636b-4f7f-a6d4-a58473ef1ed3&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17436724</id>
-    <published>2023-05-31T23:29:39Z</published>
-    <updated>2023-05-31T23:29:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/scvyb1pqx1m0"/>
-    <title>PCI - BHS5 - host337198</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;23:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;23:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host337198&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;77ac2810-5005-4f07-b330-00702c39a96f&lt;br /&gt;05849246-de90-4b54-8795-2d530a41bd23&lt;br /&gt;fd16d116-0f1b-4d23-bba7-f1c62a5e8968&lt;br /&gt;ac6a2aea-5d41-4694-8d32-a1d038d2a748&lt;br /&gt;abb29c4c-4181-4551-8cea-2c0fc3102d93&lt;br /&gt;2a101eaa-51b6-4300-a0a3-81e4aa880812&lt;/p&gt;</content>
   </entry>
 </feed>

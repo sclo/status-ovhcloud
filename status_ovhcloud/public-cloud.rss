@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 05 Jun 2023 10:43:22 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2023 10:56:00 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Thu, 15 Jun 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
+    </item>
+    <item>
+      <title>PCI - GRA11 - host1639296</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1639296&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;268d85f1-0fce-4197-a9cb-d5eba1a0770a&lt;br /&gt;949c0aed-2e01-43dc-be09-779f16636bec&lt;/p&gt;      </description>
+      <pubDate>Mon, 05 Jun 2023 10:56:00 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/3tn3hjzc1h5f</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/3tn3hjzc1h5f</guid>
     </item>
     <item>
       <title>[US][PublicCloud] - Keystone API</title>
@@ -200,14 +208,6 @@
       <pubDate>Fri, 02 Jun 2023 23:10:44 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1m911j8brhsc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1m911j8brhsc</guid>
-    </item>
-    <item>
-      <title>[DE1][Public Cloud] -  Openstacks API</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/06/2023 10:25 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/06/2023 10:49 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/06/2023 10:25 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Openstack APIs on DE1 region do not work. Currently running instances are not impacted.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating the origin of this disruption&lt;/p&gt;      </description>
-      <pubDate>Fri, 02 Jun 2023 11:06:06 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/mj8n5hnv3k6g</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/mj8n5hnv3k6g</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2023-06-02T14:48:11Z</updated>
+  <updated>2023-06-05T15:20:15Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/17479937</id>
+    <published>2023-06-05T15:03:17Z</published>
+    <updated>2023-06-05T15:20:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/pc6mgr7pbtb3"/>
+    <title>[CA][Customer Service] - Error 500 on Manager login</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/06/2023 13:46 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/06/2023 14:31 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; You may have encountered 500 errors when connecting to the manager.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to an update on our infrastructure.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/17453656</id>
     <published>2023-06-02T13:50:02Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/rbs80fvwtrk3"/>
     <title>[GRA/UK/WAW/DE][Public Cloud] - API</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/02/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/02/2023 08:40 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is due to the following incident: https://public-cloud.status-ovhcloud.com/incidents/yg0z378c47dg&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Our teams have corrected the problem, but the identification of the root cause is still in progress.&lt;br /&gt;We are keeping the incident under surveillance until the root cause is identified.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/02/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All API call for GRA, UK, WAW and DE region are not answering. Creation, modification and deletion of cloud ressources in GRA and UK region are not possible.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/15944277</id>
-    <published>2023-02-20T12:39:00Z</published>
-    <updated>2023-02-20T12:39:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/g8fgs5ncfjd9"/>
-    <title>[EU][Customer Panel][Order funnel][API] - Public Cloud - Backend maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/02/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2023 12:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; During the maintenance, Public Cloud services such as Customer panel, Order funnel, api.ovh.com routes, and administration features will be disturbed.&lt;br /&gt;&lt;b&gt;Service Improvement :&lt;/b&gt; OVHcloud will operate a maintenance on its internal infrastructure to improve its reliability.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;18:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/02/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2023 12:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; During the maintenance, Public Cloud services such as Customer panel, Order funnel, api.ovh.com routes, and administration features will be disturbed.&lt;br /&gt;&lt;b&gt;Service Improvement :&lt;/b&gt; OVHcloud will operate a maintenance on its internal infrastructure to improve its reliability.&lt;/p&gt;</content>
   </entry>
 </feed>

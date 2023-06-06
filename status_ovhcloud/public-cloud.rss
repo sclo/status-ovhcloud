@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 06 Jun 2023 07:43:30 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2023 10:03:54 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Thu, 15 Jun 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/202g01s5kz73</guid>
+    </item>
+    <item>
+      <title>[EU/UK][Public Cloud] - Cloud Databases</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/05/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 06/06/2023 10:00 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/05/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Database services are healthy and backed up. However, some secondary backup on Cassandra, M3, MySQL, PostgreSQL, Redis and OpenSearch engines may take time to synchronise in remote location.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Synchronisation automation fall in inconsistent state due to an software issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Implementing a fix&lt;/p&gt;      </description>
+      <pubDate>Tue, 06 Jun 2023 10:03:54 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/92wf71kbg6xd</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/92wf71kbg6xd</guid>
     </item>
     <item>
       <title>PCI - GRA11 - host1603339</title>
@@ -200,14 +208,6 @@
       <pubDate>Sun, 04 Jun 2023 03:43:14 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/z4wp21b3h07x</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/z4wp21b3h07x</guid>
-    </item>
-    <item>
-      <title>PCI - DE1 - host990333</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host990333&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;5b14e8be-77ad-4bb6-864f-220c47f775eb&lt;br /&gt;f614fa8b-c917-432c-9f2f-be0c58d528e5&lt;/p&gt;      </description>
-      <pubDate>Sun, 04 Jun 2023 03:15:48 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/pw6rhqfd28xm</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/pw6rhqfd28xm</guid>
     </item>
   </channel>
 </rss>

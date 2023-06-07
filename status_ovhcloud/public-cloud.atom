@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-07T13:14:41Z</updated>
+  <updated>2023-06-07T13:49:36Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -73,6 +73,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;18:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/06/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our team will update the Kubernetes cluster to improve the availability of your services.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17492157</id>
+    <published>2023-06-07T13:49:36Z</published>
+    <updated>2023-06-07T13:49:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/z7w0cq3tvs5p"/>
+    <title>[UK1/WAW1/OR1/VA1][Managed Kubernetes Service] - Update kubernetes cluster</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/06/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our team will update the Kubernetes cluster to improve the availability of your services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17501311</id>
     <published>2023-06-07T13:14:41Z</published>
     <updated>2023-06-07T13:14:41Z</updated>
@@ -95,14 +103,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vdnrcl86lv02"/>
     <title>PCI - BHS3 - host279876</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;11:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs-z2c16-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;T02C36&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host279876&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0055cd5c-3dae-4fe8-ace8-fea0776d4f62&lt;br /&gt;06fdf75c-33b2-4ce2-9f71-d829d99a80b0&lt;br /&gt;0dce7c8a-7fe3-4911-82d9-0419c3f30c37&lt;br /&gt;176b7fe7-b67f-4cea-8785-dd9e11f2b2a1&lt;br /&gt;196edcb4-3b71-4e09-92db-a4fae1d773c1&lt;br /&gt;1fdc5d51-891e-4d03-910b-8b9e8e01ab06&lt;br /&gt;274c8642-1804-4a3d-9d03-78e1c0f9c6db&lt;br /&gt;326a2d1c-d0a8-4485-8e7f-6d754fef7557&lt;br /&gt;3d6b5b7f-b045-4c2e-aa03-704a2e425676&lt;br /&gt;3ee6fed9-8e03-4d9c-90a8-532f28f063ee&lt;br /&gt;5256f61d-a6dd-4154-b9af-f19a3c65e1f4&lt;br /&gt;56230641-f069-48cf-a586-5ffac4bf3194&lt;br /&gt;5b598e23-ba4f-4623-b4fb-80c2abc259fe&lt;br /&gt;668fc625-8b59-41b9-8957-9b457a673970&lt;br /&gt;6885988a-bc06-4ccf-a70e-92d24d460fa4&lt;br /&gt;6b421cdc-cb77-47f2-b2b7-d2672d17dcfe&lt;br /&gt;6c66b74e-2167-4002-a46a-6a2b7614babc&lt;br /&gt;7c0a7a84-8673-4c36-8018-3c6fe6e13aa5&lt;br /&gt;7cf7b94c-280e-4cfa-9fe1-8065a09ca1a4&lt;br /&gt;84161228-dac9-46f1-a1e9-328498c64955&lt;br /&gt;87f3d4c8-fb7a-4cbd-a3fe-564b525f44e8&lt;br /&gt;8c228d00-0635-4e21-9604-7d4905167c66&lt;br /&gt;8ee2d380-69c9-4dcd-9cec-b2ea8fd5caed&lt;br /&gt;920beacf-db06-4886-b47c-17029c680d56&lt;br /&gt;931373a9-47ec-4d23-8f8e-ae06c2a1f5fd&lt;br /&gt;98632c8c-c9c2-4379-87a2-cd286dd76905&lt;br /&gt;a2504a95-7fd5-429d-bb31-1710fefe238b&lt;br /&gt;ad0b957f-a370-4095-8383-9c9c05912b55&lt;br /&gt;b6b824ee-b362-4bf8-ba7b-fe136d33f320&lt;br /&gt;defe1408-7a06-4c19-ad92-83aeded5e9f8&lt;br /&gt;e0002556-2422-410e-8fa4-0345d6f1ec77&lt;br /&gt;e24bdd38-5df9-4ab0-9bfc-a5a4ce4b1672&lt;br /&gt;e2f9f8dc-04b9-4773-a13e-68dd4b389c3e&lt;br /&gt;ef7970b5-90b0-4a65-a2e8-9f232c2512e2&lt;br /&gt;f27299bc-0489-4ee2-b473-a6fe2f446f5c&lt;br /&gt;f3d93697-fe70-42dc-8460-6ea53c526a52&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17492157</id>
-    <published>2023-06-07T08:30:12Z</published>
-    <updated>2023-06-07T08:30:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/z7w0cq3tvs5p"/>
-    <title>[UK1/WAW1/OR1/VA1][Managed Kubernetes Service] - Update kubernetes cluster</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/06/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our team will update the Kubernetes cluster to improve the availability of your services.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17497589</id>

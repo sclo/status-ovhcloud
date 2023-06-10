@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-06-10T02:43:08Z</updated>
+  <updated>2023-06-10T04:01:43Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; - &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;18:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/06/2023 05:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for a period of 1 hour for the rack 06D03.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our team need to perform the replacement of the switch.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17529050</id>
+    <published>2023-06-10T04:01:43Z</published>
+    <updated>2023-06-10T04:01:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mtr32jb0m8ls"/>
+    <title>VPS - DE2 - host1023103</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;04:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1023103&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps617036&lt;br /&gt;vps665049&lt;br /&gt;vps758089&lt;br /&gt;vps558899&lt;br /&gt;vps728798&lt;br /&gt;vps632398&lt;br /&gt;vps747565&lt;br /&gt;vps707370&lt;br /&gt;vps567166&lt;br /&gt;vps570936&lt;br /&gt;vps567494&lt;br /&gt;vps554445&lt;br /&gt;vps576562&lt;br /&gt;vps783317&lt;br /&gt;vps793014&lt;br /&gt;vps570411&lt;br /&gt;vps821187&lt;br /&gt;vps818755&lt;br /&gt;vps818276&lt;br /&gt;vps817693&lt;br /&gt;vps817390&lt;br /&gt;vps811592&lt;br /&gt;vps796971&lt;br /&gt;vps639488&lt;br /&gt;vps790776&lt;br /&gt;vps781828&lt;br /&gt;vps721556&lt;br /&gt;vps770866&lt;br /&gt;vps770811&lt;br /&gt;vps768887&lt;br /&gt;vps764528&lt;br /&gt;vps577477&lt;br /&gt;vps743656&lt;br /&gt;vps741900&lt;br /&gt;vps741855&lt;br /&gt;vps741789&lt;br /&gt;vps738046&lt;br /&gt;vps736598&lt;br /&gt;vps732276&lt;br /&gt;vps670061&lt;br /&gt;vps729700&lt;br /&gt;vps729324&lt;br /&gt;vps723027&lt;br /&gt;vps722459&lt;br /&gt;vps719047&lt;br /&gt;vps714026&lt;br /&gt;vps615550&lt;br /&gt;vps713721&lt;br /&gt;vps713496&lt;br /&gt;vps648413&lt;br /&gt;vps633481&lt;br /&gt;vps612890&lt;br /&gt;vps604223&lt;br /&gt;vps563026&lt;br /&gt;vps561220&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17528448</id>
     <published>2023-06-10T02:30:19Z</published>
     <updated>2023-06-10T02:30:19Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/5bp6jsr8k10k"/>
     <title>[Gra2][Private/Public Network] - G211B04</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/06/2023 07:59 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/06/2023 11:18UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; A part of this rack electrical distribution needed to be changed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/06/2023 07:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Dedicated servers are unreachable on this rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17510220</id>
-    <published>2023-06-08T09:57:37Z</published>
-    <updated>2023-06-08T09:57:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/lrfth8sns0mx"/>
-    <title>[BHS2][VPS] - Control plane upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Upgrade infrastructure control plane component. Actions on VPS will be disabled during intervention.&lt;/p&gt;</content>
   </entry>
 </feed>

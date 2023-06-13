@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2023-06-09T15:56:10Z</updated>
+  <updated>2023-06-13T14:59:34Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/17560525</id>
+    <published>2023-06-13T16:30:00Z</published>
+    <updated>2023-06-13T14:59:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/bvcy4gpq70f8"/>
+    <title>[GLOBAL][Support] - Help Center update</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2023 16:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2023 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Help Center access could be degraded, and Netherlands help center not accessible&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do an update on the Help Center&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Help Center should remain accessible on all other languages. In parallel, the customer panel (https://www.ovh.com/manager) remain accessible, you can create your tickets from there.&lt;br /&gt;If you have a Business or Enterprise level of support, your dedicated phone number is available to reach you technical advisor in case of emergency.&lt;br /&gt;You can also access our documentation directly on our GitHub repository : https://github.com/ovh/docs/tree/develop/pages&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/17498492</id>
     <published>2023-06-08T16:30:14Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/p2b3z42395td"/>
     <title>[EU/CA][CustomerService] - Customer panel, order funnel, and API slowness</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 07/03/2023 11:05 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 07/03/2023 12:30 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;12:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2023 11:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2023 12:30 UTC&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We are monitoring the issue the time being.&lt;br /&gt;A fix has been implemented. &lt;br /&gt;We no longer detecting slowness or high error rate.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;12:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2023 11:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer panel, order funnel, and API operations might fail or be excessively slow.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;We have detected slowness and high error rate on API OVHcloud EU &amp; CA&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/16308686</id>
-    <published>2023-02-28T23:09:54Z</published>
-    <updated>2023-02-28T23:09:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/d56r0f7qzb2p"/>
-    <title>[Global][Public Cloud] - Control Panel Access</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 28/02/2023 22:58 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to a load increase on the GRA clusters.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/02/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some Public Cloud project can't be managed through control panel.&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/7zv3ystdf5f6"&gt;[Global][Public Cloud] - Control Panel Access&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Horizon and APIs remain available.&lt;br /&gt;Our technical teams are working on resolving the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

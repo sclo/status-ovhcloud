@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-06-14T23:51:45Z</updated>
+  <updated>2023-06-15T00:33:17Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/qwcjkmrb6mlf"/>
     <title>[RBX7][DedicatedServers] - Rack R713B20</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;19:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/06/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 1h30 downtime for servers in the rack R713B20&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to ensure the reliability of power supply of this rack.&lt;br /&gt; Our teams must proceed to an intervention on the power supply module.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17577391</id>
+    <published>2023-06-15T00:33:17Z</published>
+    <updated>2023-06-15T00:33:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/m2sgmbvfzlbp"/>
+    <title>[ERI1][Dedicated Servers] - ERI0112D04C</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/06/2023 00:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack ERI0112D04C are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17576935</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/vj8qg8r9vmc9"/>
     <title>VPS - GRA4 - host1258082</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1258082&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps457273&lt;br /&gt;vps649633&lt;br /&gt;vps408753&lt;br /&gt;vps524433&lt;br /&gt;vps350338&lt;br /&gt;vps820855&lt;br /&gt;vps214829&lt;br /&gt;vps394275&lt;br /&gt;vps678495&lt;br /&gt;vps696372&lt;br /&gt;vps684831&lt;br /&gt;vps681574&lt;br /&gt;vps681154&lt;br /&gt;vps675558&lt;br /&gt;vps677659&lt;br /&gt;vps677371&lt;br /&gt;vps676975&lt;br /&gt;vps675182&lt;br /&gt;vps651245&lt;br /&gt;vps650833&lt;br /&gt;vps650664&lt;br /&gt;vps650430&lt;br /&gt;vps649630&lt;br /&gt;vps649019&lt;br /&gt;vps491483&lt;br /&gt;vps431174&lt;br /&gt;vps483746&lt;br /&gt;vps633070&lt;br /&gt;vps546064&lt;br /&gt;vps335558&lt;br /&gt;vps489055&lt;br /&gt;vps519249&lt;br /&gt;vps511875&lt;br /&gt;vps503786&lt;br /&gt;vps492266&lt;br /&gt;vps483897&lt;br /&gt;vps483687&lt;br /&gt;vps478426&lt;br /&gt;vps464222&lt;br /&gt;vps444176&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17558720</id>
-    <published>2023-06-13T14:04:59Z</published>
-    <updated>2023-06-13T14:04:59Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/x9zzs80yd8hs"/>
-    <title>VPS - GRA2 - host641692</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host641692&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;7c9dcd18-0682-439d-8701-da5a1dc5da48&lt;/p&gt;</content>
   </entry>
 </feed>

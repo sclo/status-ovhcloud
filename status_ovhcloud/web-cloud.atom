@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-06-15T22:09:01Z</updated>
+  <updated>2023-06-16T08:16:11Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/v3q7f0jpb0zq"/>
     <title>[GRA][WebHosting] - Cluster 11 - Storage Migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/06/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 30 minutes of downtime per filerz&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, some storage services are migrated to an newer infrastructure.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/17591247</id>
+    <published>2023-06-19T00:00:00Z</published>
+    <updated>2023-06-16T08:16:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/f900jm01mbqp"/>
+    <title>[GRA][Databases] -  SharedSQL migrations</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/06/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/06/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this operation, our customers may experience an unavailability of 3 minute. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Within the framework of the continuous improvement of our services, we carry out an operation of migration of the Web Cloud Databases instances from eu004 to eu002. Please note that the current maintenance can take place 24/24.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/17583455</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/l7kmpmy9kyvp"/>
     <title>[GRA][Webhosting] - Filerz36</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;05:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/06/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/06/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz36 will have a downtime of 30min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We are going to migrate the Filerz36 (webhosting server) to keep our infrastructure up-to-date.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/17443988</id>
-    <published>2023-06-06T10:09:13Z</published>
-    <updated>2023-06-06T10:09:13Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/5w9n37szvmtf"/>
-    <title>[GRA] [Loadbalancer] - cluster017 - cluster023 - cluster020 - cluster010 - cluster026</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;09:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; : 6/06/2023 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  : 6/06/2023 12:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; : Some latency will be observed.&lt;br /&gt;&lt;b&gt;Related Maintenance :&lt;b&gt; : https://network.status-ovhcloud.com/incidents/nb95q7tv8373&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  : As part of our continuous improvement policy, our teams are going to upgrade our load balancer software. &lt;br /&gt;This update will be deployed for cluster017 - cluster023 - cluster020 - cluster010 - cluster026 in GRA&lt;/p&gt;</content>
   </entry>
 </feed>

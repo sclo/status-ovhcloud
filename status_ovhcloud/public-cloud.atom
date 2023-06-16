@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-15T19:21:41Z</updated>
+  <updated>2023-06-16T00:14:25Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jzy9h4bkbxl9"/>
     <title>[GRA7][Public Cloud] - Customers migration Kubernetes to 1.22</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/06/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/06/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b &gt;As Kubernetes 1.21 comes to the end of its life, we will be migrating to the new version 1.22.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17588145</id>
+    <published>2023-06-22T16:00:00Z</published>
+    <updated>2023-06-16T00:14:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/slx5n3rh8yyv"/>
+    <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry migration</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;00:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Registries in plan M/L in GRA region are the only one impacted. &lt;br /&gt;Customers won't be able to push new image during a part of the maintenance period. Existing images remain available.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to migrate clients that are at the M and L plan level to a different infrastructure.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17273301</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lr605hqhsvyr"/>
     <title>[EU/CA][LogsDataPlatform] - Protocol migration</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been postponed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;01:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/06/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/06/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;Following our continuous improvement policy, we will perfom an maintenance on LDP.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17558713</id>
-    <published>2023-06-13T16:21:32Z</published>
-    <updated>2023-06-13T16:21:32Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ty3r0ggp1f50"/>
-    <title>PCI - GRA3 - host642763</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host642763&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;3e3f04c0-6419-46c0-810e-8b2e72ee93d5&lt;br /&gt;e22f3e0a-948b-4c1c-bbd0-e91895c6b677&lt;br /&gt;7a0ad30d-56a7-45b7-817b-b4d90bf8d2e2&lt;br /&gt;5cf81202-be53-4f5c-b0f5-32e804b785bc&lt;br /&gt;cde0800d-3e6a-4f46-a09b-c89548666e1b&lt;br /&gt;511e3ba3-65ec-478a-a325-33173b8092b5&lt;br /&gt;c2ecff96-c815-4969-a18e-15d45629efc2&lt;br /&gt;90ebaf43-48e6-4527-b16a-92ea882a10fe&lt;/p&gt;</content>
   </entry>
 </feed>

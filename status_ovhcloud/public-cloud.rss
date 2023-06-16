@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 15 Jun 2023 19:21:41 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2023 00:14:25 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -22,6 +22,15 @@
       <maintenanceEndDate>Tue, 27 Jun 2023 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jzy9h4bkbxl9</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jzy9h4bkbxl9</guid>
+    </item>
+    <item>
+      <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry migration</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/06/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Registries in plan M/L in GRA region are the only one impacted. &lt;br /&gt;Customers won&apos;t be able to push new image during a part of the maintenance period. Existing images remain available.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to migrate clients that are at the M and L plan level to a different infrastructure.&lt;/p&gt;      </description>
+      <pubDate>Thu, 22 Jun 2023 16:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 22 Jun 2023 20:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/slx5n3rh8yyv</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/slx5n3rh8yyv</guid>
     </item>
     <item>
       <title>[GRA5/GRA9/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/VA1/OR1][Public cloud] - End of life for Kubernetes 1.21</title>
@@ -203,14 +212,6 @@
       <maintenanceEndDate>Wed, 14 Jun 2023 13:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/lr605hqhsvyr</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lr605hqhsvyr</guid>
-    </item>
-    <item>
-      <title>PCI - GRA3 - host642763</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host642763&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;3e3f04c0-6419-46c0-810e-8b2e72ee93d5&lt;br /&gt;e22f3e0a-948b-4c1c-bbd0-e91895c6b677&lt;br /&gt;7a0ad30d-56a7-45b7-817b-b4d90bf8d2e2&lt;br /&gt;5cf81202-be53-4f5c-b0f5-32e804b785bc&lt;br /&gt;cde0800d-3e6a-4f46-a09b-c89548666e1b&lt;br /&gt;511e3ba3-65ec-478a-a325-33173b8092b5&lt;br /&gt;c2ecff96-c815-4969-a18e-15d45629efc2&lt;br /&gt;90ebaf43-48e6-4527-b16a-92ea882a10fe&lt;/p&gt;      </description>
-      <pubDate>Tue, 13 Jun 2023 16:21:32 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ty3r0ggp1f50</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ty3r0ggp1f50</guid>
     </item>
   </channel>
 </rss>

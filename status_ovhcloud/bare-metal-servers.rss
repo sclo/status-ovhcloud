@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 18 Jun 2023 07:05:05 +0000</pubDate>
+    <pubDate>Sun, 18 Jun 2023 10:19:33 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -85,6 +85,14 @@
       <maintenanceEndDate>Tue, 20 Jun 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</guid>
+    </item>
+    <item>
+      <title>[GRA2][Public Network] - G242A11</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/06/2023 09:57 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is unreachable on this rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. &lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Sun, 18 Jun 2023 10:19:33 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3kr7sp47cbbc</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3kr7sp47cbbc</guid>
     </item>
     <item>
       <title>VPS - GRA8 - host1305245</title>
@@ -206,14 +214,6 @@
       <pubDate>Thu, 15 Jun 2023 14:56:27 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wr8kyzmm168r</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wr8kyzmm168r</guid>
-    </item>
-    <item>
-      <title>[Global][Network] - vRack Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/06/2023 08:10 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 15/06/2023 14:11 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; The code did not configure the doq1q tunnel mode on the vrack interface, which affected vrack communication for clients using tagged vlans.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a regression following a code modification.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; To fix the problem, you can remove the server from its vrack and add it again.&lt;br /&gt;Our teams are working on a script so that the workaround is carried out automatically for all the servers concerned.&lt;/p&gt;      </description>
-      <pubDate>Thu, 15 Jun 2023 14:34:08 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wnm6t0qkmnk2</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wnm6t0qkmnk2</guid>
     </item>
   </channel>
 </rss>

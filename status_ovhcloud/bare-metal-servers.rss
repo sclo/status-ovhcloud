@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 18 Jun 2023 23:33:25 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2023 00:01:42 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -85,6 +85,14 @@
       <maintenanceEndDate>Tue, 20 Jun 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</guid>
+    </item>
+    <item>
+      <title>[BHS7][Dedicated Servers] - Rack B717B10</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 18/06/2023 23:46 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/06/2023 23:55 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The switch suffered a kernel panic and rebooted.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/06/2023 23:46 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network in the rack B717B10 are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;/p&gt;      </description>
+      <pubDate>Mon, 19 Jun 2023 00:01:42 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0jb3672rxjn0</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0jb3672rxjn0</guid>
     </item>
     <item>
       <title>[GRA1][Dedicated Servers] - Rack G131A04</title>
@@ -206,14 +214,6 @@
       <pubDate>Thu, 15 Jun 2023 17:10:19 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/31xr2g0cg5p1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/31xr2g0cg5p1</guid>
-    </item>
-    <item>
-      <title>VPS - UK2 - host1620300</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1620300&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-1083ab2d.vps.ovh.net&lt;br /&gt;vps-afea3981.vps.ovh.net&lt;br /&gt;vps-45b272be.vps.ovh.net&lt;br /&gt;vps-c0f1900e.vps.ovh.net&lt;br /&gt;vps-d84c1832.vps.ovh.net&lt;br /&gt;vps-d2222953.vps.ovh.net&lt;br /&gt;vps-f5f60440.vps.ovh.net&lt;br /&gt;0767d36f-58da-45ca-b963-29f4a0a17580&lt;br /&gt;vps-bf555b85.vps.ovh.net&lt;br /&gt;vps-02c51348.vps.ovh.net&lt;br /&gt;vps-93a2ca52.vps.ovh.net&lt;br /&gt;vps-8e8e2808.vps.ovh.net&lt;br /&gt;vps-cab9376e.vps.ovh.net&lt;br /&gt;vps-2156f95a.vps.ovh.net&lt;br /&gt;vps-5e541f79.vps.ovh.net&lt;br /&gt;vps-8814d196.vps.ovh.net&lt;br /&gt;vps-587acdd9.vps.ovh.net&lt;br /&gt;vps-717d9469.vps.ovh.net&lt;br /&gt;vps-8bdf223d.vps.ovh.net&lt;br /&gt;vps-40bc8e9b.vps.ovh.net&lt;br /&gt;vps-cf2584a5.vps.ovh.net&lt;br /&gt;vps-e62138aa.vps.ovh.net&lt;br /&gt;vps-299f2313.vps.ovh.net&lt;br /&gt;vps-71e334a3.vps.ovh.net&lt;br /&gt;vps-4c272959.vps.ovh.net&lt;br /&gt;vps-7df44550.vps.ovh.net&lt;br /&gt;vps-07388e78.vps.ovh.net&lt;br /&gt;vps-0be3b1ff.vps.ovh.net&lt;br /&gt;vps-71c8eb11.vps.ovh.net&lt;br /&gt;vps-26a0dc09.vps.ovh.net&lt;br /&gt;vps-8204a4ae.vps.ovh.net&lt;br /&gt;vps-40ecacc0.vps.ovh.net&lt;br /&gt;vps-525f080b.vps.ovh.net&lt;br /&gt;vps-10d8edcd.vps.ovh.net&lt;br /&gt;vps-2ba782f5.vps.ovh.net&lt;br /&gt;vps-6229312e.vps.ovh.net&lt;br /&gt;vps-5ac4941b.vps.ovh.net&lt;br /&gt;vps-ffac1831.vps.ovh.net&lt;/p&gt;      </description>
-      <pubDate>Thu, 15 Jun 2023 16:25:47 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/h1cml1wzhgw8</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/h1cml1wzhgw8</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 20 Jun 2023 12:27:54 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2023 12:45:28 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -76,6 +76,15 @@
       <maintenanceEndDate>Wed, 21 Jun 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</guid>
+    </item>
+    <item>
+      <title>[Global][Additionnal services] - End of Life - RTM package</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - -&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Since March 30, 2022, the service for displaying data related to your server activity has been deprecated. &lt;br /&gt;The service stopped working for servers that already had it installed until June 30, 2022. &lt;br /&gt;After that date, we discontinued the feature, so server activity data is no longer displayed. &lt;br /&gt;However, this will not affect the operation of servers that have already installed the service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/05/2023 12:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The RTM package has been decommissioned from last-public-ovh-rtm.snap.mirrors.ovh.net. &lt;br /&gt;It won&apos;t be possible to install or update it anymore.&lt;/p&gt;      </description>
+      <pubDate>Tue, 20 Jun 2023 12:45:28 +0000</pubDate>
+      <maintenanceEndDate>Mon, 05 Jun 2023 09:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/50hgg8rk8yhm</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/50hgg8rk8yhm</guid>
     </item>
     <item>
       <title>[Gra1][Private/Public Network] - G135A15</title>
@@ -211,14 +220,6 @@
       <pubDate>Sun, 18 Jun 2023 11:45:37 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3kr7sp47cbbc</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3kr7sp47cbbc</guid>
-    </item>
-    <item>
-      <title>VPS - GRA8 - host1305245</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1305245&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-af1b5045.vps.ovh.net&lt;br /&gt;vps-4d1b1c36.vps.ovh.net&lt;br /&gt;vps-a72e6c07.vps.ovh.net&lt;br /&gt;vps-8a1e1a62.vps.ovh.net&lt;br /&gt;vps-46966cdc.vps.ovh.net&lt;br /&gt;vps-286f8b6f.vps.ovh.net&lt;br /&gt;vps-ca238cca.vps.ovh.net&lt;br /&gt;vps-87e7799b.vps.ovh.net&lt;br /&gt;vps-35d49b23.vps.ovh.net&lt;br /&gt;vps-885bfa6a.vps.ovh.net&lt;br /&gt;vps-f34a558c.vps.ovh.net&lt;br /&gt;vps-379f3a2a.vps.ovh.net&lt;br /&gt;vps-5020db2d.vps.ovh.net&lt;br /&gt;vps-ede1d25a.vps.ovh.net&lt;br /&gt;vps-4b6316e5.vps.ovh.net&lt;br /&gt;vps-0f85b833.vps.ovh.net&lt;br /&gt;vps-3560fb1a.vps.ovh.net&lt;br /&gt;vps-e0766c0a.vps.ovh.net&lt;br /&gt;vps-86c0ef5e.vps.ovh.net&lt;br /&gt;vps-e85eae8e.vps.ovh.net&lt;br /&gt;vps-b0eba01c.vps.ovh.net&lt;br /&gt;vps-f320e48d.vps.ovh.net&lt;br /&gt;vps-7b92781a.vps.ovh.net&lt;br /&gt;vps-9632e60d.vps.ovh.net&lt;br /&gt;vps-d5be9e3a.vps.ovh.net&lt;br /&gt;vps-ca437da8.vps.ovh.net&lt;br /&gt;vps-f0f4055e.vps.ovh.net&lt;br /&gt;vps-8a7bdecb.vps.ovh.net&lt;br /&gt;vps-82cfaff6.vps.ovh.net&lt;br /&gt;vps-d7934822.vps.ovh.net&lt;br /&gt;vps-faf0010e.vps.ovh.net&lt;br /&gt;vps-ac9ec2fb.vps.ovh.net&lt;br /&gt;vps-873c9ab2.vps.ovh.net&lt;br /&gt;vps-99a52207.vps.ovh.net&lt;br /&gt;vps-86398a4a.vps.ovh.net&lt;br /&gt;vps-63a3ca59.vps.ovh.net&lt;br /&gt;vps-f2eab4f1.vps.ovh.net&lt;/p&gt;      </description>
-      <pubDate>Sun, 18 Jun 2023 07:05:05 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/16gptt55s0cm</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/16gptt55s0cm</guid>
     </item>
   </channel>
 </rss>

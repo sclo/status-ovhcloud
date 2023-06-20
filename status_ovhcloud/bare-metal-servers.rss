@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 20 Jun 2023 03:20:11 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2023 08:39:37 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -76,6 +76,15 @@
       <maintenanceEndDate>Wed, 21 Jun 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/26jr5tp0bxf1</guid>
+    </item>
+    <item>
+      <title>[US-WEST-OR-2][VPS] - Control plane upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Team will proceed to an upgrade of infrastructure control plane component. Actions on VPS will be disabled during intervention.&lt;/p&gt;      </description>
+      <pubDate>Tue, 20 Jun 2023 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 20 Jun 2023 10:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3h7998vr9k50</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3h7998vr9k50</guid>
     </item>
     <item>
       <title>[RBX6][Network] - Rack - 46K19</title>
@@ -210,14 +219,6 @@
       <pubDate>Sun, 18 Jun 2023 05:43:26 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sfjy6x021x2g</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/sfjy6x021x2g</guid>
-    </item>
-    <item>
-      <title>[GRA1][Dedicated Servers] - G105A16</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt;18/06/2023 02:07 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 18/06/2023 02:20 UTC&lt;br /&gt;&lt;b&gt;Service Impacted :&lt;/b&gt; Half the servers in the rack were unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a circuit breaker tripping.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Sun, 18 Jun 2023 03:22:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/45sh28qhc29b</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/45sh28qhc29b</guid>
     </item>
   </channel>
 </rss>

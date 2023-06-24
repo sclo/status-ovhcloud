@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-06-23T16:43:29Z</updated>
+  <updated>2023-06-24T07:38:37Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/q6r3lsvcdtyf"/>
     <title>[BHS6/BHS7/BHS8][Network] - Network equipment version upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;23:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/06/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/06/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17671311</id>
+    <published>2023-06-24T07:38:37Z</published>
+    <updated>2023-06-24T07:38:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/3xvc8bp5rwwt"/>
+    <title>VPS - GRA4 - host573492</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;07:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host573492&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;e746406d-87a2-4685-aab3-5de18b1172a8&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17665703</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/97sw2rs1vtx5"/>
     <title>VPS - SBG6 - host1625150</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1625150&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-24556574.vps.ovh.net&lt;br /&gt;vps-054a8e7c.vps.ovh.net&lt;br /&gt;vps-271d3b69.vps.ovh.net&lt;br /&gt;vps-337f231f.vps.ovh.net&lt;br /&gt;vps-15fe3e14.vps.ovh.net&lt;br /&gt;vps-d51b9d0a.vps.ovh.net&lt;br /&gt;vps-dfa10e3a.vps.ovh.net&lt;br /&gt;vps-e4ea6702.vps.ovh.net&lt;br /&gt;vps-c4086823.vps.ovh.net&lt;br /&gt;vps-5f636e30.vps.ovh.net&lt;br /&gt;vps-21cb4516.vps.ovh.net&lt;br /&gt;vps-c5a9c73d.vps.ovh.net&lt;br /&gt;vps-c3ca4ec9.vps.ovh.net&lt;br /&gt;vps-3b7fddb9.vps.ovh.net&lt;br /&gt;vps-fbf882a0.vps.ovh.net&lt;br /&gt;vps-6b29aff8.vps.ovh.net&lt;br /&gt;vps-195a8207.vps.ovh.net&lt;br /&gt;vps-353e5f42.vps.ovh.net&lt;br /&gt;vps-e3d3c503.vps.ovh.net&lt;br /&gt;vps-4abadcab.vps.ovh.net&lt;br /&gt;vps-db4a05f5.vps.ovh.net&lt;br /&gt;vps-fee57e7a.vps.ovh.net&lt;br /&gt;44a2a83e-73c4-4492-a679-0c830da7ac67&lt;br /&gt;vps-96c5f784.vps.ovh.net&lt;br /&gt;vps-47c6c468.vps.ovh.net&lt;br /&gt;vps-98b091fc.vps.ovh.net&lt;br /&gt;vps-45f2e3c6.vps.ovh.net&lt;br /&gt;vps-71b42bc6.vps.ovh.net&lt;br /&gt;vps-60439d04.vps.ovh.net&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17657033</id>
-    <published>2023-06-22T19:49:14Z</published>
-    <updated>2023-06-22T19:49:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/sr4p46tmwbgj"/>
-    <title>VPS - SBG8 - host1625143</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1625143&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-2e83d8ea.vps.ovh.net&lt;br /&gt;vps-d57b969c.vps.ovh.net&lt;br /&gt;vps-737b09ed.vps.ovh.net&lt;br /&gt;vps-3d8565e8.vps.ovh.net&lt;br /&gt;vps-6cd3acfa.vps.ovh.net&lt;br /&gt;vps-695f5522.vps.ovh.net&lt;br /&gt;vps-ba82f318.vps.ovh.net&lt;br /&gt;vps-c5e27fd7.vps.ovh.net&lt;br /&gt;vps-a3851d6d.vps.ovh.net&lt;br /&gt;vps-a891954d.vps.ovh.net&lt;br /&gt;vps-c004afbf.vps.ovh.net&lt;br /&gt;vps-012ecae8.vps.ovh.net&lt;br /&gt;vps-a8c6a543.vps.ovh.net&lt;br /&gt;vps-04ed4fbe.vps.ovh.net&lt;br /&gt;vps-65903d49.vps.ovh.net&lt;br /&gt;vps-ba95196a.vps.ovh.net&lt;br /&gt;vps-29ffe2ee.vps.ovh.net&lt;br /&gt;vps-09b3e4f5.vps.ovh.net&lt;br /&gt;vps-a0f43cb2.vps.ovh.net&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 27 Jun 2023 14:43:22 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2023 15:34:22 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Thu, 06 Jul 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tmcbcdkcy4yr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tmcbcdkcy4yr</guid>
+    </item>
+    <item>
+      <title>[ImpactedDC][ImpactedServices] - Change the title according to impacted services</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:35&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:35&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End time :&lt;/b&gt; 31/07/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; centos7-cpanel won&apos;t be available as deployment anymore&lt;br /&gt;&lt;b&gt;Related Documentation :&lt;/b&gt; &lt;a href=&quot;https://docs.cpanel.net/knowledge-base/cpanel-product/cpanel-deprecation-plan/&quot;&gt;cPanel Deprecation Plan&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;We will support existing CentOS 7 and CloudLinux 7 servers running cPanel &amp; WHM version 110 until these operating systems reach their EoL. &lt;br /&gt;We will only support CentOS 7 through LTS version 110.&lt;br /&gt;&lt;br /&gt;New cPanel &amp; WHM installations and upgrades on CentOS 7 and CloudLinux 7 in cPanel &amp; WHM version 112 won&apos;t be available.&lt;/p&gt;      </description>
+      <pubDate>Tue, 27 Jun 2023 15:35:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 27 Jun 2023 16:35:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</guid>
     </item>
     <item>
       <title>[GRA1][DedicatedServers] - Racks G122A08 G122A09</title>
@@ -201,14 +210,6 @@
       <pubDate>Mon, 26 Jun 2023 15:56:38 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3vcdp541bg7j</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3vcdp541bg7j</guid>
-    </item>
-    <item>
-      <title>VPS - GRA4 - host1263667</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1263667&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-642e65be.vps.ovh.net&lt;br /&gt;26da70cf-1a34-45df-ba57-fe47ac0cd148&lt;br /&gt;vps-29c2f0ca.vps.ovh.net&lt;br /&gt;vps-782f284a.vps.ovh.net&lt;br /&gt;vps-353282d2.vps.ovh.net&lt;br /&gt;58be77c8-1e40-402e-b202-41355bbeee99&lt;br /&gt;48b1d345-3c92-4d66-90e1-d1d9cc2f6aaf&lt;br /&gt;9a4883df-3fd6-4bc6-bef9-8ad282654e22&lt;br /&gt;ea4ed419-8f92-4462-a0c7-ddc5cd4b4031&lt;br /&gt;cbf0cce9-334d-4ced-b1de-98524bd2b805&lt;br /&gt;7f3392f8-a912-42c5-b29c-a58f14a75070&lt;br /&gt;67c7d314-549b-40b9-af0c-570c6d9c4a6c&lt;br /&gt;966a954c-c077-4d5d-a988-ab81e16c2ef5&lt;br /&gt;e732e102-d204-41bd-bdad-5b841d04b4d3&lt;br /&gt;9d704d8f-c729-4e1c-89dd-f9ea4d86418e&lt;br /&gt;905cfb97-02f3-4e29-9c28-5a107f6621a0&lt;br /&gt;57923342-b1ad-4223-a5f3-24fc25bc217d&lt;br /&gt;0735c36d-ace7-4a9a-bfb6-17f02a633c13&lt;br /&gt;b330eb4f-15de-4b13-96e5-c67999c53c97&lt;br /&gt;0344ac75-b002-4490-a156-14b4e0e52fa9&lt;br /&gt;b8e5e8d5-13f0-402c-b096-b5f5822bcf7e&lt;br /&gt;ea6d0f8c-751c-45cf-b521-e7932105dc6d&lt;br /&gt;44769ac3-8c05-449d-a0ca-d834c5a7536f&lt;br /&gt;8616ccfa-7001-4076-84ce-9dd10deb34d3&lt;br /&gt;vps-2dce285c.vps.ovh.net&lt;br /&gt;vps-2e456345.vps.ovh.net&lt;br /&gt;vps-521ec5d3.vps.ovh.net&lt;br /&gt;vps-40f46d68.vps.ovh.net&lt;br /&gt;vps-ff65ddac.vps.ovh.net&lt;br /&gt;vps-3c17d3e3.vps.ovh.net&lt;br /&gt;vps-4be0349a.vps.ovh.net&lt;br /&gt;vps-d12d5e38.vps.ovh.net&lt;br /&gt;vps-f87edc23.vps.ovh.net&lt;br /&gt;vps-9c295e57.vps.ovh.net&lt;br /&gt;vps-5cbd0f3b.vps.ovh.net&lt;br /&gt;vps-d067ac63.vps.ovh.net&lt;br /&gt;vps-c26c3deb.vps.ovh.net&lt;br /&gt;vps-719e1826.vps.ovh.net&lt;br /&gt;vps-b709926b.vps.ovh.net&lt;br /&gt;vps-e250c212.vps.ovh.net&lt;br /&gt;vps-34e9aa55.vps.ovh.net&lt;br /&gt;vps-206f2810.vps.ovh.net&lt;br /&gt;vps-7ed211da.vps.ovh.net&lt;br /&gt;vps-48a7c01b.vps.ovh.net&lt;br /&gt;vps-e1af516b.vps.ovh.net&lt;br /&gt;vps-26a12d11.vps.ovh.net&lt;br /&gt;vps-b14b3483.vps.ovh.net&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Jun 2023 15:56:38 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/k3j1jcgs5fcd</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/k3j1jcgs5fcd</guid>
     </item>
   </channel>
 </rss>

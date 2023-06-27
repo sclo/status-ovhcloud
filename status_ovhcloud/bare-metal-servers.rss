@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 27 Jun 2023 16:39:23 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2023 17:12:17 +0000</pubDate>
     <item>
       <title>[RBX/GRA][Baremetal] - Network equipment maintenance</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Thu, 06 Jul 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tmcbcdkcy4yr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tmcbcdkcy4yr</guid>
+    </item>
+    <item>
+      <title>[SBG8][VPS] - Control plane upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:15&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;18:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Team will proceed to an upgrade of infrastructure control plane component. Actions on VPS will be disabled during intervention.&lt;/p&gt;      </description>
+      <pubDate>Tue, 27 Jun 2023 17:15:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 27 Jun 2023 18:45:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bnc0csc72l86</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bnc0csc72l86</guid>
     </item>
     <item>
       <title>[BHS8][DedicatedServers] - Rack BHS0811B02A</title>
@@ -202,14 +211,6 @@
       <pubDate>Mon, 26 Jun 2023 15:56:39 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/b8dsxkvdxm55</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/b8dsxkvdxm55</guid>
-    </item>
-    <item>
-      <title>VPS - GRA4 - host575628</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host575628&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-c402af20.vps.ovh.net&lt;br /&gt;vps-293e81a6.vps.ovh.net&lt;br /&gt;vps-2856577c.vps.ovh.net&lt;br /&gt;vps-5d39a64a.vps.ovh.net&lt;br /&gt;vps-ea46d1a4.vps.ovh.net&lt;br /&gt;vps-acc3872d.vps.ovh.net&lt;br /&gt;vps-8ad5f77b.vps.ovh.net&lt;br /&gt;vps-49ab62f8.vps.ovh.net&lt;br /&gt;vps-8489108b.vps.ovh.net&lt;br /&gt;vps-a48e2a2d.vps.ovh.net&lt;br /&gt;vps-62d516b9.vps.ovh.net&lt;br /&gt;vps-c0fbcbbb.vps.ovh.net&lt;br /&gt;vps-8adc0b9d.vps.ovh.net&lt;br /&gt;vps-2ab25442.vps.ovh.net&lt;br /&gt;vps-53b41f0f.vps.ovh.net&lt;br /&gt;vps-b2d461a3.vps.ovh.net&lt;br /&gt;vps-b06b4cca.vps.ovh.net&lt;br /&gt;vps-e3f05d35.vps.ovh.net&lt;br /&gt;vps-92c5d294.vps.ovh.net&lt;br /&gt;vps-6626b263.vps.ovh.net&lt;br /&gt;vps-1628b3dd.vps.ovh.net&lt;br /&gt;6ac8dfc9-ae7d-4e9f-9e57-b0bcf22b7ecb&lt;br /&gt;476028a8-8005-4733-ab08-10eb24a5443e&lt;br /&gt;ccb92723-82fa-451d-bdfc-bf8366d34fdf&lt;br /&gt;01991315-a79a-449b-ab4a-7278ccd829f6&lt;br /&gt;71e65e00-4241-41af-85db-b24004a195ca&lt;br /&gt;vps-a4b73ab0.vps.ovh.net&lt;br /&gt;vps-80f5a0a5.vps.ovh.net&lt;br /&gt;vps-02ef972c.vps.ovh.net&lt;br /&gt;vps-5b5e4a50.vps.ovh.net&lt;br /&gt;vps-fc19894c.vps.ovh.net&lt;br /&gt;vps-13f022a1.vps.ovh.net&lt;br /&gt;vps-b7bded6b.vps.ovh.net&lt;br /&gt;vps-970a9207.vps.ovh.net&lt;br /&gt;vps-704b0b65.vps.ovh.net&lt;br /&gt;vps-4e5e75a0.vps.ovh.net&lt;br /&gt;vps-c7027ab2.vps.ovh.net&lt;br /&gt;vps-538398ed.vps.ovh.net&lt;br /&gt;vps-06e5ed31.vps.ovh.net&lt;br /&gt;vps-12414e81.vps.ovh.net&lt;br /&gt;vps-c4f2bc4e.vps.ovh.net&lt;br /&gt;vps-f1847c91.vps.ovh.net&lt;br /&gt;vps-471b613f.vps.ovh.net&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Jun 2023 15:56:38 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3vcdp541bg7j</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3vcdp541bg7j</guid>
     </item>
   </channel>
 </rss>

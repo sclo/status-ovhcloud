@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 26 Jun 2023 23:43:15 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2023 02:09:29 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Tue, 27 Jun 2023 11:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ynv1y8rdb5sf</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ynv1y8rdb5sf</guid>
+    </item>
+    <item>
+      <title>[GRA1/GRA3][PublicCloud] - OpenStack API perturbation</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/06/2023 11:58 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 26/06/2023 22:31 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API responses was experiencing some perturbations.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; a href=&quot;https://bare-metal-servers.status-ovhcloud.com/incidents/fcwl3mwh75b9&quot;&gt;Related incident&lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - No more perturbation on OpenStack API is observed.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; This incident is related to this incident https://bare-metal-servers.status-ovhcloud.com/incidents/fcwl3mwh75b9&lt;br /&gt;&lt;br /&gt;A network equipement must be replaced&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/06/2023 11:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API responses might experience some perturbation.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 27 Jun 2023 02:09:29 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/b4vxh28hcvf2</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/b4vxh28hcvf2</guid>
     </item>
     <item>
       <title>PCI - GRA1 - host576817</title>
@@ -199,14 +207,6 @@
       <pubDate>Mon, 26 Jun 2023 15:42:34 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/n0r8z8lcj1xw</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/n0r8z8lcj1xw</guid>
-    </item>
-    <item>
-      <title>PCI - GRA1 - host576811</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host576811&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;f63f43fe-1cf6-4b0c-b750-efd30887095b&lt;br /&gt;ed578e62-6aa7-4db1-bedc-85cdd83a4edf&lt;br /&gt;3713a1bd-46f2-4738-ae4e-b4248b810af7&lt;br /&gt;808ba832-8632-4d59-a9c4-9de33c08afb9&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Jun 2023 15:30:28 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ff70zf736yp8</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ff70zf736yp8</guid>
     </item>
   </channel>
 </rss>

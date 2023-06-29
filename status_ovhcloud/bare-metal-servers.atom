@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-06-29T13:43:25Z</updated>
+  <updated>2023-06-29T13:43:43Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hqwymyqm1myt"/>
     <title>[RBX8][Network] - R806L04</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; - &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 02:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/07/2023 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Interruption of the public network during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams must replace the defective network equipement.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17720151</id>
+    <published>2023-06-29T13:43:43Z</published>
+    <updated>2023-06-29T13:43:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/4lw2wwhzhdch"/>
+    <title>VPS - DE2 - host1023099</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1023099&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps691295&lt;br /&gt;vps672153&lt;br /&gt;vps656858&lt;br /&gt;vps792893&lt;br /&gt;vps760587&lt;br /&gt;vps670216&lt;br /&gt;vps705681&lt;br /&gt;vps650843&lt;br /&gt;vps760532&lt;br /&gt;vps708117&lt;br /&gt;vps700659&lt;br /&gt;vps641902&lt;br /&gt;vps557509&lt;br /&gt;vps806593&lt;br /&gt;vps814502&lt;br /&gt;vps783584&lt;br /&gt;vps738281&lt;br /&gt;vps779820&lt;br /&gt;vps797837&lt;br /&gt;vps792739&lt;br /&gt;vps777427&lt;br /&gt;vps774182&lt;br /&gt;vps770989&lt;br /&gt;vps767262&lt;br /&gt;vps685044&lt;br /&gt;vps750566&lt;br /&gt;vps739435&lt;br /&gt;vps735566&lt;br /&gt;vps731503&lt;br /&gt;vps730910&lt;br /&gt;vps729692&lt;br /&gt;vps727711&lt;br /&gt;vps713088&lt;br /&gt;vps710176&lt;br /&gt;vps678149&lt;br /&gt;vps701577&lt;br /&gt;vps680791&lt;br /&gt;vps679128&lt;br /&gt;vps639744&lt;br /&gt;vps634408&lt;br /&gt;vps559145&lt;br /&gt;vps629144&lt;br /&gt;vps628717&lt;br /&gt;vps624154&lt;br /&gt;vps623462&lt;br /&gt;vps622961&lt;br /&gt;vps618311&lt;br /&gt;vps595443&lt;br /&gt;vps613898&lt;br /&gt;vps613897&lt;br /&gt;vps591112&lt;br /&gt;vps589887&lt;br /&gt;vps581037&lt;br /&gt;vps580331&lt;br /&gt;vps579392&lt;br /&gt;vps570847&lt;br /&gt;vps554593&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17719689</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/0cccbp00qzyz"/>
     <title>[BHS4][DedicatedServers] - Rack T04D26</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/06/2023 13:29 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/06/2023 19:27 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Cooling malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Most of the impacted servers are up anew.&lt;br /&gt;Our technical teams are working on the few remaining ones.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;13:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/06/2023 13:29 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack T04D26 are down.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Cooling malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17701142</id>
-    <published>2023-06-27T18:19:37Z</published>
-    <updated>2023-06-27T18:19:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bnc0csc72l86"/>
-    <title>[SBG8][VPS] - Control plane upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;18:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Team will proceed to an upgrade of infrastructure control plane component. Actions on VPS will be disabled during intervention.&lt;/p&gt;</content>
   </entry>
 </feed>

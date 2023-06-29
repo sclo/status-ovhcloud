@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 28 Jun 2023 22:46:54 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2023 01:43:36 +0000</pubDate>
     <item>
       <title>[GLOBAL][Databases] - MongoDB migration</title>
       <description>
@@ -31,6 +31,22 @@
       <maintenanceEndDate>Wed, 09 Aug 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</guid>
+    </item>
+    <item>
+      <title>PCI - GRA9 - host1609839</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1609839&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;76264668-1296-4ad7-a302-da3f2159fb74&lt;br /&gt;0f8139f6-4f93-463e-9adf-d7a2254f5c8f&lt;br /&gt;34ec705a-48fa-4a14-ace4-0b40457cd3ad&lt;br /&gt;6edc04fc-8014-4a24-892d-bcdadeeca673&lt;/p&gt;      </description>
+      <pubDate>Thu, 29 Jun 2023 01:43:36 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/b11t2rkkr4x7</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/b11t2rkkr4x7</guid>
+    </item>
+    <item>
+      <title>PCI - DE1 - host1384628</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1384628&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;93a69e4e-d4f3-46a7-909b-6dc9bcca3553&lt;br /&gt;09eff23f-b206-493d-863b-0b7f684af070&lt;br /&gt;1f06c15e-22fd-4887-9eb0-1bddd6441691&lt;br /&gt;4535ff39-efd1-4c9a-846c-6644a6147c64&lt;br /&gt;aa4dead1-00b3-4950-adbd-5c8b9ff8c2ce&lt;br /&gt;da656e0f-cbb5-4a96-8b24-4c5815e2dc0b&lt;br /&gt;4897e72a-6b11-444d-b10f-5c9190a7ed8f&lt;br /&gt;347b7fd1-c86e-4375-893e-c7169c6568a5&lt;/p&gt;      </description>
+      <pubDate>Thu, 29 Jun 2023 01:43:10 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/nzy431128bz6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/nzy431128bz6</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host942811</title>
@@ -193,22 +209,6 @@
       <pubDate>Tue, 27 Jun 2023 04:47:50 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/hlzwysldg6d1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/hlzwysldg6d1</guid>
-    </item>
-    <item>
-      <title>[GRA1/GRA3][PublicCloud] - OpenStack API perturbation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/06/2023 11:58 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 26/06/2023 22:31 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API responses was experiencing some perturbations.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; a href=&quot;https://bare-metal-servers.status-ovhcloud.com/incidents/fcwl3mwh75b9&quot;&gt;Related incident&lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - No more perturbation on OpenStack API is observed.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; This incident is related to this incident https://bare-metal-servers.status-ovhcloud.com/incidents/fcwl3mwh75b9&lt;br /&gt;&lt;br /&gt;A network equipement must be replaced&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/06/2023 11:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API responses might experience some perturbation.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 27 Jun 2023 02:09:29 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/b4vxh28hcvf2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/b4vxh28hcvf2</guid>
-    </item>
-    <item>
-      <title>PCI - GRA3 - host1416632</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1416632&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;c5df940d-3350-4081-aaea-e3975ffdf578&lt;br /&gt;5c4c0def-8e23-4fac-9b41-fd8cee1be476&lt;br /&gt;719996e9-0420-488b-879a-881d19d15ec7&lt;br /&gt;94d6d54d-94f6-4b6f-9ce6-ff4b63f5d40f&lt;br /&gt;f5fb7331-c006-498a-acb6-5de4d0976564&lt;br /&gt;59476975-cfcd-49a1-b861-775b5f8ce934&lt;br /&gt;f38b1590-1b74-4f70-a86b-a89c5c05d27d&lt;br /&gt;75dfcbb0-a873-4680-a1a5-333b82ca8a1d&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Jun 2023 19:02:30 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/d4f39jx748dv</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/d4f39jx748dv</guid>
     </item>
   </channel>
 </rss>

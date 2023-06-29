@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-29T15:55:00Z</updated>
+  <updated>2023-06-29T16:33:34Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/tfq65hzstlp4"/>
     <title>[GLOBAL][Databases] - MongoDB migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/07/2023 11:54 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/07/2023 11:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A small downtime may be experienced for less than 15 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will be doing a migration for our MongoDB nodes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17721548</id>
+    <published>2023-07-06T15:30:00Z</published>
+    <updated>2023-06-29T16:33:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vzjy0701jdgh"/>
+    <title>[SBG5 /SBG6 /GRA5/ GRA6 /GRA7 /GRA8 /GRA9] - [K8S] 1.24 Update</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2023 15:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Kubernetes 1.24 releases updates, to deliver security updates, fix known issues, and introduce new features.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17713552</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bqq1spn9nxtg"/>
     <title>PCI - WAW1 - host1024068</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1024068&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;576be05a-e08d-47f3-8bee-dc734344541a&lt;br /&gt;eeda38dd-5c81-4d3c-b324-7dccc687704b&lt;br /&gt;04708424-2bd2-416c-88f6-ddc7db1a980f&lt;br /&gt;9f649721-7090-4234-aa1d-b07ea9998b1e&lt;br /&gt;6ad305ff-0100-46bf-8f4e-fe99b1bd18d0&lt;br /&gt;32a76d72-6254-485f-8cbc-da6cef470a7b&lt;br /&gt;8862a6f9-d65b-4656-9569-ed63a4a967eb&lt;br /&gt;bd6491b2-9605-4751-a207-75af2b53e28b&lt;br /&gt;081f2e6a-eff0-48de-96a6-319430e94594&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17707586</id>
-    <published>2023-06-28T09:53:54Z</published>
-    <updated>2023-06-28T09:53:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hf47cgb7bfxd"/>
-    <title>PCI - WAW1 - host1024078</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1024078&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;284cd1ec-a41c-43d1-98a1-209fbcf46336&lt;br /&gt;885fe8c1-0094-483b-8bbd-9dfe075a7e12&lt;br /&gt;66894d4e-4ea4-4b01-84fe-8b53c2e25f66&lt;br /&gt;feb67140-5739-44b7-ad81-aa0f10072103&lt;br /&gt;b0e8940a-57e8-4521-ac5b-897673e94d65&lt;br /&gt;cb4167bd-99e1-490d-b199-50d9832b737b&lt;br /&gt;ee26f46d-2b96-41e6-abd1-687f5bce650e&lt;br /&gt;6528a22b-cfd6-4001-9760-32d401acd5e3&lt;br /&gt;e1c532c6-9ad2-42b8-8d5f-c10e4e42f093&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 30 Jun 2023 12:05:07 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2023 12:50:42 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -85,6 +85,22 @@
       <maintenanceEndDate>Wed, 09 Aug 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</guid>
+    </item>
+    <item>
+      <title>PCI - GRA3 - host1551070</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1551070&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;bad3d5cb-583c-4397-af07-cca2af71dd82&lt;br /&gt;098a68f4-4d4f-4e70-8bd2-9748bf0f55de&lt;br /&gt;067226c1-e49e-4514-aced-6fcb57fcce8c&lt;br /&gt;303dcc58-6bbc-481a-9aa4-ac30695a2003&lt;/p&gt;      </description>
+      <pubDate>Fri, 30 Jun 2023 12:50:42 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/qxpwnbhbpmyb</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/qxpwnbhbpmyb</guid>
+    </item>
+    <item>
+      <title>[Global][Public Cloud] - Object acces in the manager</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2023 21:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer cannot list object from container via the manager.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Bad integration of APIcall  /cloud/project/{serviceName}/storage/access&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Fri, 30 Jun 2023 12:42:34 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host972175</title>
@@ -197,22 +213,6 @@
       <pubDate>Thu, 29 Jun 2023 12:45:24 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7m3jz339v3jb</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7m3jz339v3jb</guid>
-    </item>
-    <item>
-      <title>PCI - BHS5 - host460697</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host460697&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;d674e986-2e9c-49ce-8335-438f957f38c8&lt;br /&gt;2f11adbc-6db3-4ec8-9367-be30a705722a&lt;br /&gt;c4f9b2e8-84c2-470b-a667-b20c40467128&lt;br /&gt;bad75675-aa8a-46fb-856d-45f2b547edf5&lt;br /&gt;925194a8-e364-4a0b-a033-bcde01138e06&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Jun 2023 10:15:49 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/p81118df5fg7</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/p81118df5fg7</guid>
-    </item>
-    <item>
-      <title>PCI - GRA5 - host942811</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host942811&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;4b9f449c-4ab8-4cce-a2c8-26ce8cb80891&lt;br /&gt;49074fb4-7dce-4a73-9777-1f46360045e9&lt;br /&gt;9f222ba1-079e-43a3-b780-7077e1634fc0&lt;br /&gt;34f577d6-dd6f-4b15-8964-dee035bcb669&lt;br /&gt;be7387d5-d4ed-42f5-a3f5-0b6b821ca3f2&lt;br /&gt;3243c280-4f3f-4b85-a047-7c25360607f0&lt;/p&gt;      </description>
-      <pubDate>Thu, 29 Jun 2023 07:05:04 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/2jrt1ykl946x</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/2jrt1ykl946x</guid>
     </item>
   </channel>
 </rss>

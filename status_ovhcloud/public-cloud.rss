@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 30 Jun 2023 15:44:45 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2023 16:16:48 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -87,6 +87,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</guid>
     </item>
     <item>
+      <title>[Global][Public Cloud] - Object acces in the manager</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2023 13:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/06/2023 16:02 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2023 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer cannot list object from container via the manager.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Bad integration of APIcall  /cloud/project/{serviceName}/storage/access&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Fri, 30 Jun 2023 16:16:48 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</guid>
+    </item>
+    <item>
       <title>PCI - DE1 - host1083878</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1083878&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;58b976a6-d082-438c-b95e-d7d77a915823&lt;br /&gt;915f3c45-d583-487f-85cb-e7e135aa34b0&lt;br /&gt;777f7c63-fce3-434e-a46c-1af8224dd470&lt;br /&gt;98a589c3-7b1e-4a74-876d-a50191850060&lt;br /&gt;89b2b680-fdbb-4847-bcb0-b33860c9db57&lt;br /&gt;80e5674d-8041-45b9-8b12-c42c936e68e1&lt;br /&gt;ddeff5fb-36f7-425a-8ccc-48e3f2d24667&lt;br /&gt;09b41660-a278-43ba-88d9-be6adfa2b031&lt;/p&gt;      </description>
@@ -109,14 +117,6 @@
       <pubDate>Fri, 30 Jun 2023 14:21:07 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1t5jkvlnx3v8</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1t5jkvlnx3v8</guid>
-    </item>
-    <item>
-      <title>[Global][Public Cloud] - Object acces in the manager</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/06/2023 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer cannot list object from container via the manager.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Bad integration of APIcall  /cloud/project/{serviceName}/storage/access&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 30 Jun 2023 15:44:45 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/q8q5bdt7wk98</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host972175</title>

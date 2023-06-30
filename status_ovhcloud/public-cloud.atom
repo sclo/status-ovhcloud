@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-06-30T00:43:18Z</updated>
+  <updated>2023-06-30T10:31:46Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm"/>
     <title>[Global][PublicCloud] - OpenStack - RabbitMQ upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;01:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/07/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API will be unavailable for 30min up to 2H during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for RabbitMQ (Message queue service).&lt;br /&gt;The upgrade will be rolled out following this schedule :&lt;br /&gt;w27 (03/07)&lt;br /&gt;    BHS1                03/07 08:00 UTC&lt;br /&gt;    SYD1                04/07 13:00 UTC&lt;br /&gt;w28 (10/07) &lt;br /&gt;    BHS3                10/07 08:00 UTC&lt;br /&gt;    SGP1                 11/07 13:00 UTC&lt;br /&gt;    DE1                   12/07 19:00 UTC&lt;br /&gt;w29 (17/07)&lt;br /&gt;    BHS5                17/07 08:00 UTC&lt;br /&gt;    WAW1              17/07 19:00 UTC&lt;br /&gt;    SBG5                 18/07 19:00 UTC&lt;br /&gt;    GRA1                 19/07 19:00 UTC&lt;br /&gt;w30 (24/07)&lt;br /&gt;    GRA11               24/07 19:00 UTC&lt;br /&gt;    UK1                    25/07 19:00 UTC&lt;br /&gt;    GRA5                 26/07 19:00 UTC&lt;br /&gt;    SBG7                  27/07 19:00 UTC&lt;br /&gt;w31 (31/07)&lt;br /&gt;    US-WEST-OR1 31/07 08:00 UTC&lt;br /&gt;    GRA9                  31/07 19:00 UTC&lt;br /&gt;    US-EAST-VA-1 01/08 08:00 UTC&lt;br /&gt;w32 (07/08)&lt;br /&gt;    GRA7                  07/08 19:00 UTC&lt;br /&gt;    GRA3                  08/08 19:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17728362</id>
+    <published>2023-06-30T10:31:46Z</published>
+    <updated>2023-06-30T10:31:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/q88nnnl29fpk"/>
+    <title>PCI - GRA5 - host972175</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host972175&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;89020b26-bb5f-47eb-a990-2003e4e9caf4&lt;br /&gt;7eb52dd9-1809-4f77-9a17-6080f2496af6&lt;br /&gt;b4176a02-477d-41de-94e5-565c634becb8&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17723877</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b11t2rkkr4x7"/>
     <title>PCI - GRA9 - host1609839</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1609839&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;76264668-1296-4ad7-a302-da3f2159fb74&lt;br /&gt;0f8139f6-4f93-463e-9adf-d7a2254f5c8f&lt;br /&gt;34ec705a-48fa-4a14-ace4-0b40457cd3ad&lt;br /&gt;6edc04fc-8014-4a24-892d-bcdadeeca673&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17714659</id>
-    <published>2023-06-29T01:56:48Z</published>
-    <updated>2023-06-29T01:56:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nzy431128bz6"/>
-    <title>PCI - DE1 - host1384628</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1384628&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;93a69e4e-d4f3-46a7-909b-6dc9bcca3553&lt;br /&gt;09eff23f-b206-493d-863b-0b7f684af070&lt;br /&gt;1f06c15e-22fd-4887-9eb0-1bddd6441691&lt;br /&gt;4535ff39-efd1-4c9a-846c-6644a6147c64&lt;br /&gt;aa4dead1-00b3-4950-adbd-5c8b9ff8c2ce&lt;br /&gt;da656e0f-cbb5-4a96-8b24-4c5815e2dc0b&lt;br /&gt;4897e72a-6b11-444d-b10f-5c9190a7ed8f&lt;br /&gt;347b7fd1-c86e-4375-893e-c7169c6568a5&lt;/p&gt;</content>
   </entry>
 </feed>

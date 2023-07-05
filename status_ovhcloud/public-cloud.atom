@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-07-05T16:37:19Z</updated>
+  <updated>2023-07-05T17:01:44Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/sx9bhs8r8lsg"/>
     <title>[WAW1][Network] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2023 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17772544</id>
+    <published>2023-07-05T17:01:44Z</published>
+    <updated>2023-07-05T17:01:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9rdtqhxf3wv0"/>
+    <title>PCI - GRA11 - host1644835</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1644835&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;391490da-90b5-4a85-83e4-fbf4893eda26&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17769534</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mzlw8ylzc7vy"/>
     <title>PCI - GRA7 - host947140</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;04:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host947140&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;fd4eb9bf-2425-43b4-8db4-adef481f84a4&lt;br /&gt;f1cf8bc4-b8b7-4f88-a771-401fc6189fd0&lt;br /&gt;497bd74d-0f7e-4bc2-8207-adb3f8aaec05&lt;br /&gt;285171cd-aee1-4687-ba9b-6da25f6036d9&lt;br /&gt;d7ad4e4d-7932-4d33-b76c-2d43dfd5051f&lt;br /&gt;7228989e-ff44-4f9d-b5ee-14903a02f485&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17755916</id>
-    <published>2023-07-04T01:33:40Z</published>
-    <updated>2023-07-04T01:33:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/853zm0j8q1j4"/>
-    <title>[EU/APAC][PublicCloud] - Keystone (authentification) API</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;01:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/07/2023 21:04 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/07/20223 00:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Keystone (authentication) issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/07/2023 21:04 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Keystone (authentication) issue.&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;21:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;21:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/07/2023 21:04 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Keystone ( authentification) API are temporary unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

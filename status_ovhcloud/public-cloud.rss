@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 05 Jul 2023 06:58:54 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2023 07:08:10 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -69,6 +69,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/sx9bhs8r8lsg</guid>
     </item>
     <item>
+      <title>[Global][Public Cloud] Autoscaling feature and nodepool CRD management in degraded state</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/07/05 00:16 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; In progress&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Cluster autoscaler component and nodepool customer resources management are currently in a degraded state.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Keystone API temporarily unreachable: https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Waiting outage resolution from the Public Cloud team.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Jul 2023 07:08:10 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/p25pz0xhk9rp</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/p25pz0xhk9rp</guid>
+    </item>
+    <item>
       <title>[Global][Public Cloud] - Object Storage</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 02:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Keystone (authentification) API are temporary unavailable for Object Storage&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs&quot;&gt;[EU/BHS/APAC][Publiccloud] - Keystone (authentication) API&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -79,8 +87,8 @@
     <item>
       <title>[Global][Publiccloud] - Keystone (authentication) API</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Further Investigation reported impacted for AI Notebooks&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Keystone ( authentification) API are temporary unavailable for object storage and Openstack.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 05 Jul 2023 06:53:44 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams continue to work on the issue.&lt;br /&gt;Further investigation show impact for AI in BHS.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Further Investigation reported impacted for AI Notebooks&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Keystone ( authentification) API are temporary unavailable for object storage and Openstack.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Jul 2023 07:05:14 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs</guid>
     </item>
@@ -204,15 +212,6 @@
       <pubDate>Mon, 03 Jul 2023 17:54:17 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9syxrkjmp4c6</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9syxrkjmp4c6</guid>
-    </item>
-    <item>
-      <title>[Global][PublicCloud] - OpenStack - RabbitMQ upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams completed the works on SYD1.&lt;br /&gt;The maintenance will resume on 10/07/2023 08:00 UTC for BHS3.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance has started for SYD1.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams completed the works on BHS1.&lt;br /&gt;The maintenance will resume on 04/07/2023 13:00 UTC for SYD1.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/07/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API will be unavailable for 30min up to 2H during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for RabbitMQ (Message queue service).&lt;br /&gt;The upgrade will be rolled out following this schedule :&lt;br /&gt;w27 (03/07)&lt;br /&gt;    BHS1                03/07 08:00 UTC&lt;br /&gt;    SYD1                04/07 13:00 UTC&lt;br /&gt;w28 (10/07) &lt;br /&gt;    BHS3                10/07 08:00 UTC&lt;br /&gt;    SGP1                 11/07 13:00 UTC&lt;br /&gt;    DE1                   12/07 19:00 UTC&lt;br /&gt;w29 (17/07)&lt;br /&gt;    BHS5                17/07 08:00 UTC&lt;br /&gt;    WAW1              17/07 19:00 UTC&lt;br /&gt;    SBG5                 18/07 19:00 UTC&lt;br /&gt;    GRA1                 19/07 19:00 UTC&lt;br /&gt;w30 (24/07)&lt;br /&gt;    GRA11               24/07 19:00 UTC&lt;br /&gt;    UK1                    25/07 19:00 UTC&lt;br /&gt;    GRA5                 26/07 19:00 UTC&lt;br /&gt;    SBG7                  27/07 19:00 UTC&lt;br /&gt;w31 (31/07)&lt;br /&gt;    US-WEST-OR1 31/07 08:00 UTC&lt;br /&gt;    GRA9                  31/07 19:00 UTC&lt;br /&gt;    US-EAST-VA-1 01/08 08:00 UTC&lt;br /&gt;w32 (07/08)&lt;br /&gt;    GRA7                  07/08 19:00 UTC&lt;br /&gt;    GRA3                  08/08 19:00 UTC&lt;/p&gt;      </description>
-      <pubDate>Tue, 04 Jul 2023 14:01:11 +0000</pubDate>
-      <maintenanceEndDate>Wed, 09 Aug 2023 10:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/5dl07nrf3mfm</guid>
     </item>
   </channel>
 </rss>

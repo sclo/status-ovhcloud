@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-07-06T17:43:57Z</updated>
+  <updated>2023-07-06T18:17:03Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -49,6 +49,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/07/2023 15:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/07/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Kubernetes 1.24 releases updates, to deliver security updates, fix known issues, and introduce new features.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17780277</id>
+    <published>2023-07-06T18:17:03Z</published>
+    <updated>2023-07-06T18:17:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gzffm8r8gyvg"/>
+    <title>PCI - DE1 - host1076863</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;18:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 2 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;fra1-lim1-pciz1host11-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;L113B04&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1076863&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;033746f8-48f7-4449-bf5d-cc55b624a092&lt;br /&gt;100a74d2-e448-4624-8f9e-e9e89c01e5fd&lt;br /&gt;10969ac4-87f9-41cd-b64c-b00b8a7d502a&lt;br /&gt;260725fe-f1cf-41ea-bb10-97ae1690595d&lt;br /&gt;26597ac0-0736-485f-ba67-74f88f36f0fe&lt;br /&gt;291230d1-7859-4dd1-8115-f209997febde&lt;br /&gt;3b71b522-388c-44d0-bd88-5be1513d3074&lt;br /&gt;7fb34134-7562-41bd-8e99-3d1c68f4f8a0&lt;br /&gt;821233df-8f9f-4c3f-a523-991380cc67e2&lt;br /&gt;b977d9fe-3d37-4ba9-8ba2-43acd26f36f3&lt;br /&gt;f0b87929-7e7f-4a71-b31d-3c397e17aa88&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17781943</id>
     <published>2023-07-06T17:11:31Z</published>
     <updated>2023-07-06T17:11:31Z</updated>
@@ -71,14 +79,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vzjy0701jdgh"/>
     <title>[SBG5 /SBG6 /GRA5/ GRA6 /GRA7 /GRA8 /GRA9] - [K8S] 1.24 Update</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance it has been postponed and will be rescheduled. &lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/07/2023 15:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/07/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Kubernetes 1.24 releases updates, to deliver security updates, fix known issues, and introduce new features.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17780277</id>
-    <published>2023-07-06T13:45:10Z</published>
-    <updated>2023-07-06T13:45:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gzffm8r8gyvg"/>
-    <title>PCI - DE1 - host1076863</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 2 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;fra1-lim1-pciz1host11-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;L113B04&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1076863&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;033746f8-48f7-4449-bf5d-cc55b624a092&lt;br /&gt;100a74d2-e448-4624-8f9e-e9e89c01e5fd&lt;br /&gt;10969ac4-87f9-41cd-b64c-b00b8a7d502a&lt;br /&gt;260725fe-f1cf-41ea-bb10-97ae1690595d&lt;br /&gt;26597ac0-0736-485f-ba67-74f88f36f0fe&lt;br /&gt;291230d1-7859-4dd1-8115-f209997febde&lt;br /&gt;3b71b522-388c-44d0-bd88-5be1513d3074&lt;br /&gt;7fb34134-7562-41bd-8e99-3d1c68f4f8a0&lt;br /&gt;821233df-8f9f-4c3f-a523-991380cc67e2&lt;br /&gt;b977d9fe-3d37-4ba9-8ba2-43acd26f36f3&lt;br /&gt;f0b87929-7e7f-4a71-b31d-3c397e17aa88&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17771139</id>

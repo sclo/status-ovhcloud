@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 07 Jul 2023 11:58:46 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2023 17:50:13 +0000</pubDate>
+    <item>
+      <title>[GRA7][WebPaaS] - Routine Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/07/2023 19:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Console User Interface, Git and Crons will be unavailable during the reindexing of git logs, which may take up to 6 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHcloud that they will be doing a routine maintenance on OVHCLOUD-FR-1 region to release an underlying software upgrade. All projects and environments will continue to function during the upgrade.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Jul 2023 19:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Jul 2023 21:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/t0kt9jv1w333</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/t0kt9jv1w333</guid>
+    </item>
     <item>
       <title>[Global][VOIP] - Conference migration</title>
       <description>
@@ -211,14 +220,6 @@
       <pubDate>Mon, 26 Jun 2023 16:12:03 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/rg7pc77jh6k2</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/rg7pc77jh6k2</guid>
-    </item>
-    <item>
-      <title>[FR][xDSL/FTTH] - Internet order perturbation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 26/06/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 26/06/2023 14:18 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to an overload of the API of the provider.&lt;br /&gt;Our collect operator resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/06/2023 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You can encounter some perturbation to have an eligibility on our order tunnel.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our collect operator investigate on the issue.&lt;/p&gt;      </description>
-      <pubDate>Mon, 26 Jun 2023 14:50:55 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/bm6d7h6wkmg8</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/bm6d7h6wkmg8</guid>
     </item>
   </channel>
 </rss>

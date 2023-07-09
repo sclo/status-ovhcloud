@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 09 Jul 2023 13:34:27 +0000</pubDate>
+    <pubDate>Sun, 09 Jul 2023 13:52:16 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -49,6 +49,14 @@
       <maintenanceEndDate>Tue, 11 Jul 2023 16:30:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r9ck2dt6wy4j</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r9ck2dt6wy4j</guid>
+    </item>
+    <item>
+      <title>PCI - GRA11 - host1603976</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1603976&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;2b7c8f3e-f33e-4b3c-ad00-a84127f7e0e0&lt;/p&gt;      </description>
+      <pubDate>Sun, 09 Jul 2023 13:52:16 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/416qj8tfnhf3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/416qj8tfnhf3</guid>
     </item>
     <item>
       <title>PCI - GRA11 - host1603976</title>
@@ -201,14 +209,6 @@
       <pubDate>Fri, 07 Jul 2023 09:22:45 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/p25pz0xhk9rp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/p25pz0xhk9rp</guid>
-    </item>
-    <item>
-      <title>[Global][Public Cloud] - Object Storage</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 05/07/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 05/07/2023 09:00 UTC &lt;br /&gt;&lt;br /&gt;On July 5th 06:03 am CEST, OVHcloud has identified a partial unavailability of its services affecting Public Cloud and VPS customers. &lt;br /&gt;&lt;br /&gt;During this time, the management of the following services was degraded: Compute, Storage, Network, Containers &amp; orchestration. Access to data on Standard Object Storage Swift &amp; Cloud Archive was not possible. Access to the Public Cloud segment of the OVHcloud manager was also unavailable. No data was lost during the incident.&lt;br /&gt;&lt;br /&gt;Concerning VPS, ordering, upgrade, reinstallation and unsubscribe were unavailable as well as Snapshot and Automated backup features.&lt;br /&gt;&lt;br /&gt;Resources of both Public Cloud and VPS remained available during the course of the incident, excluding Standard Object Storage Swift and Cloud Archive.&lt;br /&gt;&lt;br /&gt;The incident was fixed at 9:07am CEST, thanks to our fully mobilized teams, with a progressive ramp-up to a nominal state up until 11:00am CEST for all affected services.&lt;br /&gt;&lt;br /&gt;We sincerely apologize to all affected customers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/07/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs&quot;&gt;[EU/BHS/APAC][Publiccloud] - Keystone (authentication) API&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;br /&gt;We continue to actively monitor the situation with impacted services.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 04:00 UTC&lt;br /&gt;&lt;b&gt;Update :&lt;/b&gt; Following the main incident with the Keystone API, some object storage products (PCS, Swift) are in degraded service. &lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs&quot;&gt;[EU/BHS/APAC][Publiccloud] - Keystone (authentication) API&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/07/2023 02:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Keystone (authentification) API are temporary unavailable for Object Storage&lt;br /&gt;&lt;b&gt;Related Incident :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/1shkj36zsphs&quot;&gt;[EU/BHS/APAC][Publiccloud] - Keystone (authentication) API&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 07 Jul 2023 09:22:01 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/kr48h5jhtk39</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/kr48h5jhtk39</guid>
     </item>
   </channel>
 </rss>

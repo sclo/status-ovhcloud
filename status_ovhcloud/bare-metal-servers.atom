@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-07-10T14:38:57Z</updated>
+  <updated>2023-07-10T16:25:26Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -145,6 +145,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/07/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/07/2023 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17815611</id>
+    <published>2023-07-10T16:25:26Z</published>
+    <updated>2023-07-10T16:25:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/k5p98wcj2yyn"/>
+    <title>[SBG5][Private/Public Network] - SBG0506A01D</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/07/2023 16:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers are unreachable on this rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17783811</id>
     <published>2023-07-10T14:38:57Z</published>
     <updated>2023-07-10T14:38:57Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wvmz1464sq9y"/>
     <title>[GRA1][DedicatedServers] - Rack G116A17</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/07/2023 08:34 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/07/2023 08:56 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network were temporarily unreachable in rack G116A17.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Network issue&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17803255</id>
-    <published>2023-07-09T03:45:53Z</published>
-    <updated>2023-07-09T03:45:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9nc6b6wfpt0q"/>
-    <title>VPS - BHS2 - host313610</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;03:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host313610&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps212875&lt;br /&gt;vps242846&lt;br /&gt;vps266763&lt;br /&gt;vps264583&lt;br /&gt;vps263080&lt;br /&gt;vps208930&lt;br /&gt;vps250962&lt;br /&gt;vps243162&lt;br /&gt;vps241164&lt;br /&gt;vps239873&lt;br /&gt;vps239765&lt;br /&gt;vps237152&lt;br /&gt;vps226290&lt;br /&gt;vps225675&lt;br /&gt;vps220909&lt;br /&gt;vps220523&lt;br /&gt;vps219572&lt;br /&gt;vps210005&lt;br /&gt;vps205042&lt;br /&gt;vps202179&lt;br /&gt;vps200063&lt;br /&gt;vps199640&lt;br /&gt;vps113420&lt;br /&gt;vps197515&lt;br /&gt;vps191490&lt;br /&gt;vps190466&lt;br /&gt;vps177016&lt;br /&gt;vps170048&lt;br /&gt;vps167108&lt;br /&gt;vps159015&lt;br /&gt;vps153623&lt;br /&gt;vps145578&lt;br /&gt;vps115780&lt;br /&gt;vps133702&lt;/p&gt;</content>
   </entry>
 </feed>

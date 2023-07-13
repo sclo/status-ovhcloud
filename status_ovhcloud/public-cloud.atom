@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-07-13T21:43:30Z</updated>
+  <updated>2023-07-13T22:21:05Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/tfq65hzstlp4"/>
     <title>[GLOBAL][Databases] - MongoDB migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/07/2023 11:54 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/07/2023 11:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A small downtime may be experienced for less than 15 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will be doing a migration for our MongoDB nodes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17848603</id>
+    <published>2023-07-13T22:21:05Z</published>
+    <updated>2023-07-13T22:21:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dhfs1k7tjsmq"/>
+    <title>PCI - GRA5 - host953962</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;22:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host953962&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;67bd5447-4bab-458e-92f3-35e25c5b6deb&lt;br /&gt;5a931cef-4e6e-4624-adcd-58079b072f82&lt;br /&gt;f23fd125-3ca8-4f73-83fd-fdeb8e383a4f&lt;br /&gt;14d170d7-fe0b-45ad-b0bf-877c813c1be1&lt;br /&gt;3917db0f-d739-49b1-b759-0aecb058ebea&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17848259</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wwj464p4n7rl"/>
     <title>PCI - WAW1 - host1437737</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;12:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;12:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1437737&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;2dd6b058-aad1-467f-acf8-52ada381f8e4&lt;br /&gt;0330db25-0fc7-4286-94de-b89b8039d069&lt;br /&gt;f336e398-35ac-4272-bc74-65fb2d5332c5&lt;br /&gt;8077ee4e-d04b-46b8-af0b-ba778fed4baa&lt;br /&gt;b5c80b33-636b-4f7f-a6d4-a58473ef1ed3&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17832272</id>
-    <published>2023-07-12T09:01:34Z</published>
-    <updated>2023-07-12T09:01:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/clql52g6wrw2"/>
-    <title>PCI - GRA7 - host1301305</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1301305&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;a7602e37-c490-4db2-a437-8c9d06236d8d&lt;br /&gt;4309a12d-1662-4b6d-8c6d-906a1734ccf3&lt;br /&gt;b4a734d2-6b60-41de-879f-8ec0002c760d&lt;br /&gt;26e63524-4dbc-472a-b76f-dfa4eb9d5b55&lt;br /&gt;3881f8bf-4251-4266-8643-8504502f424c&lt;br /&gt;d1162a24-1cbd-4f10-8ac4-d02a7103ccbd&lt;br /&gt;d8712644-274a-49ac-a4d8-896045f4bec0&lt;br /&gt;110ff8e7-1e99-4a08-8038-89f32ae69bdf&lt;br /&gt;1a62cee9-1557-4b9c-a5ee-ce9644c10155&lt;br /&gt;80437974-a504-4abe-96e7-a2b24f97725e&lt;br /&gt;8af679c0-5e23-4f29-a11e-cc566856e8e1&lt;br /&gt;b6d52384-46d1-4567-84cf-fc1866fd2945&lt;br /&gt;434c08e1-bea9-4b49-b4a7-fc471a956328&lt;br /&gt;7544bc8b-2141-4a60-9981-8132fa572ec9&lt;br /&gt;99be3be4-9aa1-475a-913a-45109ed9ca35&lt;br /&gt;a7c8573a-24cf-4d73-aa94-cfc2dc436d89&lt;br /&gt;f11aa6a6-7cb0-44db-bebe-e8333bfb3eaf&lt;br /&gt;3eced46d-d573-441d-80be-7704db8d1c0a&lt;br /&gt;5342ac02-006b-44fd-8b08-4ecf59ddebc8&lt;br /&gt;62d4a293-2c5a-4d7e-92e5-817c40349788&lt;br /&gt;41a00e84-3c64-4673-848b-3ca60e5fd520&lt;br /&gt;1f8b507e-2f37-4cdf-9996-cafd9b453e6e&lt;br /&gt;bdc27cad-37df-423e-872f-91efec55907d&lt;br /&gt;53cbbc92-f387-4f85-a8be-4b9184ba3622&lt;br /&gt;a30b3c32-673f-4f39-8e3a-9c59fc58d3a9&lt;br /&gt;a84a8d7e-f50a-4610-8962-56d50622b293&lt;br /&gt;d7181315-fe46-4f69-aeef-4898820569eb&lt;br /&gt;2721a2fd-fd94-4a47-b15a-54c2590437f3&lt;br /&gt;dbccb979-5a67-4c21-90cf-3a8ae3b16ad3&lt;br /&gt;1bcba194-4c41-4f02-9488-76a380422af4&lt;br /&gt;2ce0a7bf-0905-41e0-82b0-5e0b76e1fbca&lt;/p&gt;</content>
   </entry>
 </feed>

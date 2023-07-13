@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-07-13T10:43:20Z</updated>
+  <updated>2023-07-13T14:39:33Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -129,6 +129,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/07/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/07/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will carry out interventions on multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17844883</id>
+    <published>2023-07-13T14:39:33Z</published>
+    <updated>2023-07-13T14:39:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/whfky39n23k1"/>
+    <title>[BHS7][Dedicated Servers] - B703B06</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/07/2023 14:25 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is temporarily unavailable for servers in rack B703B06&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17842936</id>
     <published>2023-07-13T10:33:51Z</published>
     <updated>2023-07-13T10:33:51Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mj6qrtv2n8wt"/>
     <title>VPS - GRA6 - host1088314</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1088314&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps804260&lt;br /&gt;vps803363&lt;br /&gt;vps803984&lt;br /&gt;vps803983&lt;br /&gt;vps803761&lt;br /&gt;vps804975&lt;br /&gt;vps803833&lt;br /&gt;vps804792&lt;br /&gt;vps804535&lt;br /&gt;vps804445&lt;br /&gt;vps804301&lt;br /&gt;vps804298&lt;br /&gt;vps803977&lt;br /&gt;vps803963&lt;br /&gt;vps803348&lt;br /&gt;vps802767&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17836105</id>
-    <published>2023-07-13T07:18:46Z</published>
-    <updated>2023-07-13T07:18:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/qdrg4ln8dpbw"/>
-    <title>[Global][OperatingSystem] - AlmaLinux 9 and Rocky Linux 9 unavailable for Tyan S8026GM2NRE-HOV-B boards</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;07:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/06/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; AlmaLinux 9 and Rocky Linux 9 can no longer be installed on Tyan S8026GM2NRE-HOV-B motherboards due to a kernel-related networking bug.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A kernel update on AlmaLinux 9 and Rocky Linux 9.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team is monitoring the upstream bug report at https://bugzilla.redhat.com/show_bug.cgi?id=2222037&lt;/p&gt;</content>
   </entry>
 </feed>

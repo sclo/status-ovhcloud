@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 16 Jul 2023 04:30:43 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2023 09:08:50 +0000</pubDate>
     <item>
       <title>[GRA1/FRA1/RBX4][Dedicated Servers] - Network equipement operation</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/mf0yktljds84</guid>
     </item>
     <item>
+      <title>[Global][OperatingSystem] - AlmaLinux 9 and Rocky Linux 9 unavailable for Tyan S8026GM2NRE-HOV-B boards</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 30/06/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 17/07/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A kernel update on AlmaLinux 9 and Rocky Linux 9.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/06/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; AlmaLinux 9 and Rocky Linux 9 can no longer be installed on Tyan S8026GM2NRE-HOV-B motherboards due to a kernel-related networking bug.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A kernel update on AlmaLinux 9 and Rocky Linux 9.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team is monitoring the upstream bug report at https://bugzilla.redhat.com/show_bug.cgi?id=2222037&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Jul 2023 09:08:50 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/qdrg4ln8dpbw</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/qdrg4ln8dpbw</guid>
+    </item>
+    <item>
       <title>[RBX8][Dedicated Servers] - Racks R808R23/R808R24</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/07/2023 03:23 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 16/07/2023 04:05 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI was temporarily unavailable for servers in racks R808R23 and R808R24&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/07/2023 03:23 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI is temporarily unavailable for servers in racks R808R23 and R808R24&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently working to solve the problem&lt;/p&gt;      </description>
@@ -212,14 +220,6 @@
       <pubDate>Thu, 13 Jul 2023 10:33:51 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rgry5rw0p0sn</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rgry5rw0p0sn</guid>
-    </item>
-    <item>
-      <title>VPS - UK2 - host1627854</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;lon1-eri1-pciz1host34a-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;ERI0113A02B&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1627854&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-2f003b2b&lt;/p&gt;      </description>
-      <pubDate>Thu, 13 Jul 2023 09:23:41 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cw924ql3hcrb</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cw924ql3hcrb</guid>
     </item>
   </channel>
 </rss>

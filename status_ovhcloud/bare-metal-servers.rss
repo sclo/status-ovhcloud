@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 18 Jul 2023 23:01:07 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2023 00:13:28 +0000</pubDate>
     <item>
       <title>[GRA1/FRA1/RBX4][Dedicated Servers] - Network equipement operation</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7x5z6bs8gc39</guid>
     </item>
     <item>
+      <title>[Global][VPS] - Images EoL</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End time :&lt;/b&gt; 19/07/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Below-mentioned images will no longer be available to purchase or use.&lt;br /&gt;&lt;br /&gt;Several images that we are currently offering for Public Cloud and VPS are going to reach or has already reached End of Life (EoL).&lt;br /&gt;On July 19th, 2023, we will proceed to End of Life these images from Public Cloud and VPS offerings.&lt;br /&gt;You can read furthermore about our distribution End Of Life policy here: https://help.ovhcloud.com/csm/en-gb-public-cloud-compute-vps-image-life-cycle?id=kb_article_view&amp;sysparm_article=KB0050801&lt;br /&gt;&lt;br /&gt;Below is the complete list of images, as well our recommendations and alternatives for Public Cloud and VPS environments.&lt;br /&gt;EoL Distribution       EoL / EoS date      Alternative Distribution              Recommended action&lt;br /&gt;Debian 9                      2022-07-01            Debian 10 or 11                              Backup and upgrade distribution&lt;br /&gt;Fedora 34                    2022-06-07            Fedora 37 or 38                              Backup and upgrade distribution&lt;br /&gt;Fedora 35                    2022-12-13            Fedora 37 or 38                              Backup and upgrade distribution&lt;br /&gt;Fedora 36                    2023-05-16            Fedora 37 or 38                              Backup and upgrade distribution&lt;br /&gt;Ubuntu 18.04            2023-06-01            Ubuntu 20.04, 22.04 or 23.04    Backup and upgrade distribution&lt;br /&gt;Ubuntu 21.10            2022-07-14            Ubuntu 20.04, 22.04 or 23.04    Backup and upgrade distribution&lt;br /&gt;Ubuntu 22.10            2023-07-01            Ubuntu 20.04, 22.04 or 23.04    Backup and upgrade distribution&lt;br /&gt;&lt;br /&gt;Starting from July 19th, 2023, you will no longer be able to purchase or reinstall services with the above-mentioned images.&lt;br /&gt;If you use automation to deploy your infrastructure with any of these images, we strongly recommend you to either change them to another distribution or upload your own image and use it instead.&lt;br /&gt; &lt;br /&gt;You can refer to the following guides to:&lt;br /&gt;Upgrade operating system: https://help.ovhcloud.com/csm/en-gb-public-cloud-compute-upgrade-operating-system?id=kb_article_view&amp;sysparm_article=KB0051306&lt;br /&gt;Upload your image: https://help.ovhcloud.com/csm/en-gb-public-cloud-compute-upload-own-image?id=kb_article_view&amp;sysparm_article=KB0051319&lt;br /&gt; &lt;br /&gt;For any question, please reach out to our support team.&lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Jul 2023 00:13:28 +0000</pubDate>
+      <maintenanceEndDate>Mon, 26 Jun 2023 13:51:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cy9024g833sv</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cy9024g833sv</guid>
+    </item>
+    <item>
       <title>[GRA1][Network] - vRack maintenance</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/07/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/07/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some packet loss might be observed  for vRack network during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade to multiple network equipment.&lt;/p&gt;      </description>
@@ -211,14 +220,6 @@
       <pubDate>Sat, 15 Jul 2023 13:40:59 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6h7z33dfzzfv</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6h7z33dfzzfv</guid>
-    </item>
-    <item>
-      <title>[RBX1][DedicatedServers] - Rack 05B07</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/07/2023 04:16 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 15/07/2023 05:42 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/07/2023 04:16 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Sat, 15 Jul 2023 05:43:39 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0h0ylg4pw02y</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0h0ylg4pw02y</guid>
     </item>
   </channel>
 </rss>

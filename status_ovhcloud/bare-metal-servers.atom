@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-07-24T21:33:59Z</updated>
+  <updated>2023-07-24T21:50:57Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -89,6 +89,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/07/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unreachable for 30 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;We need to change a switch in this rack so that we and the robot will be able to access.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17914012</id>
+    <published>2023-07-24T21:50:57Z</published>
+    <updated>2023-07-24T21:50:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nbfvhkqxygzp"/>
+    <title>[ERI1][Dedicated Servers] - Network maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/07/2023 19:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/07/2023 23:30UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17949462</id>
     <published>2023-07-24T21:33:59Z</published>
     <updated>2023-07-24T21:33:59Z</updated>
@@ -103,14 +111,6 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/8325bk2b1l6t"/>
     <title>[RBX3][Dedicated Servers] - Rack 45C35</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 24/07/2023 19:22 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 24/07/2023 20:02 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/07/2023 19:22 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack is temporarily unavailable for servers in rack 45C35&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17914012</id>
-    <published>2023-07-24T19:30:07Z</published>
-    <updated>2023-07-24T19:30:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nbfvhkqxygzp"/>
-    <title>[ERI1][Dedicated Servers] - Network maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/07/2023 19:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/07/2023 23:30UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17916843</id>

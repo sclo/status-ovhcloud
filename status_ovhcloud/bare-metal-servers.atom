@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-07-24T20:47:19Z</updated>
+  <updated>2023-07-24T21:33:59Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ggs5twbpkqrp"/>
     <title>[RBX3][Public network] -43H07</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/07/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unreachable for 30 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;We need to change a switch in this rack so that we and the robot will be able to access.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17949462</id>
+    <published>2023-07-24T21:33:59Z</published>
+    <updated>2023-07-24T21:33:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bmsbbn2zw3yx"/>
+    <title>[BHS7][Dedicated Servers] - B709B01</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/07/2023 21:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17948648</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nc4rb9nck8w5"/>
     <title>[BHS4 - BHS5 - BHS6][Dedicated servers global infrastructure] - Multiple Racks</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 21/07/2023 18:10 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 21/07/2023 19:07 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers on these racks ( T04B35, T04C38, T05D25, T04B14, T04B32, T05E06, T05A33, T05B34, T05B27, B702A12, T05D24, T05C03, T05C28, T05E39, T04C35, T05E30, T05D30, T05D26, T05D38, T05C07, T05E24, T05D37, T05G23, T05E23, T05H14, T05B01,T06G27) were unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on the electrical distribution.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational&lt;br /&gt;&lt;b&gt;Related incident &lt;/b&gt; https://network.status-ovhcloud.com/incidents/0mjl7mr8xtcj&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17923143</id>
-    <published>2023-07-21T15:54:18Z</published>
-    <updated>2023-07-21T15:54:18Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/56401f6crvws"/>
-    <title>VPS - GRA8 - host1269687</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host83-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G261B03&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1269687&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-0e29fb23&lt;br /&gt;vps-0f8ef9a6&lt;br /&gt;vps-1d7610ed&lt;br /&gt;vps-3aa0a425&lt;br /&gt;vps-4fceba04&lt;br /&gt;vps-23f13812&lt;br /&gt;vps-31b31d6c&lt;br /&gt;vps-36f2d528&lt;br /&gt;vps-40cd62b1&lt;br /&gt;vps-49dce07c&lt;br /&gt;vps-93b1acd2&lt;br /&gt;vps-3323abc6&lt;br /&gt;vps-5011a943&lt;br /&gt;vps-05556fd2&lt;br /&gt;vps-5799264a&lt;br /&gt;vps-ac39c44f&lt;br /&gt;vps-af045014&lt;br /&gt;vps-b9a10136&lt;br /&gt;vps-b538364a&lt;br /&gt;vps-c7ea2d07&lt;br /&gt;vps-c2518954&lt;br /&gt;vps-cfd2eae6&lt;br /&gt;vps-e59b6b79&lt;br /&gt;vps-ee969d7a&lt;br /&gt;vps-f23c04d1&lt;br /&gt;vps-f83dba60&lt;br /&gt;vps-fdee38f8&lt;/p&gt;</content>
   </entry>
 </feed>

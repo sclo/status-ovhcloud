@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 24 Jul 2023 18:29:54 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2023 09:12:02 +0000</pubDate>
     <item>
       <title>[GRA][WebHosting] - Cluster006 - filerz777</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Tue, 25 Jul 2023 22:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/q9t0dkh5g6hj</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/q9t0dkh5g6hj</guid>
+    </item>
+    <item>
+      <title>[GRA][WebHosting] - Cluster031- Bitdefender Endpoint Security Tools</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer who use &quot;Bitdefender Endpoint Security Tools&quot; may be blocked on http://logs.cluster031.hosting.ovh.net/&lt;br /&gt;Bitdefender has been contacted to correct this false positive issue.&lt;br /&gt;Customer need to ensure use http&lt;b&gt;s&lt;/b&gt;://logs.cluster031.hosting.ovh.net/  and not  http://logs.cluster031.hosting.ovh.net/ (just use http&lt;b&gt;s&lt;/b&gt;)&lt;/p&gt;      </description>
+      <pubDate>Tue, 25 Jul 2023 09:12:02 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/56gscc0xsg9w</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/56gscc0xsg9w</guid>
     </item>
     <item>
       <title>[GRA2][Web Hosting] - Cluster002 - Filerz472</title>
@@ -203,14 +211,6 @@
       <pubDate>Mon, 10 Jul 2023 13:17:07 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/2x5cqw8666wd</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/2x5cqw8666wd</guid>
-    </item>
-    <item>
-      <title>[FR/SPA/GER/UK][Voip] - Registration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/07/2023 04:43 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2023 07:31 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;This malfunction was due to a disruption on the network&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Sip3 and 4 line registrations are operational again but sip3 lines calls are unreachable&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - This is localized only on sip3 and sip4 SIP domains.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/07/2023 04:43 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing line registration disruptions, this is implying call issues&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Sat, 08 Jul 2023 09:28:30 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/74bgrx422zdy</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/74bgrx422zdy</guid>
     </item>
   </channel>
 </rss>

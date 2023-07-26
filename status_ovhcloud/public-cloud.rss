@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 26 Jul 2023 15:05:17 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2023 17:11:10 +0000</pubDate>
     <item>
       <title>[GRA7][PublicCloud] - Customers migration Kubernetes to 1.23</title>
       <description>
@@ -24,20 +24,20 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4dy3gxsh4d38</guid>
     </item>
     <item>
-      <title>PCI - WAW1 - host1188329</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;waw1-pciz1host20-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;W12B04&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1188329&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;9b239aaa-6183-42eb-bf51-a8cd73fa25bb&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 13:19:24 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</guid>
-    </item>
-    <item>
       <title>[SBG5-7/UK1/DE1/WAW1/GRA1-3-5-7-9-11][Public Cloud] - Load Balancer</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; For the customers concerned, please use this command for fix : &lt;I&gt;openstack loadbalancer listener set --default-tls-container-ref &quot;&amp;lt;secret_path&amp;gt;&quot; &amp;lt; listener_id &amp;gt;&lt;/I&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 15:05:17 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/07/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; For the customers concerned, please use this command for fix : &lt;I&gt;openstack loadbalancer listener set --default-tls-container-ref &quot;&amp;lt;secret_path&amp;gt;&quot; &amp;lt; listener_id &amp;gt;&lt;/I&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 26 Jul 2023 17:11:10 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</guid>
+    </item>
+    <item>
+      <title>PCI - WAW1 - host1188329</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;waw1-pciz1host20-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;W12B04&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1188329&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;9b239aaa-6183-42eb-bf51-a8cd73fa25bb&lt;/p&gt;      </description>
+      <pubDate>Wed, 26 Jul 2023 17:05:05 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</guid>
     </item>
     <item>
       <title>[GRA1/BHS1][Compute] - End of Sales - Catalog v1</title>

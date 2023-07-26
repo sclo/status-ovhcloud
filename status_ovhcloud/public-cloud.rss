@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 26 Jul 2023 14:52:21 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2023 15:03:52 +0000</pubDate>
     <item>
       <title>[GRA7][PublicCloud] - Customers migration Kubernetes to 1.23</title>
       <description>
@@ -34,8 +34,8 @@
     <item>
       <title>[SBG5-7/UK1/DE1/WAW1/GRA1-3-5-7-9-11][Public Cloud] - Load Balancer</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - For the customers concerned, please use this command to fix listener : openstack loadbalancer listener set --default-tls-container-ref &quot;&lt;secret_path&gt;&quot; &lt;listener_id&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 14:52:20 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; For the customers concerned, please use this command for fix : openstack loadbalancer listener set --default-tls-container-ref &quot;&amp;lt;secret_path&amp;gt;&quot; &amp;lt; listener_id &amp;gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 26 Jul 2023 15:03:52 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</guid>
     </item>

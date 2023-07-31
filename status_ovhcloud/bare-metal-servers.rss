@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 30 Jul 2023 14:43:10 +0000</pubDate>
+    <pubDate>Mon, 31 Jul 2023 00:27:28 +0000</pubDate>
     <item>
       <title>[RBX6/RBX7][Network] - Network equipment version upgrade</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Mon, 31 Jul 2023 23:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/nz6kzny2txjv</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/nz6kzny2txjv</guid>
+    </item>
+    <item>
+      <title>[Global][DedicatedServers] - CentOS 7 CPanel EoL</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End time :&lt;/b&gt; 31/07/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; centos7-cpanel won&apos;t be available for installation any more&lt;br /&gt;&lt;b&gt;Related Documentation :&lt;/b&gt; &lt;a href=&quot;https://docs.cpanel.net/knowledge-base/cpanel-product/cpanel-deprecation-plan/&quot;&gt;cPanel Deprecation Plan&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Starting with version 112, cPanel &amp; WHM no longer support CentOS 7. We will no longer offer centos7-cpanel-latest for installation after 2023-07-31.&lt;br /&gt;Customers are advised to install alma8-cpanel-latest instead.&lt;/p&gt;      </description>
+      <pubDate>Mon, 31 Jul 2023 00:27:28 +0000</pubDate>
+      <maintenanceEndDate>Tue, 27 Jun 2023 16:35:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</guid>
     </item>
     <item>
       <title>[RBX5][Public Network/Dedicated servers] - 45C14</title>
@@ -209,15 +218,6 @@
       <pubDate>Mon, 24 Jul 2023 20:07:30 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8325bk2b1l6t</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8325bk2b1l6t</guid>
-    </item>
-    <item>
-      <title>[Global][Dedicated Servers] - Network core infrastructure equipment operation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/07/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/07/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we are going to delete the vmacs that are attached to the servers on the single network, because the functionality is not available on this infrastructure, so we&apos;re going to clean up the objects in the database.&lt;/p&gt;      </description>
-      <pubDate>Mon, 24 Jul 2023 15:35:18 +0000</pubDate>
-      <maintenanceEndDate>Mon, 24 Jul 2023 15:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/4q5gcl6vwjw0</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/4q5gcl6vwjw0</guid>
     </item>
   </channel>
 </rss>

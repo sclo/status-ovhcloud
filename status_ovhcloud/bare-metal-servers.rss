@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 01 Aug 2023 15:50:47 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2023 15:53:45 +0000</pubDate>
     <item>
       <title>[FRA1/RBX6/GRA2][Dedicated Servers] - Network maintenance  notification</title>
       <description>
@@ -67,6 +67,15 @@
       <maintenanceEndDate>Thu, 10 Aug 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/myl6fhthzcs9</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/myl6fhthzcs9</guid>
+    </item>
+    <item>
+      <title>[BHS][block storage] - CEPH cluster Upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 02/08/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 02/08/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in BHS.&lt;/p&gt;      </description>
+      <pubDate>Wed, 02 Aug 2023 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 02 Aug 2023 14:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/j8jv3bs8nyh8</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/j8jv3bs8nyh8</guid>
     </item>
     <item>
       <title>[GRA1/FRA1/RBX4][Dedicated Servers] - Network equipement operation</title>
@@ -209,15 +218,6 @@
       <pubDate>Thu, 27 Jul 2023 00:54:35 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/432g7s8lgbgx</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/432g7s8lgbgx</guid>
-    </item>
-    <item>
-      <title>[RBX1[DedicatedServers] - Rack 07A17</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/07/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each servers will be off for about 30 minutes at one time during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are moving servers from rack 07A17.&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 01:27:08 +0000</pubDate>
-      <maintenanceEndDate>Wed, 26 Jul 2023 04:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tg8nzll175cs</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tg8nzll175cs</guid>
     </item>
   </channel>
 </rss>

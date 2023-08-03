@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 03 Aug 2023 15:49:14 +0000</pubDate>
+    <pubDate>Thu, 03 Aug 2023 15:59:30 +0000</pubDate>
     <item>
       <title>[SYD1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -31,6 +31,24 @@
       <maintenanceEndDate>Thu, 24 Aug 2023 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/krcbvp56gb21</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/krcbvp56gb21</guid>
+    </item>
+    <item>
+      <title>[BHS8][Dedicated Servers] - Rack BHS0816A05A</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
+      <pubDate>Wed, 23 Aug 2023 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 23 Aug 2023 10:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/m7w3bswfxsj7</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/m7w3bswfxsj7</guid>
+    </item>
+    <item>
+      <title>[GRA2][Dedicated Servers] - Rack G242A11</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/08/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/08/2023 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network will be unavailable for servers in rack G242A11 during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
+      <pubDate>Tue, 22 Aug 2023 02:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 22 Aug 2023 03:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q7y7f676xtgt</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q7y7f676xtgt</guid>
     </item>
     <item>
       <title>[GRA3][Dedicated Servers] - Rack GRA0326A04B</title>
@@ -202,22 +220,6 @@
       <maintenanceEndDate>Tue, 27 Jun 2023 16:35:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f05ltt1wt328</guid>
-    </item>
-    <item>
-      <title>[RBX5][Public Network/Dedicated servers] - 45C14</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 30/07/2023 13:02 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;30/07/2023 13:45 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Public network was unreachable for some servers on this rack.&lt;br /&gt;It was due to a malfunction on the power suply.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Sun, 30 Jul 2023 13:59:44 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/gpxxgmw9p7jc</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gpxxgmw9p7jc</guid>
-    </item>
-    <item>
-      <title>[RBX6][Network] - vRack - Rooms 46C, 46D, 46E</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/07/2023 21:04 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/07/2023 21:17 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; Network equipment malfunction&lt;br /&gt;An unexpected reload of a network equipment impacted vRack networks of rooms 46C, 46D, and 46E.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Sat, 29 Jul 2023 21:24:49 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wkxk3vvlm0k1</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wkxk3vvlm0k1</guid>
     </item>
   </channel>
 </rss>

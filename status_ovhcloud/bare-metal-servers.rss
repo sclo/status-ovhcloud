@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 04 Aug 2023 12:44:35 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2023 13:59:24 +0000</pubDate>
     <item>
       <title>[SYD1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -150,6 +150,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/myl6fhthzcs9</guid>
     </item>
     <item>
+      <title>[RBX7][Dedicated Servers] - R716B02</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/08/2023 13:46 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers are unreachable in rack R716B02.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to reboot of a switch.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; our teams are working on this issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 04 Aug 2023 13:59:24 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/43rj7f1rdqgx</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/43rj7f1rdqgx</guid>
+    </item>
+    <item>
       <title>[LIM3][DedicatedServers] - LIM0304A06B</title>
       <description>
 &lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 03/08/2023 23:23 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/08/2023 09:02 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/08/2023 23:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All services have returned to normal in the LIM0304A06B rack.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Public network and Vrack network are currently unreachable.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/08/2023 23:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI in the rack LIM0304A06B are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -212,15 +220,6 @@
       <pubDate>Wed, 02 Aug 2023 19:50:00 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8wfg18lmdg5y</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8wfg18lmdg5y</guid>
-    </item>
-    <item>
-      <title>[BHS][block storage] - CEPH cluster Upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 02/08/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 02/08/2023 10:10 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in BHS.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 02/08/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 02/08/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in BHS.&lt;/p&gt;      </description>
-      <pubDate>Wed, 02 Aug 2023 10:17:01 +0000</pubDate>
-      <maintenanceEndDate>Wed, 02 Aug 2023 14:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/j8jv3bs8nyh8</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/j8jv3bs8nyh8</guid>
     </item>
   </channel>
 </rss>

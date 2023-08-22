@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 21 Aug 2023 15:39:15 +0000</pubDate>
+    <pubDate>Tue, 22 Aug 2023 20:27:15 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.23</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Thu, 31 Aug 2023 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/16mf8cdt0xvy</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/16mf8cdt0xvy</guid>
+    </item>
+    <item>
+      <title>[SGP1][Network] - Network equipment operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/08/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/08/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment.&lt;/p&gt;      </description>
+      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 24 Aug 2023 11:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/pbplh9dh5thb</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/pbplh9dh5thb</guid>
     </item>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
@@ -205,14 +214,6 @@
       <pubDate>Thu, 20 Jul 2023 12:17:17 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/zxmmd4kbggc3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/zxmmd4kbggc3</guid>
-    </item>
-    <item>
-      <title>[DE/GRA/SBG/UK/BHS/WAW][Cloud Databases] - Delay in creating a new service</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 20/07/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 20/07/2023 11:40 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Trust process between open stack project taking more time than usual. All orders pending are now fulfilled and new one should be fulfilled in the usual time window.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/07/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delay on new service creation in private network. Existing services are not impacted. Ordering service on public network works fine&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 20 Jul 2023 12:08:25 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/kxj3zmf69w5n</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/kxj3zmf69w5n</guid>
     </item>
   </channel>
 </rss>

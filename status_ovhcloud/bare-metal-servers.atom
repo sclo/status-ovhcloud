@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-08-22T20:08:46Z</updated>
+  <updated>2023-08-22T21:01:42Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -23,6 +23,22 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7"/>
     <title>[GLOBAL][Baremetal] - Debian-8-based rescue system (rescue64-pro) removal</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;10:50&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 03/10/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 03/11/2023 10:50 UTC &lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; The Debian-8-based rescue system (rescue64-pro) will no longer be available after 03/10/2023&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to remove the Debian-8-based rescue system (rescue64-pro) for all Baremetal products.&lt;br /&gt;Customers should start using the new Debian-10-based rescue system (rescue-customer).&lt;br /&gt;The old Web interface is no longer present on the new version.&lt;br /&gt;Please follow this procedure to troubleshoot hardware problems: https://help.ovhcloud.com/csm/en-dedicated-servers-hardware-diagnostics?id=kb_article_view&amp;sysparm_article=KB0043506&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18225621</id>
+    <published>2023-09-07T10:00:00Z</published>
+    <updated>2023-08-22T20:56:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/360714pnxcgj"/>
+    <title>[BHS][Dedicated Servers] - T05D26</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/09/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/09/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack T05D26 will be unavailable for 1 hour during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be replacing an electrical equipment in rack T05D26&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18225674</id>
+    <published>2023-08-30T10:00:00Z</published>
+    <updated>2023-08-22T21:01:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/tqyxtsyz9nn3"/>
+    <title>[BHS][Dedicated Servers] - T05G23</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack T05G23 will be unavailable for 1 hour during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be replacing an electrical equipment in rack T05G23&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18015432</id>
@@ -51,7 +67,7 @@
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18045342</id>
     <published>2023-08-22T22:00:00Z</published>
-    <updated>2023-08-03T21:14:15Z</updated>
+    <updated>2023-08-22T20:59:57Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/8cy74lxz51rx"/>
     <title>[RBX1][Dedicated Servers] - Rack 11A03</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;21:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/08/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be temporarily unreachable for 30 minutes each during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are moving servers inside the same rack.&lt;/p&gt;</content>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/x9gnw9cy499w"/>
     <title>[FRA1/RBX4/GRA1][Dedicated Servers] - Network maintenance  notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/08/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/08/2023 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/08/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/08/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  In order to maintain continuous improvement of our internal network infrastructure and to have a homogeneous park, we will do an operation on a network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18089198</id>
-    <published>2023-08-16T08:03:07Z</published>
-    <updated>2023-08-16T08:03:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/t39m1q94rlhw"/>
-    <title>[GRA3][DedicatedServers] - Electrical operation - GRA0326B05C</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/08/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/08/2023 07:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to ensure the reliability of power supply of this rack. Our teams must proceed to an intervention on the power supply module.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/17979740</id>
-    <published>2023-08-16T03:26:20Z</published>
-    <updated>2023-08-16T03:26:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ycs5qyjpvtmd"/>
-    <title>[RBX4][Dedicated Servers] - 54B16</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;03:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;22:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;21:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/08/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/08/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers unreachable during maintenance (30 minutes max per server)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy,our teams will relocate the servers from rack 54B16 to rack 54B18.&lt;/p&gt;</content>
   </entry>
 </feed>

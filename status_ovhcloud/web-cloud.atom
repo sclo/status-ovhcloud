@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-08-23T12:04:16Z</updated>
+  <updated>2023-08-23T12:50:28Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/r2ldb29yk9d9"/>
     <title>[GRA7][WebPaaS] - Routine  Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2023 21:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade; however, at one point, a short downtime of no more than 10 minutes will be experienced. Integrations and webhooks may fail during the maintenance, and you may notice increased deployment times. Please do not hesitate to contact us via our support channels with any questions or concerns.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a routine maintenance on customers' projects&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18232368</id>
+    <published>2023-08-23T12:50:28Z</published>
+    <updated>2023-08-23T12:50:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/c5g81266cxsh"/>
+    <title>[FRANCE][VoIP] - Gigaset phone provisioning issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers who have Gigaset phones aren't able to configure a new phone or apply changes to the current configuration.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18231202</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/wblwmbqn6q97"/>
     <title>[GRA/BHS][WebHosting] Services upgrade perturbations in Africa, Americas and APAC</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 28/07/2023 15:50 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  10/07/2023 14:22 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Web hosting services upgrade or StartSQL option subscriptions were blocked when ordered in customer manager, from Africa, Americas and APAC.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - MANAGER-11980 : Production is ongoing&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - MANAGER-11978 : Production ended the 07/08/2023&lt;br /&gt;MANAGER-11955 : Production is ongoing&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/07/2023 15:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Web hosting services upgrade or StartSQL option subscriptions may be blocked when ordered in customer manager, from Africa, Americas and APAC.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18014125</id>
-    <published>2023-08-11T00:52:57Z</published>
-    <updated>2023-08-11T00:52:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/mvvdtwn3g28p"/>
-    <title>[CollaborativeSolution] - Mailbox Active Directory Database operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;00:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/08/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/08/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 1 hour of down time for impacted services.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy, we are doing a operation on the disk that contains Active Directory Domain Services database in order to remove it.&lt;/p&gt;</content>
   </entry>
 </feed>

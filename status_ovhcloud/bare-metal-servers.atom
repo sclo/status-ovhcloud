@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-08-24T21:35:40Z</updated>
+  <updated>2023-08-25T03:27:50Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -95,6 +95,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/6bd5l3957gcp"/>
     <title>[BHS4][Dedicated Servers] - T04B22</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;18:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/08/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be temporarily unavailable for rack T04B22 during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18254679</id>
+    <published>2023-08-25T03:27:50Z</published>
+    <updated>2023-08-25T03:27:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xvl38xw5f945"/>
+    <title>[BHS1][Dedicated Servers] - Rack T02D25/T02D26</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/08/2023 03:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in racks T02D25 and T02D26 are unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18250175</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/y9dcjywcfy52"/>
     <title>[BHS5][Private network] - T05E33</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/08/2023 20:55 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2023 21:24 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; A software had a malfunction.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;21:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/08/2023 20:55 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A disruption is detected on Vrack network&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18194502</id>
-    <published>2023-08-19T19:55:49Z</published>
-    <updated>2023-08-19T20:03:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/94375mnncydn"/>
-    <title>[GRA1][Private/Public network] - G115A10/G115A09/G115A08</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;19:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/08/2023 12:54 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/08/2023 19:20 UTC&lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on the waterleak.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Public network is operational again on the rack G115A10.&lt;br /&gt;Some servers are unreachable on.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable on the racks G115A09 and G115A08.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/08/2023 12:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is unreachable on the rack G115A10&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

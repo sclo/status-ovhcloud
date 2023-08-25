@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-08-25T13:43:25Z</updated>
+  <updated>2023-08-25T15:06:35Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -65,6 +65,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;22:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/08/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/08/2023 23:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Console, User accounting and Billing will be unavailable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHcloud that they will be doing a routine maintenance on OVHCLOUD-FR-1 region to optimize performance service on Accounts. &lt;br /&gt;All services will continue to function during the upgrade.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18232368</id>
+    <published>2023-08-25T15:06:35Z</published>
+    <updated>2023-08-25T15:06:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/c5g81266cxsh"/>
+    <title>[FRANCE][VoIP] - Gigaset phone provisioning issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 23/08/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt;  25/08/2023 07:56 UTC &lt;br /&gt;The manufacturer resolved the issue. All impacted services are now operational.&lt;br /&gt;manufacturer&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The problem is acknowledged by Gigaset, they are working on it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers who have Gigaset phones aren't able to configure a new phone or apply changes to the current configuration.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18259604</id>
     <published>2023-08-25T13:08:10Z</published>
     <updated>2023-08-25T13:08:10Z</updated>
@@ -111,14 +119,6 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/r2ldb29yk9d9"/>
     <title>[GRA7][WebPaaS] - Routine  Maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;21:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/08/2023 21:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade; however, at one point, a short downtime of no more than 10 minutes will be experienced. Integrations and webhooks may fail during the maintenance, and you may notice increased deployment times. Please do not hesitate to contact us via our support channels with any questions or concerns.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a routine maintenance on customers' projects&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18232368</id>
-    <published>2023-08-24T13:01:55Z</published>
-    <updated>2023-08-24T13:01:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/c5g81266cxsh"/>
-    <title>[FRANCE][VoIP] - Gigaset phone provisioning issue</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The problem is acknowledged by Gigaset, they are working on it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/08/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers who have Gigaset phones aren't able to configure a new phone or apply changes to the current configuration.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18231202</id>

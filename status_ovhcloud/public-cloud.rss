@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 29 Aug 2023 06:01:01 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2023 12:28:06 +0000</pubDate>
     <item>
       <title>[UK/EU][PublicCloud] - OpenStack - RabbitMQ upgrade</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Wed, 13 Sep 2023 23:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4h4ww1zyxkgh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4h4ww1zyxkgh</guid>
+    </item>
+    <item>
+      <title>[RBX][Object storage] - S3 HighPerf/Standard</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/08/2023 11:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience slow response times and sporadic errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 29 Aug 2023 12:28:06 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/10yrlcjg7fz3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/10yrlcjg7fz3</guid>
     </item>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.23</title>
@@ -207,15 +215,6 @@
       <pubDate>Wed, 26 Jul 2023 17:05:05 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr</guid>
-    </item>
-    <item>
-      <title>[GRA1/BHS1][Compute] - End of Sales - Catalog v1</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;End time :&lt;/b&gt; 01/09/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; no longer be able to start new instances of types : HG / EG / SP (dedicated resources) and VPS-SSD / S1 (sandboxes)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy the catalog v1 of public cloud go to EoS. Impacted types will be removed from the catalogue.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Here is how the old and new ranges match up: &lt;br /&gt;    EGs are being replaced by B2&lt;br /&gt;    HGs are being replaced by C2&lt;br /&gt;    SPs are being replaced by R2&lt;br /&gt;    VPS-SSD and S1 are being replaced by D2&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;We regularly update our solutions, and our current instance catalogue offers you better performance at competitive prices. We advise that you migrate your applications hosted on the above instances to other solutions in the current range.&lt;br /&gt;However, please note that instances built on these ranges and currently running will not be shut down.&lt;br /&gt;All variations of these ranges are affected, regardless of their size and operation, including their SSD variants.&lt;br /&gt;Instances of these ranges that have already been booted can be kept for now. You can always rebuild one of these instances if needed. &lt;br /&gt;However, we recommend planning to migrate to a newer instance range. &lt;br /&gt;Please view our catalogue for more information. &lt;br /&gt;Generally, the new ranges run on newer hardware and benefit from improvements such increased cache capacity and more bus bandwidth.&lt;br /&gt;What’s more, all instances now work with a local root disk on the hypervisor. Unlike some instances from the previous range, the EG, SP and HG models do not have the “-SSD” suffix.&lt;br /&gt;You can still launch an instance on a remote disk. &lt;br /&gt;&lt;br /&gt;It will be possible to resize instances based on the old range by targeting an instance type from the current range. However, there is a technical constraint that will force you to select a more powerful machine most of the time. The disk size must be equal to or greater than the target instance. For example, an EG-15 instance (400 GB of disk) can be migrated to a B2-60 (also 400 GB of disk), while an EG-15-SSD (200 GB of disk) can be migrated to a B2-30 (also 200 GB of disk).&lt;br /&gt;Instances with large disks that don’t have an equivalent in the current range (the EG-120, HG-120 and SP-240 models) will need to be migrated manually, via a reinstallation or an optimisation of the system image.&lt;br /&gt;&lt;br /&gt;Thank you for choosing OVHcloud.&lt;br /&gt;The OVHcloud Team&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 11:55:08 +0000</pubDate>
-      <maintenanceEndDate>Wed, 26 Jul 2023 12:55:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/7g7bjd4f9nmh</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/7g7bjd4f9nmh</guid>
     </item>
   </channel>
 </rss>

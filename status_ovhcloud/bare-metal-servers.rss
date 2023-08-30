@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 30 Aug 2023 11:49:04 +0000</pubDate>
+    <pubDate>Wed, 30 Aug 2023 12:30:56 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -78,6 +78,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/w867mtyqd4qk</guid>
     </item>
     <item>
+      <title>[BHS3][Block Storage] - CEPH cluster Upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 29/08/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 30/08/2023 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in BHS3.&lt;/p&gt;      </description>
+      <pubDate>Wed, 30 Aug 2023 12:30:56 +0000</pubDate>
+      <maintenanceEndDate>Tue, 29 Aug 2023 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6vnhnt370lfn</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6vnhnt370lfn</guid>
+    </item>
+    <item>
       <title>[BHS][Dedicated Servers] - T05G23</title>
       <description>
 &lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/08/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2023 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack T05G23 will be unavailable for 1 hour during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be replacing an electrical equipment in rack T05G23&lt;/p&gt;      </description>
@@ -110,15 +119,6 @@
       <pubDate>Tue, 29 Aug 2023 11:42:15 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ts1vdbjrvzpp</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ts1vdbjrvzpp</guid>
-    </item>
-    <item>
-      <title>[BHS3][Block Storage] - CEPH cluster Upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 29/08/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 30/08/2023 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in BHS3.&lt;/p&gt;      </description>
-      <pubDate>Tue, 29 Aug 2023 08:00:23 +0000</pubDate>
-      <maintenanceEndDate>Tue, 29 Aug 2023 15:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6vnhnt370lfn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6vnhnt370lfn</guid>
     </item>
     <item>
       <title>[BHS4][Dedicated Servers] - T04B22</title>

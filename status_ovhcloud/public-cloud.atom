@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-08-30T19:06:33Z</updated>
+  <updated>2023-08-30T21:05:22Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4h4ww1zyxkgh"/>
     <title>[UK/EU][PublicCloud] - OpenStack - RabbitMQ upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;23:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/09/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/09/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API will be unavailable for 2H during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for RabbitMQ (Message queue service).&lt;br /&gt;The upgrade will be rolled out following this schedule :&lt;br /&gt;w36 (04/09)&lt;br /&gt;&lt;br /&gt;    UK1   05/09  19:00 UTC&lt;br /&gt;&lt;br /&gt;    GRA5  06/09  19:00 UTC&lt;br /&gt;&lt;br /&gt;    GRA9  07/09  19:00 UTC&lt;br /&gt;&lt;br /&gt;w37 (11/09) &lt;br /&gt;&lt;br /&gt;    GRA7  11/09  19:00 UTC&lt;br /&gt;&lt;br /&gt;    GRA11 12/09  19:00 UTC&lt;br /&gt;&lt;br /&gt;    DE1   13/09  19:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18325519</id>
+    <published>2023-08-31T08:30:00Z</published>
+    <updated>2023-08-30T21:05:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kn37rp1wh3lz"/>
+    <title>[GRA5(c1+c2+c3+c4)/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/VA1/OR1/SYD1/UK1/DE1][Managed Kubernetes Service] - Update coastguard</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2023 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Control plane instabilities during 1 min&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We need to update a component running in a Managed Kubernetes Service.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17916523</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn"/>
     <title>[SBG5-7/UK1/DE1/WAW1/GRA1-3-5-7-9-11][Public Cloud] - Load Balancer</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/07/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; For the customers concerned, please use this command for fix : &lt;I&gt;openstack loadbalancer listener set --default-tls-container-ref "&amp;lt;secret_path&amp;gt;" &amp;lt; listener_id &amp;gt;&lt;/I&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/17965700</id>
-    <published>2023-07-26T17:05:05Z</published>
-    <updated>2023-07-26T17:05:05Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7tnjzr0kgbnr"/>
-    <title>PCI - WAW1 - host1188329</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 1 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;waw1-pciz1host20-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;W12B04&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1188329&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;9b239aaa-6183-42eb-bf51-a8cd73fa25bb&lt;/p&gt;</content>
   </entry>
 </feed>

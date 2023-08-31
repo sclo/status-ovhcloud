@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 31 Aug 2023 08:31:32 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2023 09:09:48 +0000</pubDate>
     <item>
       <title>[UK/EU][PublicCloud] - OpenStack - RabbitMQ upgrade</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Wed, 13 Sep 2023 23:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4h4ww1zyxkgh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4h4ww1zyxkgh</guid>
+    </item>
+    <item>
+      <title>[BHS/DE/GRA/LIM/SBG/UK/WAW][Storage] - Object Storage Standard/highPerf</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2023 08:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are facing latency and errors &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Thu, 31 Aug 2023 09:09:48 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp</guid>
     </item>
     <item>
       <title>[GRA5(c1+c2+c3+c4)/GRA7/GRA9/SBG5/WAW1/SGP1/BHS5/VA1/OR1/SYD1/UK1/DE1][Managed Kubernetes Service] - Update coastguard</title>
@@ -208,14 +216,6 @@
       <pubDate>Thu, 27 Jul 2023 02:17:48 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/67znj374xc21</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/67znj374xc21</guid>
-    </item>
-    <item>
-      <title>[SBG5-7/UK1/DE1/WAW1/GRA1-3-5-7-9-11][Public Cloud] - Load Balancer</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 25/07/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; For the customers concerned, please use this command for fix : &lt;I&gt;openstack loadbalancer listener set --default-tls-container-ref &quot;&amp;lt;secret_path&amp;gt;&quot; &amp;lt; listener_id &amp;gt;&lt;/I&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;We currently have an issue on network load balancer. &lt;br /&gt;Only the customers with TERMINATED_HTTPS listener are concerned with this issue. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 26 Jul 2023 17:11:10 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/0l3nxhbbw4dn</guid>
     </item>
   </channel>
 </rss>

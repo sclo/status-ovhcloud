@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2023-08-31T17:04:58Z</updated>
+  <updated>2023-08-31T19:34:43Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/45ltbbnzq03d"/>
     <title>[Global][HostedPrivateCloud] - VMware vCenter Server upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/09/2023 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Management unavailable for 1h30 at one time.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for VMware vCenter Server services. An individual communication will be sent before the upgrade begins.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/17980193</id>
+    <published>2023-08-31T19:34:43Z</published>
+    <updated>2023-08-31T19:34:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/vhy3sjv2bt27"/>
+    <title>[Global][Hosted Private Cloud] - Storage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;19:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;22:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/07/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some latency during the operations.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;In order to improve our services, we need to free up all the admin or client zpools located on the LV1 and LV2 filers.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/17846291</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/nzpcg9436nm3"/>
     <title>[RBX2b][Network] - Network device operation</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;03:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;01:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 01/08/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 01/08/2023 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Hosted Private Cloud products to maintain consistency.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/17774481</id>
-    <published>2023-07-31T10:55:44Z</published>
-    <updated>2023-07-31T10:55:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/6gggc4l0b31z"/>
-    <title>[LIM1][Hosted Private Cloud] - Network equipement operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/07/2023 11:30 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/07/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/07/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers might experience twice of a few seconds of input/output freeze for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on multiple network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-09-07T14:42:24Z</updated>
+  <updated>2023-09-07T16:51:03Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9bhmgwndkr0c"/>
     <title>[SBG3/WAW1][Network] - Network equipment operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/09/2023 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/09/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18424273</id>
+    <published>2023-09-07T16:51:03Z</published>
+    <updated>2023-09-07T16:51:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s3ln982q0vz3"/>
+    <title>[GRA][Managed Private Registry] - Registries</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/09/2023 12:46 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some registries may be not able to retrieve or receive artifacts.&lt;br /&gt;&lt;b&gt;Related to this incident :&lt;/b&gt;  : https://public-cloud.status-ovhcloud.com/incidents/wvx5h1vm0c0b&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18421459</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nnjccrn0p2wp"/>
     <title>[GRA][Public Cloud] - Object Storage Swift</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 08/08/2023 01:02 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 08/08/2023 02:13 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by this &lt;a href="https://network.status-ovhcloud.com/incidents/1z1bg2cpzcq9"&gt;maintenance &lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/08/2023 01:02 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing high latencies currently on object storage swift.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by this &lt;a href="https://network.status-ovhcloud.com/incidents/1z1bg2cpzcq9"&gt;maintenance &lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A fix in progress by our team.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18043878</id>
-    <published>2023-08-04T12:51:40Z</published>
-    <updated>2023-08-04T12:51:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ljr93tn8fcvp"/>
-    <title>[VA1/OR1/SYD1/SGP1][Managed Kubernetes Service] - Deletion/Reset feature</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 03/08/2023 12:30 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 04/08/2023 12:20 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our team is still working on this issue, a fix will be implemented today.&lt;br /&gt;A new update will be released after the fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/08/2023 12:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers cannot fully delete/reset their clusters. &lt;br /&gt;Service will stay marked in error state until manual intervention. &lt;br /&gt;Load balancer resources are not properly deleted. &lt;br /&gt;Volumes and nodes are still properly deleted.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working on a fix to solve the problem&lt;/p&gt;</content>
   </entry>
 </feed>

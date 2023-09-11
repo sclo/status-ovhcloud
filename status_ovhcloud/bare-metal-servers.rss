@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 11 Sep 2023 09:00:25 +0000</pubDate>
+    <pubDate>Mon, 11 Sep 2023 09:31:39 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -96,6 +96,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dpdxwvgbfqbv</guid>
     </item>
     <item>
+      <title>[RBX5][Dedicated Server] - 45F05</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/09/2023 07:13 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/09/2023 09:08 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Most of the servers affected are back up and running.&lt;br /&gt;We are continuing to work on the remaining servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/09/2023 07:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack 45F05 are currently unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;      </description>
+      <pubDate>Mon, 11 Sep 2023 09:31:39 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/2r0krhgtt83y</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/2r0krhgtt83y</guid>
+    </item>
+    <item>
       <title>[Worldwide][Dedicated server] - Video/KVM</title>
       <description>
 &lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 18:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/09/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident caused by a software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Workaround :&lt;/b&gt; When PXE starts up, you can press the escape key to boot directly on the disk and bypass the malfunction.&lt;br /&gt;We are continuing to investigate this issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2023 18:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Video quality via KVM may be degraded for servers running a Windows or WinPE OS. This malfunction only impacts ADV3 servers with a B550D4U-2T motherboard and does not prevent the server from operating normally.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -119,14 +127,6 @@
       <maintenanceEndDate>Tue, 12 Sep 2023 18:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/t6pqgk8y7lsw</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/t6pqgk8y7lsw</guid>
-    </item>
-    <item>
-      <title>[RBX5][Dedicated Server] - 45F05</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Most of the servers affected are back up and running.&lt;br /&gt;We are continuing to work on the remaining servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/09/2023 07:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack 45F05 are currently unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;      </description>
-      <pubDate>Mon, 11 Sep 2023 07:36:36 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/2r0krhgtt83y</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/2r0krhgtt83y</guid>
     </item>
     <item>
       <title>[GRA2][Dedicated Servers] - G201A15</title>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 17 Sep 2023 19:57:04 +0000</pubDate>
+    <pubDate>Mon, 18 Sep 2023 08:46:24 +0000</pubDate>
     <item>
       <title>[UK1/ UK2 /US-EAST-VA-1 /US-EAST-VA-2 /US-WEST-OR-1 /US-WEST-OR-2 /WAW1/ WAW2] - [K8S] 1.24 Update</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Mon, 18 Sep 2023 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/xskzqqpwck78</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/xskzqqpwck78</guid>
+    </item>
+    <item>
+      <title>[BHS/GRA/DE/SBG/SGP/SYD/UK/WAW][Object Storage] - S3 offer</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/09/2023 08:54 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Server-Side-Copy with a range return a 400 error in case of object (with MPU) with a size greater than 5GB.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 18 Sep 2023 08:46:24 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/jfqd7w62r3by</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/jfqd7w62r3by</guid>
     </item>
     <item>
       <title>[GRA9/BHS5/GRA5/SBG5][Public Cloud] Slowness on resources life-cycle management</title>
@@ -205,15 +213,6 @@
       <pubDate>Thu, 31 Aug 2023 09:40:13 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.23</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/08/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2023 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As Kubernetes 1.22 comes to the end of its life, we will be migrating to the next version (1.23).&lt;/p&gt;      </description>
-      <pubDate>Wed, 30 Aug 2023 19:06:33 +0000</pubDate>
-      <maintenanceEndDate>Thu, 31 Aug 2023 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/16mf8cdt0xvy</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/16mf8cdt0xvy</guid>
     </item>
   </channel>
 </rss>

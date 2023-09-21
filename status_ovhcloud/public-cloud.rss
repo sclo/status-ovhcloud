@@ -4,7 +4,15 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 19 Sep 2023 17:05:03 +0000</pubDate>
+    <pubDate>Thu, 21 Sep 2023 09:51:37 +0000</pubDate>
+    <item>
+      <title>[DE1][Public Cloud] Control plane unreachable.</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 2023/09/21 09:35 AM UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 2023/09/21 09:38 AM UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Control plane were unreachable. Management of the cluster not impacted&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Error in planned maintenance on an internal infrastructure component.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Control plane have returned to an healthy state, the incident is resolved.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Sep 2023 09:49:50 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/f1z5d0zrktx4</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/f1z5d0zrktx4</guid>
+    </item>
     <item>
       <title>PCI - GRA11 - host1484159</title>
       <description>
@@ -205,14 +213,6 @@
       <pubDate>Thu, 31 Aug 2023 12:05:30 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/10yrlcjg7fz3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/10yrlcjg7fz3</guid>
-    </item>
-    <item>
-      <title>[BHS/DE/GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2023 08:20 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/08/2023 09:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers weren&apos;t able to create new registries.&lt;br /&gt;Latency and errors were being observed during Docker images push/pull.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/08/2023 08:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers weren&apos;t able to create new registries.&lt;br /&gt;Latency and errors were being observed during Docker images push/pull.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/snd5v8ns7dwp&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Since 09:13 UTC, the situation is back to normal. &lt;br /&gt;Our teams are currently monitoring the situation&lt;/p&gt;      </description>
-      <pubDate>Thu, 31 Aug 2023 10:10:57 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/4jkbbbh067vh</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/4jkbbbh067vh</guid>
     </item>
   </channel>
 </rss>

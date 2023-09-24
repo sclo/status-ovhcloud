@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 22 Sep 2023 16:50:16 +0000</pubDate>
+    <pubDate>Sun, 24 Sep 2023 10:24:16 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jfbj9mcmsj5s</guid>
     </item>
     <item>
+      <title>[LIM1][Dedicated Servers] - L122A10</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/09/2023 09:57 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Sun, 24 Sep 2023 10:24:16 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/4fj31v8h7g70</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/4fj31v8h7g70</guid>
+    </item>
+    <item>
       <title>[RBX5][Infrastructure] - Racks 45D07/45D08/45D09/45D12/45D13</title>
       <description>
 &lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/09/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/09/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; At the end of the maintenance, some servers in racks 45D07/45D08/45D09/45D12/45D13 will undergo a soft shutdown&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some electrical works in RBX5&lt;/p&gt;      </description>
@@ -215,15 +223,6 @@
       <maintenanceEndDate>Wed, 20 Sep 2023 03:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/t5s0k128835n</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/t5s0k128835n</guid>
-    </item>
-    <item>
-      <title>[UK1][Block Storage] - CEPH cluster Upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/09/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/09/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, our teams will upgrade CEPH cluster in UK1.&lt;/p&gt;      </description>
-      <pubDate>Tue, 19 Sep 2023 17:11:30 +0000</pubDate>
-      <maintenanceEndDate>Tue, 19 Sep 2023 18:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dpdxwvgbfqbv</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dpdxwvgbfqbv</guid>
     </item>
   </channel>
 </rss>

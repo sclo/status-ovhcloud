@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 29 Sep 2023 00:25:21 +0000</pubDate>
+    <pubDate>Fri, 29 Sep 2023 00:56:55 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -51,6 +51,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yqtscwzkhvz6</guid>
     </item>
     <item>
+      <title>[GRA1][Public network] - G111B10</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/10/2023 03:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/10/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unreachable for 30 minutes&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;We need to change a switch in this rack so that we and the robot will be able to access.&lt;/p&gt;      </description>
+      <pubDate>Wed, 11 Oct 2023 03:30:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 11 Oct 2023 04:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z2gj0h1g61qc</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z2gj0h1g61qc</guid>
+    </item>
+    <item>
       <title>[GLOBAL][NAS HA] - NFSv4.1 support maintenance</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/10/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, a restart of the server-side NFS daemon will be made. &lt;br /&gt;So a service interruption of less than a second may be observed&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to make NFSv4.1 automatically supported by default on all SSD-based NAS-HA over the current NFSv3.&lt;br /&gt;&lt;br /&gt;Some changes might be observed from cutomers side which are as follow:   &lt;br /&gt;* For your future NAS-HA orders, NFSv4.1 will be used by default when mounting your file shares.&lt;br /&gt;If needed, you will be able to choose between v3 and v4.1 when mounting your shares using the mount utility.&lt;br /&gt;* For existing ones, it will depend on what you did initially:&lt;br /&gt;               - If you didn&apos;t force NFSv3 when mounting your shares: NFSv4.1 will be applied if the server or the client service is restarted. &lt;br /&gt;You can decide to force NFSv3 using the same mount utility.&lt;br /&gt;               - If you forced NFSv3 when mounting your shares: nothing will change, you will keep your original   configuration.&lt;/p&gt;      </description>
@@ -85,6 +94,14 @@
       <maintenanceEndDate>Tue, 03 Oct 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/c0jmx64dhmqg</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c0jmx64dhmqg</guid>
+    </item>
+    <item>
+      <title>[SBG3 ][Dedicated Servers] - Rack S332B07</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2023 00:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2023 00:49 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/09/2023 00:20 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack S332B07 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Fri, 29 Sep 2023 00:51:21 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f3b1nj6b241v</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f3b1nj6b241v</guid>
     </item>
     <item>
       <title>[GRA1][Network] - Vrack network equipment maintenance - Rack G105B02</title>
@@ -203,23 +220,6 @@
       <maintenanceEndDate>Wed, 27 Sep 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6k5cbcwftzhz</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6k5cbcwftzhz</guid>
-    </item>
-    <item>
-      <title>[SGP1/SYD1][Dedicated Servers] - Network equipment version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/09/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/09/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
-      <pubDate>Tue, 26 Sep 2023 20:42:56 +0000</pubDate>
-      <maintenanceEndDate>Tue, 26 Sep 2023 20:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jxr1ssgc9gmy</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jxr1ssgc9gmy</guid>
-    </item>
-    <item>
-      <title>[RBX7][Dedicated Servers] - R715B03</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2023 09:50 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/09/2023 15:43 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2023 09:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 26 Sep 2023 15:52:12 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/00vmk3jb91hb</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/00vmk3jb91hb</guid>
     </item>
   </channel>
 </rss>

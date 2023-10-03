@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 03 Oct 2023 08:00:02 +0000</pubDate>
+    <pubDate>Tue, 03 Oct 2023 10:10:37 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -94,6 +94,14 @@
       <maintenanceEndDate>Tue, 03 Oct 2023 19:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cjw2lv69kj5g</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cjw2lv69kj5g</guid>
+    </item>
+    <item>
+      <title>[RBX8][Dedicated Servers] - Rack R807L19</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2023 09:34 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack R807L19 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating are fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/10/2023 09:34 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack R807L19 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 03 Oct 2023 10:10:37 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rng3b1r2ff4t</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rng3b1r2ff4t</guid>
     </item>
     <item>
       <title>[GLOBAL][Baremetal] - Debian-8-based rescue system (rescue64-pro) removal</title>
@@ -210,14 +218,6 @@
       <pubDate>Thu, 28 Sep 2023 15:22:45 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/j56876kqz5mm</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/j56876kqz5mm</guid>
-    </item>
-    <item>
-      <title>VPS - SGP2 - rack 050817C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;sgp1-pciz1host9-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;050817C&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host325850&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps269642.vps.ovh.ca&lt;br /&gt;vps269654.vps.ovh.ca&lt;br /&gt;vps269663.vps.ovh.ca&lt;br /&gt;vps269726.vps.ovh.ca&lt;br /&gt;vps269872.vps.ovh.ca&lt;br /&gt;vps269907.vps.ovh.ca&lt;br /&gt;vps269912.vps.ovh.ca&lt;br /&gt;vps269958.vps.ovh.ca&lt;br /&gt;vps270178.vps.ovh.ca&lt;br /&gt;vps270275.vps.ovh.ca&lt;br /&gt;vps271007.vps.ovh.ca&lt;br /&gt;vps272329.vps.ovh.ca&lt;br /&gt;vps273585.vps.ovh.ca&lt;br /&gt;vps274385.vps.ovh.ca&lt;br /&gt;vps274420.vps.ovh.ca&lt;br /&gt;vps275586.vps.ovh.ca&lt;br /&gt;vps275893.vps.ovh.ca&lt;br /&gt;vps277338.vps.ovh.ca&lt;br /&gt;vps278238.vps.ovh.ca&lt;br /&gt;vps279591.vps.ovh.ca&lt;br /&gt;vps280045.vps.ovh.ca&lt;br /&gt;vps280848.vps.ovh.ca&lt;br /&gt;vps282547.vps.ovh.ca&lt;br /&gt;vps282550.vps.ovh.ca&lt;br /&gt;vps282828.vps.ovh.ca&lt;br /&gt;vps283236.vps.ovh.ca&lt;br /&gt;vps283911.vps.ovh.ca&lt;br /&gt;vps284321.vps.ovh.ca&lt;br /&gt;vps284438.vps.ovh.ca&lt;br /&gt;vps284498.vps.ovh.ca&lt;br /&gt;vps285678.vps.ovh.ca&lt;br /&gt;vps287046.vps.ovh.ca&lt;br /&gt;vps287984.vps.ovh.ca&lt;br /&gt;vps289897.vps.ovh.ca&lt;br /&gt;vps290131.vps.ovh.ca&lt;br /&gt;vps290710.vps.ovh.ca&lt;br /&gt;vps291358.vps.ovh.ca&lt;br /&gt;vps293577.vps.ovh.ca&lt;br /&gt;vps293580.vps.ovh.ca&lt;br /&gt;vps293581.vps.ovh.ca&lt;br /&gt;vps293583.vps.ovh.ca&lt;br /&gt;vps293589.vps.ovh.ca&lt;br /&gt;vps293596.vps.ovh.ca&lt;br /&gt;vps294001.vps.ovh.ca&lt;br /&gt;vps294486.vps.ovh.ca&lt;br /&gt;vps294957.vps.ovh.ca&lt;br /&gt;vps295340.vps.ovh.ca&lt;/p&gt;      </description>
-      <pubDate>Thu, 28 Sep 2023 13:05:05 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/81lqd53h7nh5</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/81lqd53h7nh5</guid>
     </item>
   </channel>
 </rss>

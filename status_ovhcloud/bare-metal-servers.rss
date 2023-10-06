@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 06 Oct 2023 17:47:03 +0000</pubDate>
+    <pubDate>Fri, 06 Oct 2023 23:47:12 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3gh24fm78cpk</guid>
     </item>
     <item>
+      <title>[RBX3][Dedicated Servers] - 46C21 - 46C22</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2023 23:10 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable in racks 46C21 and 46C22.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Disjonction due to an issue on a cooling system module. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;      </description>
+      <pubDate>Fri, 06 Oct 2023 23:47:12 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/y340qk24nsk0</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/y340qk24nsk0</guid>
+    </item>
+    <item>
       <title>[SBG3][Dedicated Servers] - S351A04</title>
       <description>
 &lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2023 15:13 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/10/2023 16:38 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Electrical disjunction.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/10/2023 15:13 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack S351A04 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team is currently in the process of troubleshooting the issue.&lt;/p&gt;      </description>
@@ -213,15 +221,6 @@
       <pubDate>Tue, 03 Oct 2023 13:26:26 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rng3b1r2ff4t</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rng3b1r2ff4t</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Baremetal] - Debian-8-based rescue system (rescue64-pro) removal</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 03/10/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 03/11/2023 10:50 UTC &lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; The Debian-8-based rescue system (rescue64-pro) will no longer be available after 03/10/2023&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to remove the Debian-8-based rescue system (rescue64-pro) for all Baremetal products.&lt;br /&gt;Customers should start using the new Debian-10-based rescue system (rescue-customer).&lt;br /&gt;The old Web interface is no longer present on the new version.&lt;br /&gt;Please follow this procedure to troubleshoot hardware problems: https://help.ovhcloud.com/csm/en-dedicated-servers-hardware-diagnostics?id=kb_article_view&amp;sysparm_article=KB0043506&lt;/p&gt;      </description>
-      <pubDate>Tue, 03 Oct 2023 08:00:02 +0000</pubDate>
-      <maintenanceEndDate>Fri, 03 Nov 2023 10:50:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</guid>
     </item>
   </channel>
 </rss>

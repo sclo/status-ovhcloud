@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 16 Oct 2023 21:00:21 +0000</pubDate>
+    <pubDate>Mon, 16 Oct 2023 21:43:30 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -85,6 +85,14 @@
       <maintenanceEndDate>Tue, 17 Oct 2023 03:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/j79675fvk0pm</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/j79675fvk0pm</guid>
+    </item>
+    <item>
+      <title>[RBX4][Dedicated Servers] - 54B21</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/10/2023 21:22 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The public switch is currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 16 Oct 2023 21:43:27 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/plg2ddmw20f1</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/plg2ddmw20f1</guid>
     </item>
     <item>
       <title>[RBX7/GRA2][Dedicated Servers] - Network equipment version upgrade</title>
@@ -208,15 +216,6 @@
       <pubDate>Thu, 12 Oct 2023 07:40:10 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wlcmypzk1lrc</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wlcmypzk1lrc</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][NAS HA] - NFSv4.1 support maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/10/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, a restart of the server-side NFS daemon will be made. &lt;br /&gt;So a service interruption of less than a second may be observed&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to make NFSv4.1 automatically supported by default on all SSD-based NAS-HA over the current NFSv3.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The end time of the maintenance has changed.&lt;br /&gt;Below you can find the new information regarding the operation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/10/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2023 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, a restart of the server-side NFS daemon will be made. &lt;br /&gt;So a service interruption of less than a second may be observed&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to make NFSv4.1 automatically supported by default on all SSD-based NAS-HA over the current NFSv3.&lt;br /&gt;&lt;br /&gt;Some changes might be observed from cutomers side which are as follow:   &lt;br /&gt;* For your future NAS-HA orders, NFSv4.1 will be used by default when mounting your file shares.&lt;br /&gt;If needed, you will be able to choose between v3 and v4.1 when mounting your shares using the mount utility.&lt;br /&gt;* For existing ones, it will depend on what you did initially:&lt;br /&gt;               - If you didn&apos;t force NFSv3 when mounting your shares: NFSv4.1 will be applied if the server or the client service is restarted. &lt;br /&gt;You can decide to force NFSv3 using the same mount utility.&lt;br /&gt;               - If you forced NFSv3 when mounting your shares: nothing will change, you will keep your original   configuration.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/10/2023 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/10/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, a restart of the server-side NFS daemon will be made. &lt;br /&gt;So a service interruption of less than a second may be observed&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The objective of this maintenance is to make NFSv4.1 automatically supported by default on all SSD-based NAS-HA over the current NFSv3.&lt;br /&gt;&lt;br /&gt;Some changes might be observed from cutomers side which are as follow:   &lt;br /&gt;* For your future NAS-HA orders, NFSv4.1 will be used by default when mounting your file shares.&lt;br /&gt;If needed, you will be able to choose between v3 and v4.1 when mounting your shares using the mount utility.&lt;br /&gt;* For existing ones, it will depend on what you did initially:&lt;br /&gt;               - If you didn&apos;t force NFSv3 when mounting your shares: NFSv4.1 will be applied if the server or the client service is restarted. &lt;br /&gt;You can decide to force NFSv3 using the same mount utility.&lt;br /&gt;               - If you forced NFSv3 when mounting your shares: nothing will change, you will keep your original   configuration.&lt;/p&gt;      </description>
-      <pubDate>Thu, 12 Oct 2023 06:01:58 +0000</pubDate>
-      <maintenanceEndDate>Thu, 12 Oct 2023 06:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/gxljztx6p6t8</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gxljztx6p6t8</guid>
     </item>
   </channel>
 </rss>

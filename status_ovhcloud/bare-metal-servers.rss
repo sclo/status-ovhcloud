@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 17 Oct 2023 20:48:28 +0000</pubDate>
+    <pubDate>Tue, 17 Oct 2023 21:50:58 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -22,6 +22,24 @@
       <maintenanceEndDate>Tue, 07 Nov 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vhx8dkvmllcq</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vhx8dkvmllcq</guid>
+    </item>
+    <item>
+      <title>[RBX1][Dedicated Servers] - Rack 18204</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/11/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/11/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in rack 18204  will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from rack 18204 to rack 18205.&lt;/p&gt;      </description>
+      <pubDate>Sun, 05 Nov 2023 23:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 06 Nov 2023 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bnbv676pkcbm</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bnbv676pkcbm</guid>
+    </item>
+    <item>
+      <title>[RBX4][Dedicated Servers] - Rack 54B21</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/11/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in rack 54B21 will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from rack 54B21 to rack 54B22.&lt;/p&gt;      </description>
+      <pubDate>Thu, 02 Nov 2023 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 02 Nov 2023 06:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/n3p7gwgh0792</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/n3p7gwgh0792</guid>
     </item>
     <item>
       <title>[ERI1/GRA1/CRX1][Dedicated Servers] - Network equipment version upgrade</title>
@@ -202,22 +220,6 @@
       <pubDate>Sun, 15 Oct 2023 04:23:18 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cr37j8qbd606</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cr37j8qbd606</guid>
-    </item>
-    <item>
-      <title>[RBX8][Dedicated Servers] - Rack R807L03</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/10/2023 22:51 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/10/2023 22:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack was temporarily unavailable for servers in rack R807L03&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Sat, 14 Oct 2023 10:54:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/w9ntpv4zmjfx</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/w9ntpv4zmjfx</guid>
-    </item>
-    <item>
-      <title>[RBX3][Dedicated Servers] - 46C21- 46C22</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/10/2023 13:51 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/10/2023 22:48 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers were temporarily unreachable in racks 46C21 and 46C22&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to a cooling system module failure.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Servers in rack 46C22 are reachable again.&lt;br /&gt;Our technical teams are still working on servers of the rack 46C21.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/10/2023 13:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are currently unreachable in racks 46C21 and 46C22&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to a cooling system module failure.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;      </description>
-      <pubDate>Fri, 13 Oct 2023 23:03:44 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bqcsf8yxc1qf</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bqcsf8yxc1qf</guid>
     </item>
   </channel>
 </rss>

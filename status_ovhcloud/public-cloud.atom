@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-10-18T08:43:37Z</updated>
+  <updated>2023-10-18T09:03:21Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/psdlcdv6bjfz"/>
     <title>[GRA2][Storage] - Ceph software upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/10/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/10/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of Ceph software to next stable release.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18837647</id>
+    <published>2023-10-26T19:00:00Z</published>
+    <updated>2023-10-18T09:03:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vn1sdgx50tdc"/>
+    <title>[RBX][Storage] - Cold Archive</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Risk of service interruption during this maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our providers need to carry out maintenance on the link.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18692687</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xx1hfvlf8331"/>
     <title>[UK1/ UK2 /US-EAST-VA-1 /US-EAST-VA-2 /US-WEST-OR-1 /US-WEST-OR-2 /WAW1/ WAW2] - [K8S] 1.24 Update</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/09/2023 11:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Kubernetes 1.24 releases updates, to deliver security updates, fix known issues, and introduce new features.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18493939</id>
-    <published>2023-09-19T02:08:17Z</published>
-    <updated>2023-09-19T02:08:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/sqz5qcy1gyz3"/>
-    <title>[WAW1][Network] - Network equipment maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;02:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;20:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/09/2023 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/09/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade multiple network equipment.&lt;/p&gt;</content>
   </entry>
 </feed>

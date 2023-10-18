@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-10-18T08:42:01Z</updated>
+  <updated>2023-10-18T12:09:48Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -97,6 +97,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/10/2023 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/10/2023 01:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; none&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18826040</id>
+    <published>2023-10-18T12:09:48Z</published>
+    <updated>2023-10-18T12:09:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/phjbvz97k5qt"/>
+    <title>[GLOBAL][Virtual Private Server] - Monitoring</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;12:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/10/2023 13:24 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/10/2023 06:58 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/10/2023 13:24 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The monitoring system (metrics) for the VPS service is no longer accessible in the manager/API.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18830038</id>
     <published>2023-10-18T08:42:01Z</published>
     <updated>2023-10-18T08:42:01Z</updated>
@@ -111,14 +119,6 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9jnjg8znr3tl"/>
     <title>[BHS1][Dedicated Servers] - Racks T02E17/T02E18</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;16:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/10/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/10/2023 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be temporarily unavailable for servers in racks T02E17 and T02E18 during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18826040</id>
-    <published>2023-10-18T06:58:11Z</published>
-    <updated>2023-10-18T06:58:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/phjbvz97k5qt"/>
-    <title>[GLOBAL][Virtual Private Server] - Monitoring</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;06:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/10/2023 13:24 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The monitoring system (metrics) for the VPS service is no longer accessible in the manager/API.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/18824375</id>

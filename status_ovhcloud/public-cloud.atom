@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-10-26T12:00:37Z</updated>
+  <updated>2023-10-26T13:27:58Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vn1sdgx50tdc"/>
     <title>[RBX][Storage] - Cold Archive</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/10/2023 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Risk of service interruption during this maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our providers need to carry out maintenance on the link.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18877095</id>
+    <published>2023-10-26T13:26:46Z</published>
+    <updated>2023-10-26T13:27:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jxls7b451m5w"/>
+    <title>[BHS][Public Cloud] - Network Degradation Incident Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/10/2023 14:24 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Post-Mortem will be published after incident closing&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented by our technical teams to fix the network perturbations.&lt;br /&gt;Since 14:24 UTC no more network perturbations present.&lt;br /&gt;Our teams are monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are still working on fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing degradation on some hosts in BHS.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18925878</id>
@@ -111,14 +119,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vmdgbmsymrz6"/>
     <title>[SBG3][Public Cloud] - Network Degradation Incident Notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 23/10/2023 02:22 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/10/2023 02:33 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some network services on public cloud was degradded.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18877095</id>
-    <published>2023-10-21T15:23:49Z</published>
-    <updated>2023-10-21T15:23:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jxls7b451m5w"/>
-    <title>[BHS][Public Cloud] - Network Degradation Incident Notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented by our technical teams to fix the network perturbations.&lt;br /&gt;Since 14:24 UTC no more network perturbations present.&lt;br /&gt;Our teams are monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are still working on fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing degradation on some hosts in BHS.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18864127</id>

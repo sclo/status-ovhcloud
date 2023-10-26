@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 26 Oct 2023 22:43:15 +0000</pubDate>
+    <pubDate>Thu, 26 Oct 2023 23:41:02 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -49,6 +49,15 @@
       <maintenanceEndDate>Wed, 08 Nov 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/synrlcvgt2t5</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/synrlcvgt2t5</guid>
+    </item>
+    <item>
+      <title>[BHS2][Dedicated Servers] - 01030</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/11/2023 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers will be unreachable during operations (30 minutes per server)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will migrate the servers in the 01030 rack to the T02A50 rack.&lt;/p&gt;      </description>
+      <pubDate>Wed, 08 Nov 2023 05:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 08 Nov 2023 11:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lqpgr32wvh1y</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lqpgr32wvh1y</guid>
     </item>
     <item>
       <title>[Global][Dedicated Servers] - End of Life Real Time Monitoring APIv6</title>
@@ -213,14 +222,6 @@
       <pubDate>Wed, 25 Oct 2023 15:20:43 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/49pw2q5v62w9</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/49pw2q5v62w9</guid>
-    </item>
-    <item>
-      <title>[RBX1][Dedicated Servers] - Rack 09B09</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/10/2023 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/10/2023 03:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A flap was observed on public network of servers in rack 09B09&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; You can follow the maintenance on this ticket.&lt;br /&gt;Related maintenance : https://bare-metal-servers.status-ovhcloud.com/incidents/bb1t8rm8gq05&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Maintenance will be scheduled for the night of 24 to 25 October to resolve the incident definitively.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Since 03:10 UTC no more flap is being observed on public network of servers in rack 09B09&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/10/2023 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A flap is being observed on public network of servers in rack 09B09&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 25 Oct 2023 00:46:50 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cr37j8qbd606</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cr37j8qbd606</guid>
     </item>
   </channel>
 </rss>

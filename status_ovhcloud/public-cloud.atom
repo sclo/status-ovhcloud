@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-10-27T14:34:06Z</updated>
+  <updated>2023-10-27T14:44:56Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18946149</id>
+    <published>2023-11-20T08:30:00Z</published>
+    <updated>2023-10-27T14:44:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ssscy5l81mtm"/>
+    <title>[SGP/SYD/BHS/SBG/GRA][Object Storage] - RFC</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/11/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers must follow RFC rules to avoid having disruptions on their requests&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are planning to upgrade IPLB from November 20th to November 21th.&lt;br /&gt;This upgrade will add support for TLS 1.3 as well as strict compliance with RFC7540.&lt;br /&gt;Particularly on section 8.1.2 which implies that our services will answer http responses with lowercase headers.&lt;br /&gt;Here is the maintenance planning:&lt;br /&gt;- &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 08:30 UTC  SGP/SYD/BHS  &lt;br /&gt;  &lt;b&gt;End time :&lt;/b&gt; 20/11/2023 10:30 UTC &lt;br /&gt;- &lt;b&gt;Start time :&lt;/b&gt; 21/11/2023 08:30 UTC  SBG/GRA &lt;br /&gt;  &lt;b&gt;End time :&lt;/b&gt;21/11/2023 10:30 UTC&lt;br /&gt;&lt;b&gt;Related maintenances:&lt;/b&gt; &lt;br /&gt;https://network.status-ovhcloud.com/incidents/wmynv3nz50nq&lt;br /&gt;https://network.status-ovhcloud.com/incidents/27nm3jqxz19z&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18917196</id>
     <published>2023-11-13T08:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bd8tt77rc15x"/>
     <title>PCI - WAW1 - host1051212</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;19:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;06:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;waw1-pciz1host17-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;W14A12&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1051212&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;6c84d0ae-4762-4d39-b20c-601819305a21&lt;br /&gt;d04d8c71-6a8e-4069-af01-3b31d8d8f64e&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18648560</id>
-    <published>2023-09-30T05:54:49Z</published>
-    <updated>2023-09-30T05:54:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b73qjx3clkn7"/>
-    <title>[GRA][Storage] - Object Storage S3 Standard and High perf</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/09/2023 05:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/09/2023 05:37 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/09/2023 05:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience 503 and 500 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

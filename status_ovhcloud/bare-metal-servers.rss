@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Bare Metal Cloud Status - Incident History</title>
-    <link>https://bare-metal-servers.status-ovhcloud.com</link>
+    <link>http://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 28 Oct 2023 04:07:27 +0000</pubDate>
+    <pubDate>Sat, 28 Oct 2023 07:49:17 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -159,6 +159,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f5ndgqv4bctc</guid>
     </item>
     <item>
+      <title>[LIM1][Dedicated Servers] - Rack L121A07</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/10/2023 07:24 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/10/2023 07:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network were temporarily unavailable on servers in rack L121A07.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Sat, 28 Oct 2023 07:44:11 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dp2hxn5lvhxk</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dp2hxn5lvhxk</guid>
+    </item>
+    <item>
       <title>[RBX6][DedicatedServers] - 46O11</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/10/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/10/2023 09:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server will be powered off for during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are moving servers to rack R619.&lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Fri, 27 Oct 2023 01:51:59 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0cw994nlyzdr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0cw994nlyzdr</guid>
-    </item>
-    <item>
-      <title>[YNM1][Dedicated Servers] - YNM0101C01C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/10/2023 01:12 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2023 01:16 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The switch rebooted.&lt;br /&gt;All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Fri, 27 Oct 2023 01:23:36 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/yjkbg6888l1x</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yjkbg6888l1x</guid>
     </item>
   </channel>
 </rss>

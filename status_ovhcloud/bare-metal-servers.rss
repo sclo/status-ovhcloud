@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 03 Nov 2023 02:43:17 +0000</pubDate>
+    <pubDate>Fri, 03 Nov 2023 17:02:09 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -141,6 +141,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bnbv676pkcbm</guid>
     </item>
     <item>
+      <title>[GLOBAL][Baremetal] - Debian-8-based rescue system (rescue64-pro) removal</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 03/10/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 03/11/2023 10:50 UTC &lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; The Debian-8-based rescue system (rescue64-pro) will no longer be available after 03/10/2023&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to remove the Debian-8-based rescue system (rescue64-pro) for all Baremetal products.&lt;br /&gt;Customers should start using the new Debian-10-based rescue system (rescue-customer).&lt;br /&gt;The old Web interface is no longer present on the new version.&lt;br /&gt;Please follow this procedure to troubleshoot hardware problems: https://help.ovhcloud.com/csm/en-dedicated-servers-hardware-diagnostics?id=kb_article_view&amp;sysparm_article=KB0043506&lt;/p&gt;      </description>
+      <pubDate>Fri, 03 Nov 2023 17:02:09 +0000</pubDate>
+      <maintenanceEndDate>Fri, 03 Nov 2023 10:50:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</guid>
+    </item>
+    <item>
       <title>[GRA1][Dedicated Servers] - Rack G118A04</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 21:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack G118A04 are temporarily unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Cooling system malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -215,14 +224,6 @@
       <maintenanceEndDate>Mon, 30 Oct 2023 06:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f5ndgqv4bctc</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f5ndgqv4bctc</guid>
-    </item>
-    <item>
-      <title>[GRA1][Dedicated Servers] - Rack G118B06</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/10/2023 11:38 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/10/2023 14:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/10/2023 11:38 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is temporarily unavailable for servers in rack G118B06&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are are currently working to solve the problem&lt;/p&gt;      </description>
-      <pubDate>Sun, 29 Oct 2023 14:23:07 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ltcyjj9ldwrw</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ltcyjj9ldwrw</guid>
     </item>
   </channel>
 </rss>

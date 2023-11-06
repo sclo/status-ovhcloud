@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 06 Nov 2023 17:43:27 +0000</pubDate>
+    <pubDate>Mon, 06 Nov 2023 18:56:47 +0000</pubDate>
     <item>
       <title>[SGP/SYD/BHS/SBG/GRA][Object Storage] - RFC</title>
       <description>
@@ -24,10 +24,18 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5rmdm3srd513</guid>
     </item>
     <item>
+      <title>[GRA][Object Storage] - S3 Standard offer</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/11/2023 00:05 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Latency is observed and TTFB (Time To First Byte) increases.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Nov 2023 18:53:32 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/bzn0094103pq</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/bzn0094103pq</guid>
+    </item>
+    <item>
       <title>[GRA][Managed Private Registry] - Docker images</title>
       <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/11/2023 07:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some slowness is observed on Docker images pushed on Managed private Registry product.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 06 Nov 2023 17:09:38 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Related incident :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/bzn0094103pq&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/11/2023 07:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some slowness is observed on Docker images pushed on Managed private Registry product.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Nov 2023 18:56:47 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r84cqqlk29tx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r84cqqlk29tx</guid>
     </item>
@@ -206,15 +214,6 @@
       <pubDate>Sun, 08 Oct 2023 13:55:48 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/fb7sx99qc39f</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/fb7sx99qc39f</guid>
-    </item>
-    <item>
-      <title>PCI - GRA11 - host1445774</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host118-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G264B12&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1445774&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below may reboot during maintenance,&lt;br /&gt;due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;2c0bd4aa-8010-44d6-9d20-e57b86e52839&lt;/p&gt;      </description>
-      <pubDate>Wed, 04 Oct 2023 20:42:04 +0000</pubDate>
-      <maintenanceEndDate>Wed, 27 Sep 2023 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/lvjq19tsbn7p</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/lvjq19tsbn7p</guid>
     </item>
   </channel>
 </rss>

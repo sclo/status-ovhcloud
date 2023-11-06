@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 06 Nov 2023 14:45:18 +0000</pubDate>
+    <pubDate>Mon, 06 Nov 2023 17:01:09 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f32fv8ygg2wf</guid>
     </item>
     <item>
+      <title>[RBX6][Dedicated Servers] - 46G30/G29</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/11/2023 HH:MM UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Nov 2023 17:01:09 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/m13gzh4l9bny</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/m13gzh4l9bny</guid>
+    </item>
+    <item>
       <title>[RBX8][Dedicated Servers] - Rack R833B11</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/11/2023 12:45 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/11/2023 12:51 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public and Vrack network were temporarily unavailable on some servers in racks R833B11&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
@@ -214,15 +222,6 @@
       <pubDate>Sat, 04 Nov 2023 08:20:35 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/pz4zwwwv70x1</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/pz4zwwwv70x1</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Baremetal] - Debian-8-based rescue system (rescue64-pro) removal</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 03/10/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time:&lt;/b&gt; 03/11/2023 10:50 UTC &lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; The Debian-8-based rescue system (rescue64-pro) will no longer be available after 03/10/2023&lt;br /&gt;&lt;b&gt;Service improvement:&lt;/b&gt; The objective of this maintenance is to remove the Debian-8-based rescue system (rescue64-pro) for all Baremetal products.&lt;br /&gt;Customers should start using the new Debian-10-based rescue system (rescue-customer).&lt;br /&gt;The old Web interface is no longer present on the new version.&lt;br /&gt;Please follow this procedure to troubleshoot hardware problems: https://help.ovhcloud.com/csm/en-dedicated-servers-hardware-diagnostics?id=kb_article_view&amp;sysparm_article=KB0043506&lt;/p&gt;      </description>
-      <pubDate>Fri, 03 Nov 2023 17:02:09 +0000</pubDate>
-      <maintenanceEndDate>Fri, 03 Nov 2023 10:50:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fzvfy71vmbr7</guid>
     </item>
   </channel>
 </rss>

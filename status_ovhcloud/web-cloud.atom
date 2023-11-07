@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-11-07T13:00:07Z</updated>
+  <updated>2023-11-07T15:54:50Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/00hk89srgjvg"/>
     <title>[FR-1][WebPaaS] - Routine Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;21:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/11/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/10/2023 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Console User Interface will be unavailable during about 1 minute on ovhcloud-fr-1.webpaas.ovh.net.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner will be doing a routine maintenance on OVHCLOUD-FR-1 region to release an underlying software upgrade. All projects and environments will continue to function during the upgrade.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19047323</id>
+    <published>2023-11-09T11:00:00Z</published>
+    <updated>2023-11-07T15:54:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/bklsmwkj01y8"/>
+    <title>[Global][Manager] - Web Hosting/CDN/Databases statistics</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:07&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;15:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/11/2023 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/12/2023 14:07 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; &lt;br /&gt;    CDN statistics won't be available in the manager. You can access your data on the &lt;b&gt;OVHcloud Web Statistics&lt;/b&gt; page to help you track and manage your website traffic.&lt;br /&gt;&lt;br /&gt;    Web Hosting and Databses statistics won't be available in the manager during the periods indicated below:&lt;br /&gt;    09/11/2023&lt;br /&gt;    13/11/2023&lt;br /&gt;    23/11/2023&lt;br /&gt;    30/11/2023&lt;br /&gt;    04/12/2023&lt;br /&gt;    05/12/2023&lt;br /&gt;    12/12/2023&lt;br /&gt;    14/12/2023&lt;br /&gt;    15/12/2023&lt;br /&gt;    18/12/2023&lt;br /&gt;    19/12/2023&lt;br /&gt;&lt;br /&gt;    Not impacted metrics for Databases are: "Shared", "Disk space consumption" and "Logs".&lt;br /&gt;    Not impacted metric for Web Hosting is: "Disk space consumed".&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a migration to our Manager Database which might have an impact on Web Hosting, CDN, Databses metrics in the manager.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18778480</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/8280tz6rsq86"/>
     <title>[GRA][Webhosting] - Cluster013 - Filerz298</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/10/2023 20:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/10/2023 21:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz298 will be unavailable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate Filerz298 to keep our infrastructure up-to-date&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18837831</id>
-    <published>2023-10-19T06:31:44Z</published>
-    <updated>2023-10-19T06:31:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/54lhx90ztz9r"/>
-    <title>[GRA1][Web Hosting] - Cluster020 - Filerz37</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/10/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/10/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness was being observed for websites hosted in filerz37&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/10/2023 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowness on filerz37&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 08 Nov 2023 17:44:17 +0000</pubDate>
+    <pubDate>Wed, 08 Nov 2023 20:41:47 +0000</pubDate>
     <item>
       <title>[GRA1/SGP1][Dedicated Servers] - Network equipment version upgrade</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/xffjhzbt0s84</guid>
     </item>
     <item>
+      <title>[GRA1/SBG5/WAW1][Network] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var=&apos;date&apos;&gt;9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/11/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Wed, 08 Nov 2023 22:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 09 Nov 2023 02:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vywkwq7jvcxp</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vywkwq7jvcxp</guid>
+    </item>
+    <item>
       <title>[BHS1][Dedicated Servers] - Rack T01A73</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2023 16:39 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/11/2023 17:13 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/11/2023 16:39 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network has temporarily unavailable on servers in rack T01A73&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -216,15 +225,6 @@
       <maintenanceEndDate>Tue, 07 Nov 2023 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/7vtk67zdszc6</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7vtk67zdszc6</guid>
-    </item>
-    <item>
-      <title>[Global][Dedicated Servers] - End of Life Real Time Monitoring APIv6</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/11/2023 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/11/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The End of Life of Real Time Monitoring (RTM) for baremetal is scheduled for the 7th of November 2023.&lt;br /&gt;Few customers will be impacted (less than 10) and will stop be able to monitor their dedicated servers via the APIv6. This will impact APIv6 calls /dedicated/server/{serviceName}/statistics.&lt;/p&gt;      </description>
-      <pubDate>Tue, 07 Nov 2023 10:00:47 +0000</pubDate>
-      <maintenanceEndDate>Tue, 07 Nov 2023 10:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vhx8dkvmllcq</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vhx8dkvmllcq</guid>
     </item>
   </channel>
 </rss>

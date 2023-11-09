@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-11-08T15:50:38Z</updated>
+  <updated>2023-11-09T17:02:15Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19075679</id>
+    <published>2023-11-29T09:00:00Z</published>
+    <updated>2023-11-09T17:02:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xgp53pfpxp1f"/>
+    <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Read-only for 1-2mn for each registries &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we rolling out an upgrade for registries.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18946149</id>
     <published>2023-11-20T08:30:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kcg8b7m7wkcp"/>
     <title>[GRA][Public Cloud] - Object Storage S3 Standard/High perf</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/10/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/10/2023 09:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were getting 500 and 503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams implemented a fix to solve the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;04:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/10/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18723541</id>
-    <published>2023-10-08T13:55:48Z</published>
-    <updated>2023-10-08T13:55:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fb7sx99qc39f"/>
-    <title>PCI - GRA9 - host1270619</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host86-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G261A03&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1270619&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;27432609-4577-4ee3-9d08-db42b4a04031&lt;br /&gt;788c6c15-c495-459b-b32c-024907a5990c&lt;br /&gt;951ad125-f451-491a-9575-85564cabd538&lt;/p&gt;</content>
   </entry>
 </feed>

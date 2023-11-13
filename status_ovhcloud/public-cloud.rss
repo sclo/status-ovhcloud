@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 09 Nov 2023 17:43:27 +0000</pubDate>
+    <pubDate>Mon, 13 Nov 2023 01:46:58 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Wed, 15 Nov 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5rmdm3srd513</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5rmdm3srd513</guid>
+    </item>
+    <item>
+      <title>[GRA1][Compute] - Rack G122A08/Control plane degradation</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/11/2023 01:18 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Instances in rack G122A08 are temporarily unavailable.&lt;br /&gt;Customers might face a service degradation for control plane in GRA2&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A network equipment caused the incident&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 13 Nov 2023 01:46:58 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/gs7tlghcf6cq</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/gs7tlghcf6cq</guid>
     </item>
     <item>
       <title>[GRA5][Storage] - Ceph software upgrade</title>
@@ -207,14 +215,6 @@
       <maintenanceEndDate>Tue, 17 Oct 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/rkkb6mfnsq2r</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/rkkb6mfnsq2r</guid>
-    </item>
-    <item>
-      <title>[GRA][Public Cloud] - Object Storage S3 Standard/High perf</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/10/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/10/2023 09:58 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were getting 500 and 503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;Our technical teams implemented a fix to solve the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/10/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 10 Oct 2023 10:04:12 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/kcg8b7m7wkcp</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/kcg8b7m7wkcp</guid>
     </item>
   </channel>
 </rss>

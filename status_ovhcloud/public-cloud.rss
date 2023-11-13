@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 13 Nov 2023 14:43:24 +0000</pubDate>
+    <pubDate>Mon, 13 Nov 2023 15:14:00 +0000</pubDate>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
       <description>
@@ -22,6 +22,14 @@
       <maintenanceEndDate>Tue, 21 Nov 2023 10:30:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ssscy5l81mtm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ssscy5l81mtm</guid>
+    </item>
+    <item>
+      <title>[GRA5][Public Cloud] Control-plane certificate expiration issues for clusters reaching a 5 years lifetime.</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/10/2023 16:10 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We has been fixed the issue for some specific certificates.&lt;br /&gt;Our technical team still working to fix globally the issue.&lt;br /&gt;&lt;br /&gt;We will keep your inform when will have more information&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We started to fix the issue for some specific certificates.&lt;br /&gt;Our technical team still working to fix globally the issue.&lt;br /&gt;&lt;br /&gt;We will keep your inform when will have more information&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The impacted customer needs to download a new kubeconfig (the ones download before will not work anymore).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing control-plane certificate expiration issues for clusters reaching a 5 years lifetime.&lt;br /&gt; The clusters direclty impacted has been manualy fixed.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We are still working to prevent this issue to happen to new clusters.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing control-plane certificate expiration issues for clusters reaching a 5 years lifetime.&lt;br /&gt;Kubectl returns an error: Unable to connect to the server: x509: certificate has expired.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Diagnosis in progress with the team.&lt;/p&gt;      </description>
+      <pubDate>Mon, 13 Nov 2023 15:14:00 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/5rljck1hykzp</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/5rljck1hykzp</guid>
     </item>
     <item>
       <title>PCI - GRA5 - host991915</title>
@@ -157,14 +165,6 @@
       <maintenanceEndDate>Wed, 25 Oct 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/v7x9n7mvwy24</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/v7x9n7mvwy24</guid>
-    </item>
-    <item>
-      <title>[GRA5][Public Cloud] Control-plane certificate expiration issues for clusters reaching a 5 years lifetime.</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We has been fixed the issue for some specific certificates.&lt;br /&gt;Our technical team still working to fix globally the issue.&lt;br /&gt;&lt;br /&gt;We will keep your inform when will have more information&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We started to fix the issue for some specific certificates.&lt;br /&gt;Our technical team still working to fix globally the issue.&lt;br /&gt;&lt;br /&gt;We will keep your inform when will have more information&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The impacted customer needs to download a new kubeconfig (the ones download before will not work anymore).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing control-plane certificate expiration issues for clusters reaching a 5 years lifetime.&lt;br /&gt; The clusters direclty impacted has been manualy fixed.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; We are still working to prevent this issue to happen to new clusters.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing control-plane certificate expiration issues for clusters reaching a 5 years lifetime.&lt;br /&gt;Kubectl returns an error: Unable to connect to the server: x509: certificate has expired.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Diagnosis in progress with the team.&lt;/p&gt;      </description>
-      <pubDate>Mon, 06 Nov 2023 10:27:13 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/5rljck1hykzp</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/5rljck1hykzp</guid>
     </item>
     <item>
       <title>PCI - GRA7 - host1313015</title>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2023-11-15T08:06:04Z</updated>
+  <updated>2023-11-15T09:21:48Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/w6gmfs1b5g03"/>
     <title>[FR-1][WebPaaS] - Routine   Maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/11/2023 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/11/2023 23:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Integrations and webhooks may fail during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner will be doing a routine maintenance on OVHCLOUD-FR-1 region to release an underlying software upgrade. All projects and environments will continue to function during the upgrade&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19125675</id>
+    <published>2023-11-15T09:21:48Z</published>
+    <updated>2023-11-15T09:21:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/tl4rb37w9kqp"/>
+    <title>[FR][xDSL/FTTH] - Service degradation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The incident is currently being dealt with by the provider's teams. An update will be published when significant progress has been made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/11/2023 06:30UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A degradation was detected on the provider equipment, leading to a deterioration of the connection to the services. Some latency, disruption with the connection, and service degradation will be observed&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19120656</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/dwfbq38hpd8p"/>
     <title>[GRA][Webhosting] - Cluster013 - filerz275</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2023 20:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/10/2023 21:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz275 will be unavailable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate Filerz275 to keep our infrastructure up-to-date&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/18856332</id>
-    <published>2023-10-24T21:19:54Z</published>
-    <updated>2023-10-24T21:19:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/10ywft4yqkz4"/>
-    <title>[GRA][Webhosting] - Cluster013 - filerz299</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/10/2023 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/10/2023 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz299 will be unavailable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate Filerz299 to keep our infrastructure up-to-date&lt;/p&gt;</content>
   </entry>
 </feed>

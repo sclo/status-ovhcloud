@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-11-17T21:10:26Z</updated>
+  <updated>2023-11-20T07:29:58Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -35,7 +35,7 @@
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18946149</id>
     <published>2023-11-20T08:30:00Z</published>
-    <updated>2023-10-27T14:44:56Z</updated>
+    <updated>2023-11-20T07:29:58Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ssscy5l81mtm"/>
     <title>[SGP/SYD/BHS/SBG/GRA][Object Storage] - RFC</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/11/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers must follow RFC rules to avoid having disruptions on their requests&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are planning to upgrade IPLB from November 20th to November 21th.&lt;br /&gt;This upgrade will add support for TLS 1.3 as well as strict compliance with RFC7540.&lt;br /&gt;Particularly on section 8.1.2 which implies that our services will answer http responses with lowercase headers.&lt;br /&gt;Here is the maintenance planning:&lt;br /&gt;- &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 08:30 UTC  SGP/SYD/BHS  &lt;br /&gt;  &lt;b&gt;End time :&lt;/b&gt; 20/11/2023 10:30 UTC &lt;br /&gt;- &lt;b&gt;Start time :&lt;/b&gt; 21/11/2023 08:30 UTC  SBG/GRA &lt;br /&gt;  &lt;b&gt;End time :&lt;/b&gt;21/11/2023 10:30 UTC&lt;br /&gt;&lt;b&gt;Related maintenances:&lt;/b&gt; &lt;br /&gt;https://network.status-ovhcloud.com/incidents/wmynv3nz50nq&lt;br /&gt;https://network.status-ovhcloud.com/incidents/27nm3jqxz19z&lt;/p&gt;</content>

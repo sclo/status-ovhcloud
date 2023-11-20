@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2023-11-20T09:19:38Z</updated>
+  <updated>2023-11-20T09:37:11Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r61524jtpv8g"/>
     <title>[RBX1][Network] - Network equipment maintenance</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;18:30&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;05:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 18:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/11/2023 19:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a multiple network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19177783</id>
+    <published>2023-11-20T14:00:00Z</published>
+    <updated>2023-11-20T09:37:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bjcdls6bqwkr"/>
+    <title>[YNM1][Dedicated Servers] - Network equipment version upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/11/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade on multiple network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19057616</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/6s2v778sfxvs"/>
     <title>VPS - BHS6 - host356233</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs7-pciz3host1-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;B704A02&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host356233&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-0e8a6d51&lt;br /&gt;vps-1c299392&lt;br /&gt;vps-1e15470b&lt;br /&gt;vps-3a76061c&lt;br /&gt;vps-4a7c8735&lt;br /&gt;vps-4f5984f2&lt;br /&gt;vps-4fd604f3&lt;br /&gt;vps-5d087595&lt;br /&gt;vps-6ea4647b&lt;br /&gt;vps-6f6f1295&lt;br /&gt;vps-6f8c1046&lt;br /&gt;vps-7d44caae&lt;br /&gt;vps-9f400a3a&lt;br /&gt;vps-15da184b&lt;br /&gt;vps-21d56819&lt;br /&gt;vps-68cf8cbe&lt;br /&gt;vps-80baf393&lt;br /&gt;vps-678a190a&lt;br /&gt;vps-716d6e23&lt;br /&gt;vps-906be952&lt;br /&gt;vps-919f55d3&lt;br /&gt;vps-946e9f4b&lt;br /&gt;vps-14938d33&lt;br /&gt;vps-a06cf26d&lt;br /&gt;vps-ab6eae1f&lt;br /&gt;vps-ab6254fd&lt;br /&gt;vps-ac4cafed&lt;br /&gt;vps-c17fd17f&lt;br /&gt;vps-ccac7baf&lt;br /&gt;vps-e5ba124a&lt;br /&gt;vps-e890dc89&lt;br /&gt;vps-ec658f68&lt;br /&gt;vps-ee556f40&lt;br /&gt;vps-eecc0325&lt;br /&gt;vps-f36f8197&lt;br /&gt;vps-f930c19e&lt;br /&gt;vps-fa2b5f02&lt;br /&gt;vps-fd654562&lt;br /&gt;vps-fe08a800&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19106467</id>
-    <published>2023-11-13T15:39:18Z</published>
-    <updated>2023-11-13T15:41:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/yl7tlxhfx06n"/>
-    <title>[GRA1/GRA2][Dedicated Severs] - Multiple Racks</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/11/2023 09:47 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/11/2023 16:37 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident occurred following this maintenance: https://network.status-ovhcloud.com/incidents/vdb3qhjvxnzr &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/11/2023 09:47 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Somes servers are down :&lt;br /&gt;G107A13 - G108A02 - G108A03 - G108A04 - G108A05 - G108A09 - G118B19 &lt;br /&gt;G210A04 - G211B04 - G220A02 - G222B07 - G233A17 &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident occurred following this maintenance: https://network.status-ovhcloud.com/incidents/vdb3qhjvxnzr&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are working on this issue,&lt;/p&gt;</content>
   </entry>
 </feed>

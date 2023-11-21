@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 21 Nov 2023 09:41:54 +0000</pubDate>
+    <pubDate>Tue, 21 Nov 2023 10:00:55 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.24</title>
       <description>
@@ -33,10 +33,18 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/xgp53pfpxp1f</guid>
     </item>
     <item>
+      <title>PCI - GRA7 - host1515563</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host118-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G264B12&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1515563&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;5f8adc92-358d-403a-95b5-097839b22e5d&lt;/p&gt;      </description>
+      <pubDate>Tue, 21 Nov 2023 10:00:55 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/bkkllf5rbxm8</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/bkkllf5rbxm8</guid>
+    </item>
+    <item>
       <title>[GRA][Storage] - Object Storage, Manage Private Registry response time</title>
       <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experienced slower response time than usual. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 21 Nov 2023 09:41:54 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experienced slower response time than usual. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 21 Nov 2023 09:43:15 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/3jhn3bq353sy</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/3jhn3bq353sy</guid>
     </item>
@@ -206,14 +214,6 @@
       <maintenanceEndDate>Fri, 27 Oct 2023 04:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/vn1sdgx50tdc</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/vn1sdgx50tdc</guid>
-    </item>
-    <item>
-      <title>[BHS][Public Cloud] - Network Degradation Incident Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/10/2023 14:24 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Post-Mortem will be published after incident closing&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented by our technical teams to fix the network perturbations.&lt;br /&gt;Since 14:24 UTC no more network perturbations present.&lt;br /&gt;Our teams are monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are still working on fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing degradation on some hosts in BHS.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 26 Oct 2023 13:26:46 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/jxls7b451m5w</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/jxls7b451m5w</guid>
     </item>
   </channel>
 </rss>

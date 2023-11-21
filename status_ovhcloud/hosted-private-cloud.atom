@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2023-11-21T05:00:27Z</updated>
+  <updated>2023-11-21T06:34:48Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -97,6 +97,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;22:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/11/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/11/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A few seconds of I/O freeze when the service will do a switchover (2 times)  &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/19052486</id>
+    <published>2023-11-21T06:34:48Z</published>
+    <updated>2023-11-21T06:34:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/tndbv5ldl79n"/>
+    <title>[RBX2][Hosted Private Cloud] - Network equipement operation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;06:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/11/2023 06:15 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/11/2023 05:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/19039373</id>
     <published>2023-11-21T05:00:27Z</published>
     <updated>2023-11-21T05:00:27Z</updated>
@@ -143,14 +151,6 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/7jj7k25xdvwv"/>
     <title>[EU/CA][VMware Private Cloud] - vRealize Operations (vRops) upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;00:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/11/2023 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRops will be unavailable during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for vRealize Operations (vRops).&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/19052486</id>
-    <published>2023-11-20T02:00:07Z</published>
-    <updated>2023-11-20T02:00:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/tndbv5ldl79n"/>
-    <title>[RBX2][Hosted Private Cloud] - Network equipement operation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/11/2023 05:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/19059049</id>

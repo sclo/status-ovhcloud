@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-11-20T21:08:20Z</updated>
+  <updated>2023-11-21T09:41:54Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xgp53pfpxp1f"/>
     <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Read-only for 1-2mn for each registries &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we rolling out an upgrade for registries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19186109</id>
+    <published>2023-11-21T09:41:54Z</published>
+    <updated>2023-11-21T09:41:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3jhn3bq353sy"/>
+    <title>[GRA][Storage] - Object Storage, Manage Private Registry response time</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2023 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experienced slower response time than usual. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19180112</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jxls7b451m5w"/>
     <title>[BHS][Public Cloud] - Network Degradation Incident Notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/10/2023 14:24 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Post-Mortem will be published after incident closing&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented by our technical teams to fix the network perturbations.&lt;br /&gt;Since 14:24 UTC no more network perturbations present.&lt;br /&gt;Our teams are monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are still working on fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/10/2023 09:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We are experiencing degradation on some hosts in BHS.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/18925878</id>
-    <published>2023-10-26T12:00:37Z</published>
-    <updated>2023-10-26T12:00:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rs571kxlfzw1"/>
-    <title>[SBG][Databases] - MongoDB</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/10/2023 11:13 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software had a malfunction.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;19:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Our teams are still investigating the cause of the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;17:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/10/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Running services are fine. It is not possible to create/delete the mongodb service in SBG as well as create/update/delete the mongodb user and IP restriction on the existing MongoDB user in SBG.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

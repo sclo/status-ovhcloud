@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-11-29T12:49:47Z</updated>
+  <updated>2023-11-29T13:05:03Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -26,11 +26,19 @@
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19241950</id>
-    <published>2023-11-29T12:49:47Z</published>
-    <updated>2023-11-29T12:49:47Z</updated>
+    <published>2023-11-29T13:05:03Z</published>
+    <updated>2023-11-29T13:05:03Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/dcqjd2qbqxtp"/>
     <title>GRA3 - Nova/Neutron API issues</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have some issues with our messaging queue system, we are investigating.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have some issues with our messaging queue system, we are investigating.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19242029</id>
+    <published>2023-11-29T13:03:05Z</published>
+    <updated>2023-11-29T13:03:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s5ry2grl5cxd"/>
+    <title>[GRA][Public Cloud] - Object Storage S3 Standard/High perf</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19075679</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6rmv8jzt52q4"/>
     <title>[GRA][Object Storage] - Error 503</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;10:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 21:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2023 09:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;08:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 21:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Client may expect some 503 errors status code when upload/download objects&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a problem with our cooling system, link to https://bare-metal-servers.status-ovhcloud.com/incidents/kdp7hf5x4fd8&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently working to solve the problem.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19004945</id>
-    <published>2023-11-03T06:17:08Z</published>
-    <updated>2023-11-03T06:17:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4kmwjxfjw7r2"/>
-    <title>[RBX][Storage] - Cold Archive</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;06:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 22:33 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/11/2023 06:05 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;23:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 22:33 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Archiving and restoration are temporarily unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

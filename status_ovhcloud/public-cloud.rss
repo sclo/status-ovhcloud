@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 29 Nov 2023 12:49:47 +0000</pubDate>
+    <pubDate>Wed, 29 Nov 2023 13:05:03 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.24</title>
       <description>
@@ -26,10 +26,18 @@
     <item>
       <title>GRA3 - Nova/Neutron API issues</title>
       <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have some issues with our messaging queue system, we are investigating.&lt;/p&gt;      </description>
-      <pubDate>Wed, 29 Nov 2023 12:49:47 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have some issues with our messaging queue system, we are investigating.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Nov 2023 13:05:03 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/dcqjd2qbqxtp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/dcqjd2qbqxtp</guid>
+    </item>
+    <item>
+      <title>[GRA][Public Cloud] - Object Storage S3 Standard/High perf</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Nov 2023 13:03:05 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/s5ry2grl5cxd</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/s5ry2grl5cxd</guid>
     </item>
     <item>
       <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
@@ -203,14 +211,6 @@
       <pubDate>Sat, 04 Nov 2023 10:27:44 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/6rmv8jzt52q4</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/6rmv8jzt52q4</guid>
-    </item>
-    <item>
-      <title>[RBX][Storage] - Cold Archive</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 22:33 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/11/2023 06:05 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/11/2023 22:33 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Archiving and restoration are temporarily unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 03 Nov 2023 06:17:08 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/4kmwjxfjw7r2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/4kmwjxfjw7r2</guid>
     </item>
   </channel>
 </rss>

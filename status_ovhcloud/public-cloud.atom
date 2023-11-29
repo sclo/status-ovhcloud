@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2023-11-29T13:43:43Z</updated>
+  <updated>2023-11-29T13:59:19Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -25,6 +25,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;00:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/12/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of Ceph software to next stable release.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19075679</id>
+    <published>2023-11-29T13:59:18Z</published>
+    <updated>2023-11-29T13:59:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xgp53pfpxp1f"/>
+    <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Read-only for 1-2mn for each registries &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we rolling out an upgrade for registries.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19241950</id>
     <published>2023-11-29T13:05:03Z</published>
     <updated>2023-11-29T13:05:03Z</updated>
@@ -39,14 +47,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s5ry2grl5cxd"/>
     <title>[GRA][Public Cloud] - Object Storage S3 Standard/High perf</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 09:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19075679</id>
-    <published>2023-11-29T09:00:10Z</published>
-    <updated>2023-11-29T09:00:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xgp53pfpxp1f"/>
-    <title>[GRA/DE1/BHS][ManagedPrivateRegistry] -  Registries upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/11/2023 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/11/2023 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Read-only for 1-2mn for each registries &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we rolling out an upgrade for registries.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19133284</id>

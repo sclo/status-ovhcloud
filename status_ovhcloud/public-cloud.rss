@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 11 Dec 2023 16:43:35 +0000</pubDate>
+    <pubDate>Tue, 12 Dec 2023 19:30:32 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.24</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Mon, 08 Jan 2024 18:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4l0jtvs59wsx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4l0jtvs59wsx</guid>
+    </item>
+    <item>
+      <title>[GR5/GR7/GR9/GR11/SBG5/WAW1/BHS5/SGP1/VA1/OR1/SYD1][ManagedKubernetesService] - Deprecation of the Kubernetes version 1.25</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/12/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/12/2023 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delivery and reset of Managed Kubernetes clusters v1.25 disabled&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Following our end-of-support policy, the Managed Kubernetes Service team will mark as deprecated the Kubernetes version 1.25. It will no longer be possible to create Managed Kubernetes clusters under the 1.25 version, or to reset existing clusters into this version. For more details, please refer to these documentations: https://docs.ovh.com/gb/en/kubernetes/eos-eol-policies/ and https://docs.ovh.com/gb/en/kubernetes/kubernetes-plugins-software-versions-reserved-resources/&lt;/p&gt;      </description>
+      <pubDate>Wed, 13 Dec 2023 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 13 Dec 2023 14:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/qzcd8mxx0m1w</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/qzcd8mxx0m1w</guid>
     </item>
     <item>
       <title>[RBX][Storage] - Cold Archive</title>
@@ -202,14 +211,6 @@
       <maintenanceEndDate>Wed, 15 Nov 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5rmdm3srd513</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5rmdm3srd513</guid>
-    </item>
-    <item>
-      <title>Public Cloud Potential Shortage</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We wish to inform you of a potential shortage in our datacenters GRA and SBG, specifically in regions GRA5/7/9/11 and SBG5/7. &lt;br /&gt;Due to high demand, there might be limited availability of resources for the following flavours: B2, C2, T1, T2, and T3.&lt;/p&gt;      </description>
-      <pubDate>Wed, 15 Nov 2023 13:14:42 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/x73s88qpktbl</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/x73s88qpktbl</guid>
     </item>
   </channel>
 </rss>

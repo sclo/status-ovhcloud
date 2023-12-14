@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 14 Dec 2023 04:57:07 +0000</pubDate>
+    <pubDate>Thu, 14 Dec 2023 16:30:06 +0000</pubDate>
     <item>
       <title>[RBX7][Hosted Private Cloud] - Network equipement operation</title>
       <description>
@@ -114,6 +114,15 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/1cfkfjc2152t</guid>
     </item>
     <item>
+      <title>[Global][Hosted Private Cloud] - Zerto update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/12/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronization between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 2 hours per site.&lt;br /&gt;An export of all VPGs will be  done  before  importing them  to the new Disaster Recovery Zerto v9.7U4&lt;br /&gt;Please have a look on  configuration of all VPGs : Regarding the VMs powered-on , VMs still present in VPG  and not in production.&lt;/p&gt;      </description>
+      <pubDate>Mon, 18 Dec 2023 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 22 Dec 2023 20:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/gnlcl2dn1xv7</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/gnlcl2dn1xv7</guid>
+    </item>
+    <item>
       <title>[Global][Hosted Private Cloud] - vRouter update</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/12/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronization between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for vRouter. Note that it should take 2 hours per site.&lt;/p&gt;      </description>
@@ -121,15 +130,6 @@
       <maintenanceEndDate>Fri, 22 Dec 2023 20:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/z7c4cpv8x3lq</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/z7c4cpv8x3lq</guid>
-    </item>
-    <item>
-      <title>[Global][Hosted Private Cloud] - Zerto update</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/12/2023 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/12/2023 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronization between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 2 hours per site.&lt;/p&gt;      </description>
-      <pubDate>Mon, 18 Dec 2023 08:00:00 +0000</pubDate>
-      <maintenanceEndDate>Fri, 22 Dec 2023 20:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/gnlcl2dn1xv7</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/gnlcl2dn1xv7</guid>
     </item>
     <item>
       <title>[SBG3][Hosted Private Cloud] - Network equipement operation</title>

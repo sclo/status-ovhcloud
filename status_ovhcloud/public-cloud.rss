@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 26 Dec 2023 15:43:54 +0000</pubDate>
+    <pubDate>Tue, 26 Dec 2023 16:04:16 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.24</title>
       <description>
@@ -15,6 +15,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4l0jtvs59wsx</guid>
     </item>
     <item>
+      <title>[DE][Object Storage] - Swift Legacy (PCS/PCA)</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2023 15:35 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;It was due to a malfunction on a software.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Dec 2023 16:04:03 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</guid>
+    </item>
+    <item>
       <title>[LIM][Network] - LoadBalancer Update</title>
       <description>
 &lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/12/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are updating the loadbalancer configuration in front of storage.de.cloud.ovh.net and gateways.storage.de.cloud.ovh.net.&lt;br /&gt;DNS records will be updated.&lt;/p&gt;      </description>
@@ -22,14 +30,6 @@
       <maintenanceEndDate>Tue, 26 Dec 2023 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/c5m3tmcqq5k5</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/c5m3tmcqq5k5</guid>
-    </item>
-    <item>
-      <title>[DE][Object Storage] - Swift Legacy (PCS/PCA)</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 26 Dec 2023 15:11:28 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</guid>
     </item>
     <item>
       <title>[DE1][Public Cloud] - Compute Instance</title>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-01-04T17:14:32Z</updated>
+  <updated>2024-01-04T17:23:33Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06"/>
     <title>[BHS7][Dedicated Servers] - Rack B710B03</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;22:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for servers in rack B710B03 during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19613604</id>
+    <published>2024-01-17T10:00:00Z</published>
+    <updated>2024-01-04T17:23:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/b1bjrd4wwx3g"/>
+    <title>[RBX4/RBX6/RBX7/RBX8/BHS][Dedicated Servers] - Boot Firmware Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/01/2024 10:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance affect reboots to disk or in rescue mode for servers running very old hardware&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in RBX4, RBX6, RBX7, RBX8 and BHS from SYSLINUX to iPXE.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19596010</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/jtn32jzzb33m"/>
     <title>[SBG3][Dedicated Servers] - Rack S325B01</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;03:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;03:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;01:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 03:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/01/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack Servers in rack S325B01 will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19595709</id>
-    <published>2024-01-02T20:32:18Z</published>
-    <updated>2024-01-02T20:32:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/ffn0ktv36c92"/>
-    <title>[BHS7][Dedicated Servers] - B714B10</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;20:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 02/01/2024 20:07 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 02/01/2024 20:12 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The Vrack network were unreachable.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
 </feed>

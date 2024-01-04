@@ -4,7 +4,16 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 04 Jan 2024 17:23:33 +0000</pubDate>
+    <pubDate>Thu, 04 Jan 2024 17:30:23 +0000</pubDate>
+    <item>
+      <title>[RBX2][Dedicated Servers] - 31A13 - 31A14 - 31A16</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/02/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2024 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers will be unreachable during operations (30 minutes per server)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will migrate the servers in the 31A13 - 31A14 - 31A16 rack to the rack 31A05 - 31A06.&lt;/p&gt;      </description>
+      <pubDate>Tue, 06 Feb 2024 23:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 07 Feb 2024 06:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dzcm65p2s3h4</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dzcm65p2s3h4</guid>
+    </item>
     <item>
       <title>[RBX2][Dedicated Servers] - 31A11 - 31A12 - 31A13</title>
       <description>
@@ -42,9 +51,9 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06</guid>
     </item>
     <item>
-      <title>[RBX4/RBX6/RBX7/RBX8/BHS][Dedicated Servers] - Boot Firmware Maintenance</title>
+      <title>[RBX4/RBX6/RBX7/RBX8/BHS4/BHS5/BHS6/BH7][Dedicated Servers] - Boot Firmware Maintenance</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/01/2024 10:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance affect reboots to disk or in rescue mode for servers running very old hardware&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in RBX4, RBX6, RBX7, RBX8 and BHS from SYSLINUX to iPXE.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/01/2024 10:59 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance affect reboots to disk or in rescue mode for servers running very old hardware&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in RBX4, RBX6, RBX7, RBX8, BHS4, BHS5, BHS6, and BHS7 from SYSLINUX to iPXE.&lt;/p&gt;      </description>
       <pubDate>Wed, 17 Jan 2024 10:00:00 +0000</pubDate>
       <maintenanceEndDate>Wed, 17 Jan 2024 10:59:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/b1bjrd4wwx3g</link>
@@ -217,15 +226,6 @@
       <maintenanceEndDate>Wed, 03 Jan 2024 07:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8dsfjdwzqlm0</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8dsfjdwzqlm0</guid>
-    </item>
-    <item>
-      <title>[SBG3][Dedicated Servers] - Rack S325B01</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 03:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/01/2023 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack Servers in rack S325B01 will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;/p&gt;      </description>
-      <pubDate>Wed, 03 Jan 2024 03:38:22 +0000</pubDate>
-      <maintenanceEndDate>Wed, 03 Jan 2024 04:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jtn32jzzb33m</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jtn32jzzb33m</guid>
     </item>
   </channel>
 </rss>

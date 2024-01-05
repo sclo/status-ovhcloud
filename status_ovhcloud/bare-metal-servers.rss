@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 05 Jan 2024 03:07:27 +0000</pubDate>
+    <pubDate>Fri, 05 Jan 2024 03:21:47 +0000</pubDate>
     <item>
       <title>[RBX6][Network] - Network equipment maintenance</title>
       <description>
@@ -58,6 +58,15 @@
       <maintenanceEndDate>Tue, 30 Jan 2024 10:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06</guid>
+    </item>
+    <item>
+      <title>[SBG3][Dedicated Servers] - Rack S330B06</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in rack S330B06 will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from rack S330B06 to rack S330B01 and  S330B02.&lt;/p&gt;      </description>
+      <pubDate>Thu, 18 Jan 2024 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 18 Jan 2024 17:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/l1ckykcvxmmf</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/l1ckykcvxmmf</guid>
     </item>
     <item>
       <title>[RBX4/RBX6/RBX7/RBX8/BHS1/BHS4/BHS5/BHS6/BH7][Dedicated Servers] - Boot Firmware Maintenance</title>
@@ -218,14 +227,6 @@
       <maintenanceEndDate>Wed, 03 Jan 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/y1g7bkkdmj90</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/y1g7bkkdmj90</guid>
-    </item>
-    <item>
-      <title>[LIM3][Dedicated Servers] - LIM0303B05A/B/C</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 08:40 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/01/2023 09:30 UTC&lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to malfunction on hardwares&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 08:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable on these racks.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 03 Jan 2024 12:37:56 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/mtvyk4tr71nr</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/mtvyk4tr71nr</guid>
     </item>
   </channel>
 </rss>

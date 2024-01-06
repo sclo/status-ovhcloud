@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 06 Jan 2024 01:44:42 +0000</pubDate>
+    <pubDate>Sat, 06 Jan 2024 20:02:46 +0000</pubDate>
     <item>
       <title>[GLOBAL][PublicCloud] - Customers migration Kubernetes to 1.24</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Mon, 08 Jan 2024 18:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4l0jtvs59wsx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4l0jtvs59wsx</guid>
+    </item>
+    <item>
+      <title>[GRA3][L3 Services] - Manager</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/01/2024 16:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; L3 services API are having a malfunction. Therefore Floating IP, routers and Octavia LB are not configurable.&lt;br /&gt;Actual online services are not impacted but customer cannot configure new or update the existing one.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Sat, 06 Jan 2024 20:02:46 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/r72vcjpm3vs1</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/r72vcjpm3vs1</guid>
     </item>
     <item>
       <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
@@ -202,14 +210,6 @@
       <pubDate>Mon, 11 Dec 2023 16:35:05 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/bx7rv3rdr2xj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bx7rv3rdr2xj</guid>
-    </item>
-    <item>
-      <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/12/2023 15:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/12/2023 15:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers weren&apos;t able to pull/push from their Managed Registry.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/ggsd08k3wlzn&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Customers are able to pull/push from their Managed Private Registry since 15:40 UTC.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/12/2023 15:05 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers aren&apos;t able to pull/push from their Managed Registry.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/ggsd08k3wlzn&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 11 Dec 2023 16:34:36 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/9k7nv3gg0tfv</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/9k7nv3gg0tfv</guid>
     </item>
   </channel>
 </rss>

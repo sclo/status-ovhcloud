@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jan 2024 17:24:51 +0000</pubDate>
+    <pubDate>Thu, 11 Jan 2024 17:57:14 +0000</pubDate>
     <item>
       <title>[RBX6][Network] - Network equipment maintenance</title>
       <description>
@@ -76,6 +76,15 @@
       <maintenanceEndDate>Mon, 05 Feb 2024 05:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/c1xm9xyy0vjt</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c1xm9xyy0vjt</guid>
+    </item>
+    <item>
+      <title>[BHS7][Dedicated Servers] - Rack B710B09</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 01/02/2024 10:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2024 12:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network and vRack will be unavailable during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;      </description>
+      <pubDate>Thu, 01 Feb 2024 10:30:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 01 Feb 2024 12:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wdy169f8v6mt</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wdy169f8v6mt</guid>
     </item>
     <item>
       <title>[SBG3][Dedicated Servers] - Rack S342B08</title>
@@ -220,15 +229,6 @@
       <maintenanceEndDate>Wed, 17 Jan 2024 10:59:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/zpwxb7tt3jpr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/zpwxb7tt3jpr</guid>
-    </item>
-    <item>
-      <title>[RBX8/LIM][Storage and Backups] - NAS HA maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/01/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;/p&gt;      </description>
-      <pubDate>Wed, 17 Jan 2024 08:00:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 17 Jan 2024 10:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/9wp4f0n24s2r</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9wp4f0n24s2r</guid>
     </item>
   </channel>
 </rss>

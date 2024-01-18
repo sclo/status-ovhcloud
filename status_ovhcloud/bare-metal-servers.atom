@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-01-18T15:12:57Z</updated>
+  <updated>2024-01-18T15:23:58Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -129,6 +129,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2024 14:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2024 16:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19753515</id>
+    <published>2024-01-24T09:00:00Z</published>
+    <updated>2024-01-18T15:21:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/cl68xvm1frmm"/>
+    <title>[RBX8][Network] - Network equipment maintenance</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/01/2024 11:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some additional latency on one-network operations during operation may be observed.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19730772</id>
     <published>2024-01-23T14:30:00Z</published>
     <updated>2024-01-16T23:30:25Z</updated>
@@ -185,27 +193,19 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/01/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/01/2024 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in rack S330B08 will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from rack S330B08 to rack S330B02 and  S330B03.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19670543</id>
+    <published>2024-01-18T15:23:58Z</published>
+    <updated>2024-01-18T15:23:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/qvsbsmds7b5b"/>
+    <title>[RBX8][Storage and Backups] - NAS HA maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;19:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19725422</id>
     <published>2024-01-18T15:00:49Z</published>
     <updated>2024-01-18T15:00:49Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fbl4rrqm9h6r"/>
     <title>[GRA4][Dedicated Servers] - Network equipment maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 15:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19672101</id>
-    <published>2024-01-18T13:58:25Z</published>
-    <updated>2024-01-18T13:58:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/d8yjkxm57nvx"/>
-    <title>[RBX8][Storage and Backups] - NAS HA maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;Below you can find the new end time:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 13:50 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;22:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 10:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 12:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19730694</id>
-    <published>2024-01-18T13:34:54Z</published>
-    <updated>2024-01-18T13:34:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/89wy99gf0dvn"/>
-    <title>[SGP/SYD/WAW][Dedicated Servers] - Network Maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;23:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/01/2024 15:00 UTC  &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our team need to do a network maintenance On Baremetal equipement.&lt;/p&gt;</content>
   </entry>
 </feed>

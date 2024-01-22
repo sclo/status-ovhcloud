@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 22 Jan 2024 08:02:06 +0000</pubDate>
+    <pubDate>Mon, 22 Jan 2024 10:28:19 +0000</pubDate>
     <item>
       <title>[Global][Hosted Private Cloud] - Upgrade Vrouter to SL2L</title>
       <description>
@@ -87,6 +87,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/5lbf9s30gfg6</guid>
     </item>
     <item>
+      <title>[RBX2A/RBX2B][HostedPrivateCloud] - Network perturbation</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 16/01/2024 00:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 19/01/2024 16:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software network equipment problem&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our teams observed traffic loss twice for 10 minutes each during the maintenance.&lt;br /&gt;Our teams are currently monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Our technical teams realized that network perturbations are still present. They need to implement another maintenance to solve definitively the issue:&lt;a href=&quot;https://hosted-private-cloud.status-ovhcloud.com/incidents/049xrdjpyt4k&quot;&gt; Maintenance link&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams implemented a fix to solve the issue. Network perturbation isn&apos;t observed since 13:25 UTC.&lt;br /&gt;Our teams are monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 16/01/2024 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; high latency/loss for some traffic going through the gateway&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue with the manufacturer. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 22 Jan 2024 10:28:19 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/ryspj44cwygk</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/ryspj44cwygk</guid>
+    </item>
+    <item>
       <title>[Global][Hosted Private Cloud] - Zerto update</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/01/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/01/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronisation between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 2 hours per site.&lt;/p&gt;      </description>
@@ -156,14 +164,6 @@
       <pubDate>Fri, 19 Jan 2024 12:19:41 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/nmjwkpzkzk7h</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/nmjwkpzkzk7h</guid>
-    </item>
-    <item>
-      <title>[RBX2A/RBX2B][HostedPrivateCloud] - Network perturbation</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our teams observed traffic loss twice for 10 minutes each during the maintenance.&lt;br /&gt;Our teams are currently monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Our technical teams realized that network perturbations are still present. They need to implement another maintenance to solve definitively the issue:&lt;a href=&quot;https://hosted-private-cloud.status-ovhcloud.com/incidents/049xrdjpyt4k&quot;&gt; Maintenance link&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams implemented a fix to solve the issue. Network perturbation isn&apos;t observed since 13:25 UTC.&lt;br /&gt;Our teams are monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time:&lt;/b&gt; 16/01/2024 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; high latency/loss for some traffic going through the gateway&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue with the manufacturer. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 19 Jan 2024 18:27:53 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/ryspj44cwygk</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/ryspj44cwygk</guid>
     </item>
     <item>
       <title>[LIM1][Storage] cluster6060</title>

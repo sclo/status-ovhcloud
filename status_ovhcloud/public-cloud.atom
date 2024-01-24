@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-01-23T03:02:17Z</updated>
+  <updated>2024-01-24T09:36:08Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19815770</id>
+    <published>2024-01-24T09:36:08Z</published>
+    <updated>2024-01-24T09:36:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/z4yd4dltk8nq"/>
+    <title>[GRA1][Block Storage] - Latency</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;09:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance is observed in the network&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19795701</id>
     <published>2024-01-22T16:31:11Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj"/>
     <title>[DE][Object Storage] - Swift Legacy (PCS/PCA)</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2023 15:35 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;It was due to a malfunction on a software.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19533527</id>
-    <published>2023-12-26T15:43:54Z</published>
-    <updated>2023-12-27T15:10:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c5m3tmcqq5k5"/>
-    <title>[LIM][Network] - LoadBalancer Update</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;&lt;br /&gt;Please note that this update will add support for TLS 1.3 as well as strict compliance with RFC7540.&lt;br /&gt;Particularly on section 8.1.2 which implies that our services will answer http responses with lowercase headers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;10:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/12/2023 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2023 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we are updating the loadbalancer configuration in front of storage.de.cloud.ovh.net and gateways.storage.de.cloud.ovh.net.&lt;br /&gt;DNS records will be updated.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,15 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 24 Jan 2024 09:53:39 +0000</pubDate>
+    <pubDate>Wed, 24 Jan 2024 14:40:18 +0000</pubDate>
+    <item>
+      <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/VA1/OR1/SYD1/UK1/DE1][Public cloud] - Few nodes created cannot join cluster.</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/01/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; MKS Control-plane for clusters who change the number of desired node.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Deployment of customer resource are affected by a misconfiguration.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Restoring previous MKS configuration.&lt;/p&gt;      </description>
+      <pubDate>Wed, 24 Jan 2024 14:40:18 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/wkb0t8d5f97v</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/wkb0t8d5f97v</guid>
+    </item>
     <item>
       <title>[GRA1][Block Storage] - Latency</title>
       <description>
@@ -198,14 +206,6 @@
       <pubDate>Wed, 27 Dec 2023 17:54:35 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/yp6hmv00s0mw</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/yp6hmv00s0mw</guid>
-    </item>
-    <item>
-      <title>[DE][Object Storage] - Swift Legacy (PCS/PCA)</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/12/2023 15:35 UTC &lt;br /&gt;&lt;b&gt;Service status:&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;It was due to a malfunction on a software.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/12/2023 22:00UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 26 Dec 2023 16:04:03 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/2d0szjmsvgjj</guid>
     </item>
   </channel>
 </rss>

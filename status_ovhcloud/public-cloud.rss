@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 25 Jan 2024 01:43:21 +0000</pubDate>
+    <pubDate>Thu, 25 Jan 2024 10:55:27 +0000</pubDate>
     <item>
       <title>[Global][Managed Kubernetes Service] - rolling out an update</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Thu, 01 Feb 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jbdbm5bfgss7</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jbdbm5bfgss7</guid>
+    </item>
+    <item>
+      <title>[GRA11][Public Cloud] - Openstack API</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2024 10:16 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer experienced slowness/unrepsponsive on OpenStack neutron API. Currently running instances are not impacted.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Thu, 25 Jan 2024 10:55:27 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/m69bgm50gyt1</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/m69bgm50gyt1</guid>
     </item>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/VA1/OR1/SYD1/UK1/DE1][Public cloud] - Few nodes created cannot join cluster.</title>
@@ -199,14 +207,6 @@
       <pubDate>Fri, 29 Dec 2023 09:42:33 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pcl1vr7d50yx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pcl1vr7d50yx</guid>
-    </item>
-    <item>
-      <title>[SBG3][Public Cloud] - Object Storage S3 Standard/High perf</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/12/2023 23:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/12/2023 01:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://bare-metal-servers.status-ovhcloud.com/incidents/87mkmv81jdmm&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/12/2023 23:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increased response times and customers may experience 500 and 503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://bare-metal-servers.status-ovhcloud.com/incidents/87mkmv81jdmm&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 28 Dec 2023 01:03:08 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/vq1m47vbjv0r</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/vq1m47vbjv0r</guid>
     </item>
   </channel>
 </rss>

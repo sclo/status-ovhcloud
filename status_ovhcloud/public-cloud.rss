@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 26 Jan 2024 10:03:53 +0000</pubDate>
+    <pubDate>Fri, 26 Jan 2024 10:14:44 +0000</pubDate>
     <item>
       <title>[Global][Managed Kubernetes Service] - rolling out an update</title>
       <description>
@@ -22,6 +22,15 @@
       <maintenanceEndDate>Tue, 30 Jan 2024 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04</guid>
+    </item>
+    <item>
+      <title>[SGP1/SGP2][Network] - Network equipment maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 15:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2024 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment.&lt;/p&gt;      </description>
+      <pubDate>Mon, 29 Jan 2024 15:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 29 Jan 2024 18:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/bq1nj7r3d0ng</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/bq1nj7r3d0ng</guid>
     </item>
     <item>
       <title>[SGP][Public Cloud] - Object Storage Swift</title>
@@ -200,14 +209,6 @@
       <pubDate>Fri, 05 Jan 2024 14:26:26 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/mgm0ckqqh2vn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/mgm0ckqqh2vn</guid>
-    </item>
-    <item>
-      <title>[DE][Object Storage] - Swift Legacy (PCS/PCA)</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/01/2023 18:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/01/2023 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer might encounter connection drop, lower bandwith&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 05 Jan 2024 10:25:41 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/d4l5yh84zck8</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/d4l5yh84zck8</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-01-25T23:42:01Z</updated>
+  <updated>2024-01-26T03:32:50Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"/>
     <title>[GRA7/GRA9/BHS5/DE1/VA1][K8S] - 1.27 Update</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;22:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Kubernetes 1.27 releases updates, to deliver security updates, fix known issues, and introduce new features.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19834717</id>
+    <published>2024-01-26T03:32:50Z</published>
+    <updated>2024-01-26T03:32:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5jwfckgk3s09"/>
+    <title>[SGP1/2][Public Cloud] - API</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2024 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All API operations are unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/0g0bf04m96bz&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/01/2024 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All API operations are unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19831527</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5w9fmw9r834p"/>
     <title>[GRA/BHS/UK/SBG/WAW/DE][Mongodb] - Management</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;16:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/01/2023 16:13 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Certificate Issuer Issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delay in delivery of new mongodb services is observed, already operational mongodb services are not impacted&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Certificate Issuer Issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2023 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delay in delivery of new mongodb services is observed, already operational mongodb services are not impacted&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19601886</id>
-    <published>2024-01-03T14:02:20Z</published>
-    <updated>2024-01-03T14:02:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/t1ys5686vn3l"/>
-    <title>PCI - GRA11 - host1313771</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;14:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;12:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host106-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G263B11&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1313771&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;0264633c-5283-44d5-be7d-2bfd2103a740&lt;br /&gt;117f4d27-3967-4543-b5a8-72510f3d63f3&lt;br /&gt;49d2ed6a-0aee-46fb-b86f-37b1270ec73d&lt;br /&gt;4a591c15-76bb-494d-a4d2-2d9d83899dba&lt;/p&gt;</content>
   </entry>
 </feed>

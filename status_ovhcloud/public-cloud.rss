@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 29 Jan 2024 14:01:13 +0000</pubDate>
+    <pubDate>Mon, 29 Jan 2024 14:10:28 +0000</pubDate>
     <item>
       <title>[Global][Managed Kubernetes Service] - rolling out an update</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Mon, 29 Jan 2024 18:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/bq1nj7r3d0ng</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bq1nj7r3d0ng</guid>
+    </item>
+    <item>
+      <title>[SGP/SYD/WAW][Managed Kubernetes Service] - Network pertubation after configuration change</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A configuration change (update version, desired node, ip restriction) applied on managed clusters and nodes running in SGP, WAW and SYD will generate a network outage.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 29 Jan 2024 14:10:28 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/1k9ss7nskzdw</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/1k9ss7nskzdw</guid>
     </item>
     <item>
       <title>[BHS5][Compute Instance] - host326892 - host331403</title>
@@ -201,14 +209,6 @@
       <pubDate>Sat, 06 Jan 2024 20:50:16 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r72vcjpm3vs1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r72vcjpm3vs1</guid>
-    </item>
-    <item>
-      <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2024 13:11 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/01/2024 19:26 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt; Services are working as they should be.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The error rate has returned to its nominal status. The situation has been stabilized since 19:26 UTC.&lt;br /&gt;Our teams will continue to monitor services.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Following the actions carried out by our technicians the situation has improved. Currently the error rate has stabilized. We are still in the process of reducing it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A significant improvement of the services is ongoing but the situation is not actually nominal. We are still investigating for the root cause&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/01/2024 13:11 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Delays and errors may be experienced while pushing or pulling Docker images.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/3s8cs8pm3dkq&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 05 Jan 2024 20:26:44 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/5bg3ywfks2ms</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/5bg3ywfks2ms</guid>
     </item>
   </channel>
 </rss>

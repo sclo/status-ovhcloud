@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-01-30T12:16:31Z</updated>
+  <updated>2024-01-30T12:19:22Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -153,20 +153,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; - &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2024 05:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2024 07:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;The scheduled maintenance consists of an application update.&lt;br /&gt;This update has led to an improvement in certain security mechanisms, as well as some performance improvements.&lt;br /&gt; &lt;br /&gt;For the duration of the maintenance, we will switch your HA-NAS service from the primary node to the secondary node, then switch it back to the primary node. Each switchover involves a brief interruption of about a few seconds. Apart from these switches, your data will remain available.&lt;br /&gt; &lt;br /&gt;In addition, if you have not forced NFSv3 in your mount options, it is possible that your client will automatically change the NFS version during node failovers and that your mount point will be renegotiated to NFSv4, if it was not already the case.&lt;br /&gt; &lt;br /&gt;For more details, please refer to the following documentation if you want to force a version of NFS : https://help.ovhcloud.com/csm/en-gb-public-cloud-storage-nas-nfs?id=kb_article_view&amp;sysparm_article=KB0046735#nfsv3nfsv4e.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19596332</id>
+    <published>2024-01-30T12:19:22Z</published>
+    <updated>2024-01-30T12:19:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06"/>
+    <title>[BHS7][Dedicated Servers] - Rack B710B03</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 12:06 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for servers in rack B710B03 during the maintenance. Our team had to replace the affected switch.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;22:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for servers in rack B710B03 during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19812287</id>
     <published>2024-01-30T10:26:41Z</published>
     <updated>2024-01-30T10:26:41Z</updated>
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1cq9ccrwh23w"/>
     <title>[SYD1/SYD2][Network] - Network equipment version upgrade</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19596332</id>
-    <published>2024-01-30T10:00:09Z</published>
-    <updated>2024-01-30T10:00:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/9d4tyg22ng06"/>
-    <title>[BHS7][Dedicated Servers] - Rack B710B03</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;22:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for servers in rack B710B03 during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/19863682</id>

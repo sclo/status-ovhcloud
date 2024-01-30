@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 30 Jan 2024 02:07:01 +0000</pubDate>
+    <pubDate>Tue, 30 Jan 2024 04:48:11 +0000</pubDate>
     <item>
       <title>[RBX6][Network] - Network equipment maintenance</title>
       <description>
@@ -186,6 +186,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1cq9ccrwh23w</guid>
     </item>
     <item>
+      <title>[RBX7][Dedicated Servers] - Rack R710B01</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 04:38 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack R710B01 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 30 Jan 2024 04:45:36 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/kbgbm32lrq6f</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/kbgbm32lrq6f</guid>
+    </item>
+    <item>
       <title>[RBX7][Dedicated Servers] - Racks R710B09/R710B08</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 19:04 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2024 19:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in racks R710B09 and R710B08 were temporarily unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 19:04 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in racks R710B09 and R710B08 are temporarily unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
@@ -218,14 +226,6 @@
       <maintenanceEndDate>Mon, 29 Jan 2024 10:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/912p6k5vml8z</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/912p6k5vml8z</guid>
-    </item>
-    <item>
-      <title>VPS - DE2 - host995295</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;fra1-lim1-pciz1host12-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;L113B05&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host995295&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps514928.ovh.net&lt;br /&gt;vps552229.ovh.net&lt;br /&gt;vps553303.ovh.net&lt;br /&gt;vps553600.ovh.net&lt;br /&gt;vps558063.ovh.net&lt;br /&gt;vps560711.ovh.net&lt;br /&gt;vps564249.ovh.net&lt;br /&gt;vps564660.ovh.net&lt;br /&gt;vps576364.ovh.net&lt;br /&gt;vps576624.ovh.net&lt;br /&gt;vps576890.ovh.net&lt;br /&gt;vps577063.ovh.net&lt;br /&gt;vps578551.ovh.net&lt;br /&gt;vps582004.ovh.net&lt;br /&gt;vps582075.ovh.net&lt;br /&gt;vps584183.ovh.net&lt;br /&gt;vps584564.ovh.net&lt;br /&gt;vps585937.ovh.net&lt;br /&gt;vps589038.ovh.net&lt;br /&gt;vps595833.ovh.net&lt;br /&gt;vps600661.ovh.net&lt;br /&gt;vps602093.ovh.net&lt;br /&gt;vps603937.ovh.net&lt;br /&gt;vps607047.ovh.net&lt;br /&gt;vps613494.ovh.net&lt;br /&gt;vps628557.ovh.net&lt;br /&gt;vps632191.ovh.net&lt;br /&gt;vps633135.ovh.net&lt;br /&gt;vps638383.ovh.net&lt;br /&gt;vps638872.ovh.net&lt;br /&gt;vps652510.ovh.net&lt;br /&gt;vps664392.ovh.net&lt;br /&gt;vps666455.ovh.net&lt;br /&gt;vps668817.ovh.net&lt;br /&gt;vps672151.ovh.net&lt;br /&gt;vps675247.ovh.net&lt;br /&gt;vps676451.ovh.net&lt;br /&gt;vps684092.ovh.net&lt;br /&gt;vps696653.ovh.net&lt;br /&gt;vps706792.ovh.net&lt;br /&gt;vps707502.ovh.net&lt;br /&gt;vps710394.ovh.net&lt;br /&gt;vps712932.ovh.net&lt;br /&gt;vps715027.ovh.net&lt;br /&gt;vps724928.ovh.net&lt;br /&gt;vps743754.ovh.net&lt;br /&gt;vps747479.ovh.net&lt;br /&gt;vps751536.ovh.net&lt;br /&gt;vps752940.ovh.net&lt;br /&gt;vps763084.ovh.net&lt;br /&gt;vps775155.ovh.net&lt;br /&gt;vps794934.ovh.net&lt;br /&gt;vps795824.ovh.net&lt;br /&gt;vps798891.ovh.net&lt;br /&gt;vps805323.ovh.net&lt;br /&gt;vps811863.ovh.net&lt;br /&gt;vps813252.ovh.net&lt;br /&gt;vps814821.ovh.net&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 Jan 2024 06:39:12 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bhc65vpqns9j</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bhc65vpqns9j</guid>
     </item>
   </channel>
 </rss>

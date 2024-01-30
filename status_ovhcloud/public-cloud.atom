@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-01-30T08:59:45Z</updated>
+  <updated>2024-01-30T09:22:34Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"/>
     <title>[GRA/BHS/DE/VA][Managed Private Registry] - Update core platform components</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;22:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the upgrade, some HTTP reset connections may be seen. No service outage is planned.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will update the components that enable the services to be deployed.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19865121</id>
+    <published>2024-01-30T09:22:34Z</published>
+    <updated>2024-01-30T09:22:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/60kdbswnhfqg"/>
+    <title>[UK][Storage] - Object storage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 09:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The services PCS and PCA are temporaly unavailable, customers may have erreurs 503&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19836587</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n00209pz1xjw"/>
     <title>[GRA][AI Notebook] - S3/Workspace Backend</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/01/2024 10:29 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/01/2024 19:26 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All notebook using S3 as workspace backend were having a malfunction on start/stop which may have led to SYNC_FAILED status.&lt;br /&gt;&lt;b&gt;Related incident&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/3s8cs8pm3dkq&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;20:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The error rate has returned to its nominal status. The situation has been stabilized since 19:26 UTC.&lt;br /&gt;Our teams will continue to monitor services.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Following the actions carried out by our technicians the situation has improved. Currently the error rate has stabilized. We are still in the process of reducing it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A significant improvement of the services is ongoing but the situation is not actually nominal. We are still investigating for the root cause&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;16:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/01/2024 10:29 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All notebook using S3 as workspace backend are having a malfunction on start/stop that may lead to SYNC_FAILED status. Customer can trigger a retry through CLI ovhai notebook push-data $ID but there is no guarantee of success as long as the S3 incident is ongoing&lt;br /&gt;&lt;b&gt;Related incident&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/3s8cs8pm3dkq&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19640967</id>
-    <published>2024-01-08T03:26:56Z</published>
-    <updated>2024-01-08T03:26:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xnqjmzd25tq1"/>
-    <title>[GRA11][API] - Manager</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/01/2024 00:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/01/2024 03:23 UTC &lt;br /&gt;&lt;b&gt;Service status :&lt;/b&gt;The situation is back to normal, the service is running nominally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;01:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;01:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/01/2024 00:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All API operations are unreachable (instance creation, migration...)&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

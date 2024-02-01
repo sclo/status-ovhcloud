@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 01 Feb 2024 22:14:57 +0000</pubDate>
+    <pubDate>Thu, 01 Feb 2024 22:28:57 +0000</pubDate>
     <item>
       <title>[GRA][Network] - Network equipment operation</title>
       <description>
@@ -58,6 +58,15 @@
       <maintenanceEndDate>Wed, 14 Feb 2024 06:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q4j5mhh3615v</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q4j5mhh3615v</guid>
+    </item>
+    <item>
+      <title>[LIM][Network] - Network equipment operation</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 11:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some additional latency on one-network operations during operation may be observed.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to perform an operation on a network equipment&lt;/p&gt;      </description>
+      <pubDate>Tue, 13 Feb 2024 08:30:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 13 Feb 2024 11:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/l0txs15zzd34</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/l0txs15zzd34</guid>
     </item>
     <item>
       <title>[RBX2][Dedicated Servers] - Rack 31A22/31A23/31A24</title>
@@ -218,14 +227,6 @@
       <maintenanceEndDate>Thu, 01 Feb 2024 05:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/gfl1ljt2pvdk</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gfl1ljt2pvdk</guid>
-    </item>
-    <item>
-      <title>[Global][Network] - Network incident Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2024 10:05 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2024 18:19 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Harware issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A rollback has been implemented, all services are operational.&lt;br /&gt;We keep this under monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2024 10:05 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some IPFO are currently unreachable. Only the IP that are double provisioned by Baremetal in 2 datacenter are concerned with this issue.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Harware issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A rollback is in progress by our technical teams.&lt;/p&gt;      </description>
-      <pubDate>Wed, 31 Jan 2024 19:58:09 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/k830w3b9jp5c</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/k830w3b9jp5c</guid>
     </item>
   </channel>
 </rss>

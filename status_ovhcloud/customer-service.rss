@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Customer Service Status - Incident History</title>
-    <link>https://customer-service.status-ovhcloud.com</link>
+    <link>http://customer-service.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 02 Feb 2024 22:11:43 +0000</pubDate>
+    <pubDate>Fri, 02 Feb 2024 23:22:27 +0000</pubDate>
+    <item>
+      <title>[EU/CA][Customer Service] - Ordering domain through api without authentification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/02/2024 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/02/2024 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; `{eu,ca}.api.ovh.com/1.0/order/cart/{cartId}/domain` will require authentification&lt;br /&gt;We are going to enforce authentification gradually, making it mandatory few hours per day following this schedule until the final deadline:&lt;br /&gt;&lt;br /&gt;   - from 01:00 PM to 02:00 PM UTC February 7th  &lt;br /&gt;&lt;br /&gt;  - from 01:00 PM to 03:00 PM UTC February 12th &lt;br /&gt;&lt;br /&gt;  - from 08:00 AM to 04:00 PM UTC February 14th &lt;br /&gt;&lt;br /&gt;  - from 06:00 AM to 22:00 PM UTC February 15th &lt;br /&gt;Permanently starting February 19th&lt;br /&gt;&lt;br /&gt;After February 19th, this API route will &lt;b&gt;permanently&lt;/b&gt; require to be &lt;b&gt;authenticated&lt;/b&gt;.&lt;/p&gt;      </description>
+      <pubDate>Wed, 07 Feb 2024 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 16 Feb 2024 16:00:00 +0000</maintenanceEndDate>
+      <link>https://customer-service.status-ovhcloud.com/incidents/zgvp7fn0nfyy</link>
+      <guid>https://customer-service.status-ovhcloud.com/incidents/zgvp7fn0nfyy</guid>
+    </item>
     <item>
       <title>[GLOBAL][Customer Service] - Support perturbations</title>
       <description>
@@ -206,15 +215,6 @@
       <maintenanceEndDate>Thu, 31 Aug 2023 06:00:00 +0000</maintenanceEndDate>
       <link>https://customer-service.status-ovhcloud.com/incidents/2gysdqz7lgrc</link>
       <guid>https://customer-service.status-ovhcloud.com/incidents/2gysdqz7lgrc</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Support] - ServiceNow OneGate (Production)/ Help Centre portal maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance it has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/08/2023 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2023 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Punctual slowness or logoff of the application might be observed during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will update the application to improve security and stability.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Help Center will remain accessible https://help.ovhcloud.com along with the Manager https://www.ovh.com/manager. If you have a Business or Enterprise level of support, your dedicated phone number is available to reach you technical advisor in case of emergency. You can also access our documentation directly on our GitHub repository : https://github.com/ovh/docs/blob/develop/pages/index.md&lt;/p&gt;      </description>
-      <pubDate>Wed, 30 Aug 2023 14:55:46 +0000</pubDate>
-      <maintenanceEndDate>Wed, 30 Aug 2023 22:00:00 +0000</maintenanceEndDate>
-      <link>https://customer-service.status-ovhcloud.com/incidents/nbh4gnqjb6r6</link>
-      <guid>https://customer-service.status-ovhcloud.com/incidents/nbh4gnqjb6r6</guid>
     </item>
   </channel>
 </rss>

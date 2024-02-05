@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-02-05T14:31:47Z</updated>
+  <updated>2024-02-05T14:42:22Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -129,6 +129,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;11:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/02/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade. Our partner will be performing a routine maintenance to optimize performance service on Accounts. This maintenance is expected to impact performance for Accounts services, including the Console, User Accounting, Provisioning and Billing, although, services will remain available at all times.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a routine maintenance on account service. This maintenance is expected to not have impact on the projects: no downtime, no performance issue are expected.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19912952</id>
+    <published>2024-02-05T14:42:22Z</published>
+    <updated>2024-02-05T14:42:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/1z7q83d7sfr3"/>
+    <title>[GRA1][Webhosting] - Cluster003</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/02/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Websites may experience slowdowns Cluster003&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19911060</id>
     <published>2024-02-05T14:31:47Z</published>
     <updated>2024-02-05T14:31:47Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/kx62818jpl15"/>
     <title>[GRA][Web Hosting] - Cluster028 - Filerz1567</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;23:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2024 22:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2024 00:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 60min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The goal of this maintenance is to improve the performance and enhance the security of our infrastructure.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/19835687</id>
-    <published>2024-01-31T22:00:57Z</published>
-    <updated>2024-01-31T22:00:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/3xdh94mdcm7m"/>
-    <title>[GRA][Web Hosting] - Cluster015 - Filerz439</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 31/01/2024 21:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 40min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The goal of this maintenance is to improve the performance and enhance the security of our infrastructure.&lt;/p&gt;</content>
   </entry>
 </feed>

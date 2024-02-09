@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-08T18:41:15Z</updated>
+  <updated>2024-02-09T12:25:09Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19947492</id>
+    <published>2024-02-09T12:25:09Z</published>
+    <updated>2024-02-09T12:25:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n5pj7s0lckdg"/>
+    <title>[RBX][Storage] - Object storage standard incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2024 11:10 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can have disconnection and 500/503 errors visible to customers.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19938870</id>
     <published>2024-02-08T13:41:01Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jpyyyl0ccjqt"/>
     <title>[GRA1][Public Cloud] - G134A06</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;01:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2024 22:56 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/01/2024 01:03 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;00:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 19/01/2024 22:56 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the rack G134A06 are experiencing network disruptions.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19755658</id>
-    <published>2024-01-19T12:42:47Z</published>
-    <updated>2024-01-19T12:42:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/nz6w32j3gq2n"/>
-    <title>[EU/CA][Public Cloud] - Network FailoverIP/floating IPs</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 09:22 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/01/2024 12:09 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/01/2024 09:22 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers of the public cloud service are currently unable to purchase failover and floating IPs from the Manager.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; You can purchase failoverIP and floating IP from CLI, Horizon, Terraform, API.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

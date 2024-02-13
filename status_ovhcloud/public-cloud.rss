@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 13 Feb 2024 00:43:12 +0000</pubDate>
+    <pubDate>Tue, 13 Feb 2024 12:48:23 +0000</pubDate>
     <item>
       <title>[SIN1/SGP1][Network] - Network equipment maintenance</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Tue, 13 Feb 2024 19:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7wrt0pwcnf9l</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7wrt0pwcnf9l</guid>
+    </item>
+    <item>
+      <title>[GRA5][Managed Kubernetes Service] - CAs c2.gra</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our &quot;Managed Kubernetes Service&quot;offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to renew the CAs of the kubeadmin c2.gra.&lt;br /&gt;Since konnectivity release and because we need to redeploy cluster control plane, every cluster redeployed will be migrated to konnectivity feature&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 13 Feb 2024 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 13 Feb 2024 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/rv7qrqtzpc1g</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/rv7qrqtzpc1g</guid>
     </item>
     <item>
       <title>[GRA][Containers/Orchestration ] - Managed Private Registry</title>
@@ -202,14 +211,6 @@
       <pubDate>Fri, 26 Jan 2024 04:33:57 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5jwfckgk3s09</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5jwfckgk3s09</guid>
-    </item>
-    <item>
-      <title>[GRA][Public Cloud] - Openstack API</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2024 10:16 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/01/2024 14:24 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on software.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2024 10:16 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer experienced slowness/unrepsponsive on OpenStack neutron API. Currently running instances are not impacted.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 25 Jan 2024 15:31:50 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/m69bgm50gyt1</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/m69bgm50gyt1</guid>
     </item>
   </channel>
 </rss>

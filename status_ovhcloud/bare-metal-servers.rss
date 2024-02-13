@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 13 Feb 2024 10:00:55 +0000</pubDate>
+    <pubDate>Tue, 13 Feb 2024 19:02:28 +0000</pubDate>
     <item>
       <title>[IEB01][Network] - Network equipment operation</title>
       <description>
@@ -159,6 +159,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lmy3rnkysxl7</guid>
     </item>
     <item>
+      <title>[BHS][Bare Metal] - Multiple racks</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/03/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may be unable to access the following racks :&lt;br /&gt;T05G24 - T05D25 - T05D29 - T05A09 - T05D33 - T05B34 - T05E39 - T05D26 - T05G29 - T05E23 - T05D30 - T05D27 - T05E33 - T05C28 - T05D24 - T05E24 - T05C36 - T05B36 - T05B39 - T05D38 - T05D37 - T05C22 - T05D32 - T05B02 - T05D12&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team is working to fix the issue.&lt;/p&gt;      </description>
+      <pubDate>Tue, 13 Feb 2024 19:02:28 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/yp3rvl784c3m</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yp3rvl784c3m</guid>
+    </item>
+    <item>
       <title>[WAW1][Network] - Network equipment version upgrade</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;/p&gt;      </description>
@@ -219,15 +227,6 @@
       <pubDate>Mon, 12 Feb 2024 10:44:10 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z24l89sj8sw6</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z24l89sj8sw6</guid>
-    </item>
-    <item>
-      <title>[RBX2][Dedicated Servers] - Rack 31A22/31A23/31A24</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/02/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/02/2024 06:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in racks 31A22/31A23/31A24 will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from racks 31A22/31A23/31A24 to rack 31A19.&lt;/p&gt;      </description>
-      <pubDate>Mon, 12 Feb 2024 06:01:28 +0000</pubDate>
-      <maintenanceEndDate>Mon, 12 Feb 2024 06:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hsdnt2clyktn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hsdnt2clyktn</guid>
     </item>
   </channel>
 </rss>

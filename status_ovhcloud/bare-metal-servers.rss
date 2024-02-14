@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 14 Feb 2024 08:30:56 +0000</pubDate>
+    <pubDate>Wed, 14 Feb 2024 11:20:32 +0000</pubDate>
     <item>
       <title>[Worldwide][Dedicated Servers] - APIv6 BringYourOwnImage routes Maintenance</title>
       <description>
@@ -150,9 +150,9 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ptmcb3k7fx3c</guid>
     </item>
     <item>
-      <title>[Worldwide][Dedicated Servers] - Netboot rescue-customer Maintenance</title>
+      <title>[Worldwide][Dedicated Servers] - Netboot rescue-customer operation</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;13:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2024 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be removing duplicate Netboot rescue-customer.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;13:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2024 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be removing duplicate Netboot rescue-customer.&lt;br /&gt;&lt;br /&gt;Customers directly using API call PUT &lt;tt&gt;/dedicated/server/{serviceName}&lt;/tt&gt; on a dedicated server located in CA region (&lt;b&gt;any dedicated server with service name ending with .net&lt;/b&gt;) to switch boot mode to Linux rescue type with bootId key value set to 46984 will need to change to value 46371.&lt;br /&gt;Customers taking this bootId value dynamically from API call GET &lt;tt&gt;/dedicated/server/{serviceName}/boot?bootType=rescue&lt;/tt&gt; are not impacted.&lt;br /&gt;Customers using API call PUT &lt;tt&gt;/dedicated/server/{serviceName}&lt;/tt&gt; with a bootid value other than 46984 are not impacted. &lt;br /&gt;For any dedicated server located in EU or US regions: no impact.&lt;/p&gt;      </description>
       <pubDate>Tue, 20 Feb 2024 13:00:00 +0000</pubDate>
       <maintenanceEndDate>Tue, 20 Feb 2024 13:15:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sbx0z1m2v2dh</link>
@@ -184,6 +184,14 @@
       <maintenanceEndDate>Thu, 15 Feb 2024 06:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/35fd02lgy7g9</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/35fd02lgy7g9</guid>
+    </item>
+    <item>
+      <title>[RBX8][Dedicated Servers] - Rack R832B08</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/02/2024 11:MM UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the rack R832B08 are down.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; Electrical malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 14 Feb 2024 11:20:32 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5sgzppfdgys8</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5sgzppfdgys8</guid>
     </item>
     <item>
       <title>[RBX][Storage and Backups] - NAS HA maintenance notification</title>
@@ -219,15 +227,6 @@
       <pubDate>Tue, 13 Feb 2024 20:10:15 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/yp3rvl784c3m</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yp3rvl784c3m</guid>
-    </item>
-    <item>
-      <title>[WAW1][Network] - Network equipment version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;/p&gt;      </description>
-      <pubDate>Tue, 13 Feb 2024 10:00:55 +0000</pubDate>
-      <maintenanceEndDate>Tue, 13 Feb 2024 10:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/p9gz0xlkkjhy</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/p9gz0xlkkjhy</guid>
     </item>
   </channel>
 </rss>

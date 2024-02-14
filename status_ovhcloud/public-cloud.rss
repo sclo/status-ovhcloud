@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 13 Feb 2024 18:09:45 +0000</pubDate>
+    <pubDate>Wed, 14 Feb 2024 01:27:15 +0000</pubDate>
+    <item>
+      <title>[GRA5][Managed Kubernetes Service] - CAs c2.gra</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to renew the CAs of the kubeadmin c2.gra. Since konnectivity release and because we need to redeploy cluster control plane, every cluster redeployed will be migrated to konnectivity feature  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 21 Feb 2024 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 21 Feb 2024 17:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/d0qjs8dbfg0p</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/d0qjs8dbfg0p</guid>
+    </item>
     <item>
       <title>[GRA5][Managed Kubernetes Service] - CAs c2.gra</title>
       <description>
@@ -203,14 +212,6 @@
       <pubDate>Mon, 29 Jan 2024 09:10:01 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/vc2ly4y8bv6g</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/vc2ly4y8bv6g</guid>
-    </item>
-    <item>
-      <title>[SGP][Public Cloud] - Object Storage Swift</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/01/2024 17:29 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/01/2024 17:47 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were able to encounter 500 errors.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Fri, 26 Jan 2024 08:55:38 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/hwx9stqm7s8h</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/hwx9stqm7s8h</guid>
     </item>
   </channel>
 </rss>

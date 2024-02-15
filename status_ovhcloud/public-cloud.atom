@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-14T08:05:04Z</updated>
+  <updated>2024-02-15T08:44:17Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/d0qjs8dbfg0p"/>
     <title>[GRA5][Managed Kubernetes Service] - CAs c2.gra</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;01:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to renew the CAs of the kubeadmin c2.gra. Since konnectivity release and because we need to redeploy cluster control plane, every cluster redeployed will be migrated to konnectivity feature  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19990182</id>
+    <published>2024-02-15T08:44:17Z</published>
+    <updated>2024-02-15T08:44:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lk4s0h49gws2"/>
+    <title>[UK1][Compute] - OpenStack API instabilities</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API may answers with errors.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19981017</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/shrkl3zjf93p"/>
     <title>[SGP][Public Cloud] - Compute Instance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;18:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 16:41 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2024 18:14 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/bq1nj7r3d0ng"&gt;Maintenance link&lt;/a&gt; &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers weren't able to connect to the internet from their instances during 2 time frames. The first one is from 16:41 UTC till 16:42 UTC and the second one is from 18:12 UTC till 18:14 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19857593</id>
-    <published>2024-01-29T15:07:23Z</published>
-    <updated>2024-01-29T15:07:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1k9ss7nskzdw"/>
-    <title>[SGP/SYD/WAW][Managed Kubernetes Service] - Network pertubation after configuration change</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2024 14:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A configuration change (update version, desired node, ip restriction) applied on managed clusters and nodes running in SGP, WAW and SYD may have generated a network outage.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams implemented a fix in SGP, SYD and WAW. &lt;br /&gt;We are currently monitoring the situation&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams implemented a fix for WAW region and are working on a fix for SYD and SGP.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/01/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A configuration change (update version, desired node, ip restriction) applied on managed clusters and nodes running in SGP, WAW and SYD will generate a network outage.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

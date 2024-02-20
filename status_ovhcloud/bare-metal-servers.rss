@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 20 Feb 2024 16:43:17 +0000</pubDate>
+    <pubDate>Tue, 20 Feb 2024 18:01:09 +0000</pubDate>
     <item>
       <title>[Worldwide][Dedicated Servers] - APIv6 BringYourOwnImage routes operation</title>
       <description>
@@ -159,6 +159,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ptmcb3k7fx3c</guid>
     </item>
     <item>
+      <title>[BHS7][Dedicated Servers] - Rack B716B05</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/02/2024 17:53 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers  in the rack B716B05 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 20 Feb 2024 18:01:09 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/1vzgqz3vz1mj</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1vzgqz3vz1mj</guid>
+    </item>
+    <item>
       <title>[Worldwide][Dedicated Servers] - Netboot rescue-customer operation</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2024 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; bootId key value set to 46984 will need to change for servers in CA region.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be removing duplicate Netboot rescue-customer.&lt;br /&gt;&lt;br /&gt;Customers directly using API call &lt;a href=&quot;https://ca.api.ovh.com/console/#/dedicated/server/%7BserviceName%7D~PUT&quot;&gt;PUT /dedicated/server/{serviceName}&lt;/a&gt; on a dedicated server located in CA region (&lt;b&gt;any dedicated server with service name ending with .net&lt;/b&gt;) to switch boot mode to Linux rescue type with bootId key value set to 46984 will need to change to value 46371.&lt;br /&gt;Customers taking this bootId value dynamically from API call &lt;a href=&quot;https://ca.api.ovh.com/console/#/dedicated/server/%7BserviceName%7D/boot~GET&quot;&gt;GET /dedicated/server/{serviceName}/boot?bootType=rescue&lt;/a&gt; are not impacted.&lt;br /&gt;Customers using API call &lt;a href=&quot;https://ca.api.ovh.com/console/#/dedicated/server/%7BserviceName%7D~PUT&quot;&gt;PUT dedicated/server/{serviceName}&lt;/a&gt; with a bootid value other than 46984 are not impacted. &lt;br /&gt;For any dedicated server located in EU or US regions: no impact.&lt;/p&gt;      </description>
@@ -217,14 +225,6 @@
       <maintenanceEndDate>Mon, 19 Feb 2024 06:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lnd2v8ph3wxk</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lnd2v8ph3wxk</guid>
-    </item>
-    <item>
-      <title>[ERI1][DedicatedServers] - E102H08</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/02/2024 01:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/02/2024 02:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on a power supply&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/02/2024 01:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers are unreachable in this rack&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Sun, 18 Feb 2024 02:41:38 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/9zvtkh0rhsb8</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/9zvtkh0rhsb8</guid>
     </item>
   </channel>
 </rss>

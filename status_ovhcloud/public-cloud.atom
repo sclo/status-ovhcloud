@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-21T17:14:46Z</updated>
+  <updated>2024-02-21T23:44:04Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20042741</id>
+    <published>2024-02-22T10:00:00Z</published>
+    <updated>2024-02-21T23:44:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/g909tll5f4jl"/>
+    <title>[GRA5/US-EAST-VA-1/US-WEST-OR-1/SGP1/SYD1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : This maintenance is scheduled to upgrade all clusters with a policy update configured by the customer to ALWAYS UPDATE (through the API OVHcloud console) or to MAXIMUM SECURITY (through the Manager UI interface). &lt;br /&gt;With this maintenance, we will upgrade all concerned MKS services to the latest patch version provided by our team. For more details, please refer to the &lt;a href="https://help.ovhcloud.com/csm/en-gb-public-cloud-kubernetes-plugins-software-versions-reserved-resources?id=kb_article_view&amp;sysparm_article=KB0049969"&gt;documentation&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19980128</id>
     <published>2024-02-21T17:14:46Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"/>
     <title>[GRA/BHS/DE/VA][Managed Private Registry] - Update core platform components</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;17:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;Below you can find the new end time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/02/2024 17:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;br /&gt;Below you can find the new end time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2024 17:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;22:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 09:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the upgrade, some HTTP reset connections may be seen. No service outage is planned.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our teams will update the components that enable the services to be deployed.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19865121</id>
-    <published>2024-01-30T10:59:20Z</published>
-    <updated>2024-01-30T10:59:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/60kdbswnhfqg"/>
-    <title>[UK][Storage] - Object storage</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 09:51 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 10:30 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;Due to a software issue, there was a new slowdown between 09:45 UTC and 10:30 UTC&lt;br /&gt;But since then the situation has stabilised.&lt;br /&gt;All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 09:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Since 09:38 UTC, customers have no longer been experiencing latency or error503 on PCS and PCA operations.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; This will remain under monitoring.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2023 09:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; When performing PCS and PCA operations, customers may experience latencies or errors 503&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

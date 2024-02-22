@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-22T10:57:53Z</updated>
+  <updated>2024-02-22T11:12:14Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20047000</id>
+    <published>2024-02-22T11:11:13Z</published>
+    <updated>2024-02-22T11:12:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0ktty08bfd03"/>
+    <title>[DE][Object Storage] - Errors on Swift product</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 10:17 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2024 11:01 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Increase in errors when making requests to the object storage product (Swift).&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/jhlkpq0lbcpw&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20046884</id>
     <published>2024-02-22T10:57:53Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k49084s0g35q"/>
     <title>[GRA/BHS][AI &amp; Machine Learning] - AI Notebooks  perturbations</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 15:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"&gt;Maintenance link&lt;/a&gt; &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 15:30UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some AI Notebooks were unable to start.&lt;br /&gt;No more impact observed since 16:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"&gt;Maintenance link&lt;/a&gt; &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are currently monitoring the situation&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19868077</id>
-    <published>2024-02-01T17:47:11Z</published>
-    <updated>2024-02-01T17:47:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/b2s3vbq48vc9"/>
-    <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;17:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 15:41 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2024 16:14 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"&gt;Maintenance link&lt;/a&gt; &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; Since 16:14 UTC all registries in GRA7 are available.&lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/01/2024 15:41 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some registries in GRA7 are temporarily unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/1ts3yxh5yf04"&gt;Maintenance link&lt;/a&gt; &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

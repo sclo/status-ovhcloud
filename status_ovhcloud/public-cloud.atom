@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-23T16:43:17Z</updated>
+  <updated>2024-02-24T19:18:47Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5z3nrkzb22j7"/>
     <title>[SGP1|SYD1|OR1|VA1][Managed Kubernetes Service] - Migrate to konnectivity</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;02:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/02/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, as we released the connectivity feature we need to migrate every cluster to use it and replace wormhole.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20066563</id>
+    <published>2024-02-24T19:18:47Z</published>
+    <updated>2024-02-24T19:18:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jwxnpglmt64r"/>
+    <title>[BHS5][Instances] T05G13-T05G14-T05G15</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 24/02/2024 18:46 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A significant number of instances are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our infrastucture. We will update informations when we will have more details.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20056286</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n5pj7s0lckdg"/>
     <title>[RBX][Storage] - Object storage standard incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2024 11:10 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/02/2024 15:54 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have had disconnections and 500/503 errors.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the root cause at 14:46 UTC. The error rate is decreasing.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2024 11:10 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can have disconnection and 500/503 errors visible to customers.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19938870</id>
-    <published>2024-02-08T13:41:01Z</published>
-    <updated>2024-02-08T13:41:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/89z3vqswmwyv"/>
-    <title>[GRA7][Public cloud] - API unreachable</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;08/02/2024 11:23 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/02/2024 13:34 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/02/2024 11:23 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The GRA7 region API is inaccessible, so customers may not be able to perform actions such as reboot, shutdown or backup, but they will still be able to access the instances. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

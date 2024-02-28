@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 28 Feb 2024 08:59:56 +0000</pubDate>
+    <pubDate>Wed, 28 Feb 2024 09:51:55 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/BHS5/DE1/UK1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Wed, 28 Feb 2024 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7jcpq9wlj4wq</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7jcpq9wlj4wq</guid>
+    </item>
+    <item>
+      <title>[Global][Cloud Databases services] - PostgreSQL version 16 incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/02/2024 14:28 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We disallow creation of PostgreSQL version 16.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; This is due to an ongoing investigation of a potential data integrity issue that may manifest under high load and specific circumstances. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Access to earlier versions is still available, so you can use other versions 12, 13, 14 and 15 of PostgreSQL.&lt;/p&gt;      </description>
+      <pubDate>Wed, 28 Feb 2024 09:50:21 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/1c8tjj8zn7mq</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/1c8tjj8zn7mq</guid>
     </item>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/BHS5/DE1/UK1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
@@ -207,14 +215,6 @@
       <maintenanceEndDate>Fri, 09 Feb 2024 17:10:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4c6hsyjmnzjt</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4c6hsyjmnzjt</guid>
-    </item>
-    <item>
-      <title>[RBX][Storage] - Object storage standard incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2024 11:10 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/02/2024 15:54 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have had disconnections and 500/503 errors.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A software issue caused the incident&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the root cause at 14:46 UTC. The error rate is decreasing.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/02/2024 11:10 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can have disconnection and 500/503 errors visible to customers.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Fri, 09 Feb 2024 16:17:21 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/n5pj7s0lckdg</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/n5pj7s0lckdg</guid>
     </item>
   </channel>
 </rss>

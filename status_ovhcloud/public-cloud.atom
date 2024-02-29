@@ -4,10 +4,26 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-02-29T15:43:26Z</updated>
+  <updated>2024-02-29T23:09:05Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20116602</id>
+    <published>2024-03-07T09:30:00Z</published>
+    <updated>2024-02-29T23:09:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0whq2kjlclt1"/>
+    <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Start time : 07/03/2024 09:30 UTC &lt;br /&gt;End time : 07/03/2024 17:00 UTC &lt;br /&gt;Service impact : None &lt;br /&gt;Service improvement : Following our continuous improvement policy, as we released the connectivity feature we need to migrate every cluster to use it and replace wormhole.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20116548</id>
+    <published>2024-03-06T09:30:00Z</published>
+    <updated>2024-02-29T23:06:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv"/>
+    <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Start time : 06/03/2024 09:30 UTC &lt;br /&gt;End time : 06/03/2024 17:00 UTC &lt;br /&gt;Service impact : None &lt;br /&gt;Service improvement : Following our continuous improvement policy, as we released the connectivity feature we need to migrate every cluster to use it and replace wormhole.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20105896</id>
     <published>2024-02-29T13:41:14Z</published>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wq17768qwrs6"/>
     <title>PCI - BHS5 - host387610</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;08:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs7-pciz3host28-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;B719B01&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host387610&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;be74136f-69ef-4fa1-b489-5770d917de4a&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19974721</id>
-    <published>2024-02-13T18:09:45Z</published>
-    <updated>2024-02-13T18:09:45Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rv7qrqtzpc1g"/>
-    <title>[GRA5][Managed Kubernetes Service] - CAs c2.gra</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;18:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance will take more time than expected.&lt;br /&gt;&lt;b&gt;New end time :&lt;/b&gt; 13/02/2024 19:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our "Managed Kubernetes Service"offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we need to renew the CAs of the kubeadmin c2.gra.&lt;br /&gt;Since konnectivity release and because we need to redeploy cluster control plane, every cluster redeployed will be migrated to konnectivity feature&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19970888</id>
-    <published>2024-02-13T17:31:19Z</published>
-    <updated>2024-02-13T17:31:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7wrt0pwcnf9l"/>
-    <title>[SIN1/SGP1][Network] - Network equipment maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;00:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/02/2024 15:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/02/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, our team will perform a network equipment upgrade.&lt;/p&gt;</content>
   </entry>
 </feed>

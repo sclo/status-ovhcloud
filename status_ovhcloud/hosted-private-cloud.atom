@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2024-02-28T22:51:17Z</updated>
+  <updated>2024-02-29T03:14:25Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/ytdm83l40wsn"/>
     <title>[LIM1][Hosted Private Cloud] - Racks L111A17/L111A20/L111A21</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;08:19&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;00:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/03/2024 14:16 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2024 08:19 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some hosts might be down for 2 hours during the maintenance&lt;br /&gt;&lt;b&gt;Related incident :&lt;/b&gt; &lt;a href="https://network.status-ovhcloud.com/incidents/f08nv34vx2dr"&gt;Maintenance link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure,  we are going to do an electrical maintenance on racks L111A17, L111A20 and L111A21.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/20102970</id>
+    <published>2024-02-29T03:14:25Z</published>
+    <updated>2024-02-29T03:14:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/fxw96zv390kz"/>
+    <title>[RBX8][Hosted Private Cloud] - Rack R801A07</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;03:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 29/02/2024 02:38 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 29/02/2024 03:07 UTC&lt;br /&gt;&lt;b&gt;Technical impact (DC/geographical area) :&lt;/b&gt; RBX8&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service was temporarily unavailable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/20101440</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/tnbk2qc8gvfl"/>
     <title>[Global][Hosted Private Cloud] - Zerto update</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/01/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/01/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronisation between primary and secondary sites will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for Zerto. Note that it should take 2 hours per site.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/19680518</id>
-    <published>2024-01-26T20:26:24Z</published>
-    <updated>2024-01-26T20:26:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/3v297hpsskhw"/>
-    <title>[Global][Hosted Private Cloud] - Upgrade Vrouter to SL2L</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/01/2024 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/01/2024 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Zerto replication cut during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Upgrade Vrouter to SL2L&lt;/p&gt;</content>
   </entry>
 </feed>

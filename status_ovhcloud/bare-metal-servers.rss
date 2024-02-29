@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 29 Feb 2024 14:59:09 +0000</pubDate>
+    <pubDate>Thu, 29 Feb 2024 20:37:17 +0000</pubDate>
     <item>
       <title>[RBX][Network] - background infrastructure operation</title>
       <description>
@@ -22,6 +22,15 @@
       <maintenanceEndDate>Tue, 19 Mar 2024 09:45:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/srbtblw75lw3</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/srbtblw75lw3</guid>
+    </item>
+    <item>
+      <title>[RBX1][vRack] - Racks 18A01/18A03/18A04/18A06/18A08/18A09/10B09/18A12/18A15/18A16</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/03/2024 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/03/2024 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network might be unavailable for 10 minutes for servers in racks 18A01, 18A03, 18A04, 18A06, 18A08, 18A09, 10B09, 18A12, 18A15 and 18A16.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on a network equipment&lt;/p&gt;      </description>
+      <pubDate>Fri, 15 Mar 2024 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 15 Mar 2024 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fgw74b13b8sm</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fgw74b13b8sm</guid>
     </item>
     <item>
       <title>[GRA][Network] - background infrastructure operation</title>
@@ -214,14 +223,6 @@
       <pubDate>Tue, 27 Feb 2024 19:02:15 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/f11281nfb1sn</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/f11281nfb1sn</guid>
-    </item>
-    <item>
-      <title>[YNM1][Network] - Network disturbance on YNM1 DC</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/02/2024 17:26 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 27/02/2024 17:36 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some of servers was unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Tue, 27 Feb 2024 18:02:36 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z82cx9t6zc5j</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z82cx9t6zc5j</guid>
     </item>
   </channel>
 </rss>

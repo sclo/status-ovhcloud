@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-03-01T09:15:49Z</updated>
+  <updated>2024-03-04T13:00:26Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv"/>
     <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time : &lt;/b&gt; 06/03/2024 09:30 UTC &lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; 06/03/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact : &lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement : &lt;/b&gt; Following our continuous improvement policy, as we released the connectivity feature we need to migrate every cluster to use it and replace wormhole.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20156867</id>
+    <published>2024-03-04T13:00:26Z</published>
+    <updated>2024-03-04T13:00:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3"/>
+    <title>[GRA11/WAW1/UK/DE1][Containers/Orchestration] Managed Kubernetes Service/Gen3 instances</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted nodes could be stalled in read-only and cannot process workloads.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; PCI gen3 instances randomly encounter a malfuction when attaching/detaching block volumes that leaves the instance's system disk read-only and therefore unusable.&lt;br /&gt;&lt;b&gt;Mitigation :&lt;/b&gt; MKS autohealing is actually fixing by hard rebooting the instances in that case to mitigate impact on the customer workload.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20105896</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gl34f9nk7z01"/>
     <title>[uk1] API incident</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing disruption on region uk1.&lt;br /&gt;Impact can be experienced on the API.&lt;br /&gt;&lt;br /&gt;It is advised currently to avoid actions such as rebooting and rebuilding instances.&lt;br /&gt;Currently, running instances are not impacted.&lt;br /&gt;&lt;br /&gt;Our engineers are working to resolve the situation.&lt;br /&gt;Furthermore details will be provided as soon as possible.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/19981017</id>
-    <published>2024-02-14T08:05:04Z</published>
-    <updated>2024-02-14T08:05:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wq17768qwrs6"/>
-    <title>PCI - BHS5 - host387610</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;08:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs7-pciz3host28-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;B719B01&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host387610&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;be74136f-69ef-4fa1-b489-5770d917de4a&lt;/p&gt;</content>
   </entry>
 </feed>

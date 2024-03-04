@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 01 Mar 2024 09:15:49 +0000</pubDate>
+    <pubDate>Mon, 04 Mar 2024 13:00:26 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
       <description>
@@ -22,6 +22,14 @@
       <maintenanceEndDate>Wed, 06 Mar 2024 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv</guid>
+    </item>
+    <item>
+      <title>[GRA11/WAW1/UK/DE1][Containers/Orchestration] Managed Kubernetes Service/Gen3 instances</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted nodes could be stalled in read-only and cannot process workloads.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; PCI gen3 instances randomly encounter a malfuction when attaching/detaching block volumes that leaves the instance&apos;s system disk read-only and therefore unusable.&lt;br /&gt;&lt;b&gt;Mitigation :&lt;/b&gt; MKS autohealing is actually fixing by hard rebooting the instances in that case to mitigate impact on the customer workload.&lt;/p&gt;      </description>
+      <pubDate>Mon, 04 Mar 2024 13:00:26 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</guid>
     </item>
     <item>
       <title>[SBG][ Object storage] - Object Storage maintenance notification</title>
@@ -209,14 +217,6 @@
       <pubDate>Thu, 15 Feb 2024 10:38:55 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/gl34f9nk7z01</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/gl34f9nk7z01</guid>
-    </item>
-    <item>
-      <title>PCI - BHS5 - host387610</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs7-pciz3host28-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;B719B01&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host387610&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;be74136f-69ef-4fa1-b489-5770d917de4a&lt;/p&gt;      </description>
-      <pubDate>Wed, 14 Feb 2024 08:05:04 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/wq17768qwrs6</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/wq17768qwrs6</guid>
     </item>
   </channel>
 </rss>

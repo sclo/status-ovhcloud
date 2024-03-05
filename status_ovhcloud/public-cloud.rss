@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 05 Mar 2024 09:46:45 +0000</pubDate>
+    <pubDate>Tue, 05 Mar 2024 13:52:25 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
       <description>
@@ -22,6 +22,14 @@
       <maintenanceEndDate>Wed, 06 Mar 2024 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pdntx6r5zqlv</guid>
+    </item>
+    <item>
+      <title>[GRA11][Public Cloud] - Network Services</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 22:38 UTC &lt;br&gt;&lt;b&gt;Service impact :&lt;/b&gt; Openstack network components &lt;br&gt;&lt;b&gt;Root cause :&lt;/b&gt; A problem on our messaging system may introduces issues when modifications to network components are requested.&lt;br&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical team is working to resolved the issue.&lt;/p&gt;      </description>
+      <pubDate>Tue, 05 Mar 2024 13:52:25 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/1hbj15wxshn3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/1hbj15wxshn3</guid>
     </item>
     <item>
       <title>[Golbal][Database] - MongoDB Migration</title>
@@ -210,14 +218,6 @@
       <pubDate>Thu, 15 Feb 2024 18:05:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0vp4h9k619pb</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0vp4h9k619pb</guid>
-    </item>
-    <item>
-      <title>[UK1][Compute] - OpenStack API instabilities</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/02/2024 10:11 UTC&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Most of the impacted services are operational.&lt;br /&gt;Our technical teams are hands on the few remaining ones.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to work to fix the issue.&lt;br /&gt;Further investigation reported impact on related network.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 15/02/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OpenStack API may answers with errors.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 15 Feb 2024 13:59:46 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/lk4s0h49gws2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/lk4s0h49gws2</guid>
     </item>
   </channel>
 </rss>

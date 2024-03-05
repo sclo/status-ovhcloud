@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 04 Mar 2024 16:20:43 +0000</pubDate>
+    <pubDate>Tue, 05 Mar 2024 09:46:45 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/DE1/SBG5/BHS5/UK1/WAW1][Managed Kubernetes Service] - Migrate to konnectivity</title>
       <description>
@@ -35,8 +35,8 @@
     <item>
       <title>[GRA11/WAW1/UK/DE1][Containers/Orchestration] Managed Kubernetes Service/Gen3 instances</title>
       <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted nodes could be stalled in read-only and cannot process workloads.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; PCI gen3 instances randomly encounter a malfuction when attaching/detaching block volumes that leaves the instance&apos;s system disk read-only and therefore unusable.&lt;br /&gt;&lt;b&gt;Mitigation :&lt;/b&gt; MKS autohealing is actually fixing by hard rebooting the instances in that case to mitigate impact on the customer workload.&lt;/p&gt;      </description>
-      <pubDate>Mon, 04 Mar 2024 13:00:26 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - A definitive fix is on its way to be validated and will be rolled out once done.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted nodes could be stalled in read-only and cannot process workloads.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; PCI gen3 instances randomly encounter a malfuction when attaching/detaching block volumes that leaves the instance&apos;s system disk read-only and therefore unusable.&lt;br /&gt;&lt;b&gt;Mitigation :&lt;/b&gt; MKS autohealing is actually fixing by hard rebooting the instances in that case to mitigate impact on the customer workload.&lt;/p&gt;      </description>
+      <pubDate>Tue, 05 Mar 2024 09:46:45 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</guid>
     </item>

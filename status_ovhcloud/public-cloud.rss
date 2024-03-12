@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 12 Mar 2024 06:27:04 +0000</pubDate>
+    <pubDate>Tue, 12 Mar 2024 07:58:16 +0000</pubDate>
     <item>
       <title>[RBX10][Network] - Network device operation</title>
       <description>
@@ -65,10 +65,10 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/gfy1p3c5jwfv</guid>
     </item>
     <item>
-      <title>[GRA11/WAW1/UK/DE1][Containers/Orchestration] Managed Kubernetes Service/Gen3 instances</title>
+      <title>[GRA11/WAW1/UK/DE1][Containers/Orchestration] - Managed Kubernetes Service/Gen3 instances</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Issues on volume attachment/detachment are still present on gen3 machine.&lt;br /&gt;Nodepool creation has been disabled for gen3 flavors until a fix is deployed on PCI regions.&lt;br /&gt;Existing nodepools are still able to add new nodes, manually or with autoscaler as usual.&lt;br /&gt;MKS autohealing is still fixing impacted instances by hard rebooting when needed.&lt;br /&gt;&lt;br /&gt;PCI will deploy a fix next week (starting on UK1 followed by other impacted regions in the following days).&lt;br /&gt;MKS nodepool creation will be reactivated on a region when fix will be deployed on it.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - A definitive fix is on its way to be validated and will be rolled out once done.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted nodes could be stalled in read-only and cannot process workloads.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; PCI gen3 instances randomly encounter a malfuction when attaching/detaching block volumes that leaves the instance&apos;s system disk read-only and therefore unusable.&lt;br /&gt;&lt;b&gt;Mitigation :&lt;/b&gt; MKS autohealing is actually fixing by hard rebooting the instances in that case to mitigate impact on the customer workload.&lt;/p&gt;      </description>
-      <pubDate>Fri, 08 Mar 2024 10:46:08 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2024 07:58:16 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9x89089dgdy3</guid>
     </item>

@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-03-12T18:15:32Z</updated>
+  <updated>2024-03-12T18:24:42Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20227370</id>
+    <published>2024-03-14T05:00:00Z</published>
+    <updated>2024-03-12T18:24:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bqqqgqx1m23f"/>
+    <title>[GRA5|GRA7|GRA9|GRA11|SBG5|WAW1|DE1|UK1][Public Cloud][Managed Kubernetes Service] - Maintenance on all nodes running in managed Kubernetes clusters</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/03/2024 05:00 PM UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/03/2024 11:00 PM UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Interrupted connection up to 30 seconds between cluster controle plane and managed nodes workload when component names "ovhcloud-apiserver-proxy" restart (nodes processed sequentially).&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Update of "ovhcloud-apiserver-proxy" managed pods running in customers' Public Cloud instances to improve network connection between nodes and control planes. This patch is already delivered since one week ago, this maintenance only target existing managed clusters. Intervention will be done during non-working office hours.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20226922</id>
     <published>2024-03-13T08:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jhlkpq0lbcpw"/>
     <title>[DE][Public Cloud] - Incident notification on Public Cloud instance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 10:17 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2024 19:43 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://bare-metal-servers.status-ovhcloud.com/incidents/cxvt75lnw0q7&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are continuing to work on the problem, the majority of the servers are up, they are working to fix the last servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are still actively working to resolve this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are actively working to resolve this problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;22/02/2024 10:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have problem accessing their instances.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://bare-metal-servers.status-ovhcloud.com/incidents/cxvt75lnw0q7&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20042741</id>
-    <published>2024-02-22T17:07:54Z</published>
-    <updated>2024-02-22T17:07:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/g909tll5f4jl"/>
-    <title>[GRA5/US-EAST-VA-1/US-WEST-OR-1/SGP1/SYD1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;23:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : This maintenance is scheduled to upgrade all clusters with a policy update configured by the customer to ALWAYS UPDATE (through the API OVHcloud console) or to MAXIMUM SECURITY (through the Manager UI interface). &lt;br /&gt;With this maintenance, we will upgrade all concerned MKS services to the latest patch version provided by our team. For more details, please refer to the &lt;a href="https://help.ovhcloud.com/csm/en-gb-public-cloud-kubernetes-plugins-software-versions-reserved-resources?id=kb_article_view&amp;sysparm_article=KB0049969"&gt;documentation&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

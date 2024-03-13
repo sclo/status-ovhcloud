@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-03-12T19:21:00Z</updated>
+  <updated>2024-03-13T01:56:12Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/827btjws3hc2"/>
     <title>[SGP1|BHS5|SYD1|OR1|VA1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Interrupted connection up to 30 seconds between cluster controle plane and managed nodes workload when component names "ovhcloud-apiserver-proxy" restart (nodes processed sequentially).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : Update of "ovhcloud-apiserver-proxy" managed pods running in customers' Public Cloud instances to improve network connection between nodes and control planes. This patch is already delivered since one week ago, this maintenance only target existing managed clusters. Intervention will be done during non-working office hours.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20230053</id>
+    <published>2024-03-13T01:56:12Z</published>
+    <updated>2024-03-13T01:56:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/d45n3h6xrzjb"/>
+    <title>[RBX][Storage] - Object Storage S3 Standard/High Perf</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;01:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2024 01:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are getting 500/503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20174061</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/sk9xl3lzkm78"/>
     <title>[SBG][Object Storage] - S3 Standard/High Perf</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 22/02/2024 18:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 23/02/2024 09:10 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; You may have experienced a high response time.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to a malfunction in the frontend server.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20047979</id>
-    <published>2024-02-23T08:31:26Z</published>
-    <updated>2024-02-23T08:31:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ls5ys6v3bb2b"/>
-    <title>[SBG][Storage] - Object storage standard incident notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2024 17:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No malfunctions have been reported. We will get back to you as soon as there is an malfunction on this product.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have had disconnections and 500/503 errors.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are actively working to resolve this problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have had disconnections and 500/503 errors.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

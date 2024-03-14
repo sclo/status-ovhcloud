@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 14 Mar 2024 13:03:21 +0000</pubDate>
+    <pubDate>Thu, 14 Mar 2024 14:14:11 +0000</pubDate>
     <item>
       <title>[GRA2][Web Hosting] - Cluster010 - Filerz637</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Thu, 14 Mar 2024 22:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/qdl9860vfqpy</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/qdl9860vfqpy</guid>
+    </item>
+    <item>
+      <title>[GRA/RBX/SBG/BHS][Collaborative solutions] - Exchange Hosted and Private search feature</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/03/2024 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Microsoft Outlook product is facing an issue that prevent clients to perform a search. Application like OWA, ActiveSync are working without impact. We are investingating with Microsoft to identify the root cause of this issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;b&gt;Workadound :&lt;/b&gt; Temporary you can disable the ServerAssistedSearch by creating registry key base on the schema bellow.&lt;br /&gt;&lt;br /&gt;• Key: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Search&lt;br /&gt;• Value name: DisableServerAssistedSearch&lt;br /&gt;• Value type: REG_DWORD&lt;br /&gt;• Value: 1&lt;br /&gt;&lt;br /&gt;Please remember that altering registry key require creation of backup and done incorrectly can damage your computer.&lt;br /&gt;&lt;br /&gt;Thank you for your trust. Security and protection of your data remain our highest priority, and it is in this frame of mind that we have been operating for years.&lt;/p&gt;      </description>
+      <pubDate>Thu, 14 Mar 2024 14:14:11 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/whrl5tzrgbt1</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/whrl5tzrgbt1</guid>
     </item>
     <item>
       <title>[GRA/RBX/SBG/BHS][Collaborative solutions] - Email Flow on EX5</title>
@@ -215,15 +223,6 @@
       <maintenanceEndDate>Thu, 07 Mar 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/k4197wyxv5xm</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/k4197wyxv5xm</guid>
-    </item>
-    <item>
-      <title>[GRA1][Web Hosting] - Cluster031 - Filerz1593</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 06/03/2024 23:45 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2024 01:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz1593 will be unavailable for 60 minutes during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate Filerz1593 to keep our infrastructure up-to-date&lt;/p&gt;      </description>
-      <pubDate>Thu, 07 Mar 2024 00:34:26 +0000</pubDate>
-      <maintenanceEndDate>Thu, 07 Mar 2024 01:45:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/n1tnyg60grjl</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/n1tnyg60grjl</guid>
     </item>
   </channel>
 </rss>

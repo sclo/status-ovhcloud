@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 26 Mar 2024 16:43:24 +0000</pubDate>
+    <pubDate>Tue, 26 Mar 2024 16:59:38 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - APIv6 BringYourOwnImage routes operation</title>
       <description>
@@ -114,6 +114,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/kk0wt99xwdpg</guid>
     </item>
     <item>
+      <title>[RBX3][DedicatedServers] - 41C07/41C08</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/03/2024 16:16 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/03/2024 16:40 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; Public Network was unreachable in 41C08. All servers were unreachable in 41C07&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on a power supply.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Mar 2024 16:58:47 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/j17gflw2hqv7</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/j17gflw2hqv7</guid>
+    </item>
+    <item>
       <title>[LIM][DedicatedServers] - LIM0303B05B</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/03/2024 15:14 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/03/2024 15:41 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Customers faced errors 500/503.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;It was due to a malfunction on some hardware&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
@@ -211,14 +219,6 @@
       <pubDate>Wed, 20 Mar 2024 23:28:18 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/d8pzlzzxc29l</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/d8pzlzzxc29l</guid>
-    </item>
-    <item>
-      <title>[RBX1][Dedicated Servers] - Vrack unstable</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/03/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No more impact on the connectivity of the private Vrack since 10:10 UTC.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Monitoring&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams are working to replace the affected equipment.&lt;br /&gt;Private Vrack connectivity may be interrupted from 09:40 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The connectivity of the private Vrack is degraded.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; The affected equipment is currently being restarted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our infrastructure. We will update informations when we will have more details.&lt;/p&gt;      </description>
-      <pubDate>Wed, 20 Mar 2024 11:06:57 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0bws6dpg47vh</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0bws6dpg47vh</guid>
     </item>
   </channel>
 </rss>

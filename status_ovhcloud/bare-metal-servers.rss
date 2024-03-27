@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 27 Mar 2024 17:22:29 +0000</pubDate>
+    <pubDate>Wed, 27 Mar 2024 19:40:10 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - APIv6 BringYourOwnImage routes operation</title>
       <description>
@@ -58,6 +58,15 @@
       <maintenanceEndDate>Thu, 04 Apr 2024 12:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5v15st37n3ky</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5v15st37n3ky</guid>
+    </item>
+    <item>
+      <title>[RBX7][Storage and Backups] - NAS HA maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/04/2024 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/04/2024 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our NAS-HA hosting responsibilities, we will perform infrastructure maintenance.&lt;br /&gt;The maintenance will update the storage servers that host your data.&lt;br /&gt;This release will improve certain security mechanisms as well as some performance improvements.&lt;br /&gt;Your data will remain available during the maintenance period.&lt;/p&gt;      </description>
+      <pubDate>Thu, 04 Apr 2024 04:30:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 04 Apr 2024 06:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jxwd5w574fcq</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jxwd5w574fcq</guid>
     </item>
     <item>
       <title>[ERI][Network] - background infrastructure operation</title>
@@ -209,15 +218,6 @@
       <maintenanceEndDate>Tue, 21 May 2024 23:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6c1yqlmbzpt3</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6c1yqlmbzpt3</guid>
-    </item>
-    <item>
-      <title>[RBX1][Network] - Network equipment migration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - This maintenance has now been cancelled and a new calender will be in place within the next few days.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/04/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, you may experience losses on the public network.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 21 Mar 2024 16:02:31 +0000</pubDate>
-      <maintenanceEndDate>Tue, 02 Apr 2024 23:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5pyzr398ss61</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5pyzr398ss61</guid>
     </item>
   </channel>
 </rss>

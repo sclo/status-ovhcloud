@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-03-27T23:04:46Z</updated>
+  <updated>2024-03-27T23:27:44Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/yxqxsldldwym"/>
     <title>[ERI][Network] - background infrastructure operation</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;00:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/04/2024 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/04/2024 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Network automation will be paused for about 120 min during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for the management of the background infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20382670</id>
+    <published>2024-04-03T12:00:00Z</published>
+    <updated>2024-03-27T23:27:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/w9yvwd3zq47l"/>
+    <title>[EU/CA][DedicatedServers] - APIv6 IPMI</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;23:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our "Dedicated Servers" offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/04/2024 12:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Bare Metal Cloud products to maintain consistency about APIv6 IPMI (Intelligent Platform Management Interface).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20305667</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bp5s8c18793m"/>
     <title>[GRA1][Dedicated Servers] - Multiple Rack</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2024 09:46 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2024 13:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/z05llyh8qt58&lt;br /&gt;The majority of the servers that went down are now back up and running. &lt;br /&gt;The rest are being dealt with on an individual basis. &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/03/2024 09:46 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A significant number of servers in the rack G108A16 - G107A09 - G118B02 - G118B19 and G132 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/z05llyh8qt58&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20171443</id>
-    <published>2024-03-21T16:03:06Z</published>
-    <updated>2024-03-21T16:03:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/6c1yqlmbzpt3"/>
-    <title>[RBX1][Network] - Network equipment migration</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - This maintenance has now been cancelled and a new calender will be in place within the next few days.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;00:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our "Dedicated Servers" offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/05/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/05/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During maintenance, you may experience losses on the public network.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

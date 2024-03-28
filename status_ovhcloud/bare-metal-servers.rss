@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 28 Mar 2024 15:47:41 +0000</pubDate>
+    <pubDate>Thu, 28 Mar 2024 17:39:34 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - APIv6 BringYourOwnImage routes operation</title>
       <description>
@@ -80,7 +80,7 @@
     <item>
       <title>[EU/CA][DedicatedServers] - APIv6 IPMI</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our &quot;Dedicated Servers&quot; offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/04/2024 12:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Bare Metal Cloud products to maintain consistency about APIv6 IPMI (Intelligent Platform Management Interface).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our &quot;Dedicated Servers&quot; offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/04/2024 12:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Bare Metal Cloud products to maintain consistency about APIv6 IPMI (Intelligent Platform Management Interface).&lt;br /&gt;&lt;br /&gt;The following change will affect the APIv6 call POST /dedicated/server/{serviceName}/features/bmc/sshSol:&lt;br /&gt;The optional parameter sshKeyName will be changed to optional parameter sshKey: customer will need to directly specify the public SSH key instead of the name of the public SSH key previously stored in /me/sshKey&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
       <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
       <maintenanceEndDate>Wed, 03 Apr 2024 12:15:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/w9yvwd3zq47l</link>

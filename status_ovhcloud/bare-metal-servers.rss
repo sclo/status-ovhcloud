@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 03 Apr 2024 07:39:22 +0000</pubDate>
+    <pubDate>Wed, 03 Apr 2024 10:48:42 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - APIv6 BringYourOwnImage routes operation</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/w9yvwd3zq47l</guid>
     </item>
     <item>
+      <title>[RBX7][DedicatekdServers] - 715B18/715B12</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 09:50UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/04/2024 10:40 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All the servers in these racks were unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on a power supply&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Wed, 03 Apr 2024 10:48:42 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ld69278zr6ql</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ld69278zr6ql</guid>
+    </item>
+    <item>
       <title>[EU/CA][Dedicated Servers] - DNS maintenance notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/04/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The service will be slow for a few minutes. at various times during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our policy of continuous improvement, we are carrying out a maintenance of our DNS in Baremetal.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;      </description>
@@ -213,15 +221,6 @@
       <pubDate>Wed, 27 Mar 2024 11:50:29 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rk1gk9msnw35</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rk1gk9msnw35</guid>
-    </item>
-    <item>
-      <title>[SBG3][Dedicated Servers] - Racks S320B01/S320B03</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Bare Metal offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/03/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/03/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in racks S320B01 and S320B03 will be unreachable for 30 minutes during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Our technical teams will move servers from racks S320B01 and S320B03 to rack S321B08.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 27 Mar 2024 11:04:14 +0000</pubDate>
-      <maintenanceEndDate>Wed, 27 Mar 2024 12:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3ly7trh1hcw1</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3ly7trh1hcw1</guid>
     </item>
   </channel>
 </rss>

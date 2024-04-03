@@ -4,17 +4,25 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-04-03T01:03:44Z</updated>
+  <updated>2024-04-03T02:04:56Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20434603</id>
+    <published>2024-04-03T02:04:56Z</published>
+    <updated>2024-04-03T02:04:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j0qhp779kwvx"/>
+    <title>[GRA][Public Cloud] - Databases incident Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;02:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 00:06 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  03/04/2024 01:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://public-cloud.status-ovhcloud.com/incidents/897ngd9y00sq&lt;br /&gt;Database services hosted in GRA may have experienced primary re election causing disconnection from databases.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20434078</id>
-    <published>2024-04-03T00:48:40Z</published>
-    <updated>2024-04-03T00:48:40Z</updated>
+    <published>2024-04-03T02:00:02Z</published>
+    <updated>2024-04-03T02:00:02Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/897ngd9y00sq"/>
     <title>[GRA][Public Cloud] - Public Cloud hosts unreachable</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 00:06 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts on PCI in GRA are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 00:06 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Multiple hosts are currently unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/xvm7qxxnm6db&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 00:06 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Hosts on PCI in GRA are currently unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20429335</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gfy1p3c5jwfv"/>
     <title>[Golbal][Database] - MongoDB Migration</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;16:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on MongoDB. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/03/2024 15:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2024 15:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer cannot see logs in manager and API because we change logs configuration&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out a migration of our MongoDB offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20105896</id>
-    <published>2024-02-29T13:41:14Z</published>
-    <updated>2024-02-29T13:41:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kfqt6qhdkxb3"/>
-    <title>[SBG][ Object storage] - Object Storage maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/02/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/02/2024 13:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can be disconnected during the maintenance&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our infrastructure, we will be doing a maintenance on Object Storage for SBG region.&lt;/p&gt;</content>
   </entry>
 </feed>

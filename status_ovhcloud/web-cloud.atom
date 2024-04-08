@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-04-08T14:43:12Z</updated>
+  <updated>2024-04-08T15:10:03Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -107,10 +107,18 @@
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20383082</id>
     <published>2024-04-08T16:10:00Z</published>
-    <updated>2024-03-29T14:44:29Z</updated>
+    <updated>2024-04-08T15:10:02Z</updated>
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/ccwhhnrbnbtr"/>
     <title>[EU][Web Cloud] - Outlook Web Access mailbox migration</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;16:10&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;00:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2024 16:10 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/08/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Service interruption is expected for a few minutes to a few hours&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The purpose of this operation is to migrate MXPLAN mailboxes under Outlook Web Access (OWA) to the new Zimbra Webmail.&lt;br /&gt;No action is required from the customers.&lt;br /&gt;For further information, please find attached a link to the FAQ: https://help.ovhcloud.com/csm/fr-mx-plan-zimbra-faq?id=kb_article_view&amp;sysparm_article=KB0061410&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20478838</id>
+    <published>2024-04-08T15:08:43Z</published>
+    <updated>2024-04-08T15:08:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/7b0z6mcz4vp2"/>
+    <title>[GRA][Web Hosting] - Cluster030</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;15:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/04/2024 13:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness on websites hosted on Cluster030&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20478291</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/lqg03q3nd1yy"/>
     <title>[GRA1][WebHosting] - Filerz1017/113 cluster023 - filerz118 cluster021</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 10:45 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  03/04/2024 11:05 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Storage equipment malfunction.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 10:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites hosted on filerz1017 and filerz113 on cluster023 are unreachable&lt;br /&gt;Websites hosted on filerz118 on cluster021 are unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be post as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20429660</id>
-    <published>2024-04-03T13:15:15Z</published>
-    <updated>2024-04-03T13:15:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/ktvs3hnzvmqy"/>
-    <title>[MRS][VoIP] - Backbone Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. We will keep you updated as soon as the date is fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VoIP offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/04/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/04/2024 14:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience increased latency to communicate with your services behind this device.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade some network equipment configuration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

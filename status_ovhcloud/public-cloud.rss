@@ -4,7 +4,15 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 09 Apr 2024 07:44:14 +0000</pubDate>
+    <pubDate>Tue, 09 Apr 2024 08:18:00 +0000</pubDate>
+    <item>
+      <title>[GRA5/GRA7/GRA9/GRA11][Public Cloud] - Managed Kubernetes Service - Managed Private Registry</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/04/2024 06:46 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/04/2024 07:18 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A part of Control planes Nodes were not responding and some registries were not accessible during the outage due to a disjunction on a rack. For more details refer to the incident: https://bare-metal-servers.status-ovhcloud.com/incidents/xb76vqn9h8s5&lt;br /&gt;PCI tenants impacted are listed here: https://public-cloud.status-ovhcloud.com/incidents/zb1s08rfstpn&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Tue, 09 Apr 2024 08:18:00 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/nk5jp9v75319</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/nk5jp9v75319</guid>
+    </item>
     <item>
       <title>PCI - GRA5 GRA7 GRA9 GRA11 - rack G265A05</title>
       <description>
@@ -205,14 +213,6 @@
       <pubDate>Thu, 07 Mar 2024 15:35:19 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pj6tt55p34yd</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pj6tt55p34yd</guid>
-    </item>
-    <item>
-      <title>[RBX-A][Public Cloud] - OpenStack API incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2024 10:22 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2024 11:33 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network malfunction &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2024 10:22 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some API may be slow or answer with errors.&lt;br /&gt;Running instances are not affected.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 07 Mar 2024 11:39:20 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/bx1wl714pnl1</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/bx1wl714pnl1</guid>
     </item>
   </channel>
 </rss>

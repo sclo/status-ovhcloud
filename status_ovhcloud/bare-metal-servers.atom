@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-04-10T13:31:41Z</updated>
+  <updated>2024-04-10T13:48:22Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,14 +121,6 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; - &lt;var data-var='time'&gt;06:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our storage and backups offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2024 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20496219</id>
-    <published>2024-04-10T13:31:41Z</published>
-    <updated>2024-04-10T13:31:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/33v6ykynmy70"/>
-    <title>[WAW][Virtual Private Servers] - Openstack api incident notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 12:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All calls to the API in the WAW region are currently experiencing degradation.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20494986</id>
     <published>2024-04-10T13:10:43Z</published>
     <updated>2024-04-10T13:10:43Z</updated>
@@ -207,5 +199,13 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1tgm8yd1mw83"/>
     <title>[BHS7][Dedicated Servers] - Rack B715A15</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/04/2024 06:17 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/04/2024 06:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network was temporarily unavailable on servers in rack B715A15.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20448405</id>
+    <published>2024-04-04T13:18:54Z</published>
+    <updated>2024-04-04T13:18:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/v2vsrp9f5hq9"/>
+    <title>[BHS5][DedicatedServers] - T05B03</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/04/2024 13:01 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/04/2024 13:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The situation is back to normal, the service is running nominally.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on a power supply.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/04/2024 13:01 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is unreachable in this rack.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 10 Apr 2024 05:00:18 +0000</pubDate>
+    <pubDate>Wed, 10 Apr 2024 06:05:14 +0000</pubDate>
+    <item>
+      <title>[Global][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Kubernetes Service offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/04/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some connections will be reset or may be refused, from K8S nodes or kubectl CLI, for few seconds.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : Following our continuous improvement policy, we are deploying a new configuration of our ingress gateway for MKS ControlPlane to get a better resilient following recent outages on GRA7 and GRA9.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 16 Apr 2024 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 16 Apr 2024 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/4pt05tpjp5st</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/4pt05tpjp5st</guid>
+    </item>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11][Public Cloud] - Managed Kubernetes Service - Managed Private Registry</title>
       <description>
@@ -205,14 +214,6 @@
       <pubDate>Fri, 08 Mar 2024 03:42:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/cdd52ly2x9hf</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/cdd52ly2x9hf</guid>
-    </item>
-    <item>
-      <title>[GRA9][Containers/Orchestration] - Managed Kubernetes Service</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2024 14:20 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2024 15:25 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Gateway overloading&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2024 14:20 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Managed control plane are unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Thu, 07 Mar 2024 15:35:19 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/pj6tt55p34yd</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/pj6tt55p34yd</guid>
     </item>
   </channel>
 </rss>

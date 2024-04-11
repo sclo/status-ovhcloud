@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Public Cloud Status - Incident History</title>
-    <link>https://public-cloud.status-ovhcloud.com</link>
+    <link>http://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Apr 2024 09:43:31 +0000</pubDate>
+    <pubDate>Thu, 11 Apr 2024 11:52:02 +0000</pubDate>
     <item>
       <title>[Global][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Tue, 16 Apr 2024 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4pt05tpjp5st</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4pt05tpjp5st</guid>
+    </item>
+    <item>
+      <title>[WAW1][Public Cloud] - Network Services</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 07:00 UTC \n&lt;b&gt; Service impact : &lt;\b&gt; Openstack network components \nRoot cause : &lt;\b&gt; A problem on our Database system may introduces issues when modifications to network components are requested.\n&lt;b&gt;Ongoing actions :&lt;\b&gt; Our technical is working to resolved the issue.&lt;/p&gt;      </description>
+      <pubDate>Thu, 11 Apr 2024 11:52:02 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/cmnxmjrjh12x</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/cmnxmjrjh12x</guid>
     </item>
     <item>
       <title>[BHS5][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
@@ -204,15 +212,6 @@
       <maintenanceEndDate>Wed, 13 Mar 2024 23:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/2qqgbxngw1ht</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/2qqgbxngw1ht</guid>
-    </item>
-    <item>
-      <title>[SGP1|BHS5|SYD1|OR1|VA1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance is done for BHS5 and SYD1. SGP1 still waiting.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our maintenance is done for VA1 or OR1. BHS5 in progress and we haven&apos;t start change on APAC regions because we are waiting non-working open hours.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 13/03/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Interrupted connection up to 30 seconds between cluster controle plane and managed nodes workload when component names &quot;ovhcloud-apiserver-proxy&quot; restart (nodes processed sequentially).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : Update of &quot;ovhcloud-apiserver-proxy&quot; managed pods running in customers&apos; Public Cloud instances to improve network connection between nodes and control planes. This patch is already delivered since one week ago, this maintenance only target existing managed clusters. Intervention will be done during non-working office hours.&lt;/p&gt;      </description>
-      <pubDate>Wed, 13 Mar 2024 11:54:48 +0000</pubDate>
-      <maintenanceEndDate>Wed, 13 Mar 2024 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/827btjws3hc2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/827btjws3hc2</guid>
     </item>
   </channel>
 </rss>

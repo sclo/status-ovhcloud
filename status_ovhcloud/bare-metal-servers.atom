@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-04-11T21:49:56Z</updated>
+  <updated>2024-04-11T22:52:50Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20510069</id>
+    <published>2024-04-28T22:00:00Z</published>
+    <updated>2024-04-11T22:52:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/11hglcd54qdh"/>
+    <title>[RBX1/RBX2][Dedicated Servers] - Servers migration from RBX1 to RBX2</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Bare metal offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2024 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/05/2024 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers being moved from RBX1 to RBX2 might be unavailable for up to 7 hours during the night (22:00 UTC =&gt; 05:00 UTC).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to move servers from RBX1 to RBX2 due to the EoL (End of life) of RBX1.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20509380</id>
     <published>2024-04-25T04:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/156pn6hgnsfs"/>
     <title>[SBG3][Dedicated Servers] - Rack S337A04</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 10:13 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/04/2024 12:48 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 10:13 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A significant number of servers in the rack S337A04 are no longer responding.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are working to fix the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20493055</id>
-    <published>2024-04-10T05:43:55Z</published>
-    <updated>2024-04-10T05:44:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/b7fgl4pl06xl"/>
-    <title>[RBX1][Dedicated Servers] - Rack 16C02</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 05:12 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/04/2024 05:25 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The servers were inaccessible&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
 </feed>

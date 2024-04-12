@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 12 Apr 2024 19:02:08 +0000</pubDate>
+    <pubDate>Fri, 12 Apr 2024 19:39:21 +0000</pubDate>
     <item>
       <title>[RBX1/RBX2][Dedicated Servers] - Servers migration from RBX1 to RBX2</title>
       <description>
@@ -186,6 +186,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/t335mg2swz1z</guid>
     </item>
     <item>
+      <title>[RBX1][Dedicated Servers] - vRack network issue</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/04/2024 18:35 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/04/2024 18:40 UTC&lt;br /&gt;&lt;b&gt;Service impacted :&lt;/b&gt; The vRack network was unavailable on racks 10B09, 15A06, 18A01, 18A03, 18A04, 18A06, 18A08, 18A09, 18A12, 18A15, 18A16.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to restart of a network equipement.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
+      <pubDate>Fri, 12 Apr 2024 19:38:10 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vy6h0nsqv4w5</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vy6h0nsqv4w5</guid>
+    </item>
+    <item>
       <title>[RBX2][Dedicated Servers] - Network Disruption</title>
       <description>
 &lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Additional maintenance is required to resolve the issue definitively. This will be scheduled for early next week. We will get back to you early next week to let you know when the work will be carried out.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 23:16 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Your services may have experienced latency and packet loss on the RBX2 baremetal infrastructure.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a hardware issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams will carry out curative maintenance with no impact on your services to fix the issue.&lt;/p&gt;      </description>
@@ -219,15 +227,6 @@
       <maintenanceEndDate>Thu, 11 Apr 2024 09:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/qhc6g9lzfzt0</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/qhc6g9lzfzt0</guid>
-    </item>
-    <item>
-      <title>[RBX7/SBG3][Storage and Backups] - NAS HA maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Maintenance will take longer than expected.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;New end time :&lt;/b&gt; 11/04/2024 07:30 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our storage and backups offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 04:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2024 06:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 11 Apr 2024 07:36:49 +0000</pubDate>
-      <maintenanceEndDate>Thu, 11 Apr 2024 06:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/y43g6df82ksn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/y43g6df82ksn</guid>
     </item>
   </channel>
 </rss>

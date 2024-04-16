@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 16 Apr 2024 10:30:03 +0000</pubDate>
+    <pubDate>Tue, 16 Apr 2024 11:14:22 +0000</pubDate>
     <item>
       <title>[RBX1/RBX2][Dedicated Servers] - Servers migration from RBX1 to RBX2</title>
       <description>
@@ -159,6 +159,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z1x1q8w0rnr1</guid>
     </item>
     <item>
+      <title>[RBX8][Dedicated Servers] - Rack R821R10</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/04/2024 07:47 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2024 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack R821R10 were temporarily unavailable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/04/2024 07:47 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack R821R10 are temporarily unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 16 Apr 2024 11:14:22 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fzltqdsyqwb0</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fzltqdsyqwb0</guid>
+    </item>
+    <item>
       <title>[Worldwide][Dedicated Servers] - IPXE scripts migration</title>
       <description>
 &lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;16/04/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our iPXE scripts API is evolving, we are simplifying the API call format used to boot a server from a custom iPXE script.&lt;br /&gt;The API calls to make the server boot from the local disk or the rescue are not affected by this change. If you don&apos;t know what an iPXE script is, then you are probably not impacted by this change.&lt;br /&gt;The 16th April 2024, we will remove the compatibility with the old method.&lt;br /&gt;Customers can already start using the new method to boot a server from an iPXE script: see &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ipxe-scripts?id=kb_article_view&amp;sysparm_article=KB0058505&quot;&gt;the following documentation&lt;/a&gt; for more details.&lt;br /&gt;&lt;br /&gt;Old method that will stop working&lt;br /&gt;1. The customer adds an iPXE script in their account by using API call POST /me/ipxeScript.&lt;br /&gt;Note that this API call has already been removed the 5th of March 2024: see &lt;a href=&quot;https://bare-metal-servers.status-ovhcloud.com/incidents/527bvf38b1vl&quot;&gt;this status task&lt;/a&gt;.&lt;br /&gt;2. For a specific server, the customer calls &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/boot&quot;&gt;GET /dedicated/server/{serviceName}/boot?bootType=ipxeCustomerScript&lt;/a&gt; to list all compatible iPXE scripts: it returns boot IDs.&lt;br /&gt;3. For any boot ID returned by previous API call, the customer needs to call &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/boot/-bootId-&quot;&gt;GET /dedicated/server/{serviceName}/boot/{bootId}&lt;/a&gt; to get details untill they find which boot ID corresponds to the previously added iPXE script.&lt;br /&gt;4. Then, the customer needs to call &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#put-/dedicated/server/-serviceName-&quot;&gt;PUT /dedicated/server/{serviceName}&lt;/a&gt; with the &quot;bootId&quot; key and the previously obtained boot ID.&lt;br /&gt;&lt;br /&gt;New simpler method that is already available&lt;br /&gt;The customer uses the new &quot;bootScript&quot; key within the &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#put-/dedicated/server/-serviceName-&quot;&gt;PUT /dedicated/server/{serviceName}&lt;/a&gt; call and directly passes it their iPXE script, see &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ipxe-scripts?id=kb_article_view&amp;sysparm_article=KB0058505&quot;&gt;this documentation&lt;/a&gt;.&lt;br /&gt;That&apos;s it. As you can see it&apos;s now less complicated to boot from a custom iPXE script.&lt;/p&gt;      </description>
@@ -201,14 +209,6 @@
       <maintenanceEndDate>Tue, 16 Apr 2024 08:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dbhbdk1bpv6l</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dbhbdk1bpv6l</guid>
-    </item>
-    <item>
-      <title>[RBX8][Dedicated Servers] - Rack R821R10</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/04/2024 07:47 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack R821R10 are temporarily unavailable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 16 Apr 2024 07:58:22 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/fzltqdsyqwb0</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/fzltqdsyqwb0</guid>
     </item>
     <item>
       <title>[RBX7][Storage and Backups] - NAS HA maintenance notification</title>

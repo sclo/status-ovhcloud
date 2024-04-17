@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-04-17T12:57:41Z</updated>
+  <updated>2024-04-17T13:36:22Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20515350</id>
+    <published>2024-04-17T13:36:22Z</published>
+    <updated>2024-04-17T13:36:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s5djfv0m1tkq"/>
+    <title>[WAW][Public Cloud] - Region unavailable on APIv6/Manager</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/04/2024 15:00 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A problem on our Database system may introduces issues when modifications to network components are requested.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; WAW region is unavailable on APIv6 and Manager to avoid errors 500.&lt;br /&gt;&lt;b&gt;Update :&lt;/b&gt; Our teams are always investigating. The region will remain unavailable over the weekend to avoid errors 500 on the APIv6 and the Manager.&lt;br /&gt;The region remains available on the Openstack and Horizon APIs.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Openstack network components &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A problem on our Database system may introduces issues when modifications to network components are requested.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical team is working to resolved the issue.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20555006</id>
     <published>2024-04-17T12:57:41Z</published>
@@ -55,14 +63,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lc1k49xg282q"/>
     <title>PCI - BHS5 - host448864</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs8-pciz3host37-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;BHS0815B02A&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host448864&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;16820ed2-bb4b-472e-952b-e7d5272baa33&lt;br /&gt;60583f5d-45a5-4e6e-80fe-b1255df9b0f7&lt;br /&gt;7deabec9-0422-4dff-a1a6-4e43f2771f0e&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20515350</id>
-    <published>2024-04-12T15:58:27Z</published>
-    <updated>2024-04-12T15:58:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/s5djfv0m1tkq"/>
-    <title>[WAW][Public Cloud] - Region unavailable on APIv6/Manager</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; WAW region is unavailable on APIv6 and Manager to avoid errors 500.&lt;br /&gt;&lt;b&gt;Update :&lt;/b&gt; Our teams are always investigating. The region will remain unavailable over the weekend to avoid errors 500 on the APIv6 and the Manager.&lt;br /&gt;The region remains available on the Openstack and Horizon APIs.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 11/04/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Openstack network components &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; A problem on our Database system may introduces issues when modifications to network components are requested.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical team is working to resolved the issue.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20505264</id>

@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2024-04-17T21:46:44Z</updated>
+  <updated>2024-04-17T21:59:04Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/20561647</id>
+    <published>2024-04-25T04:00:00Z</published>
+    <updated>2024-04-17T21:54:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/2hrbb7m0hrk7"/>
+    <title>[BHS7][Hosted Private Cloud] - Network equipement operation</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VMware  offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/04/2024 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/04/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  As part of our continuous improvement policy of our network infrastructure, we will be doing an internal maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/20555874</id>
     <published>2024-04-25T04:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/drt486v9mrvj"/>
     <title>[RBX][Hosted Private Cloud] - Migration Zpool</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;23:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/03/2024 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience a micro cut if the customer is writing a lot on the zpool.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will perform filer transfers.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/20367521</id>
-    <published>2024-03-27T08:20:01Z</published>
-    <updated>2024-03-27T08:20:01Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/mzlmjgjnksw7"/>
-    <title>[Global][HostedPrivateCloud] - VMware vCenter Server upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;23:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/03/2024 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/03/2024 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Management unavailable for 1h and all hosts will be put in maintenance (Vmotion).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for VMware vCenter Server services. An individual communication will be sent before the upgrade begins.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

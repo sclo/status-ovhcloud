@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 17 Apr 2024 21:58:55 +0000</pubDate>
+    <pubDate>Thu, 18 Apr 2024 00:06:08 +0000</pubDate>
+    <item>
+      <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.24</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  22/05/2024 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;22/05/2024 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.25).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.25).&lt;/p&gt;      </description>
+      <pubDate>Wed, 22 May 2024 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 22 May 2024 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</guid>
+    </item>
     <item>
       <title>[WAW1][Compute] - API instabilities</title>
       <description>
@@ -204,14 +213,6 @@
       <pubDate>Fri, 22 Mar 2024 18:35:22 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/01lhcl5qdhzn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/01lhcl5qdhzn</guid>
-    </item>
-    <item>
-      <title>[GRA3][Public Cloud] - Compute API instability</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/03/2024 16:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2024 16:35 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to a software bug, Compute API in GRA3 encountered stability issues and some API calls may have returned 500 error code.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;      </description>
-      <pubDate>Thu, 21 Mar 2024 17:30:51 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/blp8fpqnvs9s</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/blp8fpqnvs9s</guid>
     </item>
   </channel>
 </rss>

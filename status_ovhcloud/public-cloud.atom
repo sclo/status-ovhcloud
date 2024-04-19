@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-04-19T10:32:42Z</updated>
+  <updated>2024-04-19T12:26:57Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4"/>
     <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.24</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;01:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The maintenance wont be completed in scheduled time. &lt;br /&gt;It has been postponed and rescheduled : &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  10/06/2024 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;11/06/2024 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.25).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt;  22/05/2024 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;23/05/2024 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.25).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.25).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20578385</id>
+    <published>2024-04-19T12:26:57Z</published>
+    <updated>2024-04-19T12:26:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/g46pxx7b19x9"/>
+    <title>[Global][Containers &amp; Orchestration] - Workflow Management incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 18/04/2024 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are unable to create new automatic backup schedules via the manager and openstack API.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20557830</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cqm7sgyf0386"/>
     <title>[BHS5/DE1/GRA5GRA7GRA9GRA11/SBG5SGP1/SYD1/WAW1/UK1][Managed Kubernetes Service] Load Balencer</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;15:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/03/2024 13:40 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/03/2024 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause:&lt;/b&gt; It was due to disruption to on the network.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/03/2024 13:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers cannot order new Load Balancer and they are not able to change the configuration of those that are already running&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our infrastucture. We will update informations when we will have more details.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20330831</id>
-    <published>2024-03-22T18:35:22Z</published>
-    <updated>2024-03-22T18:35:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/01lhcl5qdhzn"/>
-    <title>[SBG5][Public Cloud] - Loadbalancer Managed Kubernetes</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 14:42 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2024 18:18 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 14:42 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Load balancer for Managed Kubernetes created in the SBG5 region may not be reachable, depending on the IP range that it is using.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Deleting and recreating the LB may use another range, which will work.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our infrastucture. We will update informations when we will have more details.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-04-27T21:30:08Z</updated>
+  <updated>2024-04-27T22:17:03Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/11hglcd54qdh"/>
     <title>[RBX1/RBX2][Dedicated Servers] - Servers migration from RBX1 to RBX2</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Bare metal offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2024 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/05/2024 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers being moved from RBX1 to RBX2 might be unavailable for up to 7 hours during the night (22:00 UTC =&gt; 05:00 UTC).&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to move servers from RBX1 to RBX2 due to the EoL (End of life) of RBX1.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20651128</id>
+    <published>2024-04-27T22:17:03Z</published>
+    <updated>2024-04-27T22:17:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/lg0rgzrdn7j4"/>
+    <title>[SBG5][Dedicated Servers] - Rack SBG0506B07B</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;22:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/04/2024 22:02 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some of servers in the rack SBG0506B07B are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20641172</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/r9pmhrkd2tyb"/>
     <title>[RBX7][Storage and Backups] - NAS HA maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our storage and backups offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/04/2024 11:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/04/2024 13:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted services might experience some input/output freezes for storage equipment during the maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : As part of our continuous improvement policy, we will perform an update on the storage servers hosting your data.&lt;br /&gt;This version will improve certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;During the maintenance period, your data will remain available.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20571350</id>
-    <published>2024-04-23T09:59:48Z</published>
-    <updated>2024-04-23T09:59:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/cpjwhblzhk7b"/>
-    <title>[BHS1][Dedicated Servers] - Racks 80A06/80A05/80A03</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;18:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our infrastructure. &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/04/2024 04:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/04/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Each server in racks 80A06 and 80A05 will be unreachable during the maintenance &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from racks 80A06 and 80A05 to rack 80A03.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

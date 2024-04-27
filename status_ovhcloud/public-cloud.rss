@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 27 Apr 2024 02:32:12 +0000</pubDate>
+    <pubDate>Sat, 27 Apr 2024 04:32:41 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.24</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Tue, 11 Jun 2024 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</guid>
+    </item>
+    <item>
+      <title>[GRA][Storage] - Object Storage S3 Standard/High Perf</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/04/2024 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers might get 500/503 errors&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Sat, 27 Apr 2024 04:32:41 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/5mycp0tpc1rn</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/5mycp0tpc1rn</guid>
     </item>
     <item>
       <title>[Global][Containers &amp; Orchestration] - Workflow Management incident notification</title>
@@ -204,14 +212,6 @@
       <pubDate>Mon, 25 Mar 2024 15:12:09 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/cqm7sgyf0386</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/cqm7sgyf0386</guid>
-    </item>
-    <item>
-      <title>[SBG5][Public Cloud] - Loadbalancer Managed Kubernetes</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 14:42 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/03/2024 18:18 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/02/2024 14:42 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Load balancer for Managed Kubernetes created in the SBG5 region may not be reachable, depending on the IP range that it is using.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; Deleting and recreating the LB may use another range, which will work.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our infrastucture. We will update informations when we will have more details.&lt;/p&gt;      </description>
-      <pubDate>Fri, 22 Mar 2024 18:35:22 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/01lhcl5qdhzn</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/01lhcl5qdhzn</guid>
     </item>
   </channel>
 </rss>

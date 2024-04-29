@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 29 Apr 2024 17:43:15 +0000</pubDate>
+    <pubDate>Mon, 29 Apr 2024 18:15:28 +0000</pubDate>
     <item>
       <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.24</title>
       <description>
@@ -15,36 +15,28 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</guid>
     </item>
     <item>
-      <title>[SYD][Public Cloud] - Block Storage incident notification</title>
+      <title>[SYD1][Containers &amp; Orchestration] - Managed Kubernetes Service incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can&apos;t temporarily access block storage&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 Apr 2024 17:26:40 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/jmhx2p0btzl1</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/jmhx2p0btzl1</guid>
-    </item>
-    <item>
-      <title>[SYD][Public Cloud] - Object Storage Swift incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer can&apos;t authenticate on Object Storage Swift on SYD region&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 Apr 2024 17:18:22 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/vw0m2zlqhbl0</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/vw0m2zlqhbl0</guid>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:36 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2024 17:38 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers weren&apos;t able to perform management operations as such as adding or removing a nodes, order a new cluster, ...&lt;br /&gt;Managed Kubernetes Service clusters were not impacted.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are not able to perform management operations as such as adding or removing a nodes, order a new cluster, ...&lt;br /&gt;Managed Kubernetes Service clusters are not impacted.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 29 Apr 2024 18:15:28 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs</guid>
     </item>
     <item>
       <title>[SYD1][Public Cloud] - OpenStack API incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public cloud API is down for SYD1 and also we will not be able to provision VPS orders or actions&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 Apr 2024 17:09:30 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2024 17:38 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public cloud API was down for SYD1 and we weren&apos;t able to provision VPS orders or actions&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public cloud API is down for SYD1 and also we will not be able to provision VPS orders or actions&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href=&quot;https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 29 Apr 2024 18:13:02 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/kczp5kfxs653</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/kczp5kfxs653</guid>
     </item>
     <item>
-      <title>[SYD1][Containers &amp; Orchestration] - Managed Kubernetes Service incident notification</title>
+      <title>[SYD][Public Cloud] - Object Storage Swift incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:36 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are not able to perform management operations as such as adding or removing a nodes, order a new cluster, ...&lt;br /&gt;Managed Kubernetes Service clusters are not impacted.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Mon, 29 Apr 2024 16:46:26 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/l103h0nmmmrs</guid>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2024 17:38 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer couldn&apos;t authenticate on Object Storage Swift on SYD region&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 29/04/2024 16:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer can&apos;t authenticate on Object Storage Swift on SYD region&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Mon, 29 Apr 2024 18:11:06 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/vw0m2zlqhbl0</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/vw0m2zlqhbl0</guid>
     </item>
     <item>
       <title>[GRA/BHS/RBX/DE/SGP][Storage] - Object Storage S3 Standard/High Perf</title>
@@ -209,6 +201,15 @@
       <pubDate>Wed, 03 Apr 2024 02:04:56 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/j0qhp779kwvx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/j0qhp779kwvx</guid>
+    </item>
+    <item>
+      <title>[BHS3][Public Cloud] - Keystone Upgrade</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Public Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2024  14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/04/2024  18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness in API Calls&lt;br /&gt;&lt;b&gt;Related incident :&lt;/b&gt; &lt;a href=&quot;https://customer-service.status-ovhcloud.com/incidents/zysggckls8sp&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to do a Keystone upgrade to increase the stability of our service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 02 Apr 2024 18:02:16 +0000</pubDate>
+      <maintenanceEndDate>Tue, 02 Apr 2024 18:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/4jxtnlqd2cwk</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/4jxtnlqd2cwk</guid>
     </item>
   </channel>
 </rss>

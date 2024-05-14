@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 14 May 2024 20:02:18 +0000</pubDate>
+    <pubDate>Tue, 14 May 2024 20:11:45 +0000</pubDate>
     <item>
       <title>[GRA2][vRack] - vRack - upgrade maintenance</title>
       <description>
@@ -69,6 +69,15 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wbbs8g3y93gs</guid>
     </item>
     <item>
+      <title>[ERI1/LIM1/LIM3/SBG3/SBG5/SGP1/SYD1/WAW1][Dedicated Servers] - Boot Firmware Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our infrastructure.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/05/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance may affect reboots to disk or in rescue mode for servers running very old hardware &lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in ERI1/LIM1/LIM3/SBG3/SBG5/SGP1/SYD1/WAW1 from SYSLINUX to iPXE.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 20 May 2024 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 20 May 2024 10:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jlph0s0hxcyk</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jlph0s0hxcyk</guid>
+    </item>
+    <item>
       <title>[MUM][Network] - Background infrastructure operation</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network offer.  &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/05/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/05/2024 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Network automation will be paused for 2 hours during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for the management of the background infrastructure.&lt;/p&gt;      </description>
@@ -98,8 +107,8 @@
     <item>
       <title>[YNM][Dedicated Servers] - Rack YNM0101B01B/YNM0101B01C/YNM0101C02A</title>
       <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 18:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the racks YNM0101B01B/YNM0101B01C/YNM0101C02A are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 14 May 2024 19:51:22 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 18:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the racks YNM0101B01B/YNM0101B01C/YNM0101C02A are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 14 May 2024 20:11:45 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/34v034nyhj04</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/34v034nyhj04</guid>
     </item>
@@ -209,15 +218,6 @@
       <pubDate>Fri, 10 May 2024 06:20:11 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jb03kgc2tb92</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jb03kgc2tb92</guid>
-    </item>
-    <item>
-      <title>[BHS1/BHS7/GRA3/RBX8][Network] - Network equipment version upgrade</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our vRack Private Network offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/05/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/05/2024 02:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.µµ&lt;/p&gt;      </description>
-      <pubDate>Fri, 10 May 2024 01:32:42 +0000</pubDate>
-      <maintenanceEndDate>Fri, 10 May 2024 02:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/0qykp3l2b1py</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/0qykp3l2b1py</guid>
     </item>
   </channel>
 </rss>

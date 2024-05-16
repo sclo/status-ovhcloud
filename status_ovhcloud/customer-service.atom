@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2024-05-16T10:25:59Z</updated>
+  <updated>2024-05-16T10:50:08Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/20802352</id>
+    <published>2024-05-16T10:50:08Z</published>
+    <updated>2024-05-16T10:50:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/3dh8gz0xjzzj"/>
+    <title>[GLOBAL][Customer Service] - API and order funnel issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/05/2024 09:10 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/05/2024 10:10 UTC&lt;br /&gt;&lt;b&gt;Service impact:&lt;/b&gt; Customers weren't able to place orders for public cloud offer&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/20780097</id>
     <published>2024-05-16T10:25:59Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/zpxpg3jjgyr5"/>
     <title>[EU][Customer Service] - Control Panel and API databases maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Due to a problem that occurred during this maintenance operation, an incident is in progress.&lt;br /&gt;For more information, please consult this link: https://customer-service.status-ovhcloud.com/incidents/c78dn6k1v0x1&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/12/2023 05:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/12/2023 07:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Few seconds of downtime.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we are doing a version upgrade.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/19495440</id>
-    <published>2023-12-21T07:18:20Z</published>
-    <updated>2023-12-21T07:18:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/c78dn6k1v0x1"/>
-    <title>[EU][Customer Service] - Control Panel and API databases incident notifications</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/12/2023 06:25 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/12/2023 07:04 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to a problem that occurred during operations on this maintenance: https://customer-service.status-ovhcloud.com/incidents/zpxpg3jjgyr5.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;06:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/12/2023 06:25 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Order funnel is unavailable for EU customers, you may be unable to place orders.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to a problem that occurred during operations on this maintenance: https://customer-service.status-ovhcloud.com/incidents/zpxpg3jjgyr5.&lt;br /&gt;It is currently impossible to place orders for customers in Europe.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on this issue. &lt;br /&gt;Update will be made when significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

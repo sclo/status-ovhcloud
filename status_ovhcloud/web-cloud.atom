@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-05-21T14:38:15Z</updated>
+  <updated>2024-05-21T15:35:02Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -95,6 +95,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/pjy8kzd788yy"/>
     <title>[GRA][Web Hosting] - Cluster026 - filerz1014</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting offer. &lt;br /&gt;&lt;br /&gt;This temporarily affect availability of filerz1014.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/05/2024 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/05/2024 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Targeted filerz will have a downtime of 60min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are going to update filerz1014 of the Cluster026 to a newer and more stable version.&lt;br /&gt;The goal of this maintenance is to improve the performance and enhance the security of our infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20842461</id>
+    <published>2024-05-21T15:35:02Z</published>
+    <updated>2024-05-21T15:35:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/zxvhplh8pkzs"/>
+    <title>[RBX/SGB][Telecom manager] - Problem while loading SIP lines</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;15:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 21/05/2024 16:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; API call does not work, this only affects the loading of services (SIP lines) in the telecom manager&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; A reboot is in progress.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20831936</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/z2yvbzc0d807"/>
     <title>[GRA1/2][WebHosting] - Filerz1671/1657- Cluster031/029</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/05/2024 01:00  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 60min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We are going to update the filerz below (webhosting server) to a newer and more stable version.&lt;br /&gt;The goal of this maintenance is to improve the performance and enhance  the security of our infrastructure.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/20733792</id>
-    <published>2024-05-14T23:17:11Z</published>
-    <updated>2024-05-14T23:17:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/0hzxj2rt6dt4"/>
-    <title>[GRA3][WebHosting] - Filerz1709/1679- Cluster031/027</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;23:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;22:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 21:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/05/2024 23:30  UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 60min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We are going to update the filerz below (webhosting server) to a newer and more stable version.&lt;br /&gt;The goal of this maintenance is to improve the performance and enhance  the security of our infrastructure.&lt;/p&gt;</content>
   </entry>
 </feed>

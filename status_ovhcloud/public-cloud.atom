@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-05-23T04:14:17Z</updated>
+  <updated>2024-05-23T08:21:05Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20859617</id>
+    <published>2024-06-24T08:00:00Z</published>
+    <updated>2024-05-23T08:17:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zx3y0pxqbjqf"/>
+    <title>[GRA11][Public Cloud] - Software upgrades</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Public Cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/06/2024 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/06/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Services offline on targeted hosts for at least 15 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to apply software upgrades on some hosts.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;We advise that due to the non-mitigable nature of H100 instances, it is necessary to execute the upgrades while active customers are utilizing these hosts.&lt;br /&gt;&lt;br /&gt;An individual communication will be sent to impacted customers.&lt;br /&gt;&lt;br /&gt;Please be informed that during the maintenance period, the instances assigned to the targeted customers will experience temporary disruption as a consequence. We appreciate your understanding and cooperation in this matter, as we continue to improve our services.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20562571</id>
     <published>2024-06-19T07:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/y56xmf2dqq38"/>
     <title>[BHS5][Block storage] - Volume creation incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;12:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 19:33 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2024 00:24 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;00:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams implemented a temporary fix. No more impact is being observed. &lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 19:33 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness on volume creation in block storage.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20500970</id>
-    <published>2024-04-11T12:44:40Z</published>
-    <updated>2024-04-11T12:44:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bjjz2h3f93q9"/>
-    <title>[BHS5][Containers &amp; Orchestration] - Managed Kubernetes Service</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 19:33 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2024 00:24 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;00:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our technical teams implemented a temporary fix. No more impact is being observed. &lt;br /&gt;Our teams are currently monitoring the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;00:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 10/04/2024 19:33 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Slowness and timeout might be faced by customers trying to create, modify and delete a volume.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; &lt;a href="https://public-cloud.status-ovhcloud.com/incidents/y56xmf2dqq38"&gt; Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

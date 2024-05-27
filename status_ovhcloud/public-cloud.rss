@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 27 May 2024 10:44:27 +0000</pubDate>
+    <pubDate>Mon, 27 May 2024 12:33:44 +0000</pubDate>
     <item>
       <title>[GRA11][Public Cloud] - Software upgrades</title>
       <description>
@@ -22,6 +22,15 @@
       <maintenanceEndDate>Wed, 19 Jun 2024 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/l6p90gzskll4</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Storage] - Object Storage maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Object Storage offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/06/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/06/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Unless a specific storage class configuration is in place on your software, no impact is to be expected.&lt;br /&gt;If not, please refer to our &lt;a href=&quot;https://help.ovhcloud.com/csm/en-gb-public-cloud-storage-s3-location?id=kb_article_view&amp;sysparm_article=KB0047382&quot;&gt;dedicated page&lt;/a&gt; for storage class correspondence by offer.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our service, we will be rolling out an update for Object Storage.&lt;br /&gt;The objective of this maintenance is to enable customers to address all our storage classes on a single &lt;b&gt;.io&lt;/b&gt; endpoint, while ensuring backward compatibility with the current operation of your tools via the &lt;b&gt;.perf&lt;/b&gt; endpoint.&lt;br /&gt;The maintenance will take place in 2 stages:&lt;br /&gt;    - The first one will be the 10/06/2024 from 07:00 UTC till 16:00 UTC.&lt;br /&gt;    - The second one will be the 17/06/2024 from 07:00 UTC till 16:00 UTC.&lt;br /&gt;    &lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 10 Jun 2024 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 18 Jun 2024 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/p5m0r68vrvr5</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/p5m0r68vrvr5</guid>
     </item>
     <item>
       <title>[GRA3/5/7/9/11][Public Cloud] - Network maintenance notification</title>
@@ -207,14 +216,6 @@
       <maintenanceEndDate>Tue, 16 Apr 2024 01:50:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8b9p837prspt</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8b9p837prspt</guid>
-    </item>
-    <item>
-      <title>PCI - BHS5 - host448864</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;br /&gt;Host is now healthy&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected switches&lt;/div&gt;&lt;br /&gt;bhs8-pciz3host37-a70&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected racks&lt;/div&gt;&lt;br /&gt;BHS0815B02A&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host448864&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;update-title span3 font-large&quot;&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;16820ed2-bb4b-472e-952b-e7d5272baa33&lt;br /&gt;60583f5d-45a5-4e6e-80fe-b1255df9b0f7&lt;br /&gt;7deabec9-0422-4dff-a1a6-4e43f2771f0e&lt;/p&gt;      </description>
-      <pubDate>Mon, 15 Apr 2024 14:05:03 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/lc1k49xg282q</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/lc1k49xg282q</guid>
     </item>
   </channel>
 </rss>

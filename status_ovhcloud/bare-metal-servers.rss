@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 31 May 2024 21:19:47 +0000</pubDate>
+    <pubDate>Fri, 31 May 2024 21:27:34 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - API change for OS reinstallation</title>
       <description>
@@ -67,6 +67,15 @@
       <maintenanceEndDate>Tue, 18 Jun 2024 04:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/s8sr75bsrk39</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/s8sr75bsrk39</guid>
+    </item>
+    <item>
+      <title>[RBX6][Dedicated Servers] - vRack maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our vRack offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/06/2024 01:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/06/2024 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be temporarily unavailable for 2 hours during the maintenance for some servers in racks 46H17, 46H20, 46H21, 46H22, 46H23, 46H24, 46H25, 46H26, 46H27, 46H28, 46I02, 46I03, 46I29, 46I30, 46I31, 46N02, 46N03, 46N04, 46N05, 46N09 &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 14 Jun 2024 01:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 14 Jun 2024 04:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6grfm7g8cktb</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6grfm7g8cktb</guid>
     </item>
     <item>
       <title>[BHS5][Dedicated Servers] - vRack maintenance notification</title>
@@ -212,15 +221,6 @@
       <maintenanceEndDate>Tue, 28 May 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/lc2rrhwn9g5m</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/lc2rrhwn9g5m</guid>
-    </item>
-    <item>
-      <title>[Global][Dedicated Servers] - SSH key migration</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our infrastructure offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/05/2024  08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/05/2024  08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; SSH key-based authentication behavior change on Linux rescue for dedicated servers&lt;br /&gt;&lt;br /&gt;You can ignore this message in one of the following situations:&lt;br /&gt;- you don&apos;t know what a &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949#linux-rescue&quot;&gt;Linux rescue&lt;/a&gt; is,&lt;br /&gt;- you are using &lt;a href=&quot;https://www.ovh.com/manager&quot;&gt;OVHcloud control panel&lt;/a&gt; rather than &lt;a href=&quot;https://api.ovh.com/console/&quot;&gt;OVHcloud API&lt;/a&gt; to boot your dedicated server into Linux rescue,&lt;br /&gt;- you are using password-base rather than ssh key-based authentication when booting your dedicated server into Linux rescue.&lt;br /&gt;&lt;br /&gt;We have simplified the mechanism used to configure SSH key-based authentication when booting you server into Linux rescue mode.&lt;br /&gt;&lt;br /&gt;In the past, SSH key-based authentication was used with the &lt;a href=&quot;https://api.ovh.com/console/?section=%2Fme&amp;branch=v1#put-/me/sshKey/-keyName-&quot;&gt;default SSH&lt;/a&gt; key associated to your nic.&lt;br /&gt;&lt;br /&gt;The 13rd of May 2024, we have removed that mechanism and you now need to set the &lt;em&gt;rescueSshKey&lt;/em&gt; directly as attribut for every server: &lt;a href=&quot;https://api.ovh.com/console/?section=%2Fdedicated%2Fserver&amp;branch=v1#put-/dedicated/server/-serviceName-&quot;&gt;PUT /dedicated/server/{serviceName}&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The 28th of May 2024, we will:&lt;br /&gt;- remove the API call &lt;a href=&quot;https://api.ovh.com/console/?section=%2Fme&amp;branch=v1#put-/me/sshKey/-keyName-&quot;&gt;PUT /me/sshKey/{keyName}&lt;/a&gt; (other API calls of the &lt;a href=&quot;https://api.ovh.com/console/?section=%2Fme&amp;branch=v1#get-/me/sshKey&quot;&gt;/me/sshKey/&lt;/a&gt; section will &lt;strong&gt;NOT&lt;/strong&gt; be affected)&lt;br /&gt;- configure for you the &lt;em&gt;rescueSshKey&lt;/em&gt; for all servers belonging to a nic with a SSH key set as default and if not already done by yourself on this server, so you won&apos;t be impacted whenever you decide to reboot your server into rescue.&lt;br /&gt;&lt;br /&gt;Note that you will eventually need to perform a change in your provisioning scripts for any newly ordered server to integrate a &lt;a href=&quot;https://api.ovh.com/console/?section=%2Fdedicated%2Fserver&amp;branch=v1#put-/dedicated/server/-serviceName-&quot;&gt;PUT /dedicated/server/{serviceName}&lt;/a&gt; to set the SSH public key.&lt;/p&gt;      </description>
-      <pubDate>Tue, 28 May 2024 09:13:19 +0000</pubDate>
-      <maintenanceEndDate>Tue, 28 May 2024 09:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/53vjwbzmbx55</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/53vjwbzmbx55</guid>
     </item>
   </channel>
 </rss>

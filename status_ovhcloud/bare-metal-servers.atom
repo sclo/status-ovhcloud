@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-06-04T13:29:57Z</updated>
+  <updated>2024-06-04T15:03:23Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/06/2024 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/06/2024 21:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be doing electrical works on rack R717B08.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20994268</id>
+    <published>2024-06-06T09:00:00Z</published>
+    <updated>2024-06-04T15:03:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/93696gzp3nc3"/>
+    <title>[Global][Operating System] - Removal of the vSphere Hypervisor (ESXi 7.x and 8.x)</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Due to Broadcom's acquisition of VMware, Broadcom has decided to end the general availability of their Free vSphere Hypervisor (ESXi). OVHcloud will remove all ESXi images from our Operating System Template Catalog for our BareMetal Dedicated Servers on June, 6th 2024. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/06/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Free vSphere Hypervisor (ESXi) images removed&lt;br /&gt;&lt;br /&gt;Please note that this change will not impact your current servers utilizing ESXi images. &lt;br /&gt;However, you will not be able to reinstall your current server or install a new server using any of the ESXi templates previously provided by OVHcloud.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20932237</id>
     <published>2024-06-06T07:00:00Z</published>
     <updated>2024-05-30T08:29:10Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/rgmhl45nc5pc"/>
     <title>[GRA3][Network] - Network Maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;00:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance wont be completed in scheduled time.&lt;br /&gt;It has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/05/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/05/2024 01:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20941177</id>
-    <published>2024-05-30T22:14:03Z</published>
-    <updated>2024-05-30T22:14:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mv9cfb8jcwkd"/>
-    <title>[RBX8][Dedicated Servers] - Racks R806L19/R806L20/R806L21</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;22:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/05/2024 21:51 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/05/2024 22:12 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in racks R806L19, R806L20 and R806L21 were temporarily unavailable &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;22:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 30/05/2024 21:51 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in racks R806L19, R806L20 and R806L21 are temporarily unavailable &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical issue&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently working to solve the problem. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

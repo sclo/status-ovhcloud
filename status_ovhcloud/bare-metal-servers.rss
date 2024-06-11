@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 10 Jun 2024 11:11:25 +0000</pubDate>
+    <pubDate>Tue, 11 Jun 2024 16:03:33 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - API change for OS reinstallation</title>
       <description>
@@ -103,6 +103,15 @@
       <maintenanceEndDate>Tue, 18 Jun 2024 04:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/s8sr75bsrk39</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/s8sr75bsrk39</guid>
+    </item>
+    <item>
+      <title>[RBX1][Dedicated Servers] - Boot Firmware Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/06/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance may affect reboots to disk or in rescue mode for servers running very old hardware &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in RBX1&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Jun 2024 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 17 Jun 2024 10:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ptkpn4b6c0yt</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ptkpn4b6c0yt</guid>
     </item>
     <item>
       <title>[RBX2][Dedicated Servers] - Rack 24C01</title>
@@ -216,15 +225,6 @@
       <maintenanceEndDate>Thu, 06 Jun 2024 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/4km2ht0cb9m8</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/4km2ht0cb9m8</guid>
-    </item>
-    <item>
-      <title>[RBX1/RBX2][Dedicated Servers] - Servers migration from RBX1 to RBX2</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 02/06/2024 22:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/06/2024 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Servers being moved from RBX1 to RBX2 might be unavailable for up to 7 hours during the night (22:00 UTC =&gt; 05:00 UTC).&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt;  As part of our continuous improvement policy of our network infrastructure, we will have to move servers from RBX1 to RBX2 due to the EoL (End of life) of RBX1.&lt;/p&gt;      </description>
-      <pubDate>Wed, 05 Jun 2024 01:14:39 +0000</pubDate>
-      <maintenanceEndDate>Wed, 05 Jun 2024 05:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hvnrfnmfs6bm</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hvnrfnmfs6bm</guid>
     </item>
   </channel>
 </rss>

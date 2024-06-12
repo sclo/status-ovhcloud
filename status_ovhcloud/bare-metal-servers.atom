@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-06-12T17:47:31Z</updated>
+  <updated>2024-06-12T18:34:18Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -145,6 +145,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our vRack offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/06/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be temporarily unavailable for 2 hours during the maintenance for racks T05F16, T05F24, T05F26, T05F27, T05F30, T05F31, T05F33, T05F34, T05F35, T05F37, T05F38, T05F39, T05G08, T05G22, T05G23 and T06A02.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21088773</id>
+    <published>2024-06-12T18:34:18Z</published>
+    <updated>2024-06-12T18:34:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/w4xhz0txyw6y"/>
+    <title>[RBX6][Dedicated Servers] - Multiple Rack</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 18:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Vrack network is down on 46H29 - 46H30 - 46H31 - 46G31 - 46G30 - 46G28 - 46G27 - 46G26 - 46G25 - 46G24 - 46G23 - 46G22 - 46G21 - 46G20 - 46G19 - 46G18 - 46G17 - 46D10 and 46D09&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20855778</id>
     <published>2024-06-12T17:47:31Z</published>
     <updated>2024-06-12T17:47:31Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hyz479z201vb"/>
     <title>[RBX4][Dedicated Servers] - Rack 54B11</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2024 07:17 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/06/2024 09:26 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2024 07:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network device are unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment malfunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are working to fix the issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/06/2024 07:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network device are unreachable&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/20990202</id>
-    <published>2024-06-08T21:42:42Z</published>
-    <updated>2024-06-08T21:42:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/yl6qhc2bbk74"/>
-    <title>[RBX7][Dedicated Servers] - Rack R717B08</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/06/2024 20:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/06/2024 21:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be doing electrical works on rack R717B08.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

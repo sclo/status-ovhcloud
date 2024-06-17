@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-06-17T02:48:10Z</updated>
+  <updated>2024-06-17T07:41:23Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -121,6 +121,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/06/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; This maintenance may affect reboots to disk or in rescue mode for servers running very old hardware &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our servers, we will be changing the boot firmware of legacy boot servers in RBX1&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21132265</id>
+    <published>2024-06-17T07:41:23Z</published>
+    <updated>2024-06-17T07:41:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/tnkpz853pvgj"/>
+    <title>[GRA1][Dedicated Servers] - Multiple racks unreachable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;07:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 17/06/2024 06:35 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers in the following racks G108A12, G108A15, G132A16, G118B02, G108A02, G118B17, G118B19, G132B22, G118B15, 118B18, 118B12 and G211B04 are unreachable&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Due to the following maintenance operations: https://network.status-ovhcloud.com/incidents/c31tq8g5grcq&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21022060</id>
     <published>2024-06-17T02:48:10Z</published>
     <updated>2024-06-17T02:48:10Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/wqndmbqh4k34"/>
     <title>[BHS5][Dedicated Servers] - vRack maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our vRack offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/06/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/06/2024 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack will be temporarily unavailable for 2 hours during the maintenance for racks T05F16, T05F24, T05F26, T05F27, T05F30, T05F31, T05F33, T05F34, T05F35, T05F37, T05F38, T05F39, T05G08, T05G22, T05G23 and T06A02.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to upgrade a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21089518</id>
-    <published>2024-06-12T21:29:41Z</published>
-    <updated>2024-06-12T21:29:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/jstbnvwgcn1d"/>
-    <title>[RBX4][Dedicated Servers] - Racks 54D06 - 54D09</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 19:55 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/06/2024 20:12 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 19:55 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is down&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are working to fix de issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 19:55 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network is down&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

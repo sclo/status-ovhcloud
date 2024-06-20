@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-06-19T16:22:44Z</updated>
+  <updated>2024-06-20T07:35:36Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/zx3y0pxqbjqf"/>
     <title>[GRA11][Public Cloud] - Software upgrades</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Public Cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/06/2024 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/06/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Services offline on targeted hosts for at least 15 minutes&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to apply software upgrades on some hosts.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;We advise that due to the non-mitigable nature of H100 instances, it is necessary to execute the upgrades while active customers are utilizing these hosts.&lt;br /&gt;&lt;br /&gt;An individual communication will be sent to impacted customers.&lt;br /&gt;&lt;br /&gt;Please be informed that during the maintenance period, the instances assigned to the targeted hypervisors will experience temporary disruption as a consequence. We appreciate your understanding and cooperation in this matter, as we continue to improve our services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21165725</id>
+    <published>2024-06-20T07:35:36Z</published>
+    <updated>2024-06-20T07:35:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3t3gyzrjp3zt"/>
+    <title>[DE][Storage] - Object Storage S3 Standard/High Perf</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2024 07:05 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/06/2024 07:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Client encounters 500/503 errors&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware malfunction&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20562571</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pgjpj82wh2pp"/>
     <title>[GRA1/RBX7/WAW1][Public Cloud] - Private network (vRack)</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;23:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our private network offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/05/2024 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to a maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20774263</id>
-    <published>2024-05-13T13:55:41Z</published>
-    <updated>2024-05-13T13:55:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/f11bwhg0zqvw"/>
-    <title>PCI - GRA7 - host1320439</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected switches&lt;/div&gt;&lt;br /&gt;gra2-pciz2host109-a70&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected racks&lt;/div&gt;&lt;br /&gt;G264A16&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1320439&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;3be08606-dca1-4f2f-af95-2436c17155d1&lt;br /&gt;4b487c15-e615-4333-91bc-9295f6b4bbfd&lt;br /&gt;e745853b-5f35-4dfc-9e08-c84fcfb53e8b&lt;/p&gt;</content>
   </entry>
 </feed>

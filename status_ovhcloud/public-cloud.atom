@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-06-25T09:47:38Z</updated>
+  <updated>2024-06-26T04:19:15Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1vf7cvg8v3j9"/>
     <title>[GRA/BHS][LogsDataPlatform] - OpenSearch upgrade notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/08/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/08/2024 15:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Logs ingestion will be lagging for 60 minutes and OpenSearch API and OpenSearch Dashboards will be unavailable for 60 minutes during the maintenance.&lt;br /&gt;Graylog API and WebUI will still be available.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As Part of our continuous improvement policy, we will perform a &lt;a href="https://help.ovhcloud.com/csm/fr-logs-data-platform-upgrade-to-opensearch-2?id=kb_article_view&amp;sysparm_article=KB0063387"&gt; major upgrade on OpenSearch and OpenSearch Dashboards from version 1 to 2&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21223410</id>
+    <published>2024-07-24T20:00:00Z</published>
+    <updated>2024-06-26T04:19:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/64zbqfvwvz74"/>
+    <title>[GRA3/5/7/9/11][Public Cloud] - Network maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;04:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - This maintenance may temporarily affect Latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/07/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/07/2024 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None. Except in rare case latencies may be noted to reach PCI instances running &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out a network hardware upgrade in our Graveline Datacenters&lt;br /&gt;The operation is carried out in several steps: &lt;br /&gt;&lt;br /&gt;&lt;i&gt;-Step 1: Preparation of the operation (about 3 hours)&lt;br /&gt;-Step 2: New hardware implementation (about 2 hours)&lt;br /&gt;-Step 3: Test and activation of the new hardware (about 2 hours)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The critical phase of this upgrade is tentatively scheduled between 11:00 PM UTC and 1:00 AM UTC. We are not expecting any impact. However in case of an issue the rollback can be managed in less than 30 minutes.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20859617</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mynznzwz5666"/>
     <title>[BHS5][Network] - OpenStack router</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/05/2024 20:12 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/05/2024 21:04 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Services are working as they should be.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 16/05/2024 20:12 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Creation of OpenStack routers is currently unavailable on BHS5. &lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Actual infrastructure is not affected.&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20785568</id>
-    <published>2024-05-14T15:33:10Z</published>
-    <updated>2024-05-14T15:33:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kpgdg9n0zd2c"/>
-    <title>[BHS][Storage] - Object Storage S3 Standard/High Perf</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 13:50 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/05/2024 14:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Services are working as they should be.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; It was due to a malfunction on a software&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/05/2024 13:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may face 500/503 errors.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

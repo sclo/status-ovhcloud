@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2024-06-26T15:52:20Z</updated>
+  <updated>2024-06-26T22:01:53Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn"/>
     <title>[Global][Dedicated Servers] - API call removal</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; - &lt;var data-var='time'&gt;08:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our API. &lt;br /&gt;&lt;br /&gt;The 03th of July 2024, the following API call will be definitely removed:&lt;br /&gt; &lt;a href="https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/install/templateCapabilities"&gt;GET /dedicated/server/{serviceName}/install/templateCapabilities&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/07/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/07/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This API call was previously useful for old Windows OS installers that were not compatible with installation on another diskgroup on servers with multiple diskgroups.&lt;br /&gt;Since then all OSes can be installed on any diskgroup. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21231965</id>
+    <published>2024-06-26T22:01:53Z</published>
+    <updated>2024-06-26T22:01:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/37swlxrv6h73"/>
+    <title>[RBX8][Dedicated Servers] - Rack R821R26</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/07/2024 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;Some servers in the rack R821R26 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21227665</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/zkgp56cj5h6g"/>
     <title>[BHS7][Dedicated Servers] - Rack B718B05</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2024 16:44 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/06/2024 17:16 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident was due to network equipment issue.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2024 16:44 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network are temporarily unavailable on servers in rack B718B05&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/21165312</id>
-    <published>2024-06-20T07:02:15Z</published>
-    <updated>2024-06-20T07:02:15Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/mk1j5j5g39h6"/>
-    <title>[GRA1][Dedicated Servers] - Racks G126B15 - G128B07 - G107A09</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2024 06:40 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/06/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The interruption is due to the following maintenance https://network.status-ovhcloud.com/incidents/rhv091kw8fgy &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;06:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;06:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/06/2024 06:40 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A significant number of servers in the racks G126B15 - G128B07 - G107A09 are no longer responding&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The interruption is due to the following maintenance https://network.status-ovhcloud.com/incidents/rhv091kw8fgy&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our team are working to fix the issue.&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 01 Jul 2024 10:15:17 +0000</pubDate>
+    <pubDate>Mon, 01 Jul 2024 10:36:01 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - API change for OS reinstallation</title>
       <description>
@@ -51,15 +51,6 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wtrfp26kfgyf</guid>
     </item>
     <item>
-      <title>[Global][Dedicated Servers] - API call removal</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;08:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our API. &lt;br /&gt;&lt;br /&gt;The 03th of July 2024, the following API call will be definitely removed:&lt;br /&gt; &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/install/templateCapabilities&quot;&gt;GET /dedicated/server/{serviceName}/install/templateCapabilities&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/07/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/07/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This API call was previously useful for old Windows OS installers that were not compatible with installation on another diskgroup on servers with multiple diskgroups.&lt;br /&gt;Since then all OSes can be installed on any diskgroup. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 03 Jul 2024 08:30:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 03 Jul 2024 08:45:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</guid>
-    </item>
-    <item>
       <title>[RBX8][Network] - Network equipment maintenance notification</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/07/2024 01:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/07/2024 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams are going to do a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
@@ -76,6 +67,15 @@
       <maintenanceEndDate>Tue, 02 Jul 2024 22:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/x4gt7h4yjd5j</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/x4gt7h4yjd5j</guid>
+    </item>
+    <item>
+      <title>[Global][Dedicated Servers] - API call removal</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - This maintenance will be postponed to a later date.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our API. &lt;br /&gt;&lt;br /&gt;The 03th of July 2024, the following API call will be definitely removed:&lt;br /&gt; &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/install/templateCapabilities&quot;&gt;GET /dedicated/server/{serviceName}/install/templateCapabilities&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/07/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/07/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This API call was previously useful for old Windows OS installers that were not compatible with installation on another diskgroup on servers with multiple diskgroups.&lt;br /&gt;Since then all OSes can be installed on any diskgroup. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Jul 2024 10:36:01 +0000</pubDate>
+      <maintenanceEndDate>Wed, 03 Jul 2024 08:45:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</guid>
     </item>
     <item>
       <title>[RBX8][Network] - Rack R806R24</title>

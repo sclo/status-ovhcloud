@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 03 Jul 2024 14:03:58 +0000</pubDate>
+    <pubDate>Wed, 03 Jul 2024 20:46:14 +0000</pubDate>
     <item>
       <title>[GRA/BHS][LogsDataPlatform] - OpenSearch upgrade notification</title>
       <description>
@@ -13,6 +13,14 @@
       <maintenanceEndDate>Tue, 27 Aug 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1vf7cvg8v3j9</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1vf7cvg8v3j9</guid>
+    </item>
+    <item>
+      <title>[Global][Containers &amp; Orchestration] - Managed Kubernetes Service incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/03/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer mays encounter load issue on their nodes.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on it. They are performing a rollback. An update will be posted when significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Wed, 03 Jul 2024 20:46:14 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/9yr6bbsyhlz5</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/9yr6bbsyhlz5</guid>
     </item>
     <item>
       <title>[GRA3/5/7/9/11][Public Cloud] - Network maintenance notification</title>
@@ -206,14 +214,6 @@
       <maintenanceEndDate>Fri, 31 May 2024 02:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/81mykwfshqcp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/81mykwfshqcp</guid>
-    </item>
-    <item>
-      <title>[EU][Public Cloud] - Management incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 16:18 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/05/2024 15:20 UTC&lt;br /&gt;&lt;b&gt;Related incident :&lt;/b&gt; &lt;a href=&quot;https://customer-service.status-ovhcloud.com/incidents/zysggckls8sp&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Adding a new region or local zone through the manager for the Public Cloud offer was failing &lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our team is still working on this incident.&lt;br /&gt;&lt;b&gt;Update on service impact:&lt;/b&gt; When adding a new region through the manager, you may experience errors up to 10 minutes when navigating in the manager. After maximum 10 minutes, the issue will be automatically resolved.&lt;br /&gt;&lt;br /&gt;Future changes are coming to mitigate the problem. These changes are currently in testing phases and will be deployed as soon as possible.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our teams are preparing a patch to mitigate this issue.&lt;br /&gt;Maintenance notifications will be sent.&lt;br /&gt;We apologize for any inconvenience caused.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - After a deep investigation by our technical teams, they found that local zones can be added by submitting a request from the manager, but will take more time than expected.&lt;br /&gt;Our technical teams are currently preparing a fix to resolve the latency problem and the error message displayed on the manager which does not represent the actual status of the request.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/03/2024 16:18 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Adding a new region or local zone through the manager for the Public Cloud offer may fail &lt;br /&gt;&lt;b&gt;Related incident :&lt;/b&gt; &lt;a href=&quot;https://customer-service.status-ovhcloud.com/incidents/zysggckls8sp&quot;&gt;Incident link&lt;/a&gt;&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Tue, 28 May 2024 14:08:36 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/rsrmqv9fcx2q</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/rsrmqv9fcx2q</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 09 Jul 2024 18:00:04 +0000</pubDate>
+    <pubDate>Tue, 09 Jul 2024 18:32:33 +0000</pubDate>
     <item>
       <title>[Global][Dedicated Servers] - API change for OS reinstallation</title>
       <description>
@@ -49,6 +49,14 @@
       <maintenanceEndDate>Tue, 09 Jul 2024 22:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/7243nkjym3jk</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7243nkjym3jk</guid>
+    </item>
+    <item>
+      <title>[ERI1][Dedicated Servers] - E105B01 - E105B02 - E105B03</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 09/07/2024 18:23 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The public and vrack network unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our technical teams are working on the issue. Update will be posted as significant progress is made.&lt;/p&gt;      </description>
+      <pubDate>Tue, 09 Jul 2024 18:32:33 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tr5c3fxdkwg8</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tr5c3fxdkwg8</guid>
     </item>
     <item>
       <title>[GRA1][Dedicated Servers] - G121A11</title>
@@ -206,15 +214,6 @@
       <pubDate>Mon, 01 Jul 2024 12:11:46 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/n85vx99g4yv8</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/n85vx99g4yv8</guid>
-    </item>
-    <item>
-      <title>[Global][Dedicated Servers] - API call removal</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - This maintenance will be postponed to a later date.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our API. &lt;br /&gt;&lt;br /&gt;The 03th of July 2024, the following API call will be definitely removed:&lt;br /&gt; &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/install/templateCapabilities&quot;&gt;GET /dedicated/server/{serviceName}/install/templateCapabilities&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/07/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/07/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This API call was previously useful for old Windows OS installers that were not compatible with installation on another diskgroup on servers with multiple diskgroups.&lt;br /&gt;Since then all OSes can be installed on any diskgroup. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Mon, 01 Jul 2024 10:36:01 +0000</pubDate>
-      <maintenanceEndDate>Wed, 03 Jul 2024 08:45:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/l504zzd033wn</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-07-10T14:10:42Z</updated>
+  <updated>2024-07-11T22:58:31Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1vf7cvg8v3j9"/>
     <title>[GRA/BHS][LogsDataPlatform] - OpenSearch upgrade notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 27/08/2024 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/08/2024 15:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Logs ingestion will be lagging for 60 minutes and OpenSearch API and OpenSearch Dashboards will be unavailable for 60 minutes during the maintenance.&lt;br /&gt;Graylog API and WebUI will still be available.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As Part of our continuous improvement policy, we will perform a &lt;a href="https://help.ovhcloud.com/csm/fr-logs-data-platform-upgrade-to-opensearch-2?id=kb_article_view&amp;sysparm_article=KB0063387"&gt; major upgrade on OpenSearch and OpenSearch Dashboards from version 1 to 2&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21386598</id>
+    <published>2024-08-20T08:00:00Z</published>
+    <updated>2024-07-11T22:58:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7s70x5y0mqxg"/>
+    <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.25</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/08/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.25). &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.26).&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21369730</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/sh3w6fjtp90g"/>
     <title>[GLOBAL][Public cloud] - Horizon console</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;08:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance has been postponed and will be rescheduled. &lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;New end time :&lt;/b&gt; 11/06/2024 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;16:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;New end time :&lt;/b&gt; 04/06/2024 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our public cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/06/2024 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/06/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade for horizon console.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20802170</id>
-    <published>2024-06-04T12:41:11Z</published>
-    <updated>2024-06-04T12:41:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/q3fgpr7pt99z"/>
-    <title>[GRA3/5/7/9/11][Public Cloud] - Network maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. We will keep you updated as soon as the date is fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - This maintenance may temporarily affect Latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/06/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/06/2024 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None. Except in rare case latencies can be noted to reach PCI instances running &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out a network hardware upgrade in our Graveline Datacenters&lt;br /&gt;The operation is carried out in several steps: &lt;br /&gt;&lt;br /&gt;&lt;i&gt;-Step 1: Preparation of the operation (about 3 hours)&lt;br /&gt;-Step 2: New hardware implementation (about 2 hours)&lt;br /&gt;-Step 3: Test and activation of the new hardware (about 2 hours)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The critical phase of this upgrade is tentatively scheduled between 11:00 PM UTC and 1:00 AM UTC. We are not expecting any impact. However in case of an issue the rollback can be managed in less than 30 minutes.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

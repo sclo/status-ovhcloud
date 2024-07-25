@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-07-24T15:03:12Z</updated>
+  <updated>2024-07-25T08:23:33Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7s70x5y0mqxg"/>
     <title>[GRA5/GRA7/GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.25</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/08/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version (1.25). &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version (1.26).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21521192</id>
+    <published>2024-07-25T08:23:33Z</published>
+    <updated>2024-07-25T08:23:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0g6f5kdlrn1q"/>
+    <title>[DE1][Containers &amp; Orchestration] - Managed Kubernetes Service incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 25/07/2024 08:04 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers may experience APIServer in read-only state&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams identified the root cause and are working on the issue. &lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21510501</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/xn86782qkfz6"/>
     <title>[GLOBAL][Storage] - Object Storage maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance won't be completed in scheduled time. It has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Storageoffer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/06/2024 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our service, we will be rolling out an update for Object Storage.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/20925494</id>
-    <published>2024-06-12T08:21:56Z</published>
-    <updated>2024-06-12T08:21:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n17r8xljpjnq"/>
-    <title>[SBG5/SBG7][PublicCloud] - OpenStack Barbican</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 12/06/2024 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/06/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to add a new store for Barbican based on OVH KMS(Key Management Services) in SBG.&lt;br /&gt;This will took effect on the Openstack region SBG5 and SBG7&lt;br /&gt;An individual communication will be sent to impacted customers.&lt;/p&gt;</content>
   </entry>
 </feed>

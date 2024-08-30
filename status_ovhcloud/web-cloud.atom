@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-08-30T20:26:51Z</updated>
+  <updated>2024-08-30T20:35:57Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/21986286</id>
+    <published>2024-09-05T23:00:00Z</published>
+    <updated>2024-08-30T20:35:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/tgz3dmv3kgkq"/>
+    <title>[GRA3][WebHosting] - Cluster001 - server1822</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;00:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;20:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our web hosting offer&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/09/2024 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/09/2024 00:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 60 minutes during the migration.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; We are going to update the server below (Mail-hosting server) to a newer and more stable version.&lt;br /&gt;The goal of this maintenance is to improve the performance and enhance the security of our infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/21986167</id>
     <published>2024-09-05T22:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/0w39m4cbq25x"/>
     <title>[GRA][Web Hosting] - cluster006 incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 27/08/2024 09:15 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/08/2024 11:45 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; ssh access were unavailable.&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/21835325</id>
-    <published>2024-08-26T21:01:23Z</published>
-    <updated>2024-08-26T21:01:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/frhhj75jr2xk"/>
-    <title>[GRA7][WebPaaS] - Routine accounts maintenance</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;08:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/08/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/08/2024 21:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All projects and environments will continue to function during the upgrade. Integrations and webhooks may fail during the maintenance, and you may notice increased deployment times &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Our partner communicated to OVHCloud that they will be doing a routine maintenance on account service.&lt;/p&gt;</content>
   </entry>
 </feed>

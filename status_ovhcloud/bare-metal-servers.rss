@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 31 Aug 2024 14:07:10 +0000</pubDate>
+    <pubDate>Sat, 31 Aug 2024 15:26:07 +0000</pubDate>
     <item>
       <title>[RBX7][Dedicated Servers] - Racks R709B04</title>
       <description>
@@ -103,6 +103,14 @@
       <maintenanceEndDate>Tue, 03 Sep 2024 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/36pkf3mcgyl5</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/36pkf3mcgyl5</guid>
+    </item>
+    <item>
+      <title>[RBX6][Dedicated Servers] - Rack R622A05</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - An incident is in progress on our Bare Metal offer. It has temporarily affected the availability.&lt;br /&gt;&lt;br /&gt;We are actively working to resolve this problem.&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/08/2024 14:44 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; All servers in the rack R622A05 are no longer responding.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams replaced another electric equipment. The servers are being monitored before confirmation of the resolution.&lt;/p&gt;      </description>
+      <pubDate>Sat, 31 Aug 2024 15:26:07 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/m6l4zcgf4rjr</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/m6l4zcgf4rjr</guid>
     </item>
     <item>
       <title>[RBX6][Dedicated Servers] - Rack R622A05</title>
@@ -210,15 +218,6 @@
       <maintenanceEndDate>Tue, 27 Aug 2024 13:15:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q8f99zk3c6mp</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q8f99zk3c6mp</guid>
-    </item>
-    <item>
-      <title>[Global][Dedicated Servers] - API call removal</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our API. &lt;br /&gt;&lt;br /&gt;The 27th of August 2024, the following API call will be definitely removed:&lt;br /&gt; &lt;a href=&quot;https://eu.api.ovh.com/console-preview/?section=%2Fdedicated%2Fserver&amp;branch=v1#get-/dedicated/server/-serviceName-/install/templateCapabilities&quot;&gt;GET /dedicated/server/{serviceName}/install/templateCapabilities&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/08/2024 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/08/2024 08:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This API call was previously useful for old Windows OS installers that were not compatible with installation on another diskgroup on servers with multiple diskgroups.&lt;br /&gt;Since then all OSes can be installed on any diskgroup. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Tue, 27 Aug 2024 09:17:23 +0000</pubDate>
-      <maintenanceEndDate>Tue, 27 Aug 2024 08:45:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/rz6dpjh8vvqc</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/rz6dpjh8vvqc</guid>
     </item>
   </channel>
 </rss>

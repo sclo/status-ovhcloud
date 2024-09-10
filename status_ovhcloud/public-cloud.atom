@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-09-10T08:43:32Z</updated>
+  <updated>2024-09-10T09:46:35Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bz81yh3ncb3j"/>
     <title>[GRA3/5/7/9/11][Public Cloud] - Network maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;This may temporarily affect Latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/09/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/09/2024 04:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None. Except in rare case latencies may be noted to reach PCI instances running &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out a network hardware upgrade in our Graveline Datacenters&lt;br /&gt;&lt;br /&gt;The operation is carried out in several steps: &lt;br /&gt;&lt;i&gt;&lt;br /&gt;- Step 1: Preparation of the operation (about 3 hours)&lt;br /&gt;- Step 2: New hardware implementation (about 2 hours) &lt;br /&gt;- Step 3: Test and activation of the new hardware (about 2 hours)&lt;br /&gt;&lt;/i&gt; &lt;br /&gt;The critical phase of this upgrade is tentatively scheduled between 10:30 PM UTC and 12:00 AM UTC. We are not expecting any impact. However in case of an issue the rollback can be managed in less than 30 minutes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22119146</id>
+    <published>2024-09-10T09:46:35Z</published>
+    <updated>2024-09-10T09:46:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/jycy5mw0nv57"/>
+    <title>[SBG][Storage] - Object Storage S3</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - An incident has occurred on our object storage service.&lt;br /&gt;&lt;br /&gt;Please note that this incident affected availability.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/09/2024 13:00 UTC&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/09/2024 13:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may face 503 errors and high response time sporadically&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to instability on one of the production servers.&lt;br /&gt;&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22054057</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kf5m50tmbgd8"/>
     <title>[GRA2][Public Cloud] - Incident notification on G202B10</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;02:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 14/08/2024 01:13 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/08/2024 01:17 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; service interruption on G202B10&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software malfunction&lt;br /&gt;&lt;br /&gt;Our technical teams resolved the issue. All impacted services are now operational.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/21680479</id>
-    <published>2024-08-08T19:32:05Z</published>
-    <updated>2024-08-30T13:49:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/yvbc7sp17crm"/>
-    <title>[GRA1/GRA2/GRA3/GRA4][Public Cloud] - Rack G122A14</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;19:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/08/2024 03:14 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  08/08/2024 09:35 UTC &lt;br /&gt;All servers and services are back to normal.&lt;br /&gt;we apologize for any inconvenience caused&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our team has fixed all servers and all services are back&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;15:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our team is fixing the last impacted servers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/08/2024 03:14 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some public cloud instances in rack G122A14 are temporarily unreachable.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Electrical disjunction&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; our team is fixing the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 08/08/2024 03:14 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some public cloud instances in rack G122A14 are temporarily unreachable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating Our technical teams are working on the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;</content>
   </entry>
 </feed>

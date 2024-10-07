@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-10-07T09:43:09Z</updated>
+  <updated>2024-10-07T10:02:28Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -41,6 +41,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our WebHosting offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/10/2024 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2024 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The filerz will have a downtime of 30min during the migration.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to migrate the Server45 (Mail server) to keep our infrastructure up-to-date&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/22435899</id>
+    <published>2024-10-07T10:02:16Z</published>
+    <updated>2024-10-07T10:02:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/rz5grhm1s2zc"/>
+    <title>[GRA][DNS] - DNS Hosting perturbation</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 07/10/2024 07:45 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2024 09:58 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/d9w3q018nf1j&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - DNS in Canada and Tunisia are not impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our  DNS offer.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/10/2024 07:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; DNS functionality is only available through RBX nodes  &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/d9w3q018nf1j&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/22436992</id>
     <published>2024-10-07T09:20:02Z</published>
     <updated>2024-10-07T09:20:02Z</updated>
@@ -55,14 +63,6 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/djbfmzsd8nqq"/>
     <title>[GRA][Web Hosting] - Cluster030 - Cluster028 - Cluster027 - Cluster026</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;09:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A specific fix is in progress.&lt;br /&gt;You can follow more update on the root incident : https://network.status-ovhcloud.com/incidents/d9w3q018nf1j&lt;br /&gt;&lt;br /&gt;Update will be post as significant progress is made.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our Web Hosting offer.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/10/2024 07:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Websites slowness on Cluster030 - Cluster028 - Cluster027 - Cluster026&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/d9w3q018nf1j&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams is working the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/22435899</id>
-    <published>2024-10-07T08:42:46Z</published>
-    <updated>2024-10-07T08:42:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/rz5grhm1s2zc"/>
-    <title>[GRA][DNS] - DNS Hosting perturbation</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - DNS in Canada and Tunisia are not impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our  DNS offer.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/10/2024 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; DNS functionality is only available through RBX nodes  &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; https://network.status-ovhcloud.com/incidents/d9w3q018nf1j&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/22391370</id>

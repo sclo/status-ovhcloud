@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 15 Oct 2024 07:19:44 +0000</pubDate>
+    <pubDate>Tue, 15 Oct 2024 09:34:55 +0000</pubDate>
     <item>
       <title>[SGP2][Public Cloud] - Network maintenance notification</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Thu, 17 Oct 2024 19:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/1rsm6tfb0hvp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/1rsm6tfb0hvp</guid>
+    </item>
+    <item>
+      <title>[RBX7][Public Cloud] - Object storage S3 Maintenance Notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Object storage S3 offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/10/2024 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/10/2024 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Please be advised that customers may experience some disruption to their access to objects during the maintenance period.&lt;br /&gt;&lt;b&gt;Related maintenance :&lt;/b&gt; Due to operations on this &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/bxyvl43q4jkq&quot;&gt;maintenance &lt;/a&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we will be performing operations on Object storage.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 17 Oct 2024 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 17 Oct 2024 20:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/s9lzpm65s2q6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/s9lzpm65s2q6</guid>
     </item>
     <item>
       <title>[GRA1][Compute] Instances unreachable</title>
@@ -203,14 +212,6 @@
       <pubDate>Wed, 18 Sep 2024 01:09:57 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r2qb4kh8j6x0</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r2qb4kh8j6x0</guid>
-    </item>
-    <item>
-      <title>[Global][Public Cloud] - Problem reconciling Octavia LoadBalancers</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/09/2024 11:50 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/09/2024 16:00 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Authorization errors prevents Load Balancers management&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our Public Cloud offer.&lt;br /&gt;&lt;br /&gt;Please be aware that this is currently affecting the availability of some services.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/09/2024 11:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers can not order or manage Octavia Load Balancers from MKS Kubernetes cluster.&lt;br /&gt;Customers may face this type of error &quot;Policy does not allow this request to be performed.&quot;&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Authorization errors prevents Load Balancers management.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are currently working on a fix of the authentication roles.&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Tue, 17 Sep 2024 16:11:00 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/1zfwgnsybczf</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/1zfwgnsybczf</guid>
     </item>
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Bare Metal Cloud Status - Incident History</title>
-    <link>http://bare-metal-servers.status-ovhcloud.com</link>
+    <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 25 Oct 2024 23:27:46 +0000</pubDate>
+    <pubDate>Fri, 25 Oct 2024 23:38:46 +0000</pubDate>
     <item>
       <title>[RBX4][Dedicated Servers] - Rack 54B20</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Thu, 07 Nov 2024 03:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wqlq0s0k16jr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wqlq0s0k16jr</guid>
+    </item>
+    <item>
+      <title>[SGP1/YNM1][Dedicated Servers] - Network equipment version upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Baremetal offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/10/2024 19:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/10/2024 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will be doing a version upgrade to multiple network equipment&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 31 Oct 2024 19:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 31 Oct 2024 23:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/t4r295yrbnx3</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/t4r295yrbnx3</guid>
     </item>
     <item>
       <title>[SGP1/YNM1][Dedicated Servers] - Network equipment version upgrade</title>
@@ -212,14 +221,6 @@
       <maintenanceEndDate>Wed, 23 Oct 2024 06:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/hcszw4d243h3</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/hcszw4d243h3</guid>
-    </item>
-    <item>
-      <title>[GRA1][Dedicated Servers] - Multiple Racks</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 22/10/2024 22:47 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/10/2024 01:51 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue on a network device&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our Bare Metal offer.&lt;br /&gt;&lt;br /&gt;We are actively working to resolve this problem.&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/10/2024 22:47 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Baremetal public network traffic may be disrupted on the wollowing racks : G118A20 - G118A15 - G118A16 - G118A14 - G118A19 - G118A12 - G118A13 - G118A10 - G118A11 - G118A09 - G118A07 - G118A08 - G117A24 - G117A23 - G118B21&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue on a network device&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;/p&gt;      </description>
-      <pubDate>Wed, 23 Oct 2024 03:02:00 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z05w7v3cjvsy</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z05w7v3cjvsy</guid>
     </item>
   </channel>
 </rss>

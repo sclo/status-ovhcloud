@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 30 Oct 2024 12:55:49 +0000</pubDate>
+    <pubDate>Wed, 30 Oct 2024 14:06:49 +0000</pubDate>
     <item>
       <title>[GRA3][Public Cloud] - instances upgrade</title>
       <description>
@@ -31,6 +31,14 @@
       <maintenanceEndDate>Wed, 30 Oct 2024 23:50:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r6yjby1tg73k</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r6yjby1tg73k</guid>
+    </item>
+    <item>
+      <title>[Global][Database] - Cloud Databases services MongoDB</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 28/10/2024 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/10/2024 11:00 UTC&lt;br /&gt;&lt;b&gt;Service Impact :&lt;/b&gt; Backups completed earlier than 28/10/2024 11h00 UTC were erroneously deleted. Restore operations based on those backups failed. We are in the process of marking those backups as status ERROR&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Software issue&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;      </description>
+      <pubDate>Wed, 30 Oct 2024 14:06:49 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/myw288fntmv3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/myw288fntmv3</guid>
     </item>
     <item>
       <title>[WAW1][Public Cloud] - Network maintenance notification</title>
@@ -206,14 +214,6 @@
       <pubDate>Fri, 27 Sep 2024 13:12:23 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/m1bs52q7d8np</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/m1bs52q7d8np</guid>
-    </item>
-    <item>
-      <title>[GRA1][Storage] - Block Storage incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2024 10:46 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/09/2024 12:43 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers were facing latencies and sometimes inaccessibility while trying to access their block storage&apos;s volumes.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Hardware issue&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; The situation is 97% recovered.&lt;br /&gt;Our technical teams are still working on the last 3% volumes impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Ongoing actions :&lt;/b&gt; The situation is 90% recovered.&lt;br /&gt;Our technical teams are still working on the last 10% volumes impacted.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 26/09/2024 10:46 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some customers are facing latencies and sometimes inaccessibility while trying to access their block storage&apos;s volumes&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 26 Sep 2024 12:47:43 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/nkryyk43znl6</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/nkryyk43znl6</guid>
     </item>
   </channel>
 </rss>

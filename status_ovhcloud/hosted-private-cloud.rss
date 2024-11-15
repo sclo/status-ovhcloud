@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 15 Nov 2024 10:57:48 +0000</pubDate>
+    <pubDate>Fri, 15 Nov 2024 15:14:02 +0000</pubDate>
     <item>
       <title>[CA][Hosted Private Cloud] - VMware Private Cloud maintenance notification</title>
       <description>
@@ -13,6 +13,15 @@
       <maintenanceEndDate>Wed, 20 Nov 2024 11:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/srgkmblds8zl</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/srgkmblds8zl</guid>
+    </item>
+    <item>
+      <title>[CA/EU][Backup as a Service] - Veeam Enterprise maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Veeam Enterprise offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/11/2024 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/11/2024 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, Veeam Enterprise service will be unavailable and customers won&apos;t be able to perform any new requests (registrations, updates, remove,...) from their backup servers to OVH Veeam enterprise manager.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we need to upgrade Veeam Enterprise servers to the latest version.  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 19 Nov 2024 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 20 Nov 2024 15:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/vg08vxst9zv9</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vg08vxst9zv9</guid>
     </item>
     <item>
       <title>[CA/EU][Hosted Private Cloud] - SSL Gateway maintenance notification</title>
@@ -212,14 +221,6 @@
       <pubDate>Sat, 26 Oct 2024 21:38:40 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/qzwq9m4n15j6</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/qzwq9m4n15j6</guid>
-    </item>
-    <item>
-      <title>[LIM1C][Hosted Private Cloud] - Storage/Management incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident have been resolved and all services are back to normal.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start Time :&lt;/b&gt; 25/10/2024 14:50 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 26/10/2024 07:30 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to an electrical issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The majority of affected services have been restored. Our teams are still working to restore services to the last affected customers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Some storage Clusters and hosts in LIM1C are temporarily unavailable.&lt;br /&gt;&lt;br /&gt;Customers weren&apos;t able to access their Veeam backup between 17:18 UTC and 17:28 UTC.&lt;br /&gt;Veeam backup service is now operational.&lt;br /&gt;&lt;br /&gt;Our technical teams are currently working on the remaining impacted clusters and hosts.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - &lt;b&gt;Service impact :&lt;/b&gt; Multiple Clusters in LIM1C are temporarily unavailable.&lt;br /&gt;Customers aren&apos;t able to access Admin VM.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are still working on the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our technical teams are still working on the incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our Hosted Private Cloud offer.&lt;br /&gt;&lt;br /&gt;Please be aware that this is currently affecting the Availability.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/10/2024 14:50 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Multiple Clusters in LIM1C are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Sat, 26 Oct 2024 10:38:33 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/rp4bp5gwhmz9</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/rp4bp5gwhmz9</guid>
     </item>
   </channel>
 </rss>

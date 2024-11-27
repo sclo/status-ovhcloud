@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2024-11-27T08:57:09Z</updated>
+  <updated>2024-11-27T09:13:34Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -17,12 +17,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='year'&gt;2025&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='year'&gt;2025&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;21:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be migrating all Managed Kubernetes Service to the new version.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/01/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/01/2025 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No impact except for the apps that do not support the new version. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The aim of this maintenance is to upgrade deprecated clusters to a supported newer version.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22983684</id>
+    <published>2024-12-05T13:40:00Z</published>
+    <updated>2024-11-27T09:08:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bhysyvfvg70t"/>
+    <title>[US-WEST-OR-1][PublicCloud] - OpenStack Barbican</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:40&lt;/var&gt; - &lt;var data-var='time'&gt;14:45&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/12/2024 13:40 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/12/2024 14:45 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to add a new store for Barbican based on OVH KMS (Key Management Services) in US-WEST-OR-1.&lt;br /&gt;This will took effect on the Openstack region US-WEST-OR-1.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22983584</id>
     <published>2024-12-04T11:15:00Z</published>
-    <updated>2024-11-27T08:57:09Z</updated>
+    <updated>2024-11-27T09:13:34Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mny51dtfv7nq"/>
     <title>[US-EAST-VA-1][PublicCloud] - OpenStack Barbican</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;11:15&lt;/var&gt; - &lt;var data-var='time'&gt;12:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2024 11:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/12/2024 12:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to add a new store for Barbican based on OVH KMS(Key Management Services) in USA.&lt;br /&gt;This will took effect on the Openstack region US-EAST-VA-1&lt;br /&gt;An individual communication will be sent to impacted customers.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;11:15&lt;/var&gt; - &lt;var data-var='time'&gt;12:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 04/12/2024 11:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/12/2024 12:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous infrastructure improvement plan, we need to add a new store for Barbican based on OVH KMS(Key Management Services) in USA.&lt;br /&gt;This will took effect on the Openstack region US-EAST-VA-1&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22792587</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/rs3y2yq1r1b6"/>
     <title>[GRA11][Containers &amp; Orchestration] - Load Balancer incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;19:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 05/11/2024 16:52 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/11/2024 19:35 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers were facing instability/service loss for the Load Balancer&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; An overload on our platform caused the incident&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;19:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our Load Balancer offer.&lt;br /&gt;&lt;br /&gt;Please be aware that this is currently affecting availability.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/11/2024 16:52 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers are facing instability/service loss for the Load Balancer&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Investigating&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/22728911</id>
-    <published>2024-11-05T17:02:19Z</published>
-    <updated>2024-11-05T17:02:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/mncslgxykrhm"/>
-    <title>[GRA5/GRA7/GRA9/GRA11/SGP1/VA1/OR1/SYD1/SBG5/WAW1/BHS5/DE1/UK1][Containers &amp; Orchestration] - Managed Kubernetes Service update</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;22:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Containers &amp; Orchestration offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/11/2024 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/11/2024 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; : This maintenance is scheduled to upgrade all clusters with a policy update configured by the customer to ALWAYS UPDATE (through the API Ovhcloud console) or to MAXIMUM SECURITY (through the Manager UI interface).&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

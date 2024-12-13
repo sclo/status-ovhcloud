@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2024-12-13T10:09:19Z</updated>
+  <updated>2024-12-13T10:20:32Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/23184194</id>
+    <published>2024-12-17T22:00:00Z</published>
+    <updated>2024-12-13T10:17:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/g3s990d6q7wz"/>
+    <title>[GRA3][WebHosting] - Maintenance notification for multiple Filerz</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/12/2024 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/12/2024 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz below will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster015 - Filerz456&lt;br /&gt;Cluster017 - Filerz309&lt;br /&gt;Cluster017 - Filerz311&lt;br /&gt;Cluster017 - Filerz310&lt;br /&gt;Cluster017 - Filerz304&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/23184111</id>
     <published>2024-12-16T22:00:00Z</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/cdrphl80tnpf"/>
     <title>[RBX/SBG][VoIP] - SIP maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 20/11/2024 19:22 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VoIP offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect functionality.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/11/2024 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/11/2024 21:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some calls may fail or be re-routed when the Pod restarts.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our policy of continuous improvement, we are carrying out maintenance on our VoIP services.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/22909460</id>
-    <published>2024-11-20T13:06:59Z</published>
-    <updated>2024-11-20T13:06:59Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/jfgvs4d5sjt4"/>
-    <title>[GRA1][Web Hosting] - Cluster028 - Filerz962</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start time :&lt;/b&gt; 20/11/2024 10:43 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/11/2024 11:15 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Incident due to a software issue.&lt;br /&gt;We would like to inform you that the incident have been resolved.&lt;br /&gt;All services are operational&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our WebHosting offer.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/11/2024 10:43 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some websites slowness on filerz962.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our technical teams are investigating the issue.&lt;br /&gt;Update will be posted as significant progress is made.&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

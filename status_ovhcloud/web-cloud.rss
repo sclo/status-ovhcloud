@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Jan 2025 10:12:02 +0000</pubDate>
+    <pubDate>Thu, 23 Jan 2025 16:30:56 +0000</pubDate>
+    <item>
+      <title>[RBX/GRA/SBG][Collaborative solutions] - Hosted Exchange maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;22:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Exchange offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/01/2025 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers will be unable to access their mails for a maximum duration of 10 minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Exchange offer, we will be doing a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Jan 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 27 Jan 2025 22:30:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/jgbp7hcyyn3v</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/jgbp7hcyyn3v</guid>
+    </item>
     <item>
       <title>[Global][Web Cloud] - MySQL 8.0 Database Upgrade maintenance</title>
       <description>
@@ -210,15 +219,6 @@
       <pubDate>Thu, 02 Jan 2025 10:24:39 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/by0n022sc9pq</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/by0n022sc9pq</guid>
-    </item>
-    <item>
-      <title>[Global][VoIP] - Change on SMS services</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VOIP/Services/SMS offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/12/2024 17:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/01/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We would like to inform you about new rules regarding Sender Management:&lt;br /&gt;&lt;br /&gt;- Using a phone number as a sender is now prohibited. Such senders will therefore be removed. (This does not apply to SMS Virtual Numbers)&lt;br /&gt;- Only non-accented alphabetic letters and numbers are allowed.&lt;br /&gt;- Spaces and special characters are strictly prohibited.&lt;br /&gt;&lt;br /&gt;As a result, OVHcloud will implement the following actions:&lt;br /&gt;- Create and validate senders derived from existing ones that comply with these new rules.&lt;br /&gt;- Allow, via the API, the use of old senders, which will be automatically translated into the new format.This translation will remain available several weeks to ensure compatibility, even after January 1st.&lt;br /&gt;- Remove invalid senders before January 1st.&lt;br /&gt;&lt;br /&gt;Customers impacted by these changes have already been contacted by email with further details.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;br /&gt;&lt;br /&gt;The OVHcloud Team&lt;/p&gt;      </description>
-      <pubDate>Thu, 02 Jan 2025 08:51:11 +0000</pubDate>
-      <maintenanceEndDate>Thu, 02 Jan 2025 09:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/ls3pn0glt233</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/ls3pn0glt233</guid>
     </item>
   </channel>
 </rss>

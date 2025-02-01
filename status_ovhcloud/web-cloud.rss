@@ -1,42 +1,227 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AFUNRrjLRAAdphO4kMAN/PmAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMCI5a/5k0+U5F6hwHAgEQgDuZM7zmD5X1UpWfitxY3y4wAKaU8FMjOXMmPS8JcaNMA7nNMhwoJ8T/EzNPDR8+fcukr6REy1/CbhJ/tQ==",
-          "iv":"EkQezgCj2QABfYwq",
-          "context":"l7ZNllasF8MCnNcnskEU6XY9zyhuCXh4gYPONh7eUfjjuX5lsG29/gLuJ+eWhrh8xb2s9cecy7LBMKmC/+uCQbpr2KgYmWbo065ulXvqh20LddECkNK5ZxAAkhgCY61Cq7w+fGDx8PGpYR7oPQ2lbz4xbeudqx9iMdyX+YGuUs13PG5Oooii60RaoacOe56zBuRUkio/i4iV2hnzYsy4E4R+rWIqlm2xFX85sMdMmjSiYVG7gjinN/a+TH8oRo1wynCvOBU6HmZKb8H8c+PgaX//H0+DPFgmdHk5E84+GGIuplMCkcOxOS3bPvq0559hMBY8GHElUylCzevfBjIKVRmeyY6iuOUO0qgK+V7r3mmGdsM3YBCYGFaHBnmnTyddqm9zSs7fh8vZF4bCUQOQKS95XoqBHIv+TFwXCo6FiFAFcEHiP0B5JpkXtWdahSFg9NE4xzkYajmS+HWFjuFOqcvRVn69Wd4dHb8x4r1al9iGuWiTpc0Y9AHeFK2aUjGdoXBBKsUre4x9jkPYE+99DlStR0nweA1dZXFvriW/Q7LJP43Kkj8cwAJ7Qj/fQPyC6OJVAOBP8ovJEcT6pttHdHEXv3eZh19iD14t3YwMr0/LWAnf2bVDVHloBuIi1n06uoF0cuKusFg9e9pbwdWxgJeRYh+dY3UPQ394Opi5hBC3XgmV/60ifvnvjNlEknA8nu6npfwHLiB929aseMmBgw34h6YOAU1N6bPnLXuyrT27QT7jkBq0uMFMRiTZ28gmGLFQgUSyQ0R45GpyaQ=="
-};
-    </script>
-    <script src="https://ee28f20db1d4.abb79484.us-east-2.token.awswaf.com/ee28f20db1d4/ad2baaf17ece/7c30d12b4b3b/challenge.js"></script>
-    <script src="https://ee28f20db1d4.abb79484.us-east-2.captcha.awswaf.com/ee28f20db1d4/ad2baaf17ece/7c30d12b4b3b/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Web Cloud Status - Incident History</title>
+    <link>https://web-cloud.status-ovhcloud.com</link>
+    <description>Statuspage</description>
+    <pubDate>Fri, 31 Jan 2025 14:11:24 +0000</pubDate>
+    <item>
+      <title>[GRA][WebHosting] - Maintenance notification on Clusters 021 - 026 - 027 - 028 - 029 - 030 - 031</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/02/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/02/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Suspension of trafic from AI &amp; content indexing bots &amp; crawlers on all impacted clusters.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out this &lt;a href=&quot;https://network.status-ovhcloud.com/incidents/y03zlt8r38lv&quot;&gt;maintenance&lt;/a&gt; in our Graveline Datacenters.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Feb 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 14 Feb 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/mrwt82jwzbs6</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/mrwt82jwzbs6</guid>
+    </item>
+    <item>
+      <title>[GRA2][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/02/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz following will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster098- Filerz98&lt;br /&gt;Cluster020 - Filerz49&lt;br /&gt;Cluster030 - Filerz1048&lt;br /&gt;Cluster026 - Filerz212&lt;br /&gt;Cluster020 - Filerz51&lt;br /&gt;Cluster026 - Filerz169&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Feb 2025 22:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 07 Feb 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/xxjs3hs7szr6</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/xxjs3hs7szr6</guid>
+    </item>
+    <item>
+      <title>[GRA1][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/02/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/02/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz following will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster003- Filerz862&lt;br /&gt;Cluster023 - Filerz144&lt;br /&gt;Cluster021 - Filerz44&lt;br /&gt;Cluster026 - Filerz201&lt;br /&gt;Cluster011 - Filerz522&lt;br /&gt;Cluster027 - Filerz287&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Feb 2025 22:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 06 Feb 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/8p7qvy9c43xm</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/8p7qvy9c43xm</guid>
+    </item>
+    <item>
+      <title>[GRA1/2/3][WebHosting] - Maintenance notification for  multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/02/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/02/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz following will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster030- Filerz1559&lt;br /&gt;Cluster031 - Filerz1661&lt;br /&gt;Cluster031 - Filerz1615&lt;br /&gt;Cluster031 - Filerz1608&lt;br /&gt;Cluster029 - Filerz1657&lt;br /&gt;Cluster020 - Filerz48&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Feb 2025 22:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 05 Feb 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/bcbdzj2y3k5q</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/bcbdzj2y3k5q</guid>
+    </item>
+    <item>
+      <title>[GRA3/1][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/02/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/02/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz following will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster028- Filerz1582&lt;br /&gt;Cluster030 - Filerz1509&lt;br /&gt;Cluster031 - Filerz1671&lt;br /&gt;Cluster030 - Filerz1565&lt;br /&gt;Cluster029 - Filerz1550&lt;br /&gt;Cluster029 - Filerz1515&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Feb 2025 22:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Feb 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/1lrk2hqrkdjh</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/1lrk2hqrkdjh</guid>
+    </item>
+    <item>
+      <title>[GRA2][Webhosting] - Filerz246</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.   &lt;br /&gt;All services are operational since 30/01/2025 22:30 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting offer. &lt;br /&gt;This will temporarily affect availability on Filerz246.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 23:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There be a downtime of 30 min during the migration on Filerz246.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The goal of this maintenance is to improve the performance and enhance the security of our infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 22:35:37 +0000</pubDate>
+      <maintenanceEndDate>Thu, 30 Jan 2025 23:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/q3kcjy691h0g</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/q3kcjy691h0g</guid>
+    </item>
+    <item>
+      <title>[RBX/GRA/SBG][Collaborative solutions] - Hosted Exchange maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed   &lt;br /&gt;All services are operational since 30/01/2025 22:05 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Exchange offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers will be unable to access their mails for a maximum duration of 10 minutes during the operation. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Exchange offer, we will be doing a maintenance on multiple network equipment.  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 22:09:33 +0000</pubDate>
+      <maintenanceEndDate>Thu, 30 Jan 2025 22:30:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/2kzvntzd7g7t</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/2kzvntzd7g7t</guid>
+    </item>
+    <item>
+      <title>[GRA][Web Cloud] - Debian Database Upgrade maintenance on Eu008</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services  have been operational since 15:39 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note that 100% of CloudDB servers are up to date.&lt;br /&gt;56% of the cluster is up to date.&lt;br /&gt;We will continue to keep you updated as we move forward.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note that 100% of CloudDB servers are up to date.&lt;br /&gt;37% of the cluster is up to date.&lt;br /&gt;We will continue to keep you updated as we move forward.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note that 25% of the migration has now been completed.&lt;br /&gt;We will continue to keep you updated as we move forward.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Database offer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/01/2025 10:46 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 1 minute downtime per customer&lt;br /&gt;&lt;b&gt;Service improvemen :&lt;/b&gt; Following our continuous improvement policy, we are doing an upgrade on Debian.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 15:48:55 +0000</pubDate>
+      <maintenanceEndDate>Thu, 30 Jan 2025 22:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/tc5zlt8bj9bb</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/tc5zlt8bj9bb</guid>
+    </item>
+    <item>
+      <title>[Global][Domain] - Domains Name incident notification on IN tld</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our Domain Names offer, customers in the impacted zone may face some difficulties.&lt;br /&gt;Please find the details:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer with a .in domains name are unable to perform some tasks.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are working to resolve the issue.&lt;br /&gt;&lt;br /&gt;We will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 15:19:39 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/r4rz97722d2j</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/r4rz97722d2j</guid>
+    </item>
+    <item>
+      <title>[GRA][WebHosting] - All clusters - all filerz maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our technical teams will deploy a new configuration on all filerz of all clusters to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 12:39:21 +0000</pubDate>
+      <maintenanceEndDate>Thu, 30 Jan 2025 13:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/htmkdsnjr7j7</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/htmkdsnjr7j7</guid>
+    </item>
+    <item>
+      <title>[GRA3][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance won’t be completed in scheduled time.  It has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz below will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster028- Filerz1582&lt;br /&gt;Cluster030 - Filerz1509&lt;br /&gt;Cluster031 - Filerz1671&lt;br /&gt;Cluster030 - Filerz1565&lt;br /&gt;Cluster029 - Filerz1550&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 05:41:42 +0000</pubDate>
+      <maintenanceEndDate>Thu, 30 Jan 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/5ln734q4n7jt</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/5ln734q4n7jt</guid>
+    </item>
+    <item>
+      <title>[GRA1/3][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed (on the rack).   &lt;br /&gt;All services are operational since 29/01/2025 23:38 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz below will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster031- Filerz1669&lt;br /&gt;Cluster031 - Filerz1611&lt;br /&gt;Cluster031 - Filerz1607&lt;br /&gt;Cluster031 - Filerz1606&lt;br /&gt;Cluster031 - Filerz1604&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 23:40:54 +0000</pubDate>
+      <maintenanceEndDate>Fri, 31 Jan 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/qyrplq6kxpk3</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/qyrplq6kxpk3</guid>
+    </item>
+    <item>
+      <title>[RBX/GRA/SBG][Collaborative solutions] - Hosted Exchange maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;br /&gt;All services are operational since 29/01/2025 21:55 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Exchange offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers will be unable to access their mails for a maximum duration of 10 minutes during the operation. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Exchange offer, we will be doing a maintenance on multiple network equipment.  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 22:20:05 +0000</pubDate>
+      <maintenanceEndDate>Wed, 29 Jan 2025 22:30:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/jbq3m6bnwtrs</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/jbq3m6bnwtrs</guid>
+    </item>
+    <item>
+      <title>[Global][Web Cloud] - Domains Name incident notification on .dk</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on the Domain Name, notification on .Dk has been resolved .&lt;br /&gt;All the services are operational.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/01/2025 08:54 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Customer were not be able to register .dk domains name&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a maintenance of one of our provider.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are still working with our .dk domain provider to resolve the problem as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our Web Cloud in Global, customers in the impacted zone may face some difficulties. &lt;br /&gt;Please find the details:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/01/2025 08:54 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer will not be able to register .dk domains name&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are working to resolve the issue.&lt;br /&gt;&lt;br /&gt;We will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 15:35:55 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/y8vt35x3dz3d</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/y8vt35x3dz3d</guid>
+    </item>
+    <item>
+      <title>[GRA][WebHosting] - All clusters - all filerz maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed since 29/01/2025 09:35 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our technical teams will deploy a new configuration on all filerz of all clusters to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 12:09:18 +0000</pubDate>
+      <maintenanceEndDate>Wed, 29 Jan 2025 13:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/vcdkbzjhzbwb</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/vcdkbzjhzbwb</guid>
+    </item>
+    <item>
+      <title>[GRA3][WebHosting] - Cluster028 - Filerz962</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on Cluster028 - Filerz962 has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 07:55 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 09:15 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a storage equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Web Hosting offering, which is causing temporary latency issues in the Cluster028 - Filerz962.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 07:55 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers website latency on this filerz.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Websites of Filerz962 are currently experiencing temporary latency.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;Our teams are fully engaged and working to resolve the issue as quickly as possible. We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 10:31:44 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/8lt4l2lj1hln</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/8lt4l2lj1hln</guid>
+    </item>
+    <item>
+      <title>[GRA3][WebHosting] - Cluster030 - Filerz1012</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on Cluster030 - Filerz1012 has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a storage equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Web Hosting offering, which is causing temporary availability issues in the Cluster030 - Filerz1012.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers website availability on this filerz.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Websites of filerz1012 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it. &lt;br /&gt;&lt;br /&gt;Update will be posted as significant progress is made.&lt;br /&gt;Our teams are fully engaged and working to resolve the issue as quickly as possible. We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 09:17:04 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/1nt255zc18pj</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/1nt255zc18pj</guid>
+    </item>
+    <item>
+      <title>[GRA3][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 29/01/2025 01:36 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/01/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz below will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster030- Filerz1555&lt;br /&gt;Cluster027 - Filerz1679&lt;br /&gt;Cluster030 - Filerz1566&lt;br /&gt;Cluster031 - Filerz1664&lt;br /&gt;Cluster030 - Filerz1563&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 29 Jan 2025 02:15:04 +0000</pubDate>
+      <maintenanceEndDate>Wed, 29 Jan 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/vw8ndrfvhf3w</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/vw8ndrfvhf3w</guid>
+    </item>
+    <item>
+      <title>[Global][Domain] - Domains Name incident notification on SO tld</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/01/2025 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer with a .so domains name are unable to perform some tasks.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - An incident is in progress on our Domain Names offer, customers in the impacted zone may face some difficulties.&lt;br /&gt;Please find the details:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/01/2025 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer with a .so domains name are unable to perform some tasks.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are working to resolve the issue.&lt;br /&gt;&lt;br /&gt;We will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have detected an issue on our services. We will update informations when we will have more details.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 15:15:54 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/hk72smsj3tcy</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/hk72smsj3tcy</guid>
+    </item>
+    <item>
+      <title>[GRA][Web Cloud] - Debian Database Upgrade maintenance on Sharedsql Eu007</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - 80% of the cluster has been successfully upgraded.&lt;br /&gt;&lt;b&gt;New end time :&lt;/b&gt; 30/01/2025 21:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - 50% of the cluster had been successfully upgraded.&lt;br /&gt;The upgrades will continue on 20/01/2025.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The upgrades stopped at 19:49 UTC.&lt;br /&gt;28% of the cluster had been successfully upgraded.&lt;br /&gt;The upgrades will continue on 15/01/2025.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;New end time :&lt;/b&gt; 23/01/2025 21:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Database offer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/01/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 1 minute downtime per customer&lt;br /&gt;&lt;b&gt;Service improvemen :&lt;/b&gt; Following our continuous improvement policy, we are doing an upgrade on Debian.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 28 Jan 2025 08:40:48 +0000</pubDate>
+      <maintenanceEndDate>Tue, 07 Jan 2025 21:16:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/mssyrnf3s691</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/mssyrnf3s691</guid>
+    </item>
+    <item>
+      <title>[GRA1/3][WebHosting] - Maintenance notification for multiple Filerz</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational since 28/01/2025 00:09 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting Offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/01/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Filerz below will be unavailable one by one during 20 minutes.&lt;br /&gt;Cluster031- Filerz1630&lt;br /&gt;Cluster031 - Filerz1709&lt;br /&gt;Cluster020 - Filerz47&lt;br /&gt;Cluster028 - Filerz1581&lt;br /&gt;Cluster029 - Filerz1519&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are going to reboot the Filerz one by one (Web Hosting server) to improve the performance and stability of the service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 28 Jan 2025 00:16:45 +0000</pubDate>
+      <maintenanceEndDate>Tue, 28 Jan 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/nbqd3x17y64w</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/nbqd3x17y64w</guid>
+    </item>
+    <item>
+      <title>[RBX/GRA/SBG][Collaborative solutions] - Hosted Exchange maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 27/01/2025 21:55 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Exchange offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/01/2025 22:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers will be unable to access their mails for a maximum duration of 10 minutes during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Exchange offer, we will be doing a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Jan 2025 22:20:10 +0000</pubDate>
+      <maintenanceEndDate>Mon, 27 Jan 2025 22:30:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/jgbp7hcyyn3v</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/jgbp7hcyyn3v</guid>
+    </item>
+    <item>
+      <title>[GRA][Web Hosting] - Cluster028 filerz1567 Incident Notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - There has been an incident with our web hosting in GRA, customers in the affected area may have experienced some difficulties. Please see below for details:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 15:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/01/2025 16:10 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer may have had maintenance message on the cluster Cluster028.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Storage software malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Jan 2025 16:18:00 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/j0fz2m9tnrn7</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/j0fz2m9tnrn7</guid>
+    </item>
+    <item>
+      <title>[GRA][Web Hosting] - Cluster006</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on the Cluster006 has been resolved since 11:45 UTC .&lt;br /&gt;All the services are operational.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 11:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/01/2025 11:45 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; FTP and SSH were unavailable on this Cluster.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a malfunction on a software.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Mon, 27 Jan 2025 12:57:34 +0000</pubDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/svtd5dv1nc4s</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/svtd5dv1nc4s</guid>
+    </item>
+    <item>
+      <title>[Global][Web Cloud] - MySQL 8.0 Database Upgrade maintenance</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; 2.3% of all clusters are now upgraded.&lt;br /&gt;Our technical team will continue the upgrade on 02/03/2025.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; 100 more containers have been upgraded.&lt;br /&gt;We will begin to increase the number of containers being upgraded on a daily basis.&lt;br /&gt;Please note that upgrades will continue to be conducted from Monday to Thursday.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; The first 100 containers have been upgraded.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Database offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/02/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 1 minute downtime per customer.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing an upgrade on MySQL 8.0&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Jan 2025 09:40:07 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Feb 2025 21:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/nnkd2zgrbjn1</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/nnkd2zgrbjn1</guid>
+    </item>
+  </channel>
+</rss>

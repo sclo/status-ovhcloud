@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 10 Feb 2025 07:00:21 +0000</pubDate>
+    <pubDate>Mon, 10 Feb 2025 15:37:16 +0000</pubDate>
     <item>
       <title>[GRA9/GRA11/SBG5/WAW1/SGP1/BHS5/SYD1/DE1/UK1/OR1/VA1][Public cloud] - End of life for Kubernetes 1.27</title>
       <description>
@@ -143,10 +143,10 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/575g10fypb12</guid>
     </item>
     <item>
-      <title>[GLOBAL][Storage] - Object Storage S3 Standard/High Perf incident notification</title>
+      <title>[GLOBAL][Object Storage] - Amazon S3 SDK compatibility inconsistencies with Object Storage Standard/High Performance</title>
       <description>
 &lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Object Storage S3 offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/01/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Object Storage S3&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Requests to our Object Storage endpoint could return the error &quot;InvalidArgument&quot;, on different Object operations.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; Following a recent AWS SDK upgrade, this issue is  due to a new checksum enforcement in those SDKs.&lt;br /&gt;Unsupported headers are:&lt;br /&gt;  - x-amz-content-sha256 with value STREAMING-UNSIGNED-PAYLOAD-TRAILER&lt;br /&gt;  - x-amz-sdk-checksum-algorithm with value CRC32&lt;br /&gt;&lt;b&gt;Workaround &lt;/b&gt; A workaround is to downgrade the version, until the feature is implemented on our side.&lt;br /&gt;Max supported versions:&lt;br /&gt;  - boto3 1.35.99&lt;br /&gt;  - legacy aws cli 1.36.40&lt;br /&gt;  - aws cli 2.22.35&lt;br /&gt;  - aws-sdk-go 1.72.3&lt;br /&gt;  - aws-sdk-java 2.29.52&lt;br /&gt;  - aws-sdk-js-v3 3.726.1&lt;br /&gt;  - aws-sdk-net 3.7.962.0&lt;br /&gt;  - aws-sdk-php 3.336.15&lt;br /&gt;  - aws-sdk-ruby 1.177.0&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilized to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Object Storage S3 offer.		&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/01/2025 00:00 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 06 Feb 2025 19:10:34 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 15:37:16 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/491vx956zx6b</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/491vx956zx6b</guid>
     </item>

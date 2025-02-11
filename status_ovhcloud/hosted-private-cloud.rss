@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 11 Feb 2025 22:50:24 +0000</pubDate>
+    <pubDate>Tue, 11 Feb 2025 23:20:31 +0000</pubDate>
     <item>
       <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
       <description>
@@ -22,6 +22,15 @@
       <maintenanceEndDate>Thu, 20 Feb 2025 09:30:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/s2c1b03mh19z</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/s2c1b03mh19z</guid>
+    </item>
+    <item>
+      <title>[EU/CA][Hosted Private Cloud] - NSX-V Upgrade</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will not be accesible and hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on NSX-V .&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Feb 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 21 Feb 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/hrxf00bmcv7s</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/hrxf00bmcv7s</guid>
     </item>
     <item>
       <title>[EU/CA][Hosted Private Cloud] - Zerto Upgrade</title>
@@ -215,14 +224,6 @@
       <pubDate>Wed, 15 Jan 2025 16:01:20 +0000</pubDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/j7yhfp89cvm0</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/j7yhfp89cvm0</guid>
-    </item>
-    <item>
-      <title>[RBX2D][Hosted Private Cloud] - Cluster9800</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - &lt;b&gt;Start Time :&lt;/b&gt; 13/01/2025 06:12 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 13/01/2025 06:20 UTC &lt;br /&gt;&lt;b&gt;Technical impact  :&lt;/b&gt; RBX2D&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Cluster 9800 were temporarily inaccessible, the datastores hosted on this cluster were also unavailable.&lt;br /&gt;We would like to inform you that the incident have been resolved and the situation is back to normal.&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt;  Incident due to an hardware issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;      </description>
-      <pubDate>Mon, 13 Jan 2025 13:54:49 +0000</pubDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/8zgvx108s9r4</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/8zgvx108s9r4</guid>
     </item>
   </channel>
 </rss>

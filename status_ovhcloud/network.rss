@@ -1,42 +1,234 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AHq0FC81WuXIW8M2ypib+FEAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMcRKAI0UNIr2awkL/AgEQgDtF24ihhrM06WYSipW3y8p/wvLyyB//9E0KoPdt1VgQ+fbAp/I5kj4qw+KJYb1yXHTllJFBorSfn3jjtg==",
-          "iv":"CvqHTAB5oAAAAENz",
-          "context":"F58IvV1IWzPbSZCT5FhSMM/v6w/oLzQmJsAKaz5RG1/2awfY1wudgjwxJIJN+dsf3yI5xL1ZCa7S0VTBADWe3ta7BiZH+W3I8KWGQc3v6MbvE6veLjyEq8AUE9Qq6NiFKuWOYkEYDTdCwWNZWr+Cg3MOAv+o1ISiyBjA4hEdzLPOvrTJrq1NpUcbmVHTdUKw9GY6qi7dGzl4f9rYr4RSGbf9+Iljh9N3Qnh7wgzERd052KIfTjVz9umkJXKAMwHO6SPbJWXITdjKtSmi1m5hit+CoRsD9jklPj6UDGtCZ0g4Cyqymz2wRiyCt/IGrAK4w+mbZGmBkpMnFl8XrnXKHXV41FY44HWhBEwKMf5s0/lAggY+9BUlHNP/zIjAAVzpB3C5PXMROE2XkZHHkp9I6pj0kZ8EkDXS2gM9LHxkuUMiHWGuKEAmPK472fYFq1cGdcJk5GJIxPlAYLnxIo0ueVz2BfBpTnNEdvKI+WMc9yLkzRctwThU1YCNvRdwsZQ+4JM5JOsBdEuN26rUD32iSCqJI3QdaUHhwr2lupdLnWUjx4QVhvJ6234GUUk8BJNDC2PBua7VYtr3JMLIDuh+OkZGDdkRV12Qa1/+CA2nZ1NGKGFaPJHJ2b0PtW0OB8k5IW3qtgqCcFB0YADdRR+p2hCGjFb6hiRdiSpxTohN9ckwWE9ev96BK7hMwmhwDGyH9yiPmKXc1XBdkFddBbF8L7ZNHhKsDkibTKwbEk/uTbOVZNWku9OtJAmAqp9fFBOeWmOeRlFyHnFxumLOJQ=="
-};
-    </script>
-    <script src="https://df99fa8a2f0c.94467f98.us-west-1.token.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/challenge.js"></script>
-    <script src="https://df99fa8a2f0c.94467f98.us-west-1.captcha.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Network &amp; Infrastructure Status - Incident History</title>
+    <link>https://network.status-ovhcloud.com</link>
+    <description>Statuspage</description>
+    <pubDate>Thu, 20 Feb 2025 08:46:53 +0000</pubDate>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G220A &amp;B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 20 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 21 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/ndkfnxy1ylv4</link>
+      <guid>https://network.status-ovhcloud.com/incidents/ndkfnxy1ylv4</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G211B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 20 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/hgwjwbxtwx96</link>
+      <guid>https://network.status-ovhcloud.com/incidents/hgwjwbxtwx96</guid>
+    </item>
+    <item>
+      <title>[BHS][Network] - Backbone maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/03/2025 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/03/2025 12:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment..&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Mar 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 19 Mar 2025 12:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/qz7xg592mt22</link>
+      <guid>https://network.status-ovhcloud.com/incidents/qz7xg592mt22</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G211A</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:13&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:13&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 18 Mar 2025 13:13:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 18 Mar 2025 16:13:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/v177q80kj1yw</link>
+      <guid>https://network.status-ovhcloud.com/incidents/v177q80kj1yw</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G210 B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 18 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/5pxdbmsfb5vb</link>
+      <guid>https://network.status-ovhcloud.com/incidents/5pxdbmsfb5vb</guid>
+    </item>
+    <item>
+      <title>[SYD][Network] - Network Core maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network Core infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/03/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/03/2025 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out an intervention on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Mar 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 17 Mar 2025 11:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/dzy1l4cq2p8f</link>
+      <guid>https://network.status-ovhcloud.com/incidents/dzy1l4cq2p8f</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G210 A</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:07&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:07&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Mar 2025 13:07:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Mar 2025 16:07:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/sdll5vsc7x1v</link>
+      <guid>https://network.status-ovhcloud.com/incidents/sdll5vsc7x1v</guid>
+    </item>
+    <item>
+      <title>[SYD][Network] - Network Core maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network Core infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2025 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out an intervention on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Mar 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Mar 2025 11:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/6fbv5vs7f6zn</link>
+      <guid>https://network.status-ovhcloud.com/incidents/6fbv5vs7f6zn</guid>
+    </item>
+    <item>
+      <title>[RBX8][Cooling System] - Rack R807R21</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2025 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters.&lt;br /&gt;&lt;br /&gt;To protect your data from any impact, we advise you to first restart your machines in rescue mode (How to activate and use &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;rescue mode&lt;/a&gt;) before the operation mentioned above&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Mar 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/z7p0d9chrb30</link>
+      <guid>https://network.status-ovhcloud.com/incidents/z7p0d9chrb30</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G209B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/81v924p103mn</link>
+      <guid>https://network.status-ovhcloud.com/incidents/81v924p103mn</guid>
+    </item>
+    <item>
+      <title>[SGP][Network] - Backbone maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2025 15:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2025 19:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment..&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Mar 2025 15:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 12 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/fj62slzj5yd5</link>
+      <guid>https://network.status-ovhcloud.com/incidents/fj62slzj5yd5</guid>
+    </item>
+    <item>
+      <title>[RBX8][Cooling System] - Rack R807R21</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters.&lt;br /&gt;&lt;br /&gt;To protect your data from any impact, we advise you to first restart your machines in rescue mode (How to activate and use &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;rescue mode&lt;/a&gt;) before the operation mentioned above&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Mar 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 12 Mar 2025 20:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/hgzmczckdqt1</link>
+      <guid>https://network.status-ovhcloud.com/incidents/hgzmczckdqt1</guid>
+    </item>
+    <item>
+      <title>[RBX8][Cooling System] - Rack R807R21</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/03/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/03/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters.&lt;br /&gt;&lt;br /&gt;To protect your data from any impact, we advise you to first restart your machines in rescue mode (How to activate and use &lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;rescue mode&lt;/a&gt;) before the operation mentioned above&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 11 Mar 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 11 Mar 2025 20:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/1cf6ssgsxh3s</link>
+      <guid>https://network.status-ovhcloud.com/incidents/1cf6ssgsxh3s</guid>
+    </item>
+    <item>
+      <title>[RBX][Network] - Backbone maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/03/2025 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/03/2025 01:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment..&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 10 Mar 2025 20:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 11 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/trn7slldlnmt</link>
+      <guid>https://network.status-ovhcloud.com/incidents/trn7slldlnmt</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G244 A&amp;B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 07 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/606fx12rw24k</link>
+      <guid>https://network.status-ovhcloud.com/incidents/606fx12rw24k</guid>
+    </item>
+    <item>
+      <title>[RBX10][Cooling System] - Rack RBX1003D02B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/03/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Mar 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 06 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/x144g9hc9vwc</link>
+      <guid>https://network.status-ovhcloud.com/incidents/x144g9hc9vwc</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G243 A&amp;B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 06 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/xqg41swcfpmr</link>
+      <guid>https://network.status-ovhcloud.com/incidents/xqg41swcfpmr</guid>
+    </item>
+    <item>
+      <title>[RBX10][Cooling System] - Rack RBX1003D02B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/03/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 Mar 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 05 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/0xpk9s8p7y69</link>
+      <guid>https://network.status-ovhcloud.com/incidents/0xpk9s8p7y69</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G224</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 05 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/4mdv5631yzt9</link>
+      <guid>https://network.status-ovhcloud.com/incidents/4mdv5631yzt9</guid>
+    </item>
+    <item>
+      <title>[WAW][Network] - Network Core maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network Core infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/03/2025 21:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/03/2025 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out an intervention on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 05 Mar 2025 03:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/q37c3zyc1ngt</link>
+      <guid>https://network.status-ovhcloud.com/incidents/q37c3zyc1ngt</guid>
+    </item>
+    <item>
+      <title>[GRA2][Infrastructure] - Electrical background work Room G209A</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Mar 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/sshgg70l764x</link>
+      <guid>https://network.status-ovhcloud.com/incidents/sshgg70l764x</guid>
+    </item>
+    <item>
+      <title>[SBG3][Cooling System] - Rack S333A01</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 03 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/xfl9gq2y015z</link>
+      <guid>https://network.status-ovhcloud.com/incidents/xfl9gq2y015z</guid>
+    </item>
+    <item>
+      <title>[SBG3][Cooling System] - Rack S333A01</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/03/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/03/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
+      <maintenanceEndDate>Sat, 01 Mar 2025 17:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/czsjmjltpvzs</link>
+      <guid>https://network.status-ovhcloud.com/incidents/czsjmjltpvzs</guid>
+    </item>
+    <item>
+      <title>[SBG3][Cooling System] - Rack S333A01</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/02/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 28 Feb 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 28 Feb 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/4bz0jy08z4w7</link>
+      <guid>https://network.status-ovhcloud.com/incidents/4bz0jy08z4w7</guid>
+    </item>
+    <item>
+      <title>[GRA1][Infrastructure] - Electrical background work Room G137B</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;This will affect availability of your servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/02/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out an electrical upgrade in our Graveline Datacenters. To protect your data from any impact, we advise you to first restart your machines in rescue mode (&lt;a href=&quot;https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-rescue?id=kb_article_view&amp;sysparm_article=KB0043949&quot;&gt;How to activate and use rescue mode&lt;/a&gt;) before the operation mentioned above.&lt;br /&gt;&lt;br /&gt;Every client concerned by this maintenance will be contacted.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Feb 2025 21:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 28 Feb 2025 00:00:00 +0000</maintenanceEndDate>
+      <link>https://network.status-ovhcloud.com/incidents/11zk6gmmdyh5</link>
+      <guid>https://network.status-ovhcloud.com/incidents/11zk6gmmdyh5</guid>
+    </item>
+  </channel>
+</rss>

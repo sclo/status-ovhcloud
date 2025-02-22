@@ -1,42 +1,230 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AEBcEZOQYa01AwJ4/cYBWsPAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMHWFrca9C4XndBBOdAgEQgDuSzDdMRg8bCIPvcf2p1akzOsJ1nAWusUrBJWySQ712f7xSo+cVqAkB2/CXF2JxAlUIuxoZC2TcKfCe9g==",
-          "iv":"D54r5gCULgAAAYo1",
-          "context":"+B5gUh2MI/0ieu2bTMFQx/1QGOEks2WwGHis1ndorozudjZ+WtMpqLENYGtdrBuMxMm7byfOKGMhg5KuMvtfiuF0YVZDmrKJn/WZYYYg4+s2ATG52I4QfF/keikiIdqNSs0JPWkhwg83fI0mJr0Yxhig3tfJ1COqtwLkYZSDXi8LoUDLfpaVih78u4zru0JIWzVFV7SXaEJI89eU+kl6xd0Cd6H36taC9KFIahTUj6CQftoidnoQcf9KxDGsWIGSjbMekjPzaHx3128vHT0/Dv114nazO/Ky3N7deCb1nsdGFQsbWRiHDvqsTavSH7diCSAxWC0j7zFg7c9nvsUGk1xzWW30Tgn1SAvgNmDt5Ac5pVrl4mOMUn8kfXaEfIvpjKKhH619EgETQl7iKQ00RlWizvB+RMZcZpmaXwwy/h4vKzveGef4usXm/2g6JwVrVjZGHqGs76fovKuZbR22rsaHM6KWVY7nXi+470LGMeaD9zZXeQSgnuw84W8fbqwZI5qrLpri5GqyHu1VqYGcj842FtjOd76dosxwR2uuemJY2+uKs2m21bZd/AuodAE/sM00EpFvVLUSKxdWxroCE+Sr2VCcA+wgMRXVtV+iortou2Ab572attZ61L4H+uYGTMrgD+OZZiwZnBB+NdMFaUIDXBg1kyQdYkTSXbysPuXY3iPIun2ZggA1NDF6X//lXfmCo5bRODTqgUgGg1YNpRNkEo9mNwjM0vRjmEfLvEOvnaoKQG8AC63bQgFeX79Pf1C/FYhP9OOxKAmD3g=="
-};
-    </script>
-    <script src="https://ee28f20db1d4.e56cff97.us-east-1.token.awswaf.com/ee28f20db1d4/ad2baaf17ece/69f021234efa/challenge.js"></script>
-    <script src="https://ee28f20db1d4.e56cff97.us-east-1.captcha.awswaf.com/ee28f20db1d4/ad2baaf17ece/69f021234efa/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bare Metal Cloud Status - Incident History</title>
+    <link>https://bare-metal-servers.status-ovhcloud.com</link>
+    <description>Statuspage</description>
+    <pubDate>Sat, 22 Feb 2025 09:24:41 +0000</pubDate>
+    <item>
+      <title>[SBG6][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on SBG6.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/03/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 18 Mar 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 18 Mar 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/93gpydr8bx4x</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/93gpydr8bx4x</guid>
+    </item>
+    <item>
+      <title>[ERI1][Dedicated Servers] - Rack E101</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Bare metal offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/03/2025 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/03/2025 14:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Each server in rack E101 will be unreachable for 30 minutes during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, our teams will move servers from rack E101 to racks E103 and E105.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 Mar 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 17 Mar 2025 14:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/gfg21vp16gjq</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/gfg21vp16gjq</guid>
+    </item>
+    <item>
+      <title>[BHS2][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on BHS2 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q1kqgmz7trn4</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q1kqgmz7trn4</guid>
+    </item>
+    <item>
+      <title>[BHS1][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our internal databases on BHS1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Mar 2025 13:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 12 Mar 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/xc59qlklp3bt</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/xc59qlklp3bt</guid>
+    </item>
+    <item>
+      <title>[SBG8][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on SBG8 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Mar 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 12 Mar 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/y5q7kd41vhnh</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/y5q7kd41vhnh</guid>
+    </item>
+    <item>
+      <title>[GRA2][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on GRA2 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/03/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Mar 2025 14:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Mar 2025 20:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/s0trpqzklhcg</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/s0trpqzklhcg</guid>
+    </item>
+    <item>
+      <title>[WAW2][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on WAW2.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Mar 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Mar 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/s4rhwd2gk2pz</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/s4rhwd2gk2pz</guid>
+    </item>
+    <item>
+      <title>[RBX4][Dedicated Servers] - Racks 53B20</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Mar &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer for the specific rack.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 23:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/03/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance for 30 minutes each.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be migrating some servers from racks 53B20 to rack 53B18.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 23:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Mar 2025 05:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/mx2pzzh8m00b</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/mx2pzzh8m00b</guid>
+    </item>
+    <item>
+      <title>[GRA1][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our internal databases on GRA1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 03 Mar 2025 20:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bvdkk5p3bqpv</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bvdkk5p3bqpv</guid>
+    </item>
+    <item>
+      <title>[ERI][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on ERI.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 03 Mar 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/cz1x2jbs9k4t</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/cz1x2jbs9k4t</guid>
+    </item>
+    <item>
+      <title>[GRA3][Dedicated Servers] - Rack GRA0329A06A</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be temporarily unavailable during the operation for servers located in rack GRA0329A06A. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 03 Mar 2025 06:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/7l1nccf4n2hq</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7l1nccf4n2hq</guid>
+    </item>
+    <item>
+      <title>[RBX3][Dedicated Servers] - Racks 43S06</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our dedicated servers offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/03/2025 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/03/2025 01:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance for 30 minutes. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our infrastructure, we will be relocating racks 43S06 to a new location.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 03 Mar 2025 01:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tlqzqxn7s3gq</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tlqzqxn7s3gq</guid>
+    </item>
+    <item>
+      <title>[GRA4][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on GRA4 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/02/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/02/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Feb 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Feb 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/pjwz73qrtn1l</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/pjwz73qrtn1l</guid>
+    </item>
+    <item>
+      <title>[RBX4][Dedicated Servers] - Rack 52D09</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer for the specific rack.&lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/02/2025 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/02/2025 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for 1 hour during the maintenance time.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Feb 2025 03:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Feb 2025 04:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/g46ksm928c1l</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/g46ksm928c1l</guid>
+    </item>
+    <item>
+      <title>[GRA2][Network] - rack G224A18</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/02/2025 00:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/02/2025 03:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public traffic will be unavailable during the change&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment in GRA2 rack G224A18.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Feb 2025 00:30:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Feb 2025 03:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q117hzjt6g8g</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q117hzjt6g8g</guid>
+    </item>
+    <item>
+      <title>[GRA8][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on GRA8 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/02/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/02/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 25 Feb 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 25 Feb 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vm17b3qb6zs5</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vm17b3qb6zs5</guid>
+    </item>
+    <item>
+      <title>[RBX3][Dedicated Servers] - Rack 41D06</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer for the specific rack.&lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/02/2025 03:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/02/2025 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public network will be unavailable for 1 hour during the maintenance time.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 25 Feb 2025 03:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 25 Feb 2025 04:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5tdxgctv8cfj</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5tdxgctv8cfj</guid>
+    </item>
+    <item>
+      <title>[GRA2][Network] - rack G215A04</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/02/2025 00:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/02/2025 03:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public traffic will be unavailable during the change&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment in GRA2 rack G215A04.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 25 Feb 2025 00:30:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 25 Feb 2025 03:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/wlkmt5d37mh2</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/wlkmt5d37mh2</guid>
+    </item>
+    <item>
+      <title>[GRA6][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on GRA6 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/02/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a VPS service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 24 Feb 2025 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 24 Feb 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/xxlcxrxbrd4k</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/xxlcxrxbrd4k</guid>
+    </item>
+    <item>
+      <title>[SBG3][Dedicated Servers] - Rack S331B08</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer.  &lt;br /&gt;&lt;br /&gt;This may temporarily affect Availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 03:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/02/2025 04:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network on rack S331B08 will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 24 Feb 2025 03:30:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 24 Feb 2025 04:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tjk9493bxvl3</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tjk9493bxvl3</guid>
+    </item>
+    <item>
+      <title>[BHS8][Bare Metal Cloud] - Rack BHS0813A04A</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that we had an incident on our Bare Metal Cloud offer.&lt;br /&gt;This incident has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/02/2025 06:58 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/02/2025 07:03 UTC&lt;br /&gt;&lt;b&gt;Impacted Service :&lt;/b&gt; Some servers in the rack BHS0813A04A were no longer responding.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Availability has been affected by this incident.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Sat, 22 Feb 2025 07:41:04 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ym52hd0tx8pn</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ym52hd0tx8pn</guid>
+    </item>
+    <item>
+      <title>[RBX8][Dedicated Servers] - Rack R809R07 / R809R08 / R809R09</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on racks R809R07 / R809R08 / R809R09 has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 17:23 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 18:07 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by an electrical equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; All servers on the rack R809R07 are available, there are still servers unavailable on R809R8 and R809R09.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;Our teams are fully engaged and working to resolve the issue as quickly as possible. We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently experiencing an incident affecting our Dedicated Servers offering, which is causing temporary Availability issues in the rack R809R08.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 17:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; All servers are currently unavailable.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by an electrical equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it. &lt;br /&gt;&lt;br /&gt;Our teams are fully engaged and working to resolve the issue as quickly as possible. We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Dedicated Servers offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 17:23 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 21 Feb 2025 18:18:11 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/z5yr2rd4wvsl</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/z5yr2rd4wvsl</guid>
+    </item>
+    <item>
+      <title>[SBG5][Bare Metal Cloud] - Rack SBG0506B08A</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on the rack SBG0506B08A has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 13:32 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 14:05 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a cooling system issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Bare Metal Cloud offer on the specified rack.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 13:32 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in rack SBG0506B08A are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to use their servers located in rack SBG0506B08A.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a cooling system issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are fully engaged and working to resolve the issue as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Bare Metal Cloud offer on the specified rack.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/02/2025 13:32 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 21 Feb 2025 14:19:41 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/41ttwz6cgbmr</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/41ttwz6cgbmr</guid>
+    </item>
+    <item>
+      <title>[SGP2][Bare Metal Cloud] - Rack SGP0201F02A</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that we had an incident on our Bare Metal Cloud offer.&lt;br /&gt;This incident has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2025 13:35 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2025 14:12 UTC&lt;br /&gt;&lt;b&gt;Impacted Service :&lt;/b&gt; Some servers in the rack SGP0201F02A were no longer responding.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; The availability was affected by this incident.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this maintenance : https://network.status-ovhcloud.com/incidents/dv3lq454l14y&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Fri, 21 Feb 2025 02:59:31 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/575ywz64zs2c</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/575ywz64zs2c</guid>
+    </item>
+    <item>
+      <title>[BHS6][Virtual Private Servers] - Internal databases update</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled for update the Internal databases on BHS6.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a Virtual Private Servers service maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 20 Feb 2025 20:03:27 +0000</pubDate>
+      <maintenanceEndDate>Thu, 20 Feb 2025 20:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/8sj76vrtdm0b</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/8sj76vrtdm0b</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,42 +1,211 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AHfzGLPeCYcogYhey2j/ksdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM8ta1lhsZjvwbX7M2AgEQgDsummZae4SgPpdIt4K+JjXn1nKYG6tNLgkgt+1NE6Mct7fi87RxTaS7xnmKvEaqSvxUJoDppkNgEJjOXw==",
-          "iv":"D54FDgBjRwAACAnv",
-          "context":"coCXTrgvLUMPatxtaDuAOBuFsmctckfPytXm4JH8gcvwD3qbLgKPabRf+YKWR+5V2Alpp+3Mz5izQa/EFXbEHs2lA9pJHqCzUmsRCNfTILEfbKoE8GpLK3DYwqZg4BN9qDIqR6IShU7+2QbyYTfJl7uFQuUoz8AxwepI3a9yYlcvG6J0ecoxveNhFQ+uObRMdZDnYXLBPkAGl48iA0YZx0CqIC7B7eeIYz8SSOy/rPDMx30T2Yxvanf9Bu+5dROdwxiJulplOPIWclQk3v01iotZFxu5WWOpw450A1PhcNZqnNHrGp1Vb4i9lRjOvS9vPUvbHwFR/jZFZVbdxAdeDnV7Mj0mIk33mEZaO5DGKaHaC7OgA3NDhLNJ0QzfV1JZrXU6v4JbkFw9fg0rOeygdsQF2zwzXmgVgaqy2zmAH1Eflo9dYyt+e2i2+ogKRcHvbEKsFmKtIjl6KuXwn6DMhjzxFP9JXzNMlHZH11kEjMue4ezE+fjOk/dMsy+X6H+p0fXHObxoOunZVvt19F4DsZnDyQb0LvT9CA/Wt9pgo/pH6vvKgp/MgMysIriBd3zYHnltUNGiFxKeKQyPU6fhaMe3Wper2zkt4YdE3sfAW3N093EQSm6Bc72Lq6NOI127Bfe6zaPI4Uw6OjsguR3PLIHOolB04VPov6qqLPxajT5sIMspruoCr0KmTVd8DJUfd/GGkpzQI8OmyQ13HQEuisiABJwyyqkZyc7v81ipU+R4JUxTzpNo98NmPHvG5XvkX9hxnRKbwj5A6+jKZg=="
-};
-    </script>
-    <script src="https://ee28f20db1d4.8cb31173.us-west-1.token.awswaf.com/ee28f20db1d4/ad2baaf17ece/fc97e8c47abe/challenge.js"></script>
-    <script src="https://ee28f20db1d4.8cb31173.us-west-1.captcha.awswaf.com/ee28f20db1d4/ad2baaf17ece/fc97e8c47abe/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
+  <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
+  <title>Hosted Private Cloud Status - Incident History</title>
+  <updated>2025-02-23T10:53:50Z</updated>
+  <author>
+    <name>Hosted Private Cloud</name>
+  </author>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/24099543</id>
+    <published>2025-02-24T14:00:00Z</published>
+    <updated>2025-02-21T21:59:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/vt07b1drqy7f"/>
+    <title>[RBX2A][Hosted Private Cloud] - Migration PCC to VCD</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; PCC management will be unavailable during the migration and virtual machines will be migrated with vMotion.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our migration PCC to VCD plan, we are rolling out a maintenance which will transfer your current PCC platform to the new VCD platform&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23912953</id>
+    <published>2025-02-24T08:00:00Z</published>
+    <updated>2025-02-19T14:09:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/tz2cdx4l995g"/>
+    <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;19:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud's hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their hosts.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23971969</id>
+    <published>2025-02-24T08:00:00Z</published>
+    <updated>2025-02-14T00:56:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/tcdwj1r5400n"/>
+    <title>[RBX][Hosted Private Cloud] - VMware vCenter Server maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Management will be temporarily unavailable for 1h30 during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for vCenter Server services.&lt;br /&gt;An individual communication will be sent before the upgrade begins.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23916239</id>
+    <published>2025-02-24T08:00:00Z</published>
+    <updated>2025-02-12T04:32:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/bhvvt4g356mq"/>
+    <title>[EU][Hosted Private Cloud] - SSL Gateway maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the operation, access to SSL Gateway will be unavailable for 1 minute.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be doing a maintenance on the SSL Gateway.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23915227</id>
+    <published>2025-02-24T08:00:00Z</published>
+    <updated>2025-02-12T01:08:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/0kdc908d7ncf"/>
+    <title>[EU/CA][Hosted Private Cloud]  - Zerto Upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;01:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronisation between primary and secondary sites will be broken during the maintenance .&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on zerto.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23914855</id>
+    <published>2025-02-24T08:00:00Z</published>
+    <updated>2025-02-12T00:15:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/7rqd2jpxwrb2"/>
+    <title>[EU/CA][Hosted Private Cloud] - NSX-V  Upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Feb &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will not be accesible and hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on NSX-V .&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23752188</id>
+    <published>2025-02-21T16:44:15Z</published>
+    <updated>2025-02-21T16:44:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/jc95k7kc4vhr"/>
+    <title>[GLOBAL][Hosted Private Cloud] - Upgrade Veeam backupProxy OS</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;23:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will perform an operation to upgrade Veeam backupProxy OS.&lt;br /&gt;Please note that you can reschedule this migration by your own.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23729374</id>
+    <published>2025-02-21T16:43:30Z</published>
+    <updated>2025-02-21T16:43:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/6fkmdzbdk9r0"/>
+    <title>[RBX2A][Hosted Private Cloud] - Host replacement maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;02:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud's hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their hosts.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23861779</id>
+    <published>2025-02-21T16:41:52Z</published>
+    <updated>2025-02-21T16:41:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/lhcpdcct2m2v"/>
+    <title>[EU/CA][Hosted Private Cloud] - VMware vCenter Server maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - This maintenance will be rescheduled at a later date.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;New start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;New end time :&lt;/b&gt; 21/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will be temporarily unavailable for 1 hour during the maintenance.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will be temporarily unavailable for 1 hour during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for vCenter Server services.&lt;br /&gt;A communication will be done to inform customers of the maintenance.&lt;br /&gt;Customers can reschedule the operation through the manager.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23914513</id>
+    <published>2025-02-21T16:39:50Z</published>
+    <updated>2025-02-21T16:39:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/hrxf00bmcv7s"/>
+    <title>[EU/CA][Hosted Private Cloud] - NSX-V Upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;23:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will not be accesible and hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on NSX-V .&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23914334</id>
+    <published>2025-02-20T16:38:45Z</published>
+    <updated>2025-02-20T16:38:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/ksr9186pc9cw"/>
+    <title>[EU/CA][Hosted Private Cloud] - Zerto Upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;16:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Synchronisation between primary and secondary sites will be broken during the maintenance .&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on zerto.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23971885</id>
+    <published>2025-02-20T16:05:51Z</published>
+    <updated>2025-02-20T16:05:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/26zq8q1n0sj1"/>
+    <title>[EU][Hosted Private Cloud] - VMware vCenter Server maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;16:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Management will be temporarily unavailable for 1h30 during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for vCenter Server services.&lt;br /&gt;An individual communication will be sent before the upgrade begins.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23876745</id>
+    <published>2025-02-20T11:32:01Z</published>
+    <updated>2025-02-20T11:32:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/s2c1b03mh19z"/>
+    <title>[RBX2D][Hosted Private Cloud] - Equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;03:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/02/2025 07:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/02/2025 09:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience micro cuts during maintenance. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for multiple servers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/24003987</id>
+    <published>2025-02-15T13:15:58Z</published>
+    <updated>2025-02-15T13:15:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/l54j9j028jfc"/>
+    <title>[RBX8][Hosted Private Cloud] - Host incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on our Hosted Private Cloud offer, have been resolved.&lt;br /&gt;&lt;b&gt;Start Time :&lt;/b&gt; 15/02/2025 10:30 UTC &lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 15/02/2025 13:14 UTC &lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Cooling system malfunction&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our Hosted Private Cloud offer.&lt;br /&gt;&lt;br /&gt;Please be aware that this is currently affecting the availability.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/02/2025 10:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some hosts are unavailable in rack R802R18.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;Update will be posted as significant progress is made.&lt;br /&gt;&lt;br /&gt;Our teams are fully mobilized and we will keep you informed of developments and the resolution of the incident.&lt;br /&gt;&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23861847</id>
+    <published>2025-02-14T16:05:16Z</published>
+    <updated>2025-02-14T16:05:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/xngrs7y7c7fk"/>
+    <title>[Global][HostedPrivateCloud] - vSphere maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;16:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 14/02/2025 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private cloud offer. &lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/02/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/02/2025 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere not accesible for 1h and hosts will be put in maintenance mode during the maintenance and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for vSphere offer.&lt;br /&gt;An individual communication  will be done to inform customers and you can reschedule through the manager.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23727970</id>
+    <published>2025-02-14T16:04:30Z</published>
+    <updated>2025-02-14T16:04:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/rkmt1b091wkt"/>
+    <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 14/02/2025 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud's hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their hosts.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23752252</id>
+    <published>2025-02-14T16:02:28Z</published>
+    <updated>2025-02-14T16:02:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/y84k6v6s9bqr"/>
+    <title>[GLOBAL][Hosted Private Cloud] - Upgrade Veeam backupProxy OS</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 14/02/2025 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;00:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will perform an operation to upgrade Veeam backupProxy OS.&lt;br /&gt;Please note that you can reschedule this migration by your own.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23729169</id>
+    <published>2025-02-07T16:01:42Z</published>
+    <updated>2025-02-07T16:01:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/jfzlqpk0zltj"/>
+    <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.   &lt;br /&gt;All services are operational since 07/02/2025 16:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;01:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/02/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud's hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their hosts.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23646464</id>
+    <published>2025-01-31T16:32:42Z</published>
+    <updated>2025-01-31T16:32:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/rcjzslbvxmxm"/>
+    <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud's hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their host(s).&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23557226</id>
+    <published>2025-01-31T16:31:14Z</published>
+    <updated>2025-01-31T16:31:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/6y1h1wvlwhdf"/>
+    <title>[EU/CA][Hosted Private Cloud] - Veeam Backup Managed Maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;22:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Backup and restoration will be unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our team will carry out maintenance on the Veeam Backup Managed service.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23646704</id>
+    <published>2025-01-31T16:23:47Z</published>
+    <updated>2025-01-31T16:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/qnx85wr802gr"/>
+    <title>[RBX2A][Hosted Private Cloud] - Migration PCC to VCD</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; PCC management will be unavailable during the migration and virtual machines will be migrated with vMotion.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our migration PCC to VCD plan, we are rolling out a maintenance which will transfer your current PCC platform to the new VCD platform&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23556684</id>
+    <published>2025-01-31T12:46:32Z</published>
+    <updated>2025-01-31T12:46:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/0zz048hc98qp"/>
+    <title>[EU/CA][Hosted Private Cloud] - VMware vCenter Server maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/01/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/01/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Management will be temporarily unavailable for 1h30 during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for vCenter Server services.&lt;br /&gt;An individual communication will be sent before the upgrade begins.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23744548</id>
+    <published>2025-01-30T13:36:20Z</published>
+    <updated>2025-01-30T13:36:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/m13qpxmtlzqq"/>
+    <title>[RBX][Hosted Private Cloud] - Rack R831B26</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on Rack R831B26 has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 09:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/01/2025 09:25 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a cooling system issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Hosted Private Cloud offering, which is causing temporary availability issues in the rack R831B26.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 09:15 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some servers are unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some hosts in RBX2 region were automatically transferred to backups.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a cooling system issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;Our teams are fully engaged and working to resolve the issue as quickly as possible. We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Hosted Private Cloud offer in the rack R831B26.&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/01/2025 09:15 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23585279</id>
+    <published>2025-01-29T18:04:24Z</published>
+    <updated>2025-01-29T18:04:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/3b0ls6lh63t7"/>
+    <title>[ERI1C][Hosted Private Cloud] - Hosts maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;18:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;21:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VMware offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/01/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/01/2025 17:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; If no action on customer side after 7 days of adding the spare, concerned hosts will be put in maintenance mode and vMotion will be performed to evacuate virtual machines. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an upgrade for some hosts in ERI1C.&lt;br /&gt;An individual communication will be sent before the upgrade begins.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/23697895</id>
+    <published>2025-01-26T04:50:42Z</published>
+    <updated>2025-01-26T04:50:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/b3jcq6p8jcmw"/>
+    <title>[RBX2C][VMware Private Cloud] - Hosts unreachable incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;04:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on VMware Private Cloud offer has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/01/2025 04:03 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/01/2025 04:05 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a cooling system issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;04:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our VMware Private Cloud offer on the specific rack.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/01/2025 04:03 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some hosts in RBX2C are temporarily unreachable.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a cooling module issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilized to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+</feed>

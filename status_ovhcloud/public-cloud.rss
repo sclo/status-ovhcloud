@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Public Cloud Status - Incident History</title>
-    <link>https://public-cloud.status-ovhcloud.com</link>
+    <link>http://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 06 Mar 2025 20:51:39 +0000</pubDate>
+    <pubDate>Thu, 06 Mar 2025 21:24:48 +0000</pubDate>
     <item>
       <title>[GRA/BHS/DE/VA][Public Cloud] - Registries upgrade</title>
       <description>
@@ -80,8 +80,8 @@
     <item>
       <title>[GRA11][Public Cloud] - Network API/Managed Kubernetes Services Incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Public cloud offering, which is causing temporary Availability issues in the GRA11 region.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/03/2025 20:27 UTC&lt;br /&gt;&lt;b&gt;Impacted Services :&lt;/b&gt; Network API and MKS in the GRA11 region services are degraded.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Please note that it is not currently possible to perform any actions on instances in GRA11 region. Any attempts to update existing load balancers or create new ones will result in API errors. Services for the Network API and MKS are currently experiencing degradation, which may result in slower response times. However, the existing load balancers remain operational and continue to function as normal.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are fully engaged and working to resolve the issue as quickly as possible. &lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologise for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 06 Mar 2025 20:51:39 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Public cloud offering, which is causing temporary Availability issues in the GRA11 region.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/03/2025 20:27 UTC&lt;br /&gt;&lt;b&gt;Impacted Services :&lt;/b&gt; Network API&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are not able to perform API actions which involve an Openstack Network. This includes Instance spawn, loadbalancer failover etc...&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; This incident is caused by a software issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Server load is steadily decreasing following the initial incident, and we are monitoring the region.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologise for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 06 Mar 2025 21:24:48 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/156zyv91nrtj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/156zyv91nrtj</guid>
     </item>

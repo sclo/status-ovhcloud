@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>http://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 02 Apr 2025 21:20:36 +0000</pubDate>
+    <pubDate>Wed, 02 Apr 2025 21:33:36 +0000</pubDate>
     <item>
       <title>[RBX/BHS][Hosted Private Cloud] - Hosts maintenance notification</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Tue, 08 Apr 2025 09:30:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/dgq44ljtrjwv</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/dgq44ljtrjwv</guid>
+    </item>
+    <item>
+      <title>[EU/CA][Hosted Private Cloud] - Host  replacement maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;This may temporarily affect the availability of vMotion. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/04/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/04/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Concerned hosts will be put in maintenance mode during the operation and a vMotion will be performed if it has Virtual machines in it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our Hosted Private Cloud offer, we will be replacing Hosted Private Cloud&apos;s hosts by new ones.&lt;br /&gt;Concerned customers will receive a notification regarding the replacement of their hosts.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 07 Apr 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Fri, 11 Apr 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/2jzdrcvcx8hp</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/2jzdrcvcx8hp</guid>
     </item>
     <item>
       <title>[EU/CA][Hosted Private Cloud] - Host replacement maintenance notification</title>
@@ -215,15 +224,6 @@
       <maintenanceEndDate>Fri, 28 Feb 2025 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/7rqd2jpxwrb2</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/7rqd2jpxwrb2</guid>
-    </item>
-    <item>
-      <title>[RBX2A][Hosted Private Cloud] - Migration PCC to VCD</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational since 15:06 UTC.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is still in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/02/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/02/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; PCC management will be unavailable during the migration and virtual machines will be migrated with vMotion.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our migration PCC to VCD plan, we are rolling out a maintenance which will transfer your current PCC platform to the new VCD platform&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Fri, 28 Feb 2025 15:33:01 +0000</pubDate>
-      <maintenanceEndDate>Fri, 28 Feb 2025 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/vt07b1drqy7f</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/vt07b1drqy7f</guid>
     </item>
   </channel>
 </rss>

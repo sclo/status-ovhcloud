@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2025-04-16T19:05:36Z</updated>
+  <updated>2025-04-16T19:42:42Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -49,6 +49,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;22:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on network services globally.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/04/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/04/2025 18:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Debian 10 and Debian 11 IPv6 will be broken on newly created instances.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement plan, a maintenance is scheduled on OpenStack public network services globally.&lt;br /&gt;&lt;br /&gt;We are going to update the IPv6 network metadata information given to instances.&lt;br /&gt;The previous metadata was containing wrong data (subnet mask), leading to wrong cloud-init IPv6 network auto configuration.&lt;br /&gt;The new metadata result will contains all necessary data to give proper IPv6 configuration through cloud-init.&lt;br /&gt;&lt;br /&gt;However, both Debian 10 and Debian 11 images won't be able to configure IPv6 correctly, so you may have to configure IPv6 manually for these following this documentation:&lt;br /&gt;EN: https://help.ovhcloud.com/csm/en-ie-public-cloud-network-ipv6-configuration?id=kb_article_view&amp;sysparm_article=KB0050178&lt;br /&gt;FR: https://help.ovhcloud.com/csm/fr-public-cloud-network-ipv6-configuration?id=kb_article_view&amp;sysparm_article=KB0050183&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/24603152</id>
+    <published>2025-04-16T19:42:42Z</published>
+    <updated>2025-04-16T19:42:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j3vbrcxgs1br"/>
+    <title>[RBX/SBG][Managed Rancher Service] - Kubernetes upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our public cloud offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.  &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/04/2025 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2025 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Managed Rancher Service products in order to fix a CVE.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/24248481</id>
     <published>2025-04-16T18:36:05Z</published>
     <updated>2025-04-16T19:05:36Z</updated>
@@ -63,14 +71,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/c8j8dt498c34"/>
     <title>[EU-CENTRAL][Public Cloud] - API maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on the API of the LocalZone EU-CENTRAL-LZ-PRG-A.  &lt;br /&gt;&lt;br /&gt;This will temporarily affect availability.  &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/04/2025 08:15 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2025 09:15 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The API service will be temporarily unavailable for a few minutes during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our products and services, we will carry out a maintenance on the API infrastructure.  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/24603152</id>
-    <published>2025-04-16T08:30:21Z</published>
-    <updated>2025-04-16T08:30:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/j3vbrcxgs1br"/>
-    <title>[RBX/SBG][Managed Rancher Service] - Kubernetes upgrade</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our public cloud offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.  &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/04/2025 08:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/04/2025 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will do a maintenance operation on our network equipment related to Managed Rancher Service products in order to fix a CVE.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/24669081</id>

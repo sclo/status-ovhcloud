@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 22 Apr 2025 09:19:17 +0000</pubDate>
+    <pubDate>Tue, 22 Apr 2025 11:10:43 +0000</pubDate>
     <item>
       <title>[GLOBAL][Baremetal] - Debian-10-based rescue system (rescue-customer boot mode) removal</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Tue, 22 Apr 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/d1hy7gh8z9q8</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/d1hy7gh8z9q8</guid>
+    </item>
+    <item>
+      <title>[GRA1][Dedicated Servers] - Rack G113A02</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Dedicated Servers offer in the rack G113A02.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/04/2025 10:42 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some servers in the rack G113A02 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their servers located in the specified rack.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by an electrical equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 22 Apr 2025 11:10:43 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/dsblr497wjgc</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/dsblr497wjgc</guid>
     </item>
     <item>
       <title>[GRA1/GRA2/GRA3/GRA4][Dedicated Servers] - IPMI incident notification</title>
@@ -202,15 +210,6 @@
       <pubDate>Mon, 14 Apr 2025 22:52:49 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/89dw5xbzf1hb</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/89dw5xbzf1hb</guid>
-    </item>
-    <item>
-      <title>[SGP2][Virtual Private Servers] - Workflow Management service maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We want to inform you about an upcoming maintenance window for our Workflow Management service, Mistral.  &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/04/2025 14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/04/2025 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts:&lt;br /&gt;- Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt;- Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;br /&gt;&lt;br /&gt;We appreciate your understanding and cooperation as we work to improve our platform and provide you with the best possible service.&lt;/p&gt;      </description>
-      <pubDate>Mon, 14 Apr 2025 14:15:53 +0000</pubDate>
-      <maintenanceEndDate>Mon, 14 Apr 2025 15:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/x946jpmy37tz</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/x946jpmy37tz</guid>
     </item>
   </channel>
 </rss>

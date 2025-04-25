@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 25 Apr 2025 14:16:04 +0000</pubDate>
+    <pubDate>Fri, 25 Apr 2025 17:10:05 +0000</pubDate>
     <item>
       <title>[VA1][Public Cloud] - Registries upgrade</title>
       <description>
@@ -44,8 +44,8 @@
     <item>
       <title>[GLOBAL][Storage] - Object storage incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Object Storage offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Object storage offer&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt;Between 25/03/2025 09:00 UTC and 18/04/2025 16:00 UTC, when customers deleting an object with MPU (only objects with more than 100 parts), only the first 100 parts were deleted.&lt;br /&gt;Since 18/04/2025 16:00 UTC, the bug is fixed and all parts are now correctly deleted.&lt;br /&gt;Because of this bug, customers will have a discrepancy between the actual bucket size and the size displayed in the Manager because of parts that not have been deleted but should have been.&lt;br /&gt;In the meantime, our technical teams are working on the storage size of the impacted customers between those 2 dates.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a software issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Fri, 25 Apr 2025 08:47:09 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Object Storage offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Object storage offer&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Between 25/03/2025 09:00 UTC and 18/04/2025 16:00 UTC, when customers deleting an object with MPU (only objects with more than 100 parts), only the first 100 parts were deleted.&lt;br /&gt;Since 18/04/2025 16:00 UTC, the bug is fixed and all parts are now correctly deleted.&lt;br /&gt;Because of this bug, customers will have a discrepancy between the actual bucket size and the size displayed in the Manager because of parts that not have been deleted but should have been.&lt;br /&gt;In the meantime, our technical teams are working on the storage size of the impacted customers between those 2 dates.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a software issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 25 Apr 2025 17:10:05 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/r26nqcr6xr23</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/r26nqcr6xr23</guid>
     </item>

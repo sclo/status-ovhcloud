@@ -1,42 +1,211 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AGONOQW/Q5qPAdIIYEY9nY2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMuHUwal18xJYoXBlQAgEQgDtfB8ZFwJ0TcoHhEwnJZdk/YrEoLDskugMldvsVJAqhILUxDxS3ec8oa7KptL0RQUIKIMg6bRE2OV3KhQ==",
-          "iv":"A6woEQEoUgAAAGbp",
-          "context":"2eKDUizKZ8z99YdCK0xHQc0hdcggm8/hqnr4uW2PRVPROH00kyY413eQCYIhalpojbeeXbyxCdPMSg+UXVhKZIZ5Mo0tgbb7mEsbIFfZqHOGGlpc+0ByjwUKR1qRZL+DMF2qSFuoEsJR3J/wTfCj+kDnZAmPnOhfmhVD7ppFRFPLVpehc8LgjPdijNgZ2GbIZuisPihacSypsqRjBntDgs9Dr14TVc7gyWCrZplr6upAzw4Zvgo9ZaYFLTsAKdGkhY/S6Z4rNQqdMsdavhk6EM4rjKjm1ORarQTU14TL/dLIO2bzsoD/ytsz8SwIEgdTn8uWnpHi1TRaHFnOh95vsxgr3j0B/lSDg4HPOj23plSsTFcebO2jCOO09w9/MnFp3X2qFWyhV7YWZV2/L6kmHvuNKTDoVFSofThvnJmSkfKhuq5B2xQmQlEmS2nLpKFRdOTZTQWM8AtsoG9sHyxNt4PxE0QFOfnkURGcOMBwbm22Pq69+HB1RYLd9WRfrqM9ujAFn4Fk+qDzOqP8r8+Py1sAugOKghlIPKyXVN3Ejqvmffq6DuPNWTgYV85O28iYM3+qwzwcTUEBWxgIc8T7SI72De9k3tezf2MMVUwkGyIbBlAAY5mI9J3d3en9OErQKrFlb4QGy552MvGbieFSZRN99S07/DuQH5qv/AXDxwDFpqGKIC7o/I7kQGF19l15NwbIrhMbt3Ffmwc3clhsGiXLtJaqZasasLuTBEAK0rNxzmIzTLCKxkE/EXzhuonBUTc2EkxML/VeX0Ii9g=="
-};
-    </script>
-    <script src="https://df99fa8a2f0c.12e9ef7c.us-east-2.token.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/challenge.js"></script>
-    <script src="https://df99fa8a2f0c.12e9ef7c.us-east-2.captcha.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:network.status-ovhcloud.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
+  <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
+  <title>Network &amp; Infrastructure Status - Incident History</title>
+  <updated>2025-04-30T11:11:29Z</updated>
+  <author>
+    <name>Network &amp; Infrastructure</name>
+  </author>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24706385</id>
+    <published>2025-05-29T11:00:00Z</published>
+    <updated>2025-04-19T03:55:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/4lfld96l05vd"/>
+    <title>[BHS4/BHS6/BHS7][Infrastructure ] - Electrical background work</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/05/2025 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/05/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers might be temporarily unavailable during 20 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance. &lt;br /&gt;The operation is carried out in several steps: &lt;br /&gt;                Step 1 : From 11:00 UTC to 11:30 UTC, this step may temporarily affect Availability of servers &lt;br /&gt;                Step 2 : From 11:30 UTC to 19:30 UTC &lt;br /&gt;                Step 3 : From 19:30 UTC to 20:00 UTC, this step may temporarily affect Availability of servers &lt;br /&gt;  &lt;br /&gt;Rooms where you may experience unavailability on BHS4 are T04A, T04B and T04C &lt;br /&gt;Rooms where you may experience unavailability on BHS6 are T06B, T06C, T06D, T06E, T06F and T06G &lt;br /&gt;Rooms where you may experience unavailability on BHS7 are B702, B703, B707 and B709 &lt;br /&gt;  &lt;br /&gt;Our technical teams will be mobilized throughout the maintenance to resolve any impact on your services. &lt;br /&gt;  &lt;br /&gt;We apologize in advance for any inconvenience caused.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24785996</id>
+    <published>2025-05-19T20:00:00Z</published>
+    <updated>2025-04-26T03:03:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/h8gds00q2ymj"/>
+    <title>[RBX][Network] - Network core equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of the continuous improvement of our services, we have planned an evolution of the network infrastructure on the Roubaix site on May 19, 2025.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/05/2025 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2025 05:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some network perturbation can be observe during the 3rd step for a duration of 5 to 10 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network core infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;&lt;br /&gt;This maintenance will be structured around three phases, described in detail below :&lt;br /&gt;    Step 1 : Preparation of the maintenance operation (about 2 hours)&lt;br /&gt;    Step 2 : Deployment of the new infrastructure (about 3 hours)&lt;br /&gt;    Step 3 : Testing and activation of the new infrastructure (about3 hours)&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our services.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24779159</id>
+    <published>2025-05-19T08:00:00Z</published>
+    <updated>2025-04-25T02:03:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/y8p3w81kjt8h"/>
+    <title>[SGP2][Infrastructure] - Electrical background work</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;02:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/05/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/05/2025 23:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some preventive electrical background work.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24758467</id>
+    <published>2025-05-14T20:00:00Z</published>
+    <updated>2025-04-23T14:51:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/jbcj28fc8sy5"/>
+    <title>[RBX][Network] - Network core equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of the continuous improvement of our services, we have planned an evolution of the network infrastructure on the Roubaix site on May 14, 2025.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/05/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/05/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some network perturbation can be observe during the 3rd step for a duration of 5 to 10 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network core infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;&lt;br /&gt;This maintenance will be structured around three phases, described in detail below :&lt;br /&gt;    Step 1 : Preparation of the maintenance operation (about 2 hours)&lt;br /&gt;    Step 2 : Deployment of the new infrastructure (about 3 hours)&lt;br /&gt;    Step 3 : Testing and activation of the new infrastructure (about3 hours)&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our services.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24758429</id>
+    <published>2025-05-12T20:00:00Z</published>
+    <updated>2025-04-23T14:47:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/q9n1y76lk698"/>
+    <title>[RBX][Network] - Network core equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of the continuous improvement of our services, we have planned an evolution of the network infrastructure on the Roubaix site on May 12, 2025.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/05/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/05/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some network perturbation can be observe during the 3rd step for a duration of 5 to 10 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network core infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;&lt;br /&gt;This maintenance will be structured around three phases, described in detail below :&lt;br /&gt;    Step 1 : Preparation of the maintenance operation (about 2 hours)&lt;br /&gt;    Step 2 : Deployment of the new infrastructure (about 3 hours)&lt;br /&gt;    Step 3 : Testing and activation of the new infrastructure (about3 hours)&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our services.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24570819</id>
+    <published>2025-05-12T06:00:00Z</published>
+    <updated>2025-04-04T20:25:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/nsc6mmlnd5mm"/>
+    <title>[RBX2][Infrastructure] - Electrical background work</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/05/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/05/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some preventive electrical background work.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24819635</id>
+    <published>2025-05-06T23:30:00Z</published>
+    <updated>2025-04-29T04:03:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/n3m1hf936sfm"/>
+    <title>[WAW/NYC/CHI/PAO/DFW/SEA][Network] - Backbone Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;02:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our backbone infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/05/2025 23:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/05/2025 02:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24819697</id>
+    <published>2025-05-05T23:30:00Z</published>
+    <updated>2025-04-29T04:16:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/fd2kgkr3srwy"/>
+    <title>[NYC/CHI/LAX/DFW/MIA/PDX/SFO/PAO/WAS/YMQ/YTO][Network] - Backbone Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;02:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our backbone infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/05/2025 23:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/05/2025 02:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24826777</id>
+    <published>2025-05-05T08:30:00Z</published>
+    <updated>2025-04-29T21:42:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/6kjlbjcgn6sq"/>
+    <title>[SGP][Network] - Backbone Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; - &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our backbone infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/05/2025 08:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/05/2025 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, there may be some configuration delays within the OneNetwork scope for approximately 20 minutes. However, there will be no impact on network traffic.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on a network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24745952</id>
+    <published>2025-05-05T08:00:00Z</published>
+    <updated>2025-04-22T15:28:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/zp66rp1x5wqh"/>
+    <title>[LIM1][Cooling System] - Cooling maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;15:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our cooling infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/05/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/05/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing a preventive cooling maintenance in LIM1.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24757167</id>
+    <published>2025-05-03T06:00:00Z</published>
+    <updated>2025-04-23T13:17:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/x09b5x616px1"/>
+    <title>[RBX8][Cooling System] - Rack R807L21</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/05/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/05/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24757068</id>
+    <published>2025-05-02T06:00:00Z</published>
+    <updated>2025-04-23T13:12:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/gqjsv2xwl3v2"/>
+    <title>[RBX8][Cooling System] - Rack R807L21</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/05/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/05/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24774549</id>
+    <published>2025-05-02T00:00:00Z</published>
+    <updated>2025-04-24T16:26:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/734j0vhjk47q"/>
+    <title>[GRA1][Network] - Network equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Public Network service. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/05/2025 00:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/05/2025 03:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Public Network service .&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24757045</id>
+    <published>2025-05-01T06:00:00Z</published>
+    <updated>2025-04-23T13:10:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/hz7lmvwzhyz6"/>
+    <title>[RBX8][Cooling System] - Rack R807L21</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/05/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/05/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24824060</id>
+    <published>2025-04-30T11:11:29Z</published>
+    <updated>2025-04-30T11:11:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/yp9y069hjnfy"/>
+    <title>[LAX][Network] - Backbone Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our backbone infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/04/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; 10 to 80 ms latency increase for customer transiting through Los Angeles.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24827324</id>
+    <published>2025-04-30T01:04:20Z</published>
+    <updated>2025-04-30T01:04:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/hwhlcwwt6xn2"/>
+    <title>[GRA2 ][Network] - vRack Private Network incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on  our Network in GRA2, have been resolved&lt;br /&gt;&lt;b&gt;Start Time :&lt;/b&gt; 29/04/2025 23:08 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 30/04/2025 01:03 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; Network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident is in progress on our Network in GRA2 , customers in the impacted zone may face some difficulties. Please find the details:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 23:08 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network is temporarily unavailable for some servers located in GRA2 .&lt;br /&gt;&lt;b&gt;Root  cause  :&lt;/b&gt; Network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are actively working to resolve the incident and restore services as quickly as possible&lt;br /&gt;We will keep you informed of developments and the resolution of the incident.&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24603582</id>
+    <published>2025-04-29T22:30:13Z</published>
+    <updated>2025-04-29T22:30:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/dfkywtm37jyx"/>
+    <title>[GRA1][Network] - rack G137A11 maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;01:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Network offer.   &lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.   &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Public and vRack network will be temporarily unavailable for some customers during the operation in this rack G137A11. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on a network equipment.   &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24824906</id>
+    <published>2025-04-29T19:27:09Z</published>
+    <updated>2025-04-29T19:27:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/gy49srmlm8bg"/>
+    <title>[SYD1/SBG3/SIN/FRA/SGP1/FRA1][Network] - Backbone Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;19:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are operational since 19h26&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;17:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;17:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our OCC services.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24822532</id>
+    <published>2025-04-29T15:35:07Z</published>
+    <updated>2025-04-29T15:35:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/zv6dxkqmczmj"/>
+    <title>[ERI1][Cooling System] - Rack ERI0112E01C</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our cooling infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 13:15 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 15:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing a preventive water manifold replacement.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24810563</id>
+    <published>2025-04-29T15:05:21Z</published>
+    <updated>2025-04-29T15:05:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/tf6fz57mc3hc"/>
+    <title>[SBG3][Cooling System] - Rack S333A02</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  29/04/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  29/04/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24667648</id>
+    <published>2025-04-29T11:29:54Z</published>
+    <updated>2025-04-29T11:29:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/v4wxzsrn0gd6"/>
+    <title>[RBX6][Infrastructure] - Rack 46E18 maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;06:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Operations on this maintenance will take longer than expected.&lt;br /&gt;Update will be posted when operations are done&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;20:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Infrastructure offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in rack 46E18 will be temporarily unavailable during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on an electrical equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24815291</id>
+    <published>2025-04-29T09:22:18Z</published>
+    <updated>2025-04-29T09:22:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/5bhg2l9cd7z5"/>
+    <title>[PAR/MAD][Network] - Network incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on network in PAR/MAD has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2025 15:08 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/04/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; The incident was due to the Regional Power Outage affecting Spain &amp; Portugal&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;02:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).		&lt;br /&gt;															&lt;br /&gt;Please find below an update on the situation:									&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; As of 22:00 UTC on 28/04/2025, the majority of peers have been restored, and our OVH network is currently stable. However, the situation remains unstable in Spain and Portugal.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our team are actively monitoring our network.					&lt;br /&gt;									&lt;br /&gt;We will keep you updated on the progress and resolution.							&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;22:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).		&lt;br /&gt;																&lt;br /&gt;Please find below an update on the situation:									&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; Our PoP in Madrid is now accessible again as of 21:40 UTC. However, please note that we are still experiencing some peering issues, which may affect connectivity.		&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.									&lt;br /&gt;									&lt;br /&gt;We will keep you updated on the progress and resolution.							&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Since 28/04/2025 16:40 UTC the Pop in Madrid is unreachable.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; At 28/04/2025 15:08 UTC lost of the PoP in Madrid. At 28/04/2025 15:38 UTC the Pop was available again.&lt;br /&gt;At 28/04/2025 16:40 UTC lost of the Pop in Madrid.&lt;br /&gt;&lt;br /&gt;From 28/04/2025 15:38 UTC, there is multiple peering down at Madrid, leading to re-routing traffic for the following providers :&lt;br /&gt;AIRENET - ESPAIX - TELXIUS - ALTICE&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An incident has occures on our Network in PAR/MAD due to the Regional Power Outage affecting Spain &amp; Portugal, customers in the impacted zone may face some difficulties. Please find the details:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2025 15:08 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/04/2025 15:38 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; At 28/04/2025 15:08 UTC lost of the PoP in Madrid. At 28/04/2025 15:38 UTC the Pop is available again.&lt;br /&gt;&lt;br /&gt;From 28/04/2025 15:38 UTC, there is multiple peering down at Madrid, leading to re-routing traffic for the following providers :&lt;br /&gt;AIRENET - ESPAIX - TELXIUS - ALTICE&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident is due to the Regional Power Outage affecting Spain &amp; Portugal&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; The pop in Madrid is available again. We are waiting for final confirmation from our providers. The situation is under control again.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24788854</id>
+    <published>2025-04-29T06:55:48Z</published>
+    <updated>2025-04-29T06:55:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/t30lk05lrd3d"/>
+    <title>[SBG/WAW][Backbone] - Network equipment maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;06:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Backbone offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect Latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2025 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Latencies for customer configuration requests will be observed during the operation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24773816</id>
+    <published>2025-04-29T04:48:26Z</published>
+    <updated>2025-04-29T04:48:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/9zy27gzvhsfr"/>
+    <title>[LIL1/AMS][Network] - Backbone maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All services are operational. There has been no impact since 28/04/2025 22:24 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2025 19:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2025 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, customers will face latency increase to access their services passing from LIL1 and AMS.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:network.status-ovhcloud.com,2005:Incident/24084118</id>
+    <published>2025-04-28T13:42:35Z</published>
+    <updated>2025-04-28T13:42:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/yhxbp3kfptq3"/>
+    <title>[SBG3][Cooling System] - Rack S333A02</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt;  28/04/2025 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  28/04/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in this rack will be unavailable for a maximum of 12 hours.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are doing some cooling system replacement and upgrade.&lt;br /&gt;&lt;br /&gt;The maintenance may be completed in less time than expected, and we are committed to minimizing the outage duration.&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+</feed>

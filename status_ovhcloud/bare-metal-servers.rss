@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 10 Jun 2025 12:35:44 +0000</pubDate>
+    <pubDate>Tue, 10 Jun 2025 13:02:52 +0000</pubDate>
     <item>
       <title>[GRA1][Dedicated Servers] - Rack G135B18</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Thu, 26 Jun 2025 02:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/sm956c08tsgg</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/sm956c08tsgg</guid>
+    </item>
+    <item>
+      <title>[SBG5][Virtual Private Servers] - Workflow Management service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We want to inform you about an upcoming maintenance window for our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time  :&lt;/b&gt; 24/06/2025 10:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/06/2025 12:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts:&lt;br /&gt;&lt;br /&gt;    Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt;&lt;br /&gt;    Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;br /&gt;&lt;br /&gt;We appreciate your understanding and cooperation as we work to improve our platform and provide you with the best possible service.&lt;/p&gt;      </description>
+      <pubDate>Tue, 24 Jun 2025 10:30:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 24 Jun 2025 12:30:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/66l7wy87yyr5</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/66l7wy87yyr5</guid>
     </item>
     <item>
       <title>[GLOBAL][Baremetal] - Debian-10-based rescue system (rescue-customer boot mode) removal</title>
@@ -62,8 +71,8 @@
     <item>
       <title>[SBG3][Dedicated Servers] - Rack S327B02/S327B03 incident notification</title>
       <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have determined the origin of the incident affecting our Dedicated Servers offer on the specific racks.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/06/2025 12:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in racks S327B02 and S327B03 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their servers located in the specified racks.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by an electrical equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Tue, 10 Jun 2025 12:35:44 +0000</pubDate>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; All servers in rack S327B02 are no longer impacted.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are currently working on the last impacted servers in rack S327B03.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have determined the origin of the incident affecting our Dedicated Servers offer on the specific racks.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/06/2025 12:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in racks S327B02 and S327B03 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their servers located in the specified racks.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by an electrical equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 10 Jun 2025 12:49:24 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/116wxn1sqksc</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/116wxn1sqksc</guid>
     </item>
@@ -202,14 +211,6 @@
       <pubDate>Tue, 03 Jun 2025 22:29:40 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/6fcz5bsk4dk8</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/6fcz5bsk4dk8</guid>
-    </item>
-    <item>
-      <title>[RBX4][Dedicated Servers] - Rack 54A10</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We experienced an incident that affected our Dedicated Servers offer on rack 54A10 in RBX4.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/06/2025 20:49 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/06/2025 20:53 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; All servers in the specific rack were unavailable via public network.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were unable to access their servers located in the specified rack via public network.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
-      <pubDate>Tue, 03 Jun 2025 21:01:01 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/ny4h811j5dy2</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/ny4h811j5dy2</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 20 Jun 2025 12:41:00 +0000</pubDate>
+    <pubDate>Fri, 20 Jun 2025 14:01:08 +0000</pubDate>
     <item>
       <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry maintenance notification</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Fri, 11 Jul 2025 03:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/m8znbd1zmz01</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/m8znbd1zmz01</guid>
+    </item>
+    <item>
+      <title>[BHS1][Storage] - Block storage maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Storage offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/07/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade major version of Ceph software to next stable release.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 07 Jul 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 08 Jul 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/jw78z8zsyvyh</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/jw78z8zsyvyh</guid>
     </item>
     <item>
       <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
@@ -213,14 +222,6 @@
       <pubDate>Fri, 13 Jun 2025 14:36:24 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/llqmgrj8s3pr</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/llqmgrj8s3pr</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Storage] - Object storage incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; Some customers are still experiencing a discrepancy between the actual size of their bucket and the size displayed in the Manager, due to undeleted parts that should have been removed. To address this issue, affected customers will receive an informational email and a credit note on their invoice, compensating for excess consumption, with credits applied as of April 18, 2025. Processing are completed in followings region: UK, TOR, SGP , SYD , MUM and US. &lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our technical teams are working to address the storage size of the impacted customers between those two dates on SBG, GRA, BHS, EU-WEST-PAR-A, EU-WEST-PAR-B and EU-WEST-PAR-C regions. We would also like to assure you that refunds are still being processed.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Object Storage offer. &lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/03/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Object storage offer degradation.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Between 25/03/2025 09:00 UTC and 18/04/2025 16:00 UTC, when customers deleting an object with MPU (only objects with more than 100 parts), only the first 100 parts were deleted.&lt;br /&gt;Since 18/04/2025 16:00 UTC, the bug is fixed and all parts are now correctly deleted.&lt;br /&gt;Because of this bug, customers will have a discrepancy between the actual bucket size and the size displayed in the Manager because of parts that not have been deleted but should have been.&lt;br /&gt;In the meantime, our technical teams are working on the storage size of the impacted customers between those 2 dates.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a software issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Fri, 13 Jun 2025 12:41:24 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/d6bbntp2x68q</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/d6bbntp2x68q</guid>
     </item>
   </channel>
 </rss>

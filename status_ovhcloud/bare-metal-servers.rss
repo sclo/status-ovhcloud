@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 15 Jul 2025 17:20:36 +0000</pubDate>
+    <pubDate>Tue, 15 Jul 2025 20:25:32 +0000</pubDate>
     <item>
       <title>[SGP][Virtual Private Servers] - Network maintenance notification</title>
       <description>
@@ -94,6 +94,15 @@
       <maintenanceEndDate>Thu, 17 Jul 2025 03:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/80yvc9813ccd</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/80yvc9813ccd</guid>
+    </item>
+    <item>
+      <title>[GRA3][Virtual Private Servers] - Workflow Management service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/07/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/07/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt;    Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt;    Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;/p&gt;      </description>
+      <pubDate>Wed, 16 Jul 2025 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 16 Jul 2025 10:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/mlh6q9x3v8yk</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/mlh6q9x3v8yk</guid>
     </item>
     <item>
       <title>[RBX/SBG][Storage and Backups] - NAS HA maintenance notification</title>
@@ -213,15 +222,6 @@
       <maintenanceEndDate>Wed, 23 Jul 2025 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/1m4m88cr2sdr</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1m4m88cr2sdr</guid>
-    </item>
-    <item>
-      <title>[RBX8][Infrastructure] - ROW  R806L22/R806L23/R806L24</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Please note that this maintenance is cancelled. It will be rescheduled at a later date.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/07/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/07/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI can be unreachable for 5 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://bare-metal-servers.status-ovhcloud.com/incidents/42z8cs7t53sz&quot;&gt;Global planning link&lt;/a&gt;&lt;/p&gt;      </description>
-      <pubDate>Mon, 14 Jul 2025 12:51:35 +0000</pubDate>
-      <maintenanceEndDate>Fri, 25 Jul 2025 10:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/1n09qlb4hb63</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/1n09qlb4hb63</guid>
     </item>
   </channel>
 </rss>

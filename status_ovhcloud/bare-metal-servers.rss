@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 25 Jul 2025 09:51:24 +0000</pubDate>
+    <pubDate>Fri, 25 Jul 2025 10:02:42 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Managed Services] - Logs Data Platform maintenance notification</title>
       <description>
@@ -141,6 +141,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/php6wr2wqwb0</guid>
     </item>
     <item>
+      <title>[EU][Dedicated Servers] - IPMI incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Dedicated Servers offering, which is causing temporary availability issues on IPMI interface in EU region.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/04/2025 09:10 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; IPMI interface unavailable in specified region.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers in specified regions may be currently unable to access the IPMI interface to manage their services. Other regions are not impacted by this ongoing issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it. &lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Fri, 25 Jul 2025 10:02:42 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5q8gpdm0syl2</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5q8gpdm0syl2</guid>
+    </item>
+    <item>
       <title>[GRA2][Dedicated Servers] - Rack G211B13</title>
       <description>
 &lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently investigating an incident affecting our Dedicated Servers offering, which is causing temporary availability issue in the rack G211B13.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/07/2025 09:38 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt;   vRack in the rack G211B13 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
@@ -215,15 +223,6 @@
       <maintenanceEndDate>Tue, 22 Jul 2025 10:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/yf9fbxqv4qsv</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/yf9fbxqv4qsv</guid>
-    </item>
-    <item>
-      <title>[RBX][Virtual Private Servers] - Workflow Management service maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational. There has been no impact since 22/07/2025 10:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/07/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/07/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;/p&gt;      </description>
-      <pubDate>Tue, 22 Jul 2025 11:51:18 +0000</pubDate>
-      <maintenanceEndDate>Tue, 22 Jul 2025 10:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/tf6mlcmr53pg</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tf6mlcmr53pg</guid>
     </item>
   </channel>
 </rss>

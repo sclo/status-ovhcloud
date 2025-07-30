@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 30 Jul 2025 13:21:24 +0000</pubDate>
+    <pubDate>Wed, 30 Jul 2025 13:59:30 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Managed Services] - Logs Data Platform maintenance notification</title>
       <description>
@@ -132,15 +132,6 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/tpsrr5l170mk</guid>
     </item>
     <item>
-      <title>[RBX8][Infrastructure] - Racks R804R16 / R804R17 / R804R18 maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/08/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/08/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI can be unreachable for 5 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Fri, 01 Aug 2025 06:00:00 +0000</pubDate>
-      <maintenanceEndDate>Fri, 01 Aug 2025 08:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bhmk22fb7wy9</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bhmk22fb7wy9</guid>
-    </item>
-    <item>
       <title>[GRA6][Virtual Private Servers] - Workflow Management service maintenance notification</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/07/2025 10:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/07/2025 12:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;/p&gt;      </description>
@@ -157,6 +148,15 @@
       <maintenanceEndDate>Thu, 31 Jul 2025 01:00:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/5ypbcdwbwzmd</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/5ypbcdwbwzmd</guid>
+    </item>
+    <item>
+      <title>[RBX8][Infrastructure] - Racks R804R16 / R804R17 / R804R18 maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance it has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/08/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/08/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; IPMI can be unreachable for 5 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 30 Jul 2025 13:59:30 +0000</pubDate>
+      <maintenanceEndDate>Fri, 01 Aug 2025 08:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/bhmk22fb7wy9</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/bhmk22fb7wy9</guid>
     </item>
     <item>
       <title>[RBX6][Dedicated Servers] - Racks 46F08/46F09/46F10 incident notification</title>

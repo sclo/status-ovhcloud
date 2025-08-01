@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2025-08-01T08:56:09Z</updated>
+  <updated>2025-08-01T13:48:27Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -23,6 +23,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/kq5v90mbjgs2"/>
     <title>[GRA][Web Hosting] - Migration Cluster025 to cluster125</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025 22:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, Cluster025 will be temporarily unavailable for 90 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a migration of Cluster025 to Cluster125.&lt;br /&gt;Cluster Information concerned by the migration is available inside the Manager.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/25994999</id>
+    <published>2025-08-01T13:48:27Z</published>
+    <updated>2025-08-01T13:48:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/jqx1z4vb9rws"/>
+    <title>[GLOBAL][Web Hosting] - Statistics incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;13:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Web Hosting offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/07/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/08/2025 13:40 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Web Hosting statistics weren't displayed in the manager.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to see their web hosting statistics in GRA.&lt;br /&gt;Since 01/08/2025 13:40 UTC, Web Hosting statistics are displayed via the manager.&lt;br /&gt;However, statistics between 31/07/2025 14:00 UTC and 01/08/2025 13:40 UTC are not displayed via the manager but you can find them via the link: https://logs.YOURCLUSTERNAME.hosting.ovh.net/ by replacing "YOURCLUSTERNAME" with the name of your cluster. &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/25926118</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/cm51zdg7cbq6"/>
     <title>[GRA][Databases] - databases incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Databases which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/07/2025 15:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/07/2025 16:20 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers instances are unreachable&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/25837626</id>
-    <published>2025-07-17T15:55:39Z</published>
-    <updated>2025-07-17T15:55:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/nd7l2sb3qtv1"/>
-    <title>[GRA][Web Hosting] - eu004 database incident notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Web Hosting offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/07/2025 14:14 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/07/2025 15:21 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a hardware issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an incident affecting our Web Hosting offering, which is causing temporary Availability issues in the eu004 database.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/07/2025 14:14 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; sharedsql039.eu004 database is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their data located in the specified database.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it. &lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

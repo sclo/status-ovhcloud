@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 04 Aug 2025 07:00:21 +0000</pubDate>
+    <pubDate>Mon, 04 Aug 2025 09:50:42 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Data &amp; Analytics] - Logs Data Platform maintenance notification</title>
       <description>
@@ -114,6 +114,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/wr383qv453zh</guid>
     </item>
     <item>
+      <title>[US][Compute - Instance] - Localzone API service incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently investigating an incident affecting our Compute - Instance offering, which is causing temporary availability issue in the US Localzone regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/08/2025 09:20 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The API service is temporarily performing no actions.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customer are temporarily unable to perform actions via the API.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 04 Aug 2025 09:50:42 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/nzwlrqq4zzf0</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/nzwlrqq4zzf0</guid>
+    </item>
+    <item>
       <title>[GRA7][Storage] - Block storage maintenance notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Storage offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/08/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade major version of Ceph software to next stable release.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
@@ -213,15 +221,6 @@
       <maintenanceEndDate>Tue, 29 Jul 2025 11:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9skv666pt77l</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9skv666pt77l</guid>
-    </item>
-    <item>
-      <title>[SYD1][Network] - Network maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region SYD1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/07/2025 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/07/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all Public cloud compute, Load Balancer and routers located in the region SYD1 will observe up to 2 seconds of packet loss.&lt;br /&gt;The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Mon, 28 Jul 2025 16:39:17 +0000</pubDate>
-      <maintenanceEndDate>Mon, 28 Jul 2025 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/q3fk48hqcymr</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/q3fk48hqcymr</guid>
     </item>
   </channel>
 </rss>

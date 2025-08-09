@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2025-08-09T06:28:23Z</updated>
+  <updated>2025-08-09T07:48:03Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -153,6 +153,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; - &lt;var data-var='time'&gt;02:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;23:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 12/08/2025 02:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 12/08/2025 02:30 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; Bandwidth perturbation might be observed on public and private networks if LACP is active on the server.&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our policy of continuous improvement, we are going to carry out maintenance on network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/26072315</id>
+    <published>2025-08-09T07:48:03Z</published>
+    <updated>2025-08-09T07:48:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/fnrk50dfgc57"/>
+    <title>[WAW1][Dedicated Servers] - Rack W01A21 incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Dedicated Servers offer on the specific rack.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/08/2025 07:20 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; All servers in the rack W01A21 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their servers located in the specified rack.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by an electrical equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/26071024</id>
     <published>2025-08-09T06:26:29Z</published>
     <updated>2025-08-09T06:28:23Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/krdcds9g67ct"/>
     <title>[RBX8][Infrastructure] - Rack R807L25 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. &lt;br /&gt;We will keep you updated as soon as the date is fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;02:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/08/2025 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The IPMI may be unreachable for up to 5 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/26048240</id>
-    <published>2025-08-07T13:49:09Z</published>
-    <updated>2025-08-07T13:49:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/rxhvs0nrcr9s"/>
-    <title>[RBX8][Infrastructure] - Rack R807L26 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. &lt;br /&gt;We will keep you updated as soon as the date is fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;01:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/08/2025 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The IPMI may be unreachable for up to 5 min.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

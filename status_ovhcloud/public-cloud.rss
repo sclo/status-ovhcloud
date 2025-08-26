@@ -1,42 +1,231 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Human Verification</title>
-    <style>
-        body {
-            font-family: "Arial";
-        }
-    </style>
-    <script type="text/javascript">
-    window.awsWafCookieDomainList = [];
-    window.gokuProps = {
-"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AGIZniRCPlRW5ZF/wsxXzXGAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMTNaZFMOpNkYMQBp2AgEQgDu7UvGRugAIvhk1Tmc42LOeQs8TxNO68gc/XCGXBOQ20Y0HAuKcwoSeLMLfpHkkhuX+wewcJXwN8dBXsg==",
-          "iv":"EkQpMAA3rwAABJ3H",
-          "context":"q6yqPfLiZU/ZA9nOOhuxBfYCZaf8G2jNBaB7k3LPr1RoTmMCnYUIxoybK5rq4PsFtJnzFv5xsxIlQ3y1HLPXuulW2N5yG35ZLR9EipiAR9tuo5b3ikaPkTV0cq2t9MxzVlK2Nm4vCzqX5MaMj7WYpHcg/O0PiZYfeN8nvvJwz2mT/ukzX+egtMOZmAbQZZw+2ve7SZSwMQCPDJaInxp4iVP72OeogCD+htyeoj4V0y3c/IA1cLdoHaIB1luuTEuk6/HlEtuCTm9nftf8yxtq+8lThhq8/hvsQPV3sHzRutUYO4vcomefCSrvKw0pJdOS2jKbT37F9qBJFJc7oBfxtvh3j/ujz6tnjCsRrFVTlFxi0brN/c4NL84+32n9QJDLUqvE0tKxXZVLbdnfOZR8909CM5QtgsGU9oDD+dxvlyDkdYzbMgx0T2YkvgG/z7ybWhRLSk72EO9FmDGE4uyW7DV2jkEspimmlGHVbdYhMUeDdmKGqstsq0hkGaFI2Pwbj7o8CzyzAvlT/NuLbRke32x7AeYK17i7VyZXqfwBceiX/Oy6bJtJut6IyGGnNbLNtL0BUTOo8k+eZmsOa+yA4ycI/54kcf+c3YIMBhQHGxe6TX8EFyMvrpw7izx4P3VV0KUxNBcSuxQC3fZ3HVFDSnmAg0ADj4bgmPlbcjA/isrzIjsHh6Q7tEouvUSaBMdVgiCrK5niJZZOFNwulDLTiGv0AwxXyfe4WdJm3BEHayXms2t4kNQAk5Gj1ilJzCC9i+VVDBRT8Q=="
-};
-    </script>
-    <script src="https://df99fa8a2f0c.12e9ef7c.us-east-2.token.awswaf.com/df99fa8a2f0c/7b6031b12635/3cd9236b4dc7/challenge.js"></script>
-    <script src="https://df99fa8a2f0c.12e9ef7c.us-east-2.captcha.awswaf.com/df99fa8a2f0c/7b6031b12635/3cd9236b4dc7/captcha.js"></script>
-</head>
-<body>
-    <div id="captcha-container"></div>
-    <script type="text/javascript">
-        AwsWafIntegration.saveReferrer();
-        window.addEventListener("load", function() {
-          const container = document.querySelector("#captcha-container");
-          CaptchaScript.renderCaptcha(container, async (voucher) => {
-              await ChallengeScript.submitCaptcha(voucher);
-              window.location.reload(true);
-          }
-      );
-    });
-    </script>
-    <noscript>
-        <h1>JavaScript is disabled</h1>
-        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
-         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
-    </noscript>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Public Cloud Status - Incident History</title>
+    <link>https://public-cloud.status-ovhcloud.com</link>
+    <description>Statuspage</description>
+    <pubDate>Tue, 26 Aug 2025 09:02:48 +0000</pubDate>
+    <item>
+      <title>[BHS/GRA][Data &amp; Analytics] - Logs Data Platform maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our Logs Data Platform offering.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/09/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/09/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The public API of Logs Data Platform product will be on read only mode during the whole maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on Logs Data Platform offering.&lt;br /&gt;For more information about IAM for Logs Data Platform, you can visit this documentation: &lt;a href=&quot; https://help.ovhcloud.com/csm/fr-logs-data-platform-iam-migration?id=kb_article_view&amp;sysparm_article=KB0071667&quot;&gt;KB0071667&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 17 Sep 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/91qtr0rpjmcw</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/91qtr0rpjmcw</guid>
+    </item>
+    <item>
+      <title>[RBX-A][Storage] - Block storage maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in RBX-A region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/09/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Sep 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 01 Sep 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/bmld56jxmf8h</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/bmld56jxmf8h</guid>
+    </item>
+    <item>
+      <title>[GRA11][Storage] - Block storage maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in GRA11 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/09/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Sep 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 01 Sep 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/whw77msydz0d</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/whw77msydz0d</guid>
+    </item>
+    <item>
+      <title>[SBG5][Storage] - Block storage maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Storage offer in SBG5 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/09/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Sep 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 01 Sep 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/vvppd45fv46l</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/vvppd45fv46l</guid>
+    </item>
+    <item>
+      <title>[GRA2/6/8][Storage] - Volume Snapshot (Ceph) maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var=&apos;date&apos;&gt;3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Ceph offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/09/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/09/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Volume Snapshot (Ceph) offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Sep 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 03 Sep 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/7pw8cs1fdz46</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/7pw8cs1fdz46</guid>
+    </item>
+    <item>
+      <title>[US-WEST-OR-1/US-EAST-VA-1/BHS5/WAW1/GRA9][Identity, Security &amp; Operations] - Secret Management Service</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Secret Management Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 28/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 28/08/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; During this maintenance window, you may encounter the following impacts on US, BHS, WAW, GRA on a short period of time :&lt;br /&gt;&lt;br /&gt;    You may not be able to perform Administration tasks on Load Balancer service (creation, deletion, etc.)&lt;br /&gt;    You may not be able to perform Administration tasks on Encrypted Volumes (creation, deletion, etc.)&lt;br /&gt;    Service of already deployed will not be affected, from end-user perspective&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Secret Management Service.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 28 Aug 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/2hdlyjp0np23</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/2hdlyjp0np23</guid>
+    </item>
+    <item>
+      <title>[GRA7][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region GRA7.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/08/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region GRA7 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 28 Aug 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 28 Aug 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</guid>
+    </item>
+    <item>
+      <title>[SBG5][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region SBG5.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/08/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region SBG5 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 27 Aug 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 27 Aug 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/w9ps9h1x4zkr</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/w9ps9h1x4zkr</guid>
+    </item>
+    <item>
+      <title>[AP-SOUTH-MUM-1/SYD1/SPG1][Identity, Security &amp; Operations] - Secret Management Service</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Secret Management Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 26/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 26/08/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; During this maintenance window, you may encounter the following impacts on AP-SOUTH-MUM, SYD, SPG on a short period of time :&lt;br /&gt;&lt;br /&gt;    You may not be able to perform Administration tasks on Load Balancer service (creation, deletion, etc.)&lt;br /&gt;    You may not be able to perform Administration tasks on Encrypted Volumes (creation, deletion, etc.)&lt;br /&gt;    Service of already deployed will not be affected, from end-user perspective&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Secret Management Service.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 26 Aug 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/69z82sy5m2yf</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/69z82sy5m2yf</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We are sorry to inform you that this maintenance is postponed to another date. We will keep you updated as soon as the date is fixed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/08/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Control plane tasks running during maintenance will be impact.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a upgrade on our Data Platform offer.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Aug 2025 09:02:48 +0000</pubDate>
+      <maintenanceEndDate>Wed, 27 Aug 2025 12:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/7d4667jvnfq3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/7d4667jvnfq3</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Containers &amp; Orchestration] - Managed Kubernetes Service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Containers &amp; Orchestration offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/08/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/08/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing maintenance on the Managed Kubernetes Service, during which the containerd version will be upgraded from v1.7 to v2.1. Only clusters in ALWAYS_UPDATE are affected by the maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Aug 2025 08:00:21 +0000</pubDate>
+      <maintenanceEndDate>Thu, 28 Aug 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/d51ltq1d654b</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/d51ltq1d654b</guid>
+    </item>
+    <item>
+      <title>[GRA11][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region GRA11.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/08/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region GRA11 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 26 Aug 2025 07:00:21 +0000</pubDate>
+      <maintenanceEndDate>Tue, 26 Aug 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/w6bhvttfkxm5</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/w6bhvttfkxm5</guid>
+    </item>
+    <item>
+      <title>[DE1][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region DE1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/08/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region DE1 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Aug 2025 19:46:57 +0000</pubDate>
+      <maintenanceEndDate>Mon, 25 Aug 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/5w55jc1kwgn4</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/5w55jc1kwgn4</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our Data Platform offering.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/08/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/08/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform offering.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Aug 2025 13:37:49 +0000</pubDate>
+      <maintenanceEndDate>Mon, 25 Aug 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/ly7dd4c4wvn2</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/ly7dd4c4wvn2</guid>
+    </item>
+    <item>
+      <title>[GRA3/11][Compute Instance]- Instances incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance offering in the specified regions has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/08/2025 02:16 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/08/2025 11:33 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occured due to an unexpected infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The incident is still ongoing. We would like to assure you that we are doing our utmost to resolve this situation as quickly as possible.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Update :&lt;/b&gt; Some instances are getting operational again.&lt;br /&gt;&lt;br /&gt;As soon as the situation evolves or the incident is resolved, we will keep you informed.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The incident is still ongoing. We would like to assure you that we are doing our utmost to resolve this situation as quickly as possible.&lt;br /&gt;&lt;br /&gt;As soon as the situation evolves or the incident is resolved, we will keep you informed.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our compute - Instance offering in the specified regions.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/08/2025 02:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their instances located in the specified regions.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is due to an unexpected infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Aug 2025 11:39:27 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/pl79mp28dhcy</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/pl79mp28dhcy</guid>
+    </item>
+    <item>
+      <title>[RBX-A/WAW1/WAW2][Storage] - Volume Snapshot Ceph maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Volume Snapshot Ceph offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/08/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Lowered performance during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement  :&lt;/b&gt; As part of our continuous improvement policy, we will upgrade major version of Ceph software to next stable release.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 25 Aug 2025 07:00:21 +0000</pubDate>
+      <maintenanceEndDate>Tue, 26 Aug 2025 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/3xk3hb6p6q2y</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/3xk3hb6p6q2y</guid>
+    </item>
+    <item>
+      <title>[RBX-A][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region RBX-A.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 19:00 UTC  &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 20:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region RBX-A will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Aug 2025 19:29:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 21 Aug 2025 20:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/jsbsbpmlh6v5</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/jsbsbpmlh6v5</guid>
+    </item>
+    <item>
+      <title>[GRA5][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region GRA5.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 13:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 17:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region GRA5 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Aug 2025 16:43:11 +0000</pubDate>
+      <maintenanceEndDate>Thu, 21 Aug 2025 17:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/rypcd6v59tvn</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/rypcd6v59tvn</guid>
+    </item>
+    <item>
+      <title>[GRA9/GRA11][Data &amp; Analytics] - Data Platform maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Operations on this maintenance will take longer than expected. &lt;br /&gt;We will keep you informed.&lt;br /&gt;The new end time is below:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 20:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience delays in your Control plane tasks during maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience delays in your Control plane tasks during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a upgrade on our Data Platform offer.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Aug 2025 15:51:04 +0000</pubDate>
+      <maintenanceEndDate>Thu, 21 Aug 2025 14:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/595w2krs75d4</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/595w2krs75d4</guid>
+    </item>
+    <item>
+      <title>[GRA9/GRA11][Data &amp; Analytics] - Data Platform incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on our Data Platform offer has now been resolved.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 11:31 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 15:10 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by operation on this maintenance : &lt;br /&gt;https://public-cloud.status-ovhcloud.com/incidents/595w2krs75d4&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Data Platform offer in the GRA9/GRA11 regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 11:31 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; User interface platform outage.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; All services linked to our backend RabbitMQ are currently down. As a result, scheduled jobs are not running and the platform is unavailable.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by operation on this maintenance: https://public-cloud.status-ovhcloud.com/incidents/595w2krs75d4&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Aug 2025 15:36:04 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/01wy9ygwhtmt</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/01wy9ygwhtmt</guid>
+    </item>
+    <item>
+      <title>[EU-WEST-PAR][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Please find below the new window of operations:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; &lt;br /&gt;Availability Zone A: 21/08/2025 09:00 UTC&lt;br /&gt;Availability Zone B: 21/08/2025 10:15 UTC&lt;br /&gt;Availability Zone C: 21/08/2025 11:30 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; &lt;br /&gt;Availability Zone A: 21/08/2025 10:00 UTC&lt;br /&gt;Availability Zone B: 21/08/2025 11:15 UTC&lt;br /&gt;Availability Zone C: 21/08/2025 12:30 UTC                        &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, load-balancer and routers located in the region EU-WEST-PAR will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region EU-WEST-PAR.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 12:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region EU-WEST-PAR will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 21 Aug 2025 13:54:33 +0000</pubDate>
+      <maintenanceEndDate>Thu, 21 Aug 2025 12:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/qh4wqmjmzjkz</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/qh4wqmjmzjkz</guid>
+    </item>
+    <item>
+      <title>[WAW][Storage] - Ceph cluster.</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Block Storage offer on the specific WAW Region has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 22:05 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025 22:42 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a hardware issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Block Storage offer on the specific WAW Region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 22:05 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; A part of the volumes in the cluster are in read-only state&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may have some malfunctions when they want to use their services.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Storage offer in our WAW region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 22:05 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 20 Aug 2025 22:53:10 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/6f4lv6cm1z6g</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/6f4lv6cm1z6g</guid>
+    </item>
+    <item>
+      <title>[MUM/SYD2][Compute - Instance] - API maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Operations in the two regions, AP-SOUTH-MUM-VPS-1 and AP-SOUTHEAST-SYD-2, have been successfully completed. Operations will resume on 20/08/2025 at 13:00 UTC for a duration of 2 hours in the final region, AP-SOUTH-MUM-1.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Compute - Instance offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/08/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During that maintenance, our Compute API may be slower.&lt;br /&gt;Customers can also face few 500 errors from API.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our public cloud compute API.&lt;br /&gt;You can find more information about the maintenance dates below:&lt;br /&gt;&lt;br /&gt;-AP-SOUTH-MUM-VPS-1     12/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;-AP-SOUTHEAST-SYD-2     13/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;-AP-SOUTH-MUM-1     20/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 20 Aug 2025 15:30:30 +0000</pubDate>
+      <maintenanceEndDate>Wed, 20 Aug 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/426kw293m2wk</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/426kw293m2wk</guid>
+    </item>
+    <item>
+      <title>[GRA9][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region GRA9.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 14:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025 15:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region GRA9 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 20 Aug 2025 14:34:38 +0000</pubDate>
+      <maintenanceEndDate>Wed, 20 Aug 2025 15:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/vnjypc6qxpg9</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/vnjypc6qxpg9</guid>
+    </item>
+    <item>
+      <title>[WAW1][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region WAW1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/08/2025 07:00 UTC  &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025  08:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region WAW1 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 20 Aug 2025 12:36:59 +0000</pubDate>
+      <maintenanceEndDate>Wed, 20 Aug 2025 08:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/lm4g2dz9v8pn</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/lm4g2dz9v8pn</guid>
+    </item>
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 27 Aug 2025 07:00:22 +0000</pubDate>
+    <pubDate>Wed, 27 Aug 2025 07:23:00 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Data &amp; Analytics] - Logs Data Platform maintenance notification</title>
       <description>
@@ -85,6 +85,14 @@
       <maintenanceEndDate>Thu, 28 Aug 2025 19:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</guid>
+    </item>
+    <item>
+      <title>[US-WEST-OR][LocalZones] - API openstack incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our LocalZones offering, which is causing temporary availability issue in the US-WEST-OR-1 region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The OpenStack API service is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customer cannot temporarily access the OpenStack API for the US-WEST-OR-1 region.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 27 Aug 2025 07:23:00 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/d4cnccth9x46</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/d4cnccth9x46</guid>
     </item>
     <item>
       <title>[SBG5][Network] - Network maintenance notification</title>
@@ -217,15 +225,6 @@
       <pubDate>Wed, 20 Aug 2025 22:53:10 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/6f4lv6cm1z6g</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/6f4lv6cm1z6g</guid>
-    </item>
-    <item>
-      <title>[MUM/SYD2][Compute - Instance] - API maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Operations in the two regions, AP-SOUTH-MUM-VPS-1 and AP-SOUTHEAST-SYD-2, have been successfully completed. Operations will resume on 20/08/2025 at 13:00 UTC for a duration of 2 hours in the final region, AP-SOUTH-MUM-1.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Compute - Instance offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/08/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During that maintenance, our Compute API may be slower.&lt;br /&gt;Customers can also face few 500 errors from API.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our public cloud compute API.&lt;br /&gt;You can find more information about the maintenance dates below:&lt;br /&gt;&lt;br /&gt;-AP-SOUTH-MUM-VPS-1     12/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;-AP-SOUTHEAST-SYD-2     13/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;-AP-SOUTH-MUM-1     20/08/2025 13:00 UTC (duration 2 hours)&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 20 Aug 2025 15:30:30 +0000</pubDate>
-      <maintenanceEndDate>Wed, 20 Aug 2025 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/426kw293m2wk</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/426kw293m2wk</guid>
     </item>
   </channel>
 </rss>

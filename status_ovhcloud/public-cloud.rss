@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 27 Aug 2025 14:11:12 +0000</pubDate>
+    <pubDate>Wed, 27 Aug 2025 17:43:14 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Data &amp; Analytics] - Logs Data Platform maintenance notification</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Mon, 08 Sep 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/3t8p70k42crs</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/3t8p70k42crs</guid>
+    </item>
+    <item>
+      <title>[SBG7][Network] - Network maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region SBG7. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/09/2025 07:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/09/2025 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;The network of all public cloud compute, loadbalancer and routers located in the region SBG7 will observe up to 2 seconds of packet loss.&lt;br /&gt;&lt;br /&gt;Packet loss for compute instances and loadbalancers will be only observed once per service anytime between 07:00 UTC and 08:15 UTC.&lt;br /&gt;&lt;br /&gt;Packet loss for routers will can be observed once per router anytime between 07:00 UTC and 15:00 UTC.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 01 Sep 2025 07:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 01 Sep 2025 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/8kd299txj7y1</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/8kd299txj7y1</guid>
     </item>
     <item>
       <title>[RBX-A][Storage] - Block storage maintenance notification</title>
@@ -216,15 +225,6 @@
       <pubDate>Thu, 21 Aug 2025 15:36:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/01wy9ygwhtmt</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/01wy9ygwhtmt</guid>
-    </item>
-    <item>
-      <title>[EU-WEST-PAR][Network] - Network maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The current maintenance will take more time than expected.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - &lt;b&gt;Update :&lt;/b&gt; Please find below the new window of operations:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; &lt;br /&gt;Availability Zone A: 21/08/2025 09:00 UTC&lt;br /&gt;Availability Zone B: 21/08/2025 10:15 UTC&lt;br /&gt;Availability Zone C: 21/08/2025 11:30 UTC&lt;br /&gt;&lt;b&gt;End time : &lt;/b&gt; &lt;br /&gt;Availability Zone A: 21/08/2025 10:00 UTC&lt;br /&gt;Availability Zone B: 21/08/2025 11:15 UTC&lt;br /&gt;Availability Zone C: 21/08/2025 12:30 UTC                        &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, load-balancer and routers located in the region EU-WEST-PAR will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region EU-WEST-PAR.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/08/2025 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/08/2025 12:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region EU-WEST-PAR will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 21 Aug 2025 13:54:33 +0000</pubDate>
-      <maintenanceEndDate>Thu, 21 Aug 2025 12:30:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/qh4wqmjmzjkz</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/qh4wqmjmzjkz</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 03 Sep 2025 15:16:09 +0000</pubDate>
+    <pubDate>Wed, 03 Sep 2025 20:15:22 +0000</pubDate>
     <item>
       <title>[BHS/GRA][Data &amp; Analytics] - Logs Data Platform maintenance notification</title>
       <description>
@@ -67,6 +67,15 @@
       <maintenanceEndDate>Mon, 08 Sep 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/j2rvd8r0p3lj</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/j2rvd8r0p3lj</guid>
+    </item>
+    <item>
+      <title>[DE1][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/09/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/09/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team.&lt;/p&gt;      </description>
+      <pubDate>Thu, 04 Sep 2025 18:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 04 Sep 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/30t5qrxd8rqx</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/30t5qrxd8rqx</guid>
     </item>
     <item>
       <title>[GRA][Public Cloud] - Keystone API incident notification</title>
@@ -212,15 +221,6 @@
       <maintenanceEndDate>Thu, 28 Aug 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/2hdlyjp0np23</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/2hdlyjp0np23</guid>
-    </item>
-    <item>
-      <title>[GRA7][Network] - Network maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our network infrastructure in the public cloud region GRA7.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/08/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/08/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The network of all public cloud compute, loadbalancer and routers located in the region GRA7 will observe up to 2 seconds of packet loss. The packet loss will happen once per service during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our network infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 28 Aug 2025 12:42:43 +0000</pubDate>
-      <maintenanceEndDate>Thu, 28 Aug 2025 19:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/m6c4n60n04p5</guid>
     </item>
   </channel>
 </rss>

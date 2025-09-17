@@ -4,7 +4,16 @@
     <title>Customer Service Status - Incident History</title>
     <link>https://customer-service.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 17 Sep 2025 07:59:03 +0000</pubDate>
+    <pubDate>Wed, 17 Sep 2025 13:21:42 +0000</pubDate>
+    <item>
+      <title>API - scheduled deletion of deprecated API routes (GET /order/catalog/formatted/cloud)</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var=&apos;date&apos;&gt;2&lt;/var&gt;, &lt;var data-var=&apos;year&apos;&gt;2026&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;09:02&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our API endpoints (https://eu.api.ovh.com, https://ca.api.ovh.com).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/03/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/03/2026 09:02 UTC&lt;br /&gt;&lt;b&gt;Maintenance :&lt;/b&gt; Scheduled deletion of deprecated API routes will be performed.&lt;br /&gt;&lt;b&gt;Impacted API routes: &lt;/b&gt;&lt;br /&gt;&lt;pre&gt;GET /order/catalog/formatted/cloud&lt;/pre&gt;&lt;br /&gt;&lt;b&gt;Notes :&lt;/b&gt; The deprecated API routes are replaced by a new API route that provide the same level of features: &lt;a href=&quot;https://eu.api.ovh.com/console/?section=%2Forder&amp;branch=v1#get-/order/catalog/public/cloud&gt;GET /order/catalog/public/cloud&lt;/a&gt;.&lt;br /&gt;Customers that currently relies on the deprecated API calls must migrate their usage to the new replacement route, otherwise, they will receive HTTP response with status code 404 Not Found after the deletion maintenance.&lt;/p&gt;      </description>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 02 Mar 2026 09:02:00 +0000</maintenanceEndDate>
+      <link>https://customer-service.status-ovhcloud.com/incidents/098611k5kw81</link>
+      <guid>https://customer-service.status-ovhcloud.com/incidents/098611k5kw81</guid>
+    </item>
     <item>
       <title>[GLOBAL][Control panel &amp; API] - Order products unavailable</title>
       <description>
@@ -207,14 +216,6 @@
       <pubDate>Mon, 30 Jun 2025 06:58:51 +0000</pubDate>
       <link>https://customer-service.status-ovhcloud.com/incidents/16sgfvjcp34y</link>
       <guid>https://customer-service.status-ovhcloud.com/incidents/16sgfvjcp34y</guid>
-    </item>
-    <item>
-      <title>[APAC][Customer Service] - Live Chat incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident on our Customer Service live Chat , have been resolved&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/06/2025 01:00 UTC&lt;br /&gt;&lt;b&gt;End Time :&lt;/b&gt; 27/06/2025 07:40 UTC&lt;br /&gt;&lt;b&gt;Root cause :&lt;/b&gt; The incident was due to a software malfunction.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).		&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:	&lt;br /&gt;	&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; Our technical teams are actively working to resolve this problem.		&lt;br /&gt;	&lt;br /&gt;We will keep you updated on the progress and resolution.		&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;03:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An incident is in progress on our Customer Service, customers in the impacted zone may face some difficulties while accessing the live chat.&lt;br /&gt;&lt;br /&gt;Please find the details:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/06/2025 01:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Live Chat is unreachable.&lt;br /&gt;&lt;b&gt;Customers impact :&lt;/b&gt; Customers cannot access live chat when they need to contact Support.&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; In order to join the Support, customers can create tickets via the Help Center.&lt;br /&gt;&lt;br /&gt;We will keep you informed of developments and the resolution of the incident.&lt;br /&gt;We apologize for the inconvenience and thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Fri, 27 Jun 2025 08:24:54 +0000</pubDate>
-      <link>https://customer-service.status-ovhcloud.com/incidents/x9619hm1y3v7</link>
-      <guid>https://customer-service.status-ovhcloud.com/incidents/x9619hm1y3v7</guid>
     </item>
   </channel>
 </rss>

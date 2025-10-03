@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2025-10-03T05:11:16Z</updated>
+  <updated>2025-10-03T08:02:14Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/098611k5kw81"/>
     <title>API - scheduled deletion of deprecated API routes (GET /order/catalog/formatted/cloud)</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='year'&gt;2026&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:02&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our API endpoints (https://eu.api.ovh.com, https://ca.api.ovh.com).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/03/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/03/2026 09:02 UTC&lt;br /&gt;&lt;b&gt;Maintenance :&lt;/b&gt; Scheduled deletion of deprecated API routes will be performed.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted API routes are GET /order/catalog/formatted/cloud.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The deprecated API routes are replaced by a new API route that provide the same level of features: &lt;a href="https://eu.api.ovh.com/console/?section=%2Forder&amp;branch=v1#get-/order/catalog/public/cloud&gt;GET /order/catalog/public/cloud&lt;/a&gt;.&lt;br /&gt;Customers that currently relies on the deprecated API calls must migrate their usage to the new replacement route, otherwise, they will receive HTTP response with status code 404 Not Found after the deletion maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/26635604</id>
+    <published>2025-10-03T08:02:14Z</published>
+    <updated>2025-10-03T08:02:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/62zsc6f446qz"/>
+    <title>[GLOBAL][Control Panel] - Carbon Calculator incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Control Panel offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/10/2025 05:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Carbon data are partially unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt;  Some customers may find that their carbon data is partially missing for September 2025.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/26611330</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/mv82m3hwyzfx"/>
     <title>[CA/US][Customer Service] - Control Panel and API databases maintenance</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed, all services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Control Panel and API databases. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/07/2025 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/07/2025 10:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience a few seconds of downtime during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; In order to maintain continuous improvement of our databases, we will be doing a version upgrade to our databases.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:customer-service.status-ovhcloud.com,2005:Incident/25829111</id>
-    <published>2025-07-22T05:44:32Z</published>
-    <updated>2025-07-22T05:44:32Z</updated>
-    <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/xwqhk442p63n"/>
-    <title>[EU][Control panel &amp; API] - API maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;05:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational. There has been no impact since 22/07/2025 05:38 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;22:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Control panel API services.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/07/2025 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/07/2025 06:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience a few seconds of downtime during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we will be implementing an upgrade to our database systems.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

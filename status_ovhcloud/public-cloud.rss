@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 09 Oct 2025 08:16:01 +0000</pubDate>
+    <pubDate>Thu, 09 Oct 2025 13:28:33 +0000</pubDate>
     <item>
       <title>[RBX/SBG][Containers &amp; Orchestration] -  Managed Rancher Service maintenance notification</title>
       <description>
@@ -49,6 +49,15 @@
       <maintenanceEndDate>Mon, 20 Oct 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ntw57qz7b7tf</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ntw57qz7b7tf</guid>
+    </item>
+    <item>
+      <title>[AP-SOUTH-MUM-1][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/10/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/10/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team&lt;/p&gt;      </description>
+      <pubDate>Wed, 15 Oct 2025 18:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 15 Oct 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/dc45xrnnflyp</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/dc45xrnnflyp</guid>
     </item>
     <item>
       <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
@@ -215,15 +224,6 @@
       <maintenanceEndDate>Thu, 02 Oct 2025 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jjxrflrg7xq0</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jjxrflrg7xq0</guid>
-    </item>
-    <item>
-      <title>[US-EAST/US-WEST][Public Cloud] - Infrastructure maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our public cloud infrastructure.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 02/10/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 02/10/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Network infrastructure in the specified region.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 02 Oct 2025 09:12:20 +0000</pubDate>
-      <maintenanceEndDate>Thu, 02 Oct 2025 10:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/8dt56sdhnx64</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/8dt56sdhnx64</guid>
     </item>
   </channel>
 </rss>

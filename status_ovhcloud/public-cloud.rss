@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 30 Oct 2025 10:20:36 +0000</pubDate>
+    <pubDate>Thu, 30 Oct 2025 15:06:08 +0000</pubDate>
     <item>
       <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.29 notification</title>
       <description>
@@ -67,6 +67,14 @@
       <maintenanceEndDate>Mon, 03 Nov 2025 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/t8lrzscs4q86</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/t8lrzscs4q86</guid>
+    </item>
+    <item>
+      <title>[RBX][Storage] - Object Storage S3 Standard incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Object Storage S3 Standard offer in the region RBX.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/10/2025 14:06 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers are experiencing 503 errors and slowdowns on their S3 requests.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may have an error 503.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occured due to an unexpected infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Oct 2025 15:06:08 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/xh6pxhcxfxvv</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/xh6pxhcxfxvv</guid>
     </item>
     <item>
       <title>[BHS5][Compute - Instance] - Some instances incident notification</title>
@@ -206,15 +214,6 @@
       <pubDate>Sat, 18 Oct 2025 06:00:46 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/bx7gpdh23lb0</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/bx7gpdh23lb0</guid>
-    </item>
-    <item>
-      <title>[AP-SOUTHEAST-SYD-2][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance it has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/10/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/10/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team&lt;/p&gt;      </description>
-      <pubDate>Fri, 17 Oct 2025 06:52:18 +0000</pubDate>
-      <maintenanceEndDate>Wed, 22 Oct 2025 19:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/r58g4505ky37</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/r58g4505ky37</guid>
     </item>
   </channel>
 </rss>

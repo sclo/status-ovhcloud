@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 03 Nov 2025 09:21:05 +0000</pubDate>
+    <pubDate>Mon, 03 Nov 2025 10:21:31 +0000</pubDate>
     <item>
       <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.29 notification</title>
       <description>
@@ -49,6 +49,15 @@
       <maintenanceEndDate>Tue, 04 Nov 2025 19:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pmrnk6m6gtyp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pmrnk6m6gtyp</guid>
+    </item>
+    <item>
+      <title>[SGP1][Public Cloud] - Infrastructure maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;11:15&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Compute - Instance offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/11/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2025 11:15 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some services may experience increased latency or packet loss for up to 1 second during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Nov 2025 10:00:00 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Nov 2025 11:15:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/8hw9tvdghg5j</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/8hw9tvdghg5j</guid>
     </item>
     <item>
       <title>[BHS1][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
@@ -206,14 +215,6 @@
       <pubDate>Mon, 20 Oct 2025 12:07:15 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/fsjvd6dzf8pp</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/fsjvd6dzf8pp</guid>
-    </item>
-    <item>
-      <title>[GRA11][Block Storage] - Ceph Cluster incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Storage offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/10/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/10/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;Update : Our technical team is continuing to work on a solution to the issue causing degraded performance of our Ceph cluster volumes in GRA11. &lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;18&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Storage offering, which is causing temporary latency issue in region GRA11.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/10/2025 17:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The GRA11 Ceph cluster service is experiencing temporarily degraded performance.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may temporarily experience degraded performance of their Ceph cluster volumes in GRA11. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Sat, 18 Oct 2025 19:12:32 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/dkz909g4lknp</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/dkz909g4lknp</guid>
     </item>
   </channel>
 </rss>

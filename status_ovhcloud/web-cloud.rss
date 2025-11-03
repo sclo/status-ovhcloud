@@ -4,7 +4,7 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 03 Nov 2025 11:25:26 +0000</pubDate>
+    <pubDate>Mon, 03 Nov 2025 13:30:14 +0000</pubDate>
     <item>
       <title>[GRA][Web Hosting] - Multiple Databases maintenance notification</title>
       <description>
@@ -69,6 +69,15 @@
       <guid>https://web-cloud.status-ovhcloud.com/incidents/x9gxmm533jvl</guid>
     </item>
     <item>
+      <title>[GLOBAL][Web Hosting] - OVH Mail Migrator maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our  is now completed. &lt;br /&gt;All services are operational. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on OVH Mail Migrator service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/11/2025 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVH Mail Migrator API need an extra header to continue to work&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We&apos;re making some changes to the OVH Mail Migrator (https://omm.ovh.net) API.&lt;br /&gt;&lt;br /&gt;Starting November 3rd, 2025, customers who use our API will need to add an extra HTTP header when creating new migrations or projects.&lt;br /&gt;This header is called X-Ovh-Use-Obsolete-Api and it should be set to 1.&lt;br /&gt;&lt;br /&gt;If you don&apos;t add this header, you&apos;ll receive an error message saying that the API is deprecated and will be removed on November 24th, 2025.&lt;br /&gt;The error message will also point you to a webpage where you can find more information about the changes.&lt;br /&gt;&lt;br /&gt;The reason for this change is that we&apos;re introducing a new version of the API, called API v3, which will be available on November 24th, 2025.&lt;br /&gt;&lt;br /&gt;This new API will replace the current one, and you&apos;ll need to use it to create new migrations, projects, or file uploads.&lt;br /&gt;&lt;br /&gt;If you want to learn more about the new API, you can visit https://omm.ovh.net/NewApi from November 3rd, where you&apos;ll find more information about its structure and the required headers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 03 Nov 2025 13:30:14 +0000</pubDate>
+      <maintenanceEndDate>Tue, 04 Nov 2025 18:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/lvj8t50pv14f</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/lvj8t50pv14f</guid>
+    </item>
+    <item>
       <title>[Global][Domains] - Domains Name incident notification on .CA</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We have determined the origin of the incident affecting our .CA Domains offer, customers in the impacted zone are unable to perform some tasks on .CA domains.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/11/2025 10:40 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Multiple operations (Registration) are temporarily unavailable for .CA domains.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to perform specified operations on .CA domains.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilized to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
@@ -91,15 +100,6 @@
       <pubDate>Mon, 03 Nov 2025 08:46:54 +0000</pubDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/yhdm5cnwd4mn</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/yhdm5cnwd4mn</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Web Hosting] - OVH Mail Migrator maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on OVH Mail Migrator service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/11/2025 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; OVH Mail Migrator API need an extra header to continue to work&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We&apos;re making some changes to the OVH Mail Migrator (https://omm.ovh.net) API.&lt;br /&gt;&lt;br /&gt;Starting November 3rd, 2025, customers who use our API will need to add an extra HTTP header when creating new migrations or projects.&lt;br /&gt;This header is called X-Ovh-Use-Obsolete-Api and it should be set to 1.&lt;br /&gt;&lt;br /&gt;If you don&apos;t add this header, you&apos;ll receive an error message saying that the API is deprecated and will be removed on November 24th, 2025.&lt;br /&gt;The error message will also point you to a webpage where you can find more information about the changes.&lt;br /&gt;&lt;br /&gt;The reason for this change is that we&apos;re introducing a new version of the API, called API v3, which will be available on November 24th, 2025.&lt;br /&gt;&lt;br /&gt;This new API will replace the current one, and you&apos;ll need to use it to create new migrations, projects, or file uploads.&lt;br /&gt;&lt;br /&gt;If you want to learn more about the new API, you can visit https://omm.ovh.net/NewApi from November 3rd, where you&apos;ll find more information about its structure and the required headers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Mon, 03 Nov 2025 07:30:21 +0000</pubDate>
-      <maintenanceEndDate>Tue, 04 Nov 2025 18:00:00 +0000</maintenanceEndDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/lvj8t50pv14f</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/lvj8t50pv14f</guid>
     </item>
     <item>
       <title>[GLOBAL][Collaborative solutions] - EmailPro1 incident notification</title>

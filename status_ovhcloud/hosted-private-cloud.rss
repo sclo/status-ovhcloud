@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 04 Nov 2025 07:30:21 +0000</pubDate>
+    <pubDate>Tue, 04 Nov 2025 09:20:35 +0000</pubDate>
     <item>
       <title>[RBX2A][Managed vSphere] - Storage maintenance notification</title>
       <description>
@@ -159,6 +159,14 @@
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/yzr9t981njlf</guid>
     </item>
     <item>
+      <title>[RBX8][Managed vSphere] - rack R806L20 &amp; R806L19 incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Managed vSphere offer on the specific rack .&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/11/2025 08:50 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some hosts are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a cooling system issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Tue, 04 Nov 2025 09:17:15 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/16f7dnfpnv2q</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/16f7dnfpnv2q</guid>
+    </item>
+    <item>
       <title>[BHS1A][Managed vSphere] - Storage maintenance notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed vSphere offer in BHS1A region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/11/2025 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2025 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There will be no impact on the vSphere UI, data availability, or virtual machines during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for multiple storage servers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
@@ -220,15 +228,6 @@
       <maintenanceEndDate>Mon, 27 Oct 2025 22:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/t921psn8jk1r</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/t921psn8jk1r</guid>
-    </item>
-    <item>
-      <title>[EU/CA][Hosted Private Cloud] - vSphere maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our  is now completed. &lt;br /&gt;All services are operational.&lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed vSphere offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/10/2025 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/10/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will not be accessible and the hosts will be put into maintenance mode during the operation. &lt;br /&gt;If the host has virtual machines in it, a vMotion will be performed.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Managed vSphere offer.&lt;br /&gt;An individual communication will be done to inform customers.&lt;br /&gt;Customers can reschedule the operation through the manager.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;      </description>
-      <pubDate>Fri, 24 Oct 2025 18:26:45 +0000</pubDate>
-      <maintenanceEndDate>Fri, 24 Oct 2025 16:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/108sjbdkw89t</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/108sjbdkw89t</guid>
     </item>
   </channel>
 </rss>

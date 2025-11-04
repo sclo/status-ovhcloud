@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2025-11-04T21:22:37Z</updated>
+  <updated>2025-11-04T21:32:21Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/z08d3lymy78t"/>
     <title>[GLOBAL][Network] - LACP aggregation maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/11/2025 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/11/2025 16:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;See the related documentation page for additional information: https://help.ovhcloud.com/csm/en-ie-dedicated-servers-improve-network-resilience?id=kb_article_view&amp;sysparm_article=KB0073256&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/27010579</id>
+    <published>2025-11-24T12:00:00Z</published>
+    <updated>2025-11-04T21:32:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/dcll8gnkzfgz"/>
+    <title>[SGP1][Dedicated Servers] - Racks 051012/050917A/050912 maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on servers located in racks 051012, 050917A and 050912.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/11/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 24/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the specified racks will be temporarily unavailable for up to 6 hours during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be moving servers in the specified racks from SGP1 to SGP2.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/26924157</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/v8nwv9g1d9c6"/>
     <title>[ERI1][Dedicated Servers] - Rack E102E02 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;23:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer on rack E102E02.&lt;br /&gt;&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 06/11/2025 21:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 07/11/2025 00:00 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; During the operation, servers in rack E102E02 will be temporarily unavailable.&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our continuous improvement policy, we will migrate servers in rack E102E02 to rack ERI0102A04B.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/26753070</id>
-    <published>2025-11-06T12:00:00Z</published>
-    <updated>2025-10-14T15:36:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/lt18wnlq7yb8"/>
-    <title>[SBG3][Dedicated Servers] - Rack S345B05 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Dedicated Servers offer in Rack S345B05.&lt;br /&gt;&lt;br /&gt;This may temporarily affect functionality.&lt;br /&gt;&lt;b&gt;Start time: &lt;/b&gt; 06/11/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;End time: &lt;/b&gt; 06/11/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact: &lt;/b&gt; During the operation, the servers in the specified rack will be temporarily unavailable.&lt;br /&gt;&lt;b&gt;Service improvement: &lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance on our Dedicated Servers offer in Rack S345B05.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

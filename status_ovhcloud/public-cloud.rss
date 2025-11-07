@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 07 Nov 2025 13:41:01 +0000</pubDate>
+    <pubDate>Fri, 07 Nov 2025 14:09:08 +0000</pubDate>
     <item>
       <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.29 notification</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Mon, 17 Nov 2025 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/9768ybp4nqcn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9768ybp4nqcn</guid>
+    </item>
+    <item>
+      <title>[AP-SOUTH-MUM-1][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/11/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team&lt;/p&gt;      </description>
+      <pubDate>Thu, 13 Nov 2025 18:00:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 13 Nov 2025 19:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/ct3y890q9fhh</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/ct3y890q9fhh</guid>
     </item>
     <item>
       <title>[RBX/SBG][Containers &amp; Orchestration] -  Managed Rancher Service maintenance notification</title>
@@ -209,14 +218,6 @@
       <pubDate>Wed, 29 Oct 2025 18:52:04 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/mmhqsvftz836</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/mmhqsvftz836</guid>
-    </item>
-    <item>
-      <title>[US][Compute - Instance] - API service incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2025 14:29 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/10/2025 15:08 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occured due to an unexpected infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; A service disruption occured due to an unexpected infrastructure malfunction&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently investigating an incident affecting our Compute - Instance offering, which is causing temporary availability issue in the US region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2025 14:29 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The API service is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to use the API service. Running instances are not affected.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Compute - Instance API offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2025 14:29 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 29 Oct 2025 15:23:49 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/78lg1lyytvht</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/78lg1lyytvht</guid>
     </item>
   </channel>
 </rss>

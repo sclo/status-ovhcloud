@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 10 Nov 2025 12:31:09 +0000</pubDate>
+    <pubDate>Mon, 10 Nov 2025 16:38:13 +0000</pubDate>
     <item>
       <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.29 notification</title>
       <description>
@@ -49,6 +49,14 @@
       <maintenanceEndDate>Thu, 13 Nov 2025 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/qs7xc0stfg7j</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/qs7xc0stfg7j</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][LocalZones] - Private Image incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Public Cloud offering.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/11/2025 15:40 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Private image is temporarily unavailable for Public Cloud instances in the LocalZones.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to create images.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a software issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 10 Nov 2025 16:38:13 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/q9qwj3bh7419</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/q9qwj3bh7419</guid>
     </item>
     <item>
       <title>[GRA1/3][Compute - Instance] - Some instances incident notification</title>
@@ -209,14 +217,6 @@
       <pubDate>Thu, 30 Oct 2025 16:44:56 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jpkjpt5hl4qd</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jpkjpt5hl4qd</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Data &amp; Analytics] - Upgrade version incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; Our provider has informed us that the migration from 3.8 to x.y version is more complex than initially anticipated, which is the reason why this feature is currently unavailable. However, customers can deploy Kafka version 3.9 or 4.0 in parallel if they need. Upgrade possibility is expected to be available  by end January 2026.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Data &amp; Analytics offer on Kafka services.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/10/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Upgrading version trigger an error (&quot;cannot upgrade from version 3.8 to x.y&quot;).&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to upgrade their Kafka version from 3.8 to x.y.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by our provider.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are working with our provider to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Data &amp; Analytics offering, which is causing temporary functionality issue on Kafka services.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/10/2025 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Upgrading version trigger an error (&quot;cannot upgrade from version 3.8 to x.y&quot;).&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident to fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 05 Nov 2025 07:35:11 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/7tw5fy3m77w1</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/7tw5fy3m77w1</guid>
     </item>
   </channel>
 </rss>

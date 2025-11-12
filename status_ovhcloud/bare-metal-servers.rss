@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 12 Nov 2025 16:36:03 +0000</pubDate>
+    <pubDate>Wed, 12 Nov 2025 16:56:18 +0000</pubDate>
     <item>
       <title>[RBX2][Dedicated Servers] - Racks 31A19/31A20/31A21 maintenance notification</title>
       <description>
@@ -177,6 +177,14 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/czv6x1xww4z6</guid>
     </item>
     <item>
+      <title>[US-WEST-LZ-PAO][Virtual Private Servers] - Some actions temporarily unavailable</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Virtual Private Servers offer on the specific region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/11/2025 14:48 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Actions like creation, update, deletion on Virtual Private Servers instances are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to make actions like creation, update, deletion on their Virtual Private Servers instances.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Wed, 12 Nov 2025 16:56:18 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/c6j61mw4vqcf</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/c6j61mw4vqcf</guid>
+    </item>
+    <item>
       <title>[US-WEST-OR][Virtual Private Servers] Infrastructure maintenance notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Virtual Private Servers offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/11/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/11/2025 16:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some services may experience increased latency or packet loss for up to 1 second during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Virtual Private Servers infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
@@ -220,15 +228,6 @@
       <maintenanceEndDate>Wed, 12 Nov 2025 14:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/3n76rw3p1wvh</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/3n76rw3p1wvh</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Dedicated Servers] - Debian 13/Proxmox 9 installation changes for UEFI boot servers</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our  is now completed. &lt;br /&gt;All services are operational. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a change is scheduled on the installation process for Debian 13 and Proxmox VE 9 installation on UEFI Dedicated servers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/11/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/11/2025 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Starting on 12/11/2025, all new Debian 13 and Proxmox 9 installations will feature an EFI System Partition (ESP) over RAID1 instead of several ESPs. Legacy boot servers are not affected. Please refer to https://community.ovhcloud.com/community/en/upcoming-change-efi-system-partition-over-raid1-for-linux-installations?id=community_question&amp;sys_id=8602b59034ac7290f078f43c21c5a60d for additional information.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 12 Nov 2025 12:15:39 +0000</pubDate>
-      <maintenanceEndDate>Wed, 12 Nov 2025 13:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/vtfc86l7mmr8</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/vtfc86l7mmr8</guid>
     </item>
   </channel>
 </rss>

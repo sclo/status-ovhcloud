@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 13 Nov 2025 11:55:59 +0000</pubDate>
+    <pubDate>Thu, 13 Nov 2025 16:05:02 +0000</pubDate>
+    <item>
+      <title>[VA1/GRA7/GRA9/BHS5/DE1][Public Cloud] - Registries upgrade maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;15:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Private Registry.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/11/2025 08:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/11/2025 17:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The upgrade of the Harbor version will set Harbor in read-only mode (only pull will be allowed) for 1 or 2mn.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of registries.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 27 Nov 2025 08:30:00 +0000</pubDate>
+      <maintenanceEndDate>Thu, 27 Nov 2025 15:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/s7k0qc1188yb</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/s7k0qc1188yb</guid>
+    </item>
     <item>
       <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.29 notification</title>
       <description>
@@ -204,15 +213,6 @@
       <pubDate>Wed, 05 Nov 2025 08:39:10 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/jtr1pfqlwsqx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/jtr1pfqlwsqx</guid>
-    </item>
-    <item>
-      <title>[GRA11][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our  is now completed. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 04/11/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team&lt;/p&gt;      </description>
-      <pubDate>Tue, 04 Nov 2025 18:28:09 +0000</pubDate>
-      <maintenanceEndDate>Tue, 04 Nov 2025 19:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/pmrnk6m6gtyp</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/pmrnk6m6gtyp</guid>
     </item>
   </channel>
 </rss>

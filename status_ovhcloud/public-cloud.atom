@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2025-11-15T04:31:13Z</updated>
+  <updated>2025-11-15T06:50:32Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -71,6 +71,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1bn8tj3rm7z9"/>
     <title>[PCI][SYD1] Infrastructure maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure. Here are the details of the maintenance: &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/11/2025 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/11/2025 10:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some services may experience increased latency or packet loss for up to 1 second during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/27173157</id>
+    <published>2025-11-15T06:50:31Z</published>
+    <updated>2025-11-15T06:50:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/v05jjck5nw1d"/>
+    <title>[DE1][Compute - Instance] - Instances incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have determined the origin of the incident affecting our Compute - Instance offering in the region DE1.&lt;br /&gt;&lt;br /&gt;Here is detail for this incident :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/11/2025 5:22 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the DE1 region are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances located in the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is due to an unexpected infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/27059522</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/7s3xy5bfyydg"/>
     <title>[US/EAST][Storage] - LocalZones</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that an incident affected our Object Storage in the US/EAST and it has been resolved now.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/11/2025 16:21 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/11/2025 16:50 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Object Storage in the LocalZones in US/EAST had a malfunction.&lt;br /&gt;&lt;b&gt;Customer impact :&lt;/b&gt; Customers were facing 403 errors when they wanted to use their services, by example on creating a volume backup to S3.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this maintenance : https://public-cloud.status-ovhcloud.com/incidents/qwwn8x0f1x6w&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/26875379</id>
-    <published>2025-11-05T16:38:23Z</published>
-    <updated>2025-11-05T16:38:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/q7skhx5dwrbf"/>
-    <title>[GRA9/GRA11][Data &amp; Analytics] - Data Platform maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;16:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/11/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/11/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers will experience a micro cut on the Control plane during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a upgrade on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

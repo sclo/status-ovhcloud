@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 24 Nov 2025 10:00:21 +0000</pubDate>
+    <pubDate>Mon, 24 Nov 2025 10:07:11 +0000</pubDate>
     <item>
       <title>[VA1][Public Cloud] - Registries maintenance notification</title>
       <description>
@@ -67,6 +67,14 @@
       <maintenanceEndDate>Mon, 24 Nov 2025 14:30:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/stvdfnmbygg3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/stvdfnmbygg3</guid>
+    </item>
+    <item>
+      <title>[UK1][Containers &amp; Orchestration] - Management API incidant notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;24&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Containers &amp; Orchestration offering, which is causing temporary availability issue in the UK1 region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 24/11/2025 08:36 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers are temporarily unable to access and use their instances in the &quot;Location&quot; region.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; MKS clusters are  still fine but customers cannot manage it (cluster creation/deletion/update, cannot add/remove a node)&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
+      <pubDate>Mon, 24 Nov 2025 10:07:11 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/x4d66hn5p4f3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/x4d66hn5p4f3</guid>
     </item>
     <item>
       <title>[BHS1][Public Cloud] Infrastructure maintenance notification</title>
@@ -212,15 +220,6 @@
       <pubDate>Sat, 15 Nov 2025 10:42:46 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/nycd33psxdvq</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/nycd33psxdvq</guid>
-    </item>
-    <item>
-      <title>[AP-SOUTH-MUM-1][Containers &amp; Orchestration] - Workflow Management service maintenance notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our Workflow Management service is now completed. &lt;br /&gt;All services are operational. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Workflow Management service, Mistral.&lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance:&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/11/2025 18:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/11/2025 19:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance window for the Workflow Management service (Mistral), you may encounter the following impacts :&lt;br /&gt;&lt;br /&gt; - Workflows in progress at the start of the maintenance will be stopped and will be restarted automatically after the maintenance is completed. We understand that this may cause a temporary disruption in your workflow processing, and we apologize for any inconvenience this may cause.&lt;br /&gt; - Cron triggers (scheduled workflow executions) during the maintenance period will not be triggered. If you have any workflows scheduled to run during the maintenance window, we recommend rescheduling them to run outside of this timeframe to avoid any disruption.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Mistral service infrastructure. This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please don&apos;t hesitate to reach out to our support team&lt;/p&gt;      </description>
-      <pubDate>Thu, 13 Nov 2025 18:20:50 +0000</pubDate>
-      <maintenanceEndDate>Thu, 13 Nov 2025 19:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ct3y890q9fhh</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ct3y890q9fhh</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2025-12-10T09:23:21Z</updated>
+  <updated>2025-12-10T10:16:08Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vs9c4pqhykvx"/>
     <title>[US-WEST-OR-1][Public Cloud] - Infrastructure maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/12/2025 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/12/2025 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some services may experience increased latency or packet loss for up to 1 second during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/27528595</id>
+    <published>2025-12-10T10:16:08Z</published>
+    <updated>2025-12-10T10:16:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/4gd0bgz7zm2j"/>
+    <title>[BHS/PAR/MIL/GRA][Databases] - MySQL/PostgreSQL/Valkey incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Databases offering, which is causing temporary availability issue in the BHS/PAR/MIL/GRA region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/12/2025 08:58 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; MySQL / PostgreSQL / Valkey are affected.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers cannot access the existing database or create a new database.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/27527434</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fn8hk1ztfgqm"/>
     <title>[PCA/PCS][Storage] - Object storage maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our object storage offer.&lt;br /&gt;&lt;br /&gt;This may temporarily affect latency.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/11/2025 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/11/2025 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; You may experience latency during maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our object storage offer.&lt;br /&gt;This upgrade include a new feature of checksum validation on the s3 api.&lt;br /&gt;This will allow our customers to use the latest sdk version.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/27230040</id>
-    <published>2025-11-26T14:33:40Z</published>
-    <updated>2025-11-26T14:34:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/byttb9w205xp"/>
-    <title>[GRA11][Storage] - Block storage maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;br /&gt;All the services are now operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;00:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in GRA11 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/11/2025 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/11/2025 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

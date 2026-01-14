@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2026-01-14T20:51:13Z</updated>
+  <updated>2026-01-14T21:17:09Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:30&lt;/var&gt; - &lt;var data-var='time'&gt;03:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;05:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Bare Metal offer, affecting servers in racks 56C02, 56C03, 56C04, 56C05, 56C07, 56C08, 56C09, 56C10, 56C11, 56C12, 56C13, 56C14, 56C15, 56C16.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/01/2026 00:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/01/2026 03:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vRack network will be temporarily unavailable during the maintenance for some servers in the specified racks.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy of our network infrastructure, we will be doing a maintenance on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/28027580</id>
+    <published>2026-01-22T13:00:00Z</published>
+    <updated>2026-01-14T21:10:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1428hn5kzypl"/>
+    <title>[RBX2][Storage and Backups] - Backup Storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Storage and Backups offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/01/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/01/2026 03:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; A temporary downtime of approximately 30 minutes is expected. During this maintenance window, your data will be temporarily unavailable.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our responsibilities for the Ftpback servers, we will be performing maintenance on the entire fleet.&lt;br /&gt;This maintenance will include an update to the storage servers hosting your data.&lt;br /&gt;The new version will bring improvements to security mechanisms as well as performance enhancements.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/27349039</id>
     <published>2026-01-22T09:00:00Z</published>
     <updated>2025-11-27T21:11:21Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/xmtwhv6b7h8l"/>
     <title>[ERI1][Dedicated Servers] - Rack E101F10 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our dedicated servers offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/01/2026 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/01/2026 15:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance for 90 minutes each. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy for our infrastructure, we will be relocating the servers currently located in rack E101F10 to rack ERI0102B05C.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/27349257</id>
-    <published>2026-01-20T09:00:00Z</published>
-    <updated>2025-11-27T15:10:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/bdxnnpqh2yy7"/>
-    <title>[ERI1][Dedicated Servers] - Rack E101F11 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our dedicated servers offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/01/2026 09:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/01/2026 11:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance for 90 minutes each. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy for our infrastructure, we will be relocating the servers currently located in rack E101F11 to rack ERI0102B04A.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

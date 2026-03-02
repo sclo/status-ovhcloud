@@ -4,14 +4,14 @@
   <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://customer-service.status-ovhcloud.com/history.atom"/>
   <title>Customer Service Status - Incident History</title>
-  <updated>2026-03-02T07:18:30Z</updated>
+  <updated>2026-03-02T08:00:07Z</updated>
   <author>
     <name>Customer Service</name>
   </author>
   <entry>
     <id>tag:customer-service.status-ovhcloud.com,2005:Incident/26471983</id>
     <published>2026-03-02T09:00:00Z</published>
-    <updated>2025-09-26T00:49:05Z</updated>
+    <updated>2026-03-02T08:00:07Z</updated>
     <link rel="alternate" type="text/html" href="https://customer-service.status-ovhcloud.com/incidents/098611k5kw81"/>
     <title>API - scheduled deletion of deprecated API routes (GET /order/catalog/formatted/cloud)</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:02&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our API endpoints (https://eu.api.ovh.com, https://ca.api.ovh.com).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/03/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/03/2026 09:02 UTC&lt;br /&gt;&lt;b&gt;Maintenance :&lt;/b&gt; Scheduled deletion of deprecated API routes will be performed.&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Impacted API routes are GET /order/catalog/formatted/cloud.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The deprecated API routes are replaced by a new API route that provide the same level of features: &lt;a href="https://eu.api.ovh.com/console/?section=%2Forder&amp;branch=v1#get-/order/catalog/public/cloud&gt;GET /order/catalog/public/cloud&lt;/a&gt;.&lt;br /&gt;Customers that currently relies on the deprecated API calls must migrate their usage to the new replacement route, otherwise, they will receive HTTP response with status code 404 Not Found after the deletion maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://hosted-private-cloud.status-ovhcloud.com/history.atom"/>
   <title>Hosted Private Cloud Status - Incident History</title>
-  <updated>2026-03-07T05:09:00Z</updated>
+  <updated>2026-03-07T05:23:23Z</updated>
   <author>
     <name>Hosted Private Cloud</name>
   </author>
@@ -97,6 +97,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed vSphere offer in SBG1A region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/03/2026 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/03/2026 22:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; There will be no impact on the vSphere UI, data availability, or virtual machines during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are rolling out an update for multiple storage servers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/28807790</id>
+    <published>2026-03-07T05:23:23Z</published>
+    <updated>2026-03-07T05:23:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/hb54tl70k5cl"/>
+    <title>[SBG5][Cooling System] - Rack SBG0504A03B maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;05:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our Hosted Private Cloud cooling infrastructure in SBG0504A03B.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/03/2026 15:24 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2026 16:24 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The cooling system's efficiency could be temporarily impacted for some servers, which could cause a decreased performance during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/28369931</id>
     <published>2026-03-05T23:05:16Z</published>
     <updated>2026-03-05T23:05:16Z</updated>
@@ -119,14 +127,6 @@
     <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/9cp6g810q172"/>
     <title>[EU/CA][Managed vSphere] - vSphere maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed vSphere offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/03/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/03/2026 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; vSphere will not be accessible and the hosts will be put into maintenance mode during the operation. &lt;br /&gt;If the host has virtual machines in it, a vMotion will be performed.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Managed vSphere offer.&lt;br /&gt;An individual communication will be done to inform customers.&lt;br /&gt;Customers can reschedule the operation through the manager.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/28807790</id>
-    <published>2026-03-05T21:07:09Z</published>
-    <updated>2026-03-05T21:07:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://hosted-private-cloud.status-ovhcloud.com/incidents/hb54tl70k5cl"/>
-    <title>[SBG5][Cooling System] - Rack SBG0504A03B maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our Hosted Private Cloud cooling infrastructure in SBG0504A03B.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 05/03/2026 15:24 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/03/2026 16:24 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The cooling system's efficiency could be temporarily impacted for some servers, which could cause a decreased performance during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:hosted-private-cloud.status-ovhcloud.com,2005:Incident/28369897</id>

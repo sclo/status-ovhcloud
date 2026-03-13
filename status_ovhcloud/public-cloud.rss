@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 13 Mar 2026 11:18:45 +0000</pubDate>
+    <pubDate>Fri, 13 Mar 2026 11:33:11 +0000</pubDate>
     <item>
       <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/vhkbytk3f258</guid>
     </item>
     <item>
+      <title>[US][Storage] - S3 Object Storage incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Storage offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2026 07:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2026 08:15 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Severe network traffic disruptions on the S3 object storage clusters between 7:20 and 7:30 UTC.&lt;br /&gt;From 7:30 to 8:15 UTC, network instability persisted, causing 500/503 errors and authentication problems.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers may have encountered 500/503 errors and authentication issues.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this incident : https://network.status-ovhcloud.com/incidents/dt09splp43wh&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Fri, 13 Mar 2026 11:33:11 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/lsxg61s1zdc7</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/lsxg61s1zdc7</guid>
+    </item>
+    <item>
       <title>[GRA11][Containers &amp; Orchestration] - Load Balancer/Managed Kubernetes Service incident notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Containers &amp; Orchestration offer that impacted the Load Balancer and Managed Kubernetes Service in GRA11 which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2026 19:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Network perturbations were temporarily observed on the Load Balancer and Managed Kubernetes Service in GRA11. &lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily facing issues using the Load Balancer and Managed Kubernetes Service in the specified region. &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this incident: https://public-cloud.status-ovhcloud.com/incidents/2t9ck6jjtylr&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Wed, 11 Mar 2026 12:56:31 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/zpw7mvvvzp41</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/zpw7mvvvzp41</guid>
-    </item>
-    <item>
-      <title>[GRA/DE/SBG/UK/BHS/WAW][Databases] - MongoDB incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our MongoDB offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/03/2026 16:40 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/03/2026 23:40 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our MongoDB offer on the specific GRA - DE - SBG - UK - BHS and WAW regions. &lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/03/2026 16:40 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Management operations are temporarily unavailable (e.g., adding users, updating flavors). Existing database services remain operational and continue to serve customer workloads.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our MongoDB  offering in the DE and GRA Region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/03/2026 16:40 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Management operations are temporarily unavailable (e.g., adding users, updating flavors).&lt;br /&gt;Existing database services remain operational and continue to serve customer workloads.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Wed, 11 Mar 2026 00:01:28 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/zcnt2skv1ybm</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/zcnt2skv1ybm</guid>
     </item>
   </channel>
 </rss>

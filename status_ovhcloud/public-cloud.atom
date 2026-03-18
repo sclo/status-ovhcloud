@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-03-18T20:34:32Z</updated>
+  <updated>2026-03-18T21:56:51Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vy066pvw5v9g"/>
     <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI Endpoint offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of a scheduled maintenance operation (https://network.status-ovhcloud.com/incidents/lj16ckd9xb80), temporary performance slowdown may occur on the service.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our AI Endpoint offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29094211</id>
+    <published>2026-04-28T07:00:00Z</published>
+    <updated>2026-03-18T21:56:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/frz369bs4ydz"/>
+    <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.30 notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;21:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Kubernetes Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have to anticipate this maintenance in order to adapt to the new Kubernetes version.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, customers using Kubernetes version 1.30 will be migrated to version 1.31.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28795163</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/hp3g7mzh3h2t"/>
     <title>[GRA11][Compute - Instance] - New instances creation/Network configuration incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;19:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance in GRA11 region has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/03/2026 17:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 11/03/2026 19:35 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Compute - Instance offering, which is causing temporary functionality issue in the GRA11 region].&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/03/2026 17:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Creation of new Public cloud instances and modification of network configuration is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to create new Public Cloud instances and modify network configurations of their existing instances.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28885065</id>
-    <published>2026-03-11T18:34:25Z</published>
-    <updated>2026-03-11T18:34:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9g5ttk3hk6yy"/>
-    <title>[AF-CENTRAL/AF-NORTH][Public Cloud] - LocalZones maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;18:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 11/03/2026 17:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt;  11/03/2026 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt;  Short intermittent downtime on hosted LZ APIs during the upgrade.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt;  As part of our continuous improvement policy, we will be doing a maintenance on our Public Cloud infrastructure in the region listed below :&lt;br /&gt;AF-CENTRAL-LZ-ABJ&lt;br /&gt;AF-NORTH-LZ-RBA&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

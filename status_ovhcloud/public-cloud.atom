@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-03-23T11:20:30Z</updated>
+  <updated>2026-03-23T11:36:42Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -95,6 +95,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/0jfb3yqcrdsn"/>
     <title>[Global][Data &amp; Analytics] - Data Platform maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/03/2026 13:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29205406</id>
+    <published>2026-03-23T11:36:42Z</published>
+    <updated>2026-03-23T11:36:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/gjfpwwhh3fvk"/>
+    <title>[GLOBAL][Identity, Security &amp; Operations] - Logs Data Platform incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Identity, Security &amp; Operations offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/03/2026 09:11 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2026 11:26 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; IAM authentication is currently not functionnal on Graylog / OSD / API&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may have experienced difficulties accessing logs via Graylog/OSD/API.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected infrastructure failure.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29186552</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/lsxg61s1zdc7"/>
     <title>[US][Storage] - S3 Object Storage incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Storage offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/03/2026 07:20 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/03/2026 08:15 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Severe network traffic disruptions on the S3 object storage clusters between 7:20 and 7:30 UTC.&lt;br /&gt;From 7:30 to 8:15 UTC, network instability persisted, causing 500/503 errors and authentication problems.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers may have encountered 500/503 errors and authentication issues.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this incident : https://network.status-ovhcloud.com/incidents/dt09splp43wh&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28949260</id>
-    <published>2026-03-12T19:43:17Z</published>
-    <updated>2026-03-12T19:43:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ctgc1kbx1yzs"/>
-    <title>[GRA11][Containers &amp; Orchestration] - Load Balancer/Managed Kubernetes Service incident notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;19:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Containers &amp; Orchestration offer that impacted the Load Balancer and Managed Kubernetes Service in GRA11 which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2026 19:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Network perturbations were temporarily observed on the Load Balancer and Managed Kubernetes Service in GRA11. &lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily facing issues using the Load Balancer and Managed Kubernetes Service in the specified region. &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this incident: https://public-cloud.status-ovhcloud.com/incidents/2t9ck6jjtylr&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;</content>
   </entry>
 </feed>

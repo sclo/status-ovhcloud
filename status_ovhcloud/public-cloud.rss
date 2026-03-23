@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 23 Mar 2026 11:20:30 +0000</pubDate>
+    <pubDate>Mon, 23 Mar 2026 11:36:42 +0000</pubDate>
     <item>
       <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
       <description>
@@ -103,6 +103,14 @@
       <maintenanceEndDate>Mon, 23 Mar 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/0jfb3yqcrdsn</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/0jfb3yqcrdsn</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Identity, Security &amp; Operations] - Logs Data Platform incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Identity, Security &amp; Operations offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/03/2026 09:11 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/03/2026 11:26 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; IAM authentication is currently not functionnal on Graylog / OSD / API&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may have experienced difficulties accessing logs via Graylog/OSD/API.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected infrastructure failure.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Mon, 23 Mar 2026 11:36:42 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/gjfpwwhh3fvk</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/gjfpwwhh3fvk</guid>
     </item>
     <item>
       <title>[GLOBAL][Compute - Instance] - IAM Login incident notification</title>
@@ -212,14 +220,6 @@
       <pubDate>Fri, 13 Mar 2026 11:33:11 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/lsxg61s1zdc7</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/lsxg61s1zdc7</guid>
-    </item>
-    <item>
-      <title>[GRA11][Containers &amp; Orchestration] - Load Balancer/Managed Kubernetes Service incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Containers &amp; Orchestration offer that impacted the Load Balancer and Managed Kubernetes Service in GRA11 which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/03/2026 19:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Network perturbations were temporarily observed on the Load Balancer and Managed Kubernetes Service in GRA11. &lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily facing issues using the Load Balancer and Managed Kubernetes Service in the specified region. &lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this incident: https://public-cloud.status-ovhcloud.com/incidents/2t9ck6jjtylr&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
-      <pubDate>Thu, 12 Mar 2026 19:43:17 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ctgc1kbx1yzs</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ctgc1kbx1yzs</guid>
     </item>
   </channel>
 </rss>

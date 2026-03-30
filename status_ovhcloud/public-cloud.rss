@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 30 Mar 2026 12:05:29 +0000</pubDate>
+    <pubDate>Mon, 30 Mar 2026 12:53:55 +0000</pubDate>
     <item>
       <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
       <description>
@@ -123,6 +123,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/cxm0fk3wyv91</guid>
     </item>
     <item>
+      <title>[GLOBAL][Databases] - PostgreSQL 18 incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our PostgreSQL offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/03/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers may experience issues when upgrading to PostgreSQL version 18, as the PostGIS extension is currently not functional on this version, potentially preventing the use of geospatial features.&lt;br /&gt;As a precaution, we strongly recommend postponing any upgrade to PostgreSQL version 18 and continuing to use PostgreSQL version 17, which remains compatible with PostGIS.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by our provider.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;If you have any questions, please contact your usual point of contact or reach out to our support team.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;      </description>
+      <pubDate>Mon, 30 Mar 2026 12:51:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/5mb5m9d1p23d</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/5mb5m9d1p23d</guid>
+    </item>
+    <item>
       <title>[GRA11][Compute - Instance] - Some instances incident notification</title>
       <description>
 &lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance offer has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 07:22 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/03/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer in the specific region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 07:22 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances are suddenly unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances in the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
@@ -213,14 +221,6 @@
       <pubDate>Fri, 20 Mar 2026 09:01:54 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/73dtzw4y641q</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/73dtzw4y641q</guid>
-    </item>
-    <item>
-      <title>[BHS1][Compute - Instance] - Some instances incident notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance offer has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/03/2026 18:16 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/03/2026 19:21 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer on the specific region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/03/2026 18:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the BHS1 region are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances in the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;      </description>
-      <pubDate>Thu, 19 Mar 2026 19:26:42 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/fkxpzlnypy7p</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/fkxpzlnypy7p</guid>
     </item>
   </channel>
 </rss>

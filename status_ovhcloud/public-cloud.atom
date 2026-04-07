@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-04-07T07:43:57Z</updated>
+  <updated>2026-04-07T08:03:35Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/459hqz8wdlnj"/>
     <title>[Global][Data &amp; Analytics] - Data Platform maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/04/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29275997</id>
+    <published>2026-04-07T08:03:35Z</published>
+    <updated>2026-04-07T08:03:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cxm0fk3wyv91"/>
+    <title>[RBX][Public Cloud] - Object Storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers accessing the S3 Object Storage via the public IP of s3.rbx.io.cloud.ovh.net may experience a brief disruption during the IP change. Using the endpoint name will avoid any interruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The public IP update will improve the reliability and performance of S3 Object Storage for all customers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29078072</id>
@@ -143,14 +151,6 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kbb2v02vpmhn"/>
     <title>[BHS1/3][Compute - Instance] - Some instances incident notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance in BHS1 and BHS3 regions has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 13:58 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer in the specific regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 13:58 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in BHS1 and BHS3 are temporarily unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances in the specified regions.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29275997</id>
-    <published>2026-03-31T07:00:12Z</published>
-    <updated>2026-03-31T07:00:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cxm0fk3wyv91"/>
-    <title>[RBX][Public Cloud] - Object Storage maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers accessing the S3 Object Storage via the public IP of s3.rbx.io.cloud.ovh.net may experience a brief disruption during the IP change. Using the endpoint name will avoid any interruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The public IP update will improve the reliability and performance of S3 Object Storage for all customers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29280239</id>

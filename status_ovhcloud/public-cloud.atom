@@ -1,108 +1,211 @@
-<!DOCTYPE html>
-<html lang="en" charset="utf-8">
-  <head>
-    <title>500 Internal server error</title>
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-    <style>
-    /* Reset */
-      * {
-        -moz-box-sizing:border-box;
-        -webkit-box-sizing:border-box;
-        box-sizing:border-box;
-      }
-      html {
-        font-size: 14px;
-        line-height: 21px;
-        width:100%;
-        font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-        -webkit-text-size-adjust: 100%;
-        -ms-text-size-adjust: 100%;
-        overflow-y:scroll;
-        overflow-x:hidden;
-      }
-      .sp-logo {
-        width: 484px;
-        height: 56px;
-
-      }
-      body {
-        background: #0049B0;
-      }
-        .content {
-          max-width: 600px;
-          margin: 5% auto;
-          margin-top: 40px;
-        }
-        .error-404 {
-            margin: 5% auto;
-            max-width: 420px;
-            width: 90%;
-            border-radius: 4px;
-            box-shadow: 0 8px 10px 0 rgba(23,43,77,0.32);
-            background-color: #fff;
-            color: #253858;
-            padding: 6.5% 9%;
-        }
-      h4 {
-        font-size: 24px;
-        margin-bottom:15px;
-      }
-      h5 {
-        font-size: 18px;
-        margin-top:50px;
-        margin-bottom:15px;
-      }
-      @media screen and (max-width: 768px) {
-        .sp-logo {
-          width: 200px;
-          height: 40px;
-        }
-      }
-      @media screen and (max-width: 400px) {
-        .er-logo {
-          max-width: 230px;
-          max-height: 200px;
-        }
-      }
-  </style>
-  </head>
-  <body>
-    <div class="content">
-      <center>
-        
-        
-        <img class="sp-logo" src="https://d2szt809jsf4o9.cloudfront.net/assets/logos/statuspage-wordmark-dccea2371ab14ccf7f2ee8e3d06dd1fb4ab893611cb5eeba2c10f9caa59533a0.svg" />
-      </center>
-      <div class="error-404">
-        <center style="margin-bottom:75px;">
-          
-          <img class="er-logo" src="https://d2szt809jsf4o9.cloudfront.net/assets/error/error_window-ae8b9fa39785dc567cf992fad146d8c33377026c21f23c54926667362120ad46.svg" />
-        </center>
-        <h4>Something might be broken</h4>
-        <p>
-          Le sigh. It doesn't happen often but it looks like we got ourselves a bug on live servers. Hitting that back button and trying again might be your best bet. If that doesn't work you can <a href="/">head back</a>.
-        </p>
-
-        <h5>Statuspage system status</h5>
-        <p>
-          <strong><span id="official-system-status"></span></strong>
-        </p>
-      </div>
-    </div>
-    <center style="margin-bottom: 40px;">
-      
-      <img src="https://d2szt809jsf4o9.cloudfront.net/assets/logos/atlassian-4d8650ac43be3655b2e368fe0dcc872bd86b2e9be019c80f56c4d9069cf1ff09.svg" width="150" height="25" />
-    </center>
-  </body>
-  <script type="text/javascript" src="https://d2szt809jsf4o9.cloudfront.net/se.js"></script>
-  <script type="text/javascript">
-    window.setStatusPageText({
-      urlOverride: 'https://metastatuspage.com',
-      code: 'doesntmatter',
-      elem: '#official-system-status',
-      secure: false
-    });
-  </script>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:public-cloud.status-ovhcloud.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
+  <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
+  <title>Public Cloud Status - Incident History</title>
+  <updated>2026-04-09T05:53:54Z</updated>
+  <author>
+    <name>Public Cloud</name>
+  </author>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28883632</id>
+    <published>2026-04-29T04:00:00Z</published>
+    <updated>2026-03-09T17:03:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vy066pvw5v9g"/>
+    <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI Endpoint offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of a scheduled maintenance operation (https://network.status-ovhcloud.com/incidents/lj16ckd9xb80), temporary performance slowdown may occur on the service.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our AI Endpoint offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29094211</id>
+    <published>2026-04-28T07:00:00Z</published>
+    <updated>2026-03-18T21:56:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/frz369bs4ydz"/>
+    <title>[GLOBAL][Containers &amp; Orchestration] - End of life Kubernetes 1.30 notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;21:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Kubernetes Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 28/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers have to anticipate this maintenance in order to adapt to the new Kubernetes version.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, customers using Kubernetes version 1.30 will be migrated to version 1.31.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29534472</id>
+    <published>2026-04-22T13:00:00Z</published>
+    <updated>2026-04-08T11:56:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/n0zyp8xgw5b3"/>
+    <title>[GRA9/GRA11][Data &amp; Analytics ] - Data Platform Maintenance Notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Kubernetes Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/04/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/04/2026 20:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be upgrading Kubernetes from 1.33.5 to 1.34.2.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28795163</id>
+    <published>2026-04-21T07:30:00Z</published>
+    <updated>2026-03-05T01:18:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/v2jvqlqdbrkh"/>
+    <title>[AP-SOUTH-MUM/BHS/DE/EU-SOUTH-MIL/EU-WEST-PAR/GRA/VA][Public Cloud] - Registries upgrade</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;01:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Managed Private Registry.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/04/2026 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/04/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The upgrade of the Harbor version will set Harbor in read-only mode (only pull will be allowed) for 1 or 2mn.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Following our continuous improvement policy, we are rolling out an upgrade of registries.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28883546</id>
+    <published>2026-04-21T04:00:00Z</published>
+    <updated>2026-03-09T16:58:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fq27zcv7vn7f"/>
+    <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI Endpoint offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of a scheduled maintenance operation (https://network.status-ovhcloud.com/incidents/7xp1b1vrgmkb), temporary performance slowdown may occur on the service.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our AI Endpoint offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29535114</id>
+    <published>2026-04-20T12:00:00Z</published>
+    <updated>2026-04-08T12:58:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/56v1ttm2smxy"/>
+    <title>[Global][Data &amp; Analytics ] - Data Platform maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/04/2026 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29204829</id>
+    <published>2026-04-15T07:00:00Z</published>
+    <updated>2026-04-01T08:25:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bvz996zmkx8n"/>
+    <title>[GRA9/GRA11][Public Cloud] - Compute instance (A10 Flavor) maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;11:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure in GRA9/GRA11 regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Instances will be unavailable during the maintenance. The only flavor impacted is A10.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28883461</id>
+    <published>2026-04-13T04:00:00Z</published>
+    <updated>2026-03-09T16:53:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/2ggw8s5z828r"/>
+    <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI Endpoint offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 13/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of a scheduled maintenance operation (https://network.status-ovhcloud.com/incidents/smqvqzmbfwql), temporary performance slowdown may occur on the service.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our AI Endpoint offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29533042</id>
+    <published>2026-04-08T10:20:46Z</published>
+    <updated>2026-04-08T10:20:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/fhfgt1mbg7rf"/>
+    <title>[GRA9][Containers &amp; Orchestration] - Managed Kubernetes Service Incident Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our  Containers &amp; Orchestration offer in GRA9 region has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2026 09:06 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/04/2026 10:12 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This was caused by another incident : https://public-cloud.status-ovhcloud.com/incidents/vwqd4hm52ytq&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Containers &amp; Orchestration offer on the specific region GRA9.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2026 09:06 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Managed Kubernetes Service clusters in GRA9 are temporarily facing latency.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily facing latency while trying to access their Managed Kubernetes Service clusters.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by another incident : https://public-cloud.status-ovhcloud.com/incidents/vwqd4hm52ytq&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29532891</id>
+    <published>2026-04-08T10:19:54Z</published>
+    <updated>2026-04-08T10:19:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vwqd4hm52ytq"/>
+    <title>[GRA9][Network] - API Network incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Public Cloud Network API offer in GRA9 region has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2026 09:06 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/04/2026 10:12 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently investigating an incident affecting our Network offering, which is causing temporary availability issue in the Public Cloud Network API.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2026 09:06 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The API for the GRA9 region is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to create, start, manage their Public Cloud instances and create or attach new volumes.&lt;br /&gt;Instances already running are not impacted.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Public Cloud Network API offer in GRA9 region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/04/2026 09:06 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29233095</id>
+    <published>2026-04-07T13:22:38Z</published>
+    <updated>2026-04-07T13:22:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/459hqz8wdlnj"/>
+    <title>[Global][Data &amp; Analytics] - Data Platform maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/04/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29275997</id>
+    <published>2026-04-07T08:03:35Z</published>
+    <updated>2026-04-07T08:03:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/cxm0fk3wyv91"/>
+    <title>[RBX][Public Cloud] - Object Storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers accessing the S3 Object Storage via the public IP of s3.rbx.io.cloud.ovh.net may experience a brief disruption during the IP change. Using the endpoint name will avoid any interruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; The public IP update will improve the reliability and performance of S3 Object Storage for all customers.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29078072</id>
+    <published>2026-04-07T07:43:57Z</published>
+    <updated>2026-04-07T07:43:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/pz5zkvvhb3t7"/>
+    <title>[YNM1][Storage] - Object storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;07:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Object storage offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/04/2026 04:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/04/2026 09:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some data storage will be temporarily unavailable during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Object storage offer in the YNM1 region.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28883226</id>
+    <published>2026-04-02T15:40:15Z</published>
+    <updated>2026-04-02T15:40:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/srv4ntjt85jf"/>
+    <title>[Global][AI &amp; Machine Learning] - AI Endpoint maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI Endpoint offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; As part of a scheduled maintenance operation (https://network.status-ovhcloud.com/incidents/dj3gd4jknvp0), temporary performance slowdown may occur on the service.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our AI Endpoint offer.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29445817</id>
+    <published>2026-04-02T13:46:09Z</published>
+    <updated>2026-04-02T13:46:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/y7stth764k0r"/>
+    <title>[EU][Identity, Security &amp; Operations] - Service Logs Incident Notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Identity, Security &amp; Operations  has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 10:10 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/04/2026 13:45 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our  offer on the EU region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 10:10 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Service Logs is unavailable&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers can no longer access logs for their managed services or subscribe to logs for new ones.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;10:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently investigating an incident affecting our Identity, Security &amp; Operations offering, which is causing temporary availability issue in the EU.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 10:10 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Service Logs is unavailable&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers can no longer access logs for their managed services or subscribe to logs for new ones.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Identity, Security &amp; Operations offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 10:10 UTC&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/28767546</id>
+    <published>2026-04-02T09:51:51Z</published>
+    <updated>2026-04-02T09:51:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/z1frbfz6x2hk"/>
+    <title>[US-EAST-VA-1/US-WEST-OR-1][Network] - Load Balancer maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;09:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;16:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud Load Balancer on US-EAST-VA-1/US-WEST-OR-1 region. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/04/2026 08:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/04/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The API will be temporarily unavailable for 1 minute during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on our Load Balancer service infrastructure. &lt;br /&gt;This maintenance is necessary to ensure the continued reliability and performance of our platform.&lt;br /&gt;If you have any questions or concerns, please don't hesitate to reach out to our support team.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29426831</id>
+    <published>2026-04-01T16:07:15Z</published>
+    <updated>2026-04-01T16:07:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ltbz0qc0t4rw"/>
+    <title>[GRA][Containers &amp; Orchestration] - Managed Private Registry incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Managed Private Registry offer in GRA has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/04/2026 13:54 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/04/2026 14:04 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by another incident: https://public-cloud.status-ovhcloud.com/incidents/vfzbjp0jbm0t&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Service has been fully restored since 01/04/2026 14:04 UTC. Monitoring remains active to ensure long-term stability.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/04/2026 13:54 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Managed private Registry was temporarily unavailable in GRA region.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers were temporarily unable to access and use their registries in the specified region.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29427588</id>
+    <published>2026-04-01T16:05:45Z</published>
+    <updated>2026-04-01T16:27:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/vfzbjp0jbm0t"/>
+    <title>[GRA9][Network] -  Load Balancer incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;16:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Network on our Load Balancer offer in GRA9 has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/04/2026 13:54 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/04/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;15:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently investigating an incident affecting our Load Balancer offer, which is causing temporary availability issue in the GRA9 region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/04/2026 13:54 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Load balancer in GRA9 region is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to to perform load balancer management operations in GRA9.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an event affecting our Load Balancer offer in GRA9.&lt;br /&gt;&lt;br /&gt;Our teams are fully committed to investigating this issue and working towards a resolution as soon as possible. As investigations are ongoing, we will share any new findings or updates with you as soon as possible.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29280626</id>
+    <published>2026-04-01T14:56:03Z</published>
+    <updated>2026-04-01T14:56:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5mzmpc8w1f8v"/>
+    <title>[SBG5/GRA9/GRA11][Storage] - Block storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in SBG5/GRA9/GRA11.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/04/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29401753</id>
+    <published>2026-03-31T18:28:31Z</published>
+    <updated>2026-03-31T18:28:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3h8jprpv1ygv"/>
+    <title>[GRA1/7/11][Storage] - Block Storage incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Storage in  GRA1, GRA7 and GRA11 regions has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 14:08 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/03/2026 18:25 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;17:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; Our teams implemented a fix and the service is now recovering.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; During the recovery, customers may experience slightly reduced performance.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Storage offer on the specific regions GRA1, GRA7 and GRA11.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 14:08 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; A low performance is being observed on Block Storage in the specified regions.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are facing latency when trying to access and use their Block Storage located in GRA1, GRA7 and GRA11.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29280477</id>
+    <published>2026-03-31T15:09:50Z</published>
+    <updated>2026-03-31T15:09:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/sd990v95x0gm"/>
+    <title>[GRA11][Storage] - Block storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in GRA11.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29401377</id>
+    <published>2026-03-31T15:07:35Z</published>
+    <updated>2026-03-31T15:07:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/kbb2v02vpmhn"/>
+    <title>[BHS1/3][Compute - Instance] - Some instances incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance in BHS1 and BHS3 regions has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 31/03/2026 13:58 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;14:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer in the specific regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 13:58 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in BHS1 and BHS3 are temporarily unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances in the specified regions.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29280239</id>
+    <published>2026-03-30T14:31:42Z</published>
+    <updated>2026-03-30T14:31:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/wx56461nwkgl"/>
+    <title>[GRA3/GRA5/GRA7/RBX-A][Storage] - Block storage maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in GRA3/GRA5/GRA7/RBX-A.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/03/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29373418</id>
+    <published>2026-03-30T12:51:15Z</published>
+    <updated>2026-03-30T12:51:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/5mb5m9d1p23d"/>
+    <title>[GLOBAL][Databases] - PostgreSQL 18 incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our PostgreSQL offer.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/03/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Customers may experience issues when upgrading to PostgreSQL version 18, as the PostGIS extension is currently not functional on this version, potentially preventing the use of geospatial features.&lt;br /&gt;As a precaution, we strongly recommend postponing any upgrade to PostgreSQL version 18 and continuing to use PostgreSQL version 17, which remains compatible with PostGIS.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by our provider.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;If you have any questions, please contact your usual point of contact or reach out to our support team.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29369557</id>
+    <published>2026-03-30T12:05:29Z</published>
+    <updated>2026-03-30T12:05:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/9m3jfb8tp5gz"/>
+    <title>[GRA11][Compute - Instance] - Some instances incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance offer has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 07:22 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/03/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer in the specific region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/03/2026 07:22 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances are suddenly unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access and use their instances in the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+</feed>

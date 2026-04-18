@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-04-18T21:21:24Z</updated>
+  <updated>2026-04-18T22:06:46Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in LIM1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, some customers may experience a temporary service disruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing an infrastructure upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29698453</id>
+    <published>2026-04-18T22:06:46Z</published>
+    <updated>2026-04-18T22:06:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ck4cnvmzxqmh"/>
+    <title>[AP-SOUTH-MUM][Public Cloud] - LocalZone / CEPH / Compute Instance incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;22:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Public Cloud offering on the specific AP-SOUTH-MUM.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/04/2026 17:06 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some customers are temporarily unable to access or use their compute instances in the AP-SOUTH-MUM-1 region, while actions such as restarting instances in the AP-SOUTH-MUM local zone are currently unavailable, and some Ceph volumes in the region are also impacted.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access or use their compute instances in the AP-SOUTH-MUM-1 region, are unable to perform actions such as restarting instances in the AP-SOUTH-MUM Local Zones, and are also unable to use their Ceph storage services.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is linked to : https://network.status-ovhcloud.com/incidents/lycx4vgc89jk&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29697214</id>
     <published>2026-04-18T21:21:24Z</published>
     <updated>2026-04-18T21:21:24Z</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/51z40sfq7358"/>
     <title>[SBG5/GRA9/GRA11][Storage] - Block storage maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;13:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in SBG5, GRA9 and GRA11.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/04/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/29204829</id>
-    <published>2026-04-15T09:38:52Z</published>
-    <updated>2026-04-15T09:38:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/bvz996zmkx8n"/>
-    <title>[GRA9/GRA11][Public Cloud] - Compute instance (A10 Flavor) maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;11:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure in GRA9/GRA11 regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/04/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Instances will be unavailable during the maintenance. The only flavor impacted is A10.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

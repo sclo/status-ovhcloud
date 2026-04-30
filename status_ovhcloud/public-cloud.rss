@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 30 Apr 2026 13:23:58 +0000</pubDate>
+    <pubDate>Thu, 30 Apr 2026 15:36:34 +0000</pubDate>
     <item>
       <title>[RBX/SBG][Containers &amp; Orchestration] -  Managed Rancher Service maintenance notification</title>
       <description>
@@ -31,6 +31,22 @@
       <maintenanceEndDate>Tue, 05 May 2026 14:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8wjpyght0pgb</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8wjpyght0pgb</guid>
+    </item>
+    <item>
+      <title>[EU][Network] - API Network incident notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on our Public Cloud Network API offer in EU which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/04/2026 14:42 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2026 14:57 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The API for Public Cloud was temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to create, start, manage their Public Cloud instances.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Apr 2026 15:36:34 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/k36j57v3lgzc</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/k36j57v3lgzc</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Containers &amp; Orchestration] -  Managed Kubernetes Service event notification</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing security event affecting our Managed Kubernetes Service. The source of the issue has been identified.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/04/2026 08:15 UTC&lt;br /&gt;&lt;b&gt;Impacted service(s) :&lt;/b&gt; Managed Kubernetes Service (MKS) worker nodes.&lt;br /&gt;&lt;b&gt;Customer impact :&lt;/b&gt; A recently disclosed security vulnerability may allow a user within a container to gain elevated access on the underlying node.&lt;br /&gt;This issue is limited to individual clusters and does not impact other customers or the managed control plane.&lt;br /&gt;Customers running shared or multi-tenant workloads within the same cluster should consider this issue with higher priority.&lt;br /&gt;Other OVHcloud managed services (MPR, MRS) are patched transparently by OVHcloud, no customer action required.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a software issue. &lt;br /&gt;&lt;b&gt;Workaround :&lt;/b&gt; A temporary mitigation is available to reduce the risk while we prepare a permanent fix.&lt;br /&gt;Instructions are available in our dedicated blog post:&lt;br /&gt;https://blog.ovhcloud.com/copy-fail-cve-2026-31431-how-to-rapidly-protect-ovhcloud-mks-clusters-from-the-linux-kernel-zero-day&lt;br /&gt;Please note that applying this mitigation is optional and remains under your responsibility.&lt;br /&gt;If the vulnerability has already been exploited on your cluster, this mitigation will not remediate any pre-existing compromise&lt;br /&gt;&lt;b&gt;Ongoing actions :&lt;/b&gt; Our teams are actively working on a permanent fix.&lt;br /&gt;Updated versions are expected to be available later today.&lt;br /&gt;&lt;br /&gt;We will share further details and update instructions as soon as they are ready.&lt;br /&gt;We will keep you informed of any progress.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
+      <pubDate>Thu, 30 Apr 2026 15:27:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/r4b41pwyn784</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/r4b41pwyn784</guid>
     </item>
     <item>
       <title>[FR][Data &amp; Analytics] - Data Platform Incident Notification</title>
@@ -202,24 +218,6 @@
       <pubDate>Mon, 20 Apr 2026 12:48:17 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/d15ghymy41l8</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/d15ghymy41l8</guid>
-    </item>
-    <item>
-      <title>[LIM1][Data &amp; Analytics] - Data Platform Maintenance Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Data Platform offer in LIM1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, some customers may experience a temporary service disruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing an infrastructure upgrade for Data Platform.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Mon, 20 Apr 2026 08:35:15 +0000</pubDate>
-      <maintenanceEndDate>Mon, 20 Apr 2026 11:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/p4lcl6qd7w5p</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/p4lcl6qd7w5p</guid>
-    </item>
-    <item>
-      <title>[LIM1][Storage] - Block Storage Maintenance Notification</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in LIM1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/04/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, some customers may experience a temporary service disruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing an infrastructure upgrade for storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;      </description>
-      <pubDate>Mon, 20 Apr 2026 08:35:02 +0000</pubDate>
-      <maintenanceEndDate>Mon, 20 Apr 2026 11:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/g31v255z4khc</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/g31v255z4khc</guid>
     </item>
   </channel>
 </rss>

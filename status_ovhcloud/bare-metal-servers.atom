@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2026-05-01T05:08:50Z</updated>
+  <updated>2026-05-01T06:54:37Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -87,6 +87,22 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/14kn6zdsfmp7"/>
     <title>[ERI][Network] - Rack E103C07 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;01:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;18:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 04/05/2026 23:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 05/05/2026 01:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance, the public network will be unavailable for 10 minutes, after which the vRack network will be unavailable for 10 minutes for the servers in the rack.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/29905716</id>
+    <published>2026-05-01T06:54:37Z</published>
+    <updated>2026-05-01T06:54:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nd38nys11q15"/>
+    <title>[RBX3][Dedicated Servers] - Rack 46J27 Incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;06:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Dedicated Servers offer on the specific [Rack/Cluster/Room/Region/Geographical zone].&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/05/2026 06:52 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in the specified rack are no longer able to access the vRack network.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their servers via vRack network located on the specified racks.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/29905697</id>
+    <published>2026-05-01T06:52:14Z</published>
+    <updated>2026-05-01T06:52:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/n09cc8kzcg9v"/>
+    <title>[RBX3][Dedicated Servers] - Rack 46J27 Incident notification</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;06:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on the rack 46J27 that is now resolved. &lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/05/2026 06:48 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/05/2026 06:34 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in the specified rack were no longer able to access the vRack network.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their servers via vRack network located on the specified racks.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/29904174</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/56d4pc82mz5p"/>
     <title>[GRA1][Cooling System] - Rack G121A14 Maintenance Notification</title>
     <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - All services are operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;15:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/04/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during this maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/29801718</id>
-    <published>2026-04-30T01:54:55Z</published>
-    <updated>2026-04-30T01:54:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/nktlt24dw1xy"/>
-    <title>[RBX4][Storage and Backups] - Backup Storage maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;01:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our Backup Storage offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/04/2026 02:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, some storage will be temporarily unavailable for approximately 30 minutes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Backup Storage offering to implement security and performance enhancements.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/28771662</id>
-    <published>2026-04-29T22:04:29Z</published>
-    <updated>2026-04-29T22:04:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/vnyt4md9flyl"/>
-    <title>[ERI1][Dedicated Servers] - Rack E101A08 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;22:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;20:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our dedicated servers offer.  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/04/2026 20:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/04/2026 22:00 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers will be unavailable during the maintenance for 90 minutes each. &lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy for our infrastructure, we will be relocating the servers currently located in rack E101A08 to rack ERI0102F01A.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding.&lt;/p&gt;</content>
   </entry>
 </feed>

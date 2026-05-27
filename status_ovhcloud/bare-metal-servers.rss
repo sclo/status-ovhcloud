@@ -4,7 +4,7 @@
     <title>Bare Metal Cloud Status - Incident History</title>
     <link>https://bare-metal-servers.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 27 May 2026 10:21:30 +0000</pubDate>
+    <pubDate>Wed, 27 May 2026 13:23:29 +0000</pubDate>
     <item>
       <title>[WAW1][Dedicated Servers] - Room W17 maintenance notification</title>
       <description>
@@ -105,21 +105,37 @@
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/07q998b7s27s</guid>
     </item>
     <item>
-      <title>[LIM1][Dedicated Servers] - Rack L107B09 maintenance notification</title>
+      <title>[RBX6][Dedicated Servers] - Rack 46G03 Incident Notification</title>
       <description>
-&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the servers in the affected rack will be gracefully shut down beforehand. Customers hosted on these servers should expect a planned service interruption for the duration of the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Wed, 27 May 2026 11:00:00 +0000</pubDate>
-      <maintenanceEndDate>Wed, 27 May 2026 13:00:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jl48g84jzmlb</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jl48g84jzmlb</guid>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Dedicated Servers offer which has now been resolved in rack 46G03.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 12:35 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2026 12:38 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in the specified rack were no longer able to access via the IPMI interface.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their servers via the IPMI interface located on the specified rack.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;      </description>
+      <pubDate>Wed, 27 May 2026 12:55:02 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/q13ltl0yykhd</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/q13ltl0yykhd</guid>
     </item>
     <item>
       <title>[LIM1][Dedicated Servers] - Rack L121B02 incident notification</title>
       <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; We are currently replacing the faulty network equipment.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Dedicated Servers offering in the rack L121B02.&lt;br /&gt;The root cause has been identified.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 09:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Public network is temporarily unavailable for servers located in the rack L121B02.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their servers through public network.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are actively working to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
-      <pubDate>Wed, 27 May 2026 09:39:59 +0000</pubDate>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Dedicated Servers offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 09:16 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2026 11:52 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Update : &lt;/b&gt; We are currently replacing the faulty network equipment.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Dedicated Servers offering in the rack L121B02.&lt;br /&gt;The root cause has been identified.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 09:16 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Public network is temporarily unavailable for servers located in the rack L121B02.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access and use their servers through public network.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a network equipment issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are actively working to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Wed, 27 May 2026 12:16:53 +0000</pubDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/20hxxlh1khhw</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/20hxxlh1khhw</guid>
+    </item>
+    <item>
+      <title>[RBX][Storage and Backups] - Backup Storage incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Backup Storage offering.&lt;br /&gt;The root cause has been identified.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 06:50 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; One backup storage server is temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their data.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a hardware issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are actively working to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Wed, 27 May 2026 12:40:10 +0000</pubDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/98h3dnvl85w4</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/98h3dnvl85w4</guid>
+    </item>
+    <item>
+      <title>[LIM1][Dedicated Servers] - Rack L107B09 maintenance notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the servers in the affected rack will be gracefully shut down beforehand. Customers hosted on these servers should expect a planned service interruption for the duration of the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
+      <pubDate>Wed, 27 May 2026 11:54:35 +0000</pubDate>
+      <maintenanceEndDate>Wed, 27 May 2026 13:00:00 +0000</maintenanceEndDate>
+      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/jl48g84jzmlb</link>
+      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/jl48g84jzmlb</guid>
     </item>
     <item>
       <title>[RBX6][Dedicated Servers] - Rack 46A13 incident notification</title>
@@ -206,23 +222,6 @@
       <maintenanceEndDate>Tue, 26 May 2026 20:30:00 +0000</maintenanceEndDate>
       <link>https://bare-metal-servers.status-ovhcloud.com/incidents/2vybl441npvg</link>
       <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/2vybl441npvg</guid>
-    </item>
-    <item>
-      <title>[WAW1][Network] - Network equipment maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our network infrastructure. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/05/2026 12:30 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/05/2026 15:30 UTC &lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers who have not configured the LACP service may temporarily experience a service interruption.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our network infrastructure, we will have to carry out interventions on multiple network equipment.&lt;br /&gt;&lt;br /&gt;List of concerned Racks :&lt;br /&gt;- Rack WAW0107B06A&lt;br /&gt;- Rack WAW0107B05B&lt;br /&gt;- Rack WAW0106B02B&lt;br /&gt;- Rack WAW0106B02A&lt;br /&gt;- Rack WAW0118B02A&lt;br /&gt;- Rack WAW0118B06A&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Tue, 26 May 2026 16:40:14 +0000</pubDate>
-      <maintenanceEndDate>Tue, 26 May 2026 15:30:00 +0000</maintenanceEndDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/7v8jmv7t60pk</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/7v8jmv7t60pk</guid>
-    </item>
-    <item>
-      <title>[LIM1][Dedicated Servers] - Rack L121B02 Incident Notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Dedicated Servers offer which has now been resolved in rack L121B02.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 26/05/2026 15:56 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 26/05/2026 16:09 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in the rack L121B02 were no longer able to access the public network.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their servers via public network located on the specified rack.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;      </description>
-      <pubDate>Tue, 26 May 2026 16:14:12 +0000</pubDate>
-      <link>https://bare-metal-servers.status-ovhcloud.com/incidents/4js3pvfg7vfs</link>
-      <guid>https://bare-metal-servers.status-ovhcloud.com/incidents/4js3pvfg7vfs</guid>
     </item>
   </channel>
 </rss>

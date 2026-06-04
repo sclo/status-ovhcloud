@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 04 Jun 2026 07:46:09 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 09:44:18 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Wed, 10 Jun 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/h7vjk71pv8d1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/h7vjk71pv8d1</guid>
+    </item>
+    <item>
+      <title>[Global][PCI-Databases] - MongoDB incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our PCI-Databases offer on the specific global region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/06/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some MongoDB databases that initially run with 3 nodes may temporarily run with 2 nodes.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers with 3 node MongoDB services may temporarily operate with only 2 nodes. No latency or data loss is observed.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our PCI-Databases offering, which is causing temporary degraded issue in the Global region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/06/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some MongoDB databases that initially run with 3 nodes may temporarily run with 2 nodes.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers with 3 node MongoDB services may temporarily operate with only 2 nodes. No latency or data loss is observed.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Thu, 04 Jun 2026 09:33:26 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/05171j1rb8m2</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/05171j1rb8m2</guid>
     </item>
     <item>
       <title>[GLOBAL][AI &amp; Machine Learning] - Qwen3.5-397B-A17B incident notification</title>
@@ -209,15 +217,6 @@
       <pubDate>Thu, 21 May 2026 23:22:07 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/7zy53q94mnby</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/7zy53q94mnby</guid>
-    </item>
-    <item>
-      <title>[Global][Data &amp; Analytics] - Data Platform maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;19&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/05/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing an update to our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Wed, 20 May 2026 17:24:45 +0000</pubDate>
-      <maintenanceEndDate>Wed, 20 May 2026 16:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/ntr0l2ycsw2x</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/ntr0l2ycsw2x</guid>
     </item>
   </channel>
 </rss>

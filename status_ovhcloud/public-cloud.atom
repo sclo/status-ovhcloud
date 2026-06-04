@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-06-04T06:29:02Z</updated>
+  <updated>2026-06-04T07:46:09Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -39,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/h7vjk71pv8d1"/>
     <title>[US][Compute - Instance] - Instances operating system maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;12:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Compute - Instance offer for the US.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/06/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/06/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The operating systems Ubuntu 25.04 and Fedora 42 are end-of-life.&lt;br /&gt;Customers who have already installed one of these operating systems may continue to use it, but will no longer be able to reinstall it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, starting from June 1st, customers will no longer be able to install end-of-life operating systems.&lt;br /&gt;We encourage customers using these operating systems to migrate to supported versions such as Ubuntu 26.04 or Fedora 44, or a later version.&lt;br /&gt;&lt;br /&gt;You can find the information at the following links:&lt;br /&gt;https://github.com/ovh/public-cloud-roadmap/issues/1144 &lt;br /&gt;https://github.com/ovh/public-cloud-roadmap/issues/1158 &lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30446261</id>
+    <published>2026-06-04T07:46:09Z</published>
+    <updated>2026-06-04T07:46:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/z1dr7m23pf7t"/>
+    <title>[GLOBAL][AI &amp; Machine Learning] - Qwen3.5-397B-A17B incident notification</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently investigating an incident affecting our AI &amp; Machine Learning offering, which is causing temporary issue for the model Qwen3.5-397B-A17B.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/06/2026 22:30 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; The AI endpoint Qwen3.5-397B-A17B is not reachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their endpoint model.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30431349</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/ntr0l2ycsw2x"/>
     <title>[Global][Data &amp; Analytics] - Data Platform maintenance notification</title>
     <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/05/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing an update to our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30100774</id>
-    <published>2026-05-20T15:55:48Z</published>
-    <updated>2026-05-20T15:55:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/3kqzyndg9q6p"/>
-    <title>[Containers &amp; Orchestration] - Managed Rancher Service maintenance notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/05/2026 08:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/05/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; We are currently performing an infrastructure maintenance and upgrade operation to ensure continued reliability and long-term platform support.The changes are being deployed progressively and are expected to be completed without service interruption. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
 </feed>

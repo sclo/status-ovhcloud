@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Public Cloud Status - Incident History</title>
-    <link>https://public-cloud.status-ovhcloud.com</link>
+    <link>http://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 06 Jun 2026 07:59:07 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 10:22:13 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -49,6 +49,14 @@
       <maintenanceEndDate>Wed, 10 Jun 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/h7vjk71pv8d1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/h7vjk71pv8d1</guid>
+    </item>
+    <item>
+      <title>[DE1][Compute - Instance] - Some instances incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Compute - Instance offering, which is causing temporary availability issue in DE1 region.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/06/2026 05:35 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the DE1 region are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access instances located on the specified regions.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Sat, 06 Jun 2026 10:12:06 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/g4jwgjmw4723</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/g4jwgjmw4723</guid>
     </item>
     <item>
       <title>[GRA1/3/7/9][Compute - Instance] - Some Instances Incident Notification</title>
@@ -209,15 +217,6 @@
       <pubDate>Mon, 25 May 2026 18:06:27 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/xqvbn88gx3h1</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/xqvbn88gx3h1</guid>
-    </item>
-    <item>
-      <title>[GRA9/GRA11][Public Cloud] - Compute Instance (A10 Flavor) Maintenance Notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure in GRA9/GRA11 regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/05/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 25/05/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Instances will be unavailable during the maintenance. The only flavor impacted is A10.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Mon, 25 May 2026 12:19:53 +0000</pubDate>
-      <maintenanceEndDate>Mon, 25 May 2026 11:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/vh7jgmqq7cq3</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/vh7jgmqq7cq3</guid>
     </item>
   </channel>
 </rss>

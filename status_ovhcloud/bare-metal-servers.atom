@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2026-06-06T16:46:00Z</updated>
+  <updated>2026-06-06T18:20:33Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -63,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/2k2djlf8cb2h"/>
     <title>[WAW1][Dedicated Servers] - Rack W13A12 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;01:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/06/2026 00:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/06/2026 01:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/30473072</id>
+    <published>2026-06-06T17:59:52Z</published>
+    <updated>2026-06-06T17:59:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/c1tz1rp5nws6"/>
+    <title>[RBX3][Dedicated Servers] - Some racks incident notification</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Dedicated Servers offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/06/2026 17:12 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 06/06/2026 17:32 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Servers in the racks 46H30 - 46H29 - 46H31 - 46G17 - 46G18 - 46G19 - 46G21 - 46G22 - 46G20 - 46D10 - 46G25 - 46G24 - 46G23 - 46G27 - 46D09 - 46G31 - 46G30 - 46H13 - 46G28 - 46G26 were no longer able to access the vRack network.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their servers via vRack network located on the specified rack.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by an electrical equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/30470285</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/hkmccd77vc4x"/>
     <title>VPS - WAW2 - host1846564</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Estimated time to recovery : 4 hour(s)&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected hosts&lt;/div&gt;&lt;br /&gt;host1846564&lt;br /&gt;&lt;br /&gt;&lt;div class="update-title span3 font-large"&gt;Affected instances&lt;/div&gt;&lt;br /&gt;&lt;p&gt;The list of instances listed below are currently&lt;br /&gt;unavailable, due to hardware fault on the hypervisor(s) previously mentioned. We apologize for&lt;br /&gt;any inconvenience caused while we resolve this issue.&lt;/p&gt;&lt;br /&gt;vps-fc079158.vps.ovh.net&lt;br /&gt;vps-8bf95492.vps.ovh.net&lt;br /&gt;vps-46410305.vps.ovh.net&lt;br /&gt;vps-39b78f1f.vps.ovh.net&lt;br /&gt;vps-ea10ea16.vps.ovh.net&lt;br /&gt;vps-9e39b6dc.vps.ovh.net&lt;br /&gt;vps-5dc4a8e5.vps.ovh.net&lt;br /&gt;vps-bbd78739.vps.ovh.net&lt;br /&gt;vps-98d6a6d2.vps.ovh.net&lt;br /&gt;vps-a570f544.vps.ovh.net&lt;br /&gt;vps-bfe3eb3e.vps.ovh.net&lt;br /&gt;vps-d21932ab.vps.ovh.net&lt;br /&gt;vps-0fab1190.vps.ovh.net&lt;br /&gt;vps-c84a4d2d.vps.ovh.net&lt;br /&gt;vps-f33cdc40.vps.ovh.net&lt;br /&gt;vps-30959586.vps.ovh.net&lt;br /&gt;vps-e4c7f165.vps.ovh.net&lt;br /&gt;vps-6f874d63.vps.ovh.net&lt;br /&gt;vps-de6bd909.vps.ovh.net&lt;br /&gt;vps-28ecd6db.vps.ovh.net&lt;br /&gt;vps-90bf8971.vps.ovh.net&lt;br /&gt;vps-623f983c.vps.ovh.net&lt;br /&gt;vps-bc5134a3.vps.ovh.net&lt;br /&gt;vps-6cf97330.vps.ovh.net&lt;br /&gt;vps-0b434c00.vps.ovh.net&lt;br /&gt;vps-9819898a.vps.ovh.net&lt;br /&gt;vps-026586bc.vps.ovh.net&lt;br /&gt;vps-b1bd68ea.vps.ovh.net&lt;br /&gt;vps-3ee10b18.vps.ovh.net&lt;br /&gt;vps-c4b74a9a.vps.ovh.net&lt;br /&gt;vps-ad8e1207.vps.ovh.net &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/30353871</id>
-    <published>2026-06-02T23:36:30Z</published>
-    <updated>2026-06-02T23:36:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/92kjzrr93r1j"/>
-    <title>[LIM1][Dedicated Servers] - Racks L104A15/18 and L104B03/08/09 maintenance notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;23:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The current maintenance has been canceled and she will be rescheduled later. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on servers located in the racks L104A15/A18 and L104B03/B08/B09.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/06/2026 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 04:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the specified rack will be temporarily unavailable for up to 8 hours during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be moving servers in the specified racks from L104A15/A18 and L104B03/B08/B09 to L104B02/B06.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
 </feed>

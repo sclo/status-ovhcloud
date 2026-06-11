@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jun 2026 10:05:30 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 11:39:11 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -40,6 +40,15 @@
       <maintenanceEndDate>Mon, 15 Jun 2026 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/v1p4sb69kdpx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/v1p4sb69kdpx</guid>
+    </item>
+    <item>
+      <title>[GLOBAL][Identity, Security &amp; Operations] - Security patches deployed on OpenStack Identity service (Keystone)</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance is complete. Thank you for your patience. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is still in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our ongoing security maintenance operations, emergency patches were deployed approximately 48 hours ago on the OpenStack Identity service (Keystone) to address five recently disclosed CVEs.&lt;br /&gt;&lt;br /&gt;These vulnerabilities were publicly disclosed today at 15:00 UTC.&lt;br /&gt;&lt;br /&gt;The applied upstream patches are known to introduce behavioral changes and regressions, particularly impacting:&lt;br /&gt;- Trusts&lt;br /&gt;- Application Credentials&lt;br /&gt;&lt;br /&gt;Customers using these features are advised to verify that their applications, automations, and authentication workflows continue to operate as expected.&lt;br /&gt;&lt;br /&gt;If you experience issues related to these changes, please contact our support team and provide details about your workflow so we can assist you in identifying compatible alternatives or adjustments.&lt;br /&gt;&lt;br /&gt;Please note that these regressions are intentional upstream security changes required to mitigate the vulnerabilities. According to the upstream project maintainers, reverting or modifying this behavior is currently not planned, as it could reintroduce the security risks.&lt;br /&gt;&lt;br /&gt;We continue to monitor the situation closely. &lt;/p&gt;      </description>
+      <pubDate>Thu, 11 Jun 2026 11:31:20 +0000</pubDate>
+      <maintenanceEndDate>Thu, 11 Jun 2026 15:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</guid>
     </item>
     <item>
       <title>[EU-WEST-PAR][Public Cloud] - Network connectivity issues notification</title>
@@ -180,15 +189,6 @@
       <maintenanceEndDate>Fri, 29 May 2026 12:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/ys8crkqfh448</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/ys8crkqfh448</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Identity, Security &amp; Operations] - Security patches deployed on OpenStack Identity service (Keystone)</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is still in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our ongoing security maintenance operations, emergency patches were deployed approximately 48 hours ago on the OpenStack Identity service (Keystone) to address five recently disclosed CVEs.&lt;br /&gt;&lt;br /&gt;These vulnerabilities were publicly disclosed today at 15:00 UTC.&lt;br /&gt;&lt;br /&gt;The applied upstream patches are known to introduce behavioral changes and regressions, particularly impacting:&lt;br /&gt;- Trusts&lt;br /&gt;- Application Credentials&lt;br /&gt;&lt;br /&gt;Customers using these features are advised to verify that their applications, automations, and authentication workflows continue to operate as expected.&lt;br /&gt;&lt;br /&gt;If you experience issues related to these changes, please contact our support team and provide details about your workflow so we can assist you in identifying compatible alternatives or adjustments.&lt;br /&gt;&lt;br /&gt;Please note that these regressions are intentional upstream security changes required to mitigate the vulnerabilities. According to the upstream project maintainers, reverting or modifying this behavior is currently not planned, as it could reintroduce the security risks.&lt;br /&gt;&lt;br /&gt;We continue to monitor the situation closely. &lt;/p&gt;      </description>
-      <pubDate>Fri, 29 May 2026 07:25:31 +0000</pubDate>
-      <maintenanceEndDate>Thu, 11 Jun 2026 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</guid>
     </item>
     <item>
       <title>[AP-SOUTH-MUM/EU-SOUTH-MIL/EU-WEST-PAR/RBX][Containers &amp; Orchestration] - Managed Kubernetes Service Incident Notification</title>

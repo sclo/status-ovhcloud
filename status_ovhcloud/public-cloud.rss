@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jun 2026 11:39:11 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 12:34:55 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -40,6 +40,14 @@
       <maintenanceEndDate>Mon, 15 Jun 2026 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/v1p4sb69kdpx</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/v1p4sb69kdpx</guid>
+    </item>
+    <item>
+      <title>[GRA][Data &amp; Analytics] - Data Platform Incident Notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Data &amp; Analytics offering, which is causing temporary availability issue in GRA regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/06/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some jobs cannot be executed on the Data Platform.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers cannot run some jobs, causing delays in data processing and dependent workflows.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Thu, 11 Jun 2026 12:34:55 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/d9yy30ss2k1h</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/d9yy30ss2k1h</guid>
     </item>
     <item>
       <title>[GLOBAL][Identity, Security &amp; Operations] - Security patches deployed on OpenStack Identity service (Keystone)</title>
@@ -206,14 +214,6 @@
       <maintenanceEndDate>Thu, 28 May 2026 17:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/pw728zzzryjy</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/pw728zzzryjy</guid>
-    </item>
-    <item>
-      <title>[BHS1/3][Compute - Instance] - Some instances incident notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on our Compute - Instance offer in BHS1 and BHS3 regions which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/05/2026 15:46 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/05/2026 17:29 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in BHS1 and BHS3 regions were unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers were temporarily unable to access and use their instances in the specified regions.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;      </description>
-      <pubDate>Wed, 27 May 2026 17:57:58 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/205nr3cvxyz0</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/205nr3cvxyz0</guid>
     </item>
   </channel>
 </rss>

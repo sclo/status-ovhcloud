@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jun 2026 16:24:00 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 18:38:50 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -31,6 +31,15 @@
       <maintenanceEndDate>Wed, 01 Jul 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/g3jy3xw6y4w3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/g3jy3xw6y4w3</guid>
+    </item>
+    <item>
+      <title>[EU/CA][Compute - Instance] - Instances Operating System Maintenance Notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Compute - Instance offer for the EU and CA regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/06/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The operating systems Ubuntu 25.04 and Fedora 42 are end-of-life.&lt;br /&gt;Customers who have already installed one of these operating systems may continue to use it, but will no longer be able to reinstall it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, starting from June 1st, customers will no longer be able to install end-of-life operating systems.&lt;br /&gt;We encourage customers using these operating systems to migrate to supported versions such as Ubuntu 26.04 or Fedora 44, or a later version.&lt;br /&gt;&lt;br /&gt;You can find the information at the following links:&lt;br /&gt;https://github.com/ovh/public-cloud-roadmap/issues/1144 &lt;br /&gt;https://github.com/ovh/public-cloud-roadmap/issues/1158 &lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
+      <maintenanceEndDate>Mon, 22 Jun 2026 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/01ktg8vs0x93</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/01ktg8vs0x93</guid>
     </item>
     <item>
       <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
@@ -205,15 +214,6 @@
       <pubDate>Thu, 28 May 2026 14:25:03 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/5tgw67r78tpm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/5tgw67r78tpm</guid>
-    </item>
-    <item>
-      <title>[EU-WEST-PAR-A /RBX-A/GRA/SBG5/US-WEST-OR][Storage] - Block storage maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:37&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Block Storage offer in regions listed below : &lt;br /&gt;&lt;br /&gt;EU-WEST-PAR-A &lt;br /&gt;GRA11&lt;br /&gt;GRA3&lt;br /&gt;GRA5&lt;br /&gt;GRA7&lt;br /&gt;GRA9&lt;br /&gt;RBX-A&lt;br /&gt;SBG5&lt;br /&gt;US-WEST-OR&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/05/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 28/05/2026 17:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, customers may experience a temporary performance degradation.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy and to improve service quality, we will be doing a software upgrade on our Block Storage servers. &lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Wed, 27 May 2026 18:02:15 +0000</pubDate>
-      <maintenanceEndDate>Thu, 28 May 2026 17:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/pw728zzzryjy</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/pw728zzzryjy</guid>
     </item>
   </channel>
 </rss>

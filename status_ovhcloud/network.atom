@@ -1,211 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:network.status-ovhcloud.com,2005:/history</id>
-  <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com"/>
-  <link rel="self" type="application/atom+xml" href="https://network.status-ovhcloud.com/history.atom"/>
-  <title>Network &amp; Infrastructure Status - Incident History</title>
-  <updated>2026-06-15T20:11:25Z</updated>
-  <author>
-    <name>Network &amp; Infrastructure</name>
-  </author>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30202256</id>
-    <published>2026-07-29T21:00:00Z</published>
-    <updated>2026-05-19T15:33:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/p35ftcm11f7c"/>
-    <title>[SYD2][Infrastructure ] - Room S2-5X-02 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/07/2026 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/07/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, Some devices in the room S2-5X-02 will temporarily lose power redundancy. Single-powered devices connected may experience a brief power interruption while they are migrated to other power source.&lt;br /&gt;&lt;br /&gt;Public network will be unavailable for approximately 30–45 minutes for the racks specified below :&lt;br /&gt;S2-5X-02-05A&lt;br /&gt;S2-5X-02-05B&lt;br /&gt;S2-5X-02-08B&lt;br /&gt;S2-5X-02-09B&lt;br /&gt; &lt;br /&gt;IPMI (Intelligent Platform Management Interface) will be unavailable during the maintenance window for the racks specified bellow :&lt;br /&gt;S2-5X-02-06B&lt;br /&gt;S2-5X-02-07A&lt;br /&gt;S2-5X-02-07B&lt;br /&gt;S2-5X-02-08B&lt;br /&gt;S2-5X-02-09B&lt;br /&gt;S2-5X-02-10A&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30540996</id>
-    <published>2026-07-09T06:00:00Z</published>
-    <updated>2026-06-12T08:39:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/9bb72kkshb13"/>
-    <title>[SBG3][Infrastructure] - Racks S333A05/S342A02/S311B02/S311B08 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of concerned racks : &lt;br /&gt;- S333A05&lt;br /&gt;- S342A02&lt;br /&gt;- S311B02&lt;br /&gt;- S311B08&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/07/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/07/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30540911</id>
-    <published>2026-07-08T06:00:00Z</published>
-    <updated>2026-06-12T08:30:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/8ggs16cdxc68"/>
-    <title>[SBG3][Infrastructure] - Racks S310B05/S310B06/S311B06/S311B07 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of concerned racks : &lt;br /&gt;- S310B05&lt;br /&gt;- S310B06&lt;br /&gt;- S311B06&lt;br /&gt;- S311B07 &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 08/07/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 08/07/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30571309</id>
-    <published>2026-07-06T05:00:00Z</published>
-    <updated>2026-06-15T09:18:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/t3smzdql9lqs"/>
-    <title>[ERI1][Infrastructure] - Room ERI0112D maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;09:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 06/07/2026 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/07/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;br /&gt;List of concerned racks:&lt;br /&gt;ERI0112D01A&lt;br /&gt;ERI0112D01B&lt;br /&gt;ERI0112D01C&lt;br /&gt;ERI0112D02A&lt;br /&gt;ERI0112D02B&lt;br /&gt;ERI0112D02C&lt;br /&gt;ERI0112D03A&lt;br /&gt;ERI0112D03B&lt;br /&gt;ERI0112D03C&lt;br /&gt;ERI0112D04A&lt;br /&gt;ERI0112D04B&lt;br /&gt;ERI0112D04C&lt;br /&gt;ERI0112D05A&lt;br /&gt;ERI0112D05B&lt;br /&gt;ERI0112D05C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30540556</id>
-    <published>2026-07-02T06:00:00Z</published>
-    <updated>2026-06-12T08:01:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/2t7d9jw3dbg4"/>
-    <title>[SBG3][Infrastructure] - Racks S311B04/S310B02/S310B04/S311B05 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of concerned racks : &lt;br /&gt;- S310B02&lt;br /&gt;- S310B04&lt;br /&gt;- S311B04&lt;br /&gt;- S311B05 &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/07/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/07/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30532049</id>
-    <published>2026-06-29T06:00:00Z</published>
-    <updated>2026-06-11T15:42:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/nftbpl66vhr3"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0314A02B / GRA0313A05C Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;15:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of Racks&lt;br /&gt;&lt;br /&gt;- GRA0314A02B&lt;br /&gt;- GRA0313A05C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/06/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30570975</id>
-    <published>2026-06-29T05:00:00Z</published>
-    <updated>2026-06-15T08:41:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/nbt374bc0q9g"/>
-    <title>[ERI1][Infrastructure] - Room ERI0112 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/06/2026 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/07/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;br /&gt;List of concerned racks:&lt;br /&gt;ERI0112C01A&lt;br /&gt;ERI0112C01B&lt;br /&gt;ERI0112C01C&lt;br /&gt;ERI0112C02A&lt;br /&gt;ERI0112C02B&lt;br /&gt;ERI0112C02C&lt;br /&gt;ERI0112C03A&lt;br /&gt;ERI0112C03B&lt;br /&gt;ERI0112C03C&lt;br /&gt;ERI0112C04A&lt;br /&gt;ERI0112C04B&lt;br /&gt;ERI0112C04C&lt;br /&gt;ERI0112C05A&lt;br /&gt;ERI0112C05B&lt;br /&gt;ERI0112C05C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30533577</id>
-    <published>2026-06-22T20:00:00Z</published>
-    <updated>2026-06-11T17:55:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/0fm2bm3qc1mv"/>
-    <title>[SBG][Network] - Backbone Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our backbone infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/06/2026 20:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2026 23:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, our teams will be doing a maintenance on a network equipment to improve general performance.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30318829</id>
-    <published>2026-06-22T11:30:00Z</published>
-    <updated>2026-05-27T04:16:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/3s2d60hmp44y"/>
-    <title>[BHS1][Infrastructure] - Electrical maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Infrastructure in BHS1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/06/2026 11:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2026 19:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance in BHS1.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30249101</id>
-    <published>2026-06-22T05:00:00Z</published>
-    <updated>2026-05-21T22:30:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/1s8hnbr59j2l"/>
-    <title>[LIM1][Infrastructure] - Electrical maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/06/2026 05:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 10/07/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30576095</id>
-    <published>2026-06-19T06:00:00Z</published>
-    <updated>2026-06-15T17:29:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/c36qznf192g6"/>
-    <title>[GRA2][Infrastructure] - Rack G265A11 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30568844</id>
-    <published>2026-06-19T06:00:00Z</published>
-    <updated>2026-06-15T04:14:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/6l1rwzynzhjy"/>
-    <title>[GRA2][Infrastructure] - Rack G265A10 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;04:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30546674</id>
-    <published>2026-06-19T06:00:00Z</published>
-    <updated>2026-06-12T15:26:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/2tjcgcbtsd7q"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0322A01A - GRA0322B03C Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of affected racks: &lt;br /&gt;&lt;br /&gt;- Rack GRA0322A01A&lt;br /&gt;- Rack GRA0322B03C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30488393</id>
-    <published>2026-06-18T11:30:00Z</published>
-    <updated>2026-06-08T12:44:19Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/bqm9766wq61l"/>
-    <title>[YYZ01][Infrastructure] - Room YYZ01N1A maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/06/2026 11:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 11:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30546530</id>
-    <published>2026-06-18T06:00:00Z</published>
-    <updated>2026-06-15T14:09:48Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/kccwsfl8kf7c"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0316A05C - GRA0321A02A - GRA0321A07C Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of affected racks: &lt;br /&gt;&lt;br /&gt;- Rack GRA0316A05C&lt;br /&gt;- Rack GRA0321A02A&lt;br /&gt;- Rack GRA0321A07C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 18/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30570155</id>
-    <published>2026-06-17T06:00:00Z</published>
-    <updated>2026-06-15T07:16:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/wj53vrrk9x3y"/>
-    <title>[RBX8][Cooling System] - Rack R805L02 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 17/06/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the cooling system's efficiency may be temporarily reduced for some servers, potentially lowering performance. Despite ongoing mitigation efforts, customers could still experience a temporary reboot or shutdown in the worst case.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30546397</id>
-    <published>2026-06-17T06:00:00Z</published>
-    <updated>2026-06-12T15:10:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/l6r7jj4j4h9l"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0322B02B - GRA0321B06B - GRA0314B06B - GRA0322B02C Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of affected racks: &lt;br /&gt;&lt;br /&gt;- Rack GRA0322B02B&lt;br /&gt;- Rack GRA0321B06B&lt;br /&gt;- Rack GRA0314B06B&lt;br /&gt;- Rack GRA0322B02C&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 17/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 18/06/2026 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30440569</id>
-    <published>2026-06-16T16:30:00Z</published>
-    <updated>2026-06-03T17:11:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/wsrxwlkztff0"/>
-    <title>[BHS][Infrastructure] - Electrical maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; - &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;17:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/06/2026 16:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 21:59 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some servers located in rooms B702, B703, B707, B709, B710, B716 in BHS7 may experience a temporary reboot or shutdown in the worst case.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance in BHS region.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30549018</id>
-    <published>2026-06-16T12:00:00Z</published>
-    <updated>2026-06-15T05:04:09Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/ljgh8hy95dx2"/>
-    <title>[Global][Network Services] - OVHcloud Load Balancer Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;19:11&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Load Balancing offering.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/06/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may experience brief connection resets lasting a few seconds during the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Load Balancing infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30546302</id>
-    <published>2026-06-16T06:00:00Z</published>
-    <updated>2026-06-15T14:29:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/4q692btqfp33"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0321B02C - GRA0321A04C - GRA0314B06C - GRA0321A01A - GRA0322A06C - GRA0322A06B Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of affected racks: &lt;br /&gt;&lt;br /&gt;- Rack GRA0321B02C&lt;br /&gt;- Rack GRA0321A04C&lt;br /&gt;- Rack GRA0314B06C&lt;br /&gt;- Rack GRA0321A01A&lt;br /&gt;- Rack GRA0322A06C&lt;br /&gt;- Rack GRA0322A06B&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30571798</id>
-    <published>2026-06-16T06:00:00Z</published>
-    <updated>2026-06-15T10:09:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/7l2pxv863y8p"/>
-    <title>[GRA2][Cooling System] - Rack G242B06 maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;10:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the cooling system's efficiency may be temporarily reduced for some servers, potentially lowering performance. Despite ongoing mitigation efforts, customers could still experience a temporary reboot or shutdown in the worst case.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30503956</id>
-    <published>2026-06-16T06:00:00Z</published>
-    <updated>2026-06-09T16:00:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/f4cp8spcnm90"/>
-    <title>[WAW1][Infrastructure] - Room W16 Electrical Maintenance Notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Electrical Infrastructure in the Room W16.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 14:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Servers in the specified racks listed below may experience temporary IPMI unavailability during the operation, for a period of five minutes per rack:&lt;br /&gt;W16A01, W16A02, W16A03, W16B01, W16B02, W16B03, W16A04, W16A05, W16A06, W16B04, W16B05, W16B06, W16A07, W16A08, W16A09, W16B07, W16B08, W16B09, W16A10, W16A11, W16A12, W16B10, W16B11, W16B12, W16A13, W16A14, W16A15, W16B13, W16B14, W16B15, W16A16, W16A17, W16A18, W16B16, W16B17, W16B18, W16A19, W16A20, W16A21 and W16B19.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing an electrical maintenance in Room W16.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30546187</id>
-    <published>2026-06-15T14:25:38Z</published>
-    <updated>2026-06-15T14:25:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/4n36kk2nmxk0"/>
-    <title>[GRA3][Infrastructure] - Racks GRA0322A06A - GRA0314A06C - GRA0321A05A - GRA0314A06A Maintenance Notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Racks GRA0321A05A - GRA0314A06C has been completed since 15/06/2026 14:20 UTC without incident. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;List of affected racks: &lt;br /&gt;&lt;br /&gt;- Rack GRA0322A06A&lt;br /&gt;- Rack GRA0314A06C&lt;br /&gt;- Rack GRA0321A05A&lt;br /&gt;- Rack GRA0314A06A&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/06/2026 14:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30568866</id>
-    <published>2026-06-15T12:42:02Z</published>
-    <updated>2026-06-15T12:42:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/dff46lvdr1gg"/>
-    <title>[GRA2][Infrastructure] - Rack G265A11 maintenance notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The maintenance won’t be completed in scheduled time.  It has been postponed and will be rescheduled.&lt;br /&gt;A new post will be created when the new schedule has been validated. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;04:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/06/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/06/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers could still experience a temporary reboot or shutdown in the worst case of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:network.status-ovhcloud.com,2005:Incident/30569947</id>
-    <published>2026-06-15T12:00:10Z</published>
-    <updated>2026-06-15T12:00:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://network.status-ovhcloud.com/incidents/822skpfdj53k"/>
-    <title>[GRA1][Cooling System] - Rack G108B04 maintenance notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/06/2026 06:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/06/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the servers in the affected rack will be gracefully shut down beforehand. Customers hosted on these servers should expect a planned service interruption for the duration of the maintenance window.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-</feed>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Human Verification</title>
+    <style>
+        body {
+            font-family: "Arial";
+        }
+    </style>
+    <script type="text/javascript">
+    window.awsWafCookieDomainList = [];
+    window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AFC7VFlCDeWSy9OI49lIxcGAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM4HBlHPH3QNgv9ElvAgEQgDsqsgokEMNUf66VgoyYmyJpTYb9yvQGufBibJDXZUQaH+TcnJbXiSq44PTk2lfyf2BOVnIFld0FuALVFw==",
+          "iv":"D57+SABy3wAACI+o",
+          "context":"qAQWV7w0PvIurUn555Vn1rmsELxeiX8rB4tCUfaY6m2OzYq83MGl+90HhdQoEQNEm3cu1r5/cjgoc81kHafiPpnF4cIxSTv9P8tVPQ2ZbmUTY9Zx8aECDBpBGpyBrgMyhfozgf+0Ut2YMUkBvtpeRG4OvLkxtbYptz15fHXIS4KJJk6Lrs8pWWXQ0J3uADKep42rr4ZYG/1WIm4MEHxF0aK6yBhvRiwvF2IYL69DYWghDh1e2ZIs4Ot56o2VOM2LXGSflLlnJGoul1NjQ9CNnYvkR+9lWKiLIfKbeh8sJWII9oEzSB1VoSSX0hI0TOe+RUWvI2UK4Fxengg/7BmXZooyxX7WQ/1WAut6cgGf6pW+29MQgt98JIo6FjjEkWI+M5bdCPGc4TBJtlwjiSil4xcGCaBbrMtQwPetfF+moroxFL7eEuiFwn48iCHpk27e9X4Vx6gn05SzCWg2SSdypab2kjy40ZZ1xYhz3ZxfFPXIGHc7UDzP9GNsGsfmqdSrxZbvJIcSKrygAA/ssNQzJfku1GUxB/ffNGsztO2vAlfCDq9x2+rWOKLaZ/FaJ6F5sGzWSgCFPESQ11F0SY75kdl42mYAIQNXnm8pDKTV5ctiF1e84emK49rO0/04awY9sQK0E8ZTKROIpXSL7ZeWxx3/6HE+SPkP8DTEVlmGJBS4x5zbrGukEUfs0RWrZdwUJ+adz5XUHrvGCn7RJtifZpbshNeTujMGfD100ebJ/D8xzhLx2f9SCKFBNePElxUQcMAs5Vu4Z+ooBBxj648gre3O"
+};
+    </script>
+    <script src="https://df99fa8a2f0c.9e2e1a49.us-east-1.token.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/challenge.js"></script>
+    <script src="https://df99fa8a2f0c.9e2e1a49.us-east-1.captcha.awswaf.com/df99fa8a2f0c/7b6031b12635/53fd9803b73f/captcha.js"></script>
+</head>
+<body>
+    <div id="captcha-container"></div>
+    <script type="text/javascript">
+        AwsWafIntegration.saveReferrer();
+        window.addEventListener("load", function() {
+          const container = document.querySelector("#captcha-container");
+          CaptchaScript.renderCaptcha(container, async (voucher) => {
+              await ChallengeScript.submitCaptcha(voucher);
+              window.location.reload(true);
+          }
+      );
+    });
+    </script>
+    <noscript>
+        <h1>JavaScript is disabled</h1>
+        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
+         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
+    </noscript>
+</body>
+</html>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 25 Jun 2026 16:55:41 +0000</pubDate>
+    <pubDate>Thu, 25 Jun 2026 18:22:42 +0000</pubDate>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -58,6 +58,14 @@
       <maintenanceEndDate>Wed, 01 Jul 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/g3jy3xw6y4w3</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/g3jy3xw6y4w3</guid>
+    </item>
+    <item>
+      <title>[GRA1][Compute - Instance] - Some Instances Incident Notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer on the specific GRA1 region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 25/06/2026 18:05 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the GRA1 region are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access instances located on the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Thu, 25 Jun 2026 18:15:15 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/3xbb0dft2n4n</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/3xbb0dft2n4n</guid>
     </item>
     <item>
       <title>[GRA][Compute - Instance] - Some Instances Incident Notification</title>
@@ -206,15 +214,6 @@
       <pubDate>Thu, 11 Jun 2026 16:16:49 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/d9yy30ss2k1h</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/d9yy30ss2k1h</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Identity, Security &amp; Operations] - Security patches deployed on OpenStack Identity service (Keystone)</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance is complete. Thank you for your patience. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is still in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our ongoing security maintenance operations, emergency patches were deployed approximately 48 hours ago on the OpenStack Identity service (Keystone) to address five recently disclosed CVEs.&lt;br /&gt;&lt;br /&gt;These vulnerabilities were publicly disclosed today at 15:00 UTC.&lt;br /&gt;&lt;br /&gt;The applied upstream patches are known to introduce behavioral changes and regressions, particularly impacting:&lt;br /&gt;- Trusts&lt;br /&gt;- Application Credentials&lt;br /&gt;&lt;br /&gt;Customers using these features are advised to verify that their applications, automations, and authentication workflows continue to operate as expected.&lt;br /&gt;&lt;br /&gt;If you experience issues related to these changes, please contact our support team and provide details about your workflow so we can assist you in identifying compatible alternatives or adjustments.&lt;br /&gt;&lt;br /&gt;Please note that these regressions are intentional upstream security changes required to mitigate the vulnerabilities. According to the upstream project maintainers, reverting or modifying this behavior is currently not planned, as it could reintroduce the security risks.&lt;br /&gt;&lt;br /&gt;We continue to monitor the situation closely. &lt;/p&gt;      </description>
-      <pubDate>Thu, 11 Jun 2026 11:31:20 +0000</pubDate>
-      <maintenanceEndDate>Thu, 11 Jun 2026 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/tjk2kn398jx2</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,16 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 03 Jul 2026 07:35:20 +0000</pubDate>
+    <pubDate>Fri, 03 Jul 2026 10:54:10 +0000</pubDate>
+    <item>
+      <title>[GRA/BHS][Data &amp; Analytics] -  Data Platform logs maintenance notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:30&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;19:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of maintenance for the Logs Data Platform, we will replace the certificates for your Data-gathering tools on 16 September 2026, as the current intermediate certificate expires on 20 September 2026.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/09/2026 10:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/09/2026 19:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers who send their logs directly to the clusters are not affected by this maintenance and can disregard the rest of this message (Customer&apos;s log ingestion endpoint looks like gra1.logs.ovh.com:12202, no action is required).&lt;br /&gt;However, customers who use an endpoint such as gra1-65d66a0a68728d746bbebbab.gra1.logs.ovh.com:6514 are affected by this maintenance and we recommend them to follow the relevant action plan below.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Case 1 — The customer&apos;s log forwarder agent performs no certificate verification&lt;/i&gt;&lt;br /&gt;Customers who keep this behavior will not be impacted by the maintenance. No action is required.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Case 2 — The customer&apos;s log forwarder agent validates only the intermediate chain&lt;/i&gt;&lt;br /&gt;1. Import the new certificate chain (as soon as possible). The new chain (self-signed, valid for 10 years) is already available in the OVHcloud Manager, on the home page of the customer&apos;s Logs Data Platform service. Customers should import it into their configuration before 16 September 2026.&lt;br /&gt;2. Keep the old chain in place temporarily. Until 16 September 2026, customers should leave the old chain in their configuration so the agent accepts both chains (old + new) during the transition window, avoiding any surprise.&lt;br /&gt;3. After 16 September 2026, once the maintenance is complete, customers should remove the old chain and keep only the new one (valid for 10 years).&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Case 3 — The customer&apos;s log forwarder agent validates the intermediate + Data-gathering-tool certificate chain&lt;/i&gt;&lt;br /&gt;1. Create a new Data-gathering tool in the Logs Data Platform project, replicating the exact configuration of the previous one.&lt;br /&gt;2. Import the full certificate chain (intermediate + new self-signed certificate). Customers should go to the Data-gathering tools page, then open the &quot;Useful information&quot; section to obtain it.&lt;br /&gt;3. Update the log forwarder agent configuration to push logs to this new Data-gathering tool.&lt;br /&gt;4. Delete the old Data-gathering tool.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This maintenance renews the certificate chain that secures your log ingestion, ensuring uninterrupted and secure log delivery. The new chain is self-signed and valid for 10 years.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
+      <pubDate>Wed, 16 Sep 2026 10:30:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 16 Sep 2026 19:30:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/dzhnzw4zfnmj</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/dzhnzw4zfnmj</guid>
+    </item>
     <item>
       <title>[AP-SOUTHEAST-SYD2][Public Cloud] - Planned decommission of the region</title>
       <description>
@@ -205,15 +214,6 @@
       <maintenanceEndDate>Tue, 23 Jun 2026 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/8s28ns86bp4k</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/8s28ns86bp4k</guid>
-    </item>
-    <item>
-      <title>[GLOBAL][Data &amp; Analytics] - Data Platform maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our Data Platform is now completed. &lt;br /&gt;All services are operational. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Data Platform offer. &lt;br /&gt;&lt;br /&gt;Here are the details of the maintenance: &lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/06/2026 12:00 UTC &lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 22/06/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Data Platform infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Mon, 22 Jun 2026 15:46:09 +0000</pubDate>
-      <maintenanceEndDate>Mon, 22 Jun 2026 15:00:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/s4g7zkqrymlk</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/s4g7zkqrymlk</guid>
     </item>
   </channel>
 </rss>

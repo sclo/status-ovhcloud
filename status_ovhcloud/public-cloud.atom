@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-07-09T04:44:04Z</updated>
+  <updated>2026-07-09T08:10:48Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -43,10 +43,10 @@
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30589587</id>
     <published>2026-07-15T06:00:00Z</published>
-    <updated>2026-06-17T06:49:54Z</updated>
+    <updated>2026-07-09T07:17:41Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/54rqz617x49c"/>
-    <title>[GRA][Object storage] - Infrastructure maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Object storage infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/07/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/07/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some instances located in GRA region will be temporarily unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our infrastructure in the specified region.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+    <title>[GRA][Compute - Instance] - Infrastructure maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Compute - Instance infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/07/2026 06:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/07/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Some instances located in GRA region will be temporarily unavailable during the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our infrastructure in the specified region.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30769240</id>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30452219</id>
-    <published>2026-07-09T08:00:00Z</published>
-    <updated>2026-06-05T10:43:21Z</updated>
+    <published>2026-07-09T08:00:21Z</published>
+    <updated>2026-07-09T08:00:21Z</updated>
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/k3xjppxfyl53"/>
     <title>[GLOBAL][Containers &amp; Orchestration] - End of Life of Load Balancer for Managed Kubernetes Service notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;16:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of the end-of-life of our Containers &amp; Orchestration - Load Balancer (IOLB) offer, a maintenance is scheduled in BHS5 / DE1 / GRA5 / GRA7 / GRA9 / GRA11 / SBG5 / SGP1 / SYD1 / WAW1 / UK1 / US-EAST-VA / US-WEST-OR regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/07/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/07/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We're retiring the historical Load Balancer for Managed Kubernetes, now replaced by the Public Cloud Loadbalancer. As part of this change, resources will be deleted and no longer billed.&lt;br /&gt;Note: the migration to Public Cloud Loadbalancer is not automatic and must be performed on your side. (https://docs.ovhcloud.com/en/guides/public-cloud/containers-orchestration/managed-kubernetes/migrate-iolb-to-public-cloud-loadbalancer)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Containers &amp; Orchestration - Load Balancer in the specified regions.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;16:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of the end-of-life of our Containers &amp; Orchestration - Load Balancer (IOLB) offer, a maintenance is scheduled in BHS5 / DE1 / GRA5 / GRA7 / GRA9 / GRA11 / SBG5 / SGP1 / SYD1 / WAW1 / UK1 / US-EAST-VA / US-WEST-OR regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 09/07/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 09/07/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; We're retiring the historical Load Balancer for Managed Kubernetes, now replaced by the Public Cloud Loadbalancer. As part of this change, resources will be deleted and no longer billed.&lt;br /&gt;Note: the migration to Public Cloud Loadbalancer is not automatic and must be performed on your side. (https://docs.ovhcloud.com/en/guides/public-cloud/containers-orchestration/managed-kubernetes/migrate-iolb-to-public-cloud-loadbalancer)&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Containers &amp; Orchestration - Load Balancer in the specified regions.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/30806099</id>

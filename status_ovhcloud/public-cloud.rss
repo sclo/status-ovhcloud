@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 23 Jul 2026 15:58:12 +0000</pubDate>
+    <pubDate>Thu, 23 Jul 2026 18:05:11 +0000</pubDate>
     <item>
       <title>[GRA/BHS][Identity, Security &amp; Operations] -  Logs Data Platform maintenance notification</title>
       <description>
@@ -150,6 +150,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/fjszhq2r1w1f</guid>
     </item>
     <item>
+      <title>[GRA1/3/9/11][Compute - Instance] - Change the title according to impacted services</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer on the specific GRA1/3/9/11 regions.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/07/2026 17:52 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the GRA1/3/9/11 regions are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access instances located on the specified regions.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Thu, 23 Jul 2026 18:05:11 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/0jb47k03f48t</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/0jb47k03f48t</guid>
+    </item>
+    <item>
       <title>[GLOBAL][Public Cloud] - AI &amp; Machine Learning maintenance notification</title>
       <description>
 &lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our AI &amp; Machine Learning.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 22/07/2026 13:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 31/07/2026 13:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customer may have timeout on their nodes.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy of our services, we will upgrade our public cloud nodes underlying OS from Ubuntu.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
@@ -218,15 +226,6 @@
       <maintenanceEndDate>Fri, 10 Jul 2026 12:03:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/m5qn00qgl9zh</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/m5qn00qgl9zh</guid>
-    </item>
-    <item>
-      <title>[EU/BHS][Databases] - Maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - We would like to inform you that the maintenance on our Public Cloud Databases is now completed. &lt;br /&gt;All services are operational. &lt;br /&gt;&lt;br /&gt;Thank you for your patience throughout this maintenance. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be informed we will be performing a mandatory maintenance to upgrade our Public Cloud Databases.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/07/2026 09:58 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Single-node (non-HA) services will be temporarily unavailable during the operation, whereas redundant, high-availability multi-node services fail over automatically and remain available.&lt;br /&gt;Management operations (create, delete, update, and upgrade) may experience slower processing times during this period.&lt;br /&gt;We recommend our high-availability offerings for customers who require uninterrupted service continuity.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; This upgrade strengthens the reliability and performance of our Public Cloud databases.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Mon, 20 Jul 2026 07:50:54 +0000</pubDate>
-      <maintenanceEndDate>Fri, 10 Jul 2026 14:45:00 +0000</maintenanceEndDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/f02sjn0qw27f</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/f02sjn0qw27f</guid>
     </item>
   </channel>
 </rss>

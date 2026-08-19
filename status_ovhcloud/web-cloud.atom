@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://web-cloud.status-ovhcloud.com/history.atom"/>
   <title>Web Cloud Status - Incident History</title>
-  <updated>2026-08-19T16:23:06Z</updated>
+  <updated>2026-08-19T17:21:03Z</updated>
   <author>
     <name>Web Cloud</name>
   </author>
@@ -55,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/ybwby2drd45c"/>
     <title>[GRA][Web Hosting] - Cluster121 maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting offer on Cluster121.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/08/2026 20:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/08/2026 04:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Cluster121 website logs will be queued during the maintenance period and synchronized once maintenance is complete, with no expected loss of logs.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing a maintenance on the Cluster121.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/31218594</id>
+    <published>2026-08-19T17:17:30Z</published>
+    <updated>2026-08-19T17:17:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/nmqdvpg37z10"/>
+    <title>[GRA4][Web Hosting] - eu012 database incident notification</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Web Hosting offer on eu012 database offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 19/08/2026 16:49 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 19/08/2026 17:09 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; sharedsql067.eu012 was temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their databases located in sharedsql067.eu012.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/31051826</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/fhvbt06qg27n"/>
     <title>[GRA][Web Hosting] - Multiple clusters incident notification</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;19:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on Web Hosting offer which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 12/08/2026 17:04 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/08/2026 17:32 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Cluster100, Cluster114, Cluster121, Cluster123, Cluster127, Cluster128, Cluster129, Cluster130, Cluster131 were temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their websites located in the specified clusters.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:web-cloud.status-ovhcloud.com,2005:Incident/31136349</id>
-    <published>2026-08-12T15:01:25Z</published>
-    <updated>2026-08-12T15:01:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://web-cloud.status-ovhcloud.com/incidents/btj0c7xflhs6"/>
-    <title>[GRA/BHS][Web Hosting] - Multiple Clusters Maintenance Notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Web Hosting offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 10/08/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 12/08/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Administrative operations on the affected clusters may experience temporary slowdowns, including domain additions, password resets, and other management tasks. There will be no impact on website availability or performance.&lt;br /&gt;&lt;br /&gt;List of concerned clusters :&lt;br /&gt;10/08/2026 : &lt;br /&gt;Cluster106&lt;br /&gt;Cluster110&lt;br /&gt;Cluster100&lt;br /&gt;Cluster123&lt;br /&gt;Cluster126&lt;br /&gt;Cluster151&lt;br /&gt;&lt;br /&gt;11/08/2026 :&lt;br /&gt;Cluster121&lt;br /&gt;Cluster115&lt;br /&gt;Cluster114&lt;br /&gt;Cluster127&lt;br /&gt;Cluster128&lt;br /&gt;Cluster130&lt;br /&gt;&lt;br /&gt;12/08/2026 :&lt;br /&gt;Cluster120&lt;br /&gt;Cluster129&lt;br /&gt;Cluster131&lt;br /&gt;Cluster103&lt;br /&gt;Cluster105&lt;br /&gt;Cluster107&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
 </feed>

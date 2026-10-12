@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 12 Oct 2026 05:49:28 +0000</pubDate>
+    <pubDate>Mon, 12 Oct 2026 16:34:56 +0000</pubDate>
     <item>
       <title>[Global][Identity, Security &amp; Operations] - Logs Data Platform maintenance notification</title>
       <description>
@@ -67,6 +67,15 @@
       <maintenanceEndDate>Mon, 19 Oct 2026 15:00:00 +0000</maintenanceEndDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/v8n6twz4x9tm</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/v8n6twz4x9tm</guid>
+    </item>
+    <item>
+      <title>[PAR/MIL][Public Cloud] - Object Storage S3 Maintenance Notification</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Public Cloud infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/10/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our Object Storage S3 infrastructure in the PAR and MIL regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Current IP addresses :&lt;/b&gt;&lt;br /&gt;eu-west-par (s3):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.130.3.48&lt;br /&gt;    IPv6: 2001:41d0:a0b:500::1&lt;br /&gt;&lt;br /&gt;eu-west-par (s3-website):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.130.3.49&lt;br /&gt;    IPv6: 2001:41d0:a0b:500::2&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.131.1.80&lt;br /&gt;    IPv6: 2001:41d0:2005:200::1&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3-website):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.131.1.81&lt;br /&gt;    IPv6: 2001:41d0:2005:200::2&lt;br /&gt;&lt;br /&gt; &lt;b&gt;New IP addresses:&lt;/b&gt;&lt;br /&gt;eu-west-par (s3):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.130.3.52, 57.130.3.56, 57.130.3.60&lt;br /&gt;    IPv6: 2001:41d0:a0b:400::1, 2001:41d0:a0b:600::1, 2001:41d0:a0b:700::1&lt;br /&gt;&lt;br /&gt;eu-west-par (s3-website):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.130.3.53, 57.130.3.57, 57.130.3.61&lt;br /&gt;    IPv6: 2001:41d0:a0b:400::2, 2001:41d0:a0b:600::2, 2001:41d0:a0b:700::2&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.131.1.45, 57.131.1.72, 57.131.1.77&lt;br /&gt;    IPv6: 2001:41d0:2005:300::1, 2001:41d0:2005:400::1, 2001:41d0:2005:500::1&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3-website):&lt;br /&gt;&lt;br /&gt;    IPv4: 57.131.1.44, 57.131.1.73, 57.131.1.76&lt;br /&gt;    IPv6: 2001:41d0:2005:300::2, 2001:41d0:2005:400::2, 2001:41d0:2005:500::2&lt;br /&gt;&lt;br /&gt; &lt;b&gt;What is changing:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;This is an addition only: the current IP addresses remain in service and are not affected. The new addresses will be added to the DNS resolution of each region&apos;s endpoints.&lt;br /&gt;&lt;br /&gt;    s3.eu-west-par.io.cloud.ovh.net&lt;br /&gt;    *.s3.eu-west-par.io.cloud.ovh.net&lt;br /&gt;    s3-website.eu-west-par.io.cloud.ovh.net&lt;br /&gt;    *.s3-website.eu-west-par.io.cloud.ovh.net&lt;br /&gt;    s3.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;    *.s3.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;    s3-website.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;    *.s3-website.eu-south-mil.io.cloud.ovh.net  &lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+      <maintenanceEndDate>Wed, 14 Oct 2026 16:00:00 +0000</maintenanceEndDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/gr3s7wq0d0pf</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/gr3s7wq0d0pf</guid>
     </item>
     <item>
       <title>[GRA][Compute - Instance] - Compute Instance Incident Notification</title>
@@ -206,14 +215,6 @@
       <pubDate>Wed, 30 Sep 2026 12:45:26 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/4rmd3rddfxjy</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/4rmd3rddfxjy</guid>
-    </item>
-    <item>
-      <title>[EU-SOUTH-MIL][Identity, Security &amp; Operations] - MKS Cluster incident notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our services has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/09/2026 10:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/09/2026 15:45 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our services, which is causing temporary  issue in EU-SOUTH-MIL Region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/09/2026 10:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; MKS cluster delivery and deletion is may have issue.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may experience difficulties when creating or deleting new MKS clusters.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
-      <pubDate>Tue, 29 Sep 2026 16:03:06 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/hp5csyn24hq9</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/hp5csyn24hq9</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 15 Oct 2026 01:14:38 +0000</pubDate>
+    <pubDate>Thu, 15 Oct 2026 06:40:39 +0000</pubDate>
     <item>
       <title>[Global][Identity, Security &amp; Operations] - Logs Data Platform maintenance notification</title>
       <description>
@@ -114,6 +114,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/v8n6twz4x9tm</guid>
     </item>
     <item>
+      <title>[AP-SOUTH-MUM-1][Storage] - S3 Object Storage incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Service has been fully restored since 15/10/2026 06:10 UTC. Monitoring remains active to ensure long-term stability.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 15/10/2026 06:02 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Disconnection and 503 errors observed on S3 Object Storage.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily facing disconnection and 503 errors when trying to access and use their objects located in AP-SOUTH-MUM-1.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by another incident : https://network.status-ovhcloud.com/incidents/qss8stslpv68&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Thu, 15 Oct 2026 06:40:39 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/xn3rf2r54jm6</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/xn3rf2r54jm6</guid>
+    </item>
+    <item>
       <title>[PAR/MIL][Public Cloud] - Object Storage S3 Maintenance Notification</title>
       <description>
 &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;12&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Object Storage offer in the eu-west-par and eu-south-mil regions.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/10/2026 16:00 UTC&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No service impact is expected. This is an addition only: the current IP addresses remain in service and are not affected. The new IP addresses listed below will be added to the DNS resolution of each region&apos;s endpoints. If you filter traffic by IP address (firewall rules, allowlists), please make sure these new addresses are authorized.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are adding dedicated listening addresses, one per availability zone, published through DNS. This will provide better control over traffic distribution and a more balanced load across the 3 availability zones of each region.&lt;br /&gt;&lt;br /&gt;List of concerned endpoints:&lt;br /&gt;- s3.eu-west-par.io.cloud.ovh.net&lt;br /&gt;- *.s3.eu-west-par.io.cloud.ovh.net&lt;br /&gt;- s3-website.eu-west-par.io.cloud.ovh.net&lt;br /&gt;- *.s3-website.eu-west-par.io.cloud.ovh.net&lt;br /&gt;- s3.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;- *.s3.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;- s3-website.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;- *.s3-website.eu-south-mil.io.cloud.ovh.net&lt;br /&gt;&lt;br /&gt;New IP addresses:&lt;br /&gt;&lt;br /&gt;eu-west-par (s3):&lt;br /&gt;- IPv4: 57.130.3.52, 57.130.3.56, 57.130.3.60&lt;br /&gt;- IPv6: 2001:41d0:a0b:400::1, 2001:41d0:a0b:600::1, 2001:41d0:a0b:700::1&lt;br /&gt;&lt;br /&gt;eu-west-par (s3-website):&lt;br /&gt;- IPv4: 57.130.3.53, 57.130.3.57, 57.130.3.61&lt;br /&gt;- IPv6: 2001:41d0:a0b:400::2, 2001:41d0:a0b:600::2, 2001:41d0:a0b:700::2&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3):&lt;br /&gt;- IPv4: 57.131.1.45, 57.131.1.72, 57.131.1.77&lt;br /&gt;- IPv6: 2001:41d0:2005:300::1, 2001:41d0:2005:400::1, 2001:41d0:2005:500::1&lt;br /&gt;&lt;br /&gt;eu-south-mil (s3-website):&lt;br /&gt;- IPv4: 57.131.1.44, 57.131.1.73, 57.131.1.76&lt;br /&gt;- IPv6: 2001:41d0:2005:300::2, 2001:41d0:2005:400::2, 2001:41d0:2005:500::2&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
@@ -209,14 +217,6 @@
       <pubDate>Wed, 07 Oct 2026 14:02:07 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/kdqq2smzfd4t</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/kdqq2smzfd4t</guid>
-    </item>
-    <item>
-      <title>[AF-NORTH/EU-WEST/EU-NORTH][LocalZones] - IPv6 incident notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We had an incident on LocalZones offer for AF-NORTH-LZ-RBA, EU-WEST-LZ-DL, EU-NORTH-LZ-OSL and EU-WEST-LZ-MNC regions which has now been resolved.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 07/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 07/10/2026 12:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; IPv6 was temporarily unavailable for the specified LocalZones.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to use IPv6 in AF-NORTH-LZ-RBA, EU-WEST-LZ-DL, EU-NORTH-LZ-OSL and EU-WEST-LZ-MNC LocalZones.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a network equipment issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;      </description>
-      <pubDate>Wed, 07 Oct 2026 12:27:34 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/25jxjx676t70</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/25jxjx676t70</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Public Cloud Status - Incident History</title>
     <link>https://public-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 20 Oct 2026 07:00:07 +0000</pubDate>
+    <pubDate>Tue, 20 Oct 2026 12:29:24 +0000</pubDate>
     <item>
       <title>[Global][Identity, Security &amp; Operations] - Logs Data Platform maintenance notification</title>
       <description>
@@ -132,6 +132,14 @@
       <guid>https://public-cloud.status-ovhcloud.com/incidents/9750mrnf3pbc</guid>
     </item>
     <item>
+      <title>[RBX-A][Public Cloud] Block Storage incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident affecting our Public Cloud offering has now been resolved.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/10/2026 08:48 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/10/2026 10:26 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Block Storage volumes hosted on the PCI-RBX-A-volumes_2 cluster in the RBX-A region were unavailable between 08:48 and 09:00 UTC, followed by reduced performance until 10:26 UTC.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their Block Storage volumes between 08:48 and 09:00 UTC, and may have experienced degraded performance on their volumes until 10:26 UTC while the cluster was recovering.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a hardware issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Block Storage offering in the RBX-A region.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/10/2026 08:48 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Block Storage volumes hosted on the RBX-A were unavailable between 08:48 and 09:00 UTC and are currently experiencing reduced performance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to access their Block Storage volumes between 08:48 and 09:00 UTC. Since 09:00 UTC, customers may experience degraded performance on their volumes while the cluster is recovering.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a hardware issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are actively working to restore full performance as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Tue, 20 Oct 2026 11:05:07 +0000</pubDate>
+      <link>https://public-cloud.status-ovhcloud.com/incidents/bp3md30m2qw3</link>
+      <guid>https://public-cloud.status-ovhcloud.com/incidents/bp3md30m2qw3</guid>
+    </item>
+    <item>
       <title>[AP-SOUTH][LocalZones] - Maintenance notification</title>
       <description>
 &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:10&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our LocalZones offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/10/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 20/10/2026 15:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The API for the LocalZones listed below will be temporarily unavailable for 4 hours during the maintenance.&lt;br /&gt;&lt;br /&gt;List of concerned LocalZones:&lt;br /&gt;- AP-SOUTH-LZ-AKL-A&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our LocalZones infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
@@ -214,14 +222,6 @@
       <pubDate>Wed, 14 Oct 2026 15:24:09 +0000</pubDate>
       <link>https://public-cloud.status-ovhcloud.com/incidents/2yh1gsg1zn7n</link>
       <guid>https://public-cloud.status-ovhcloud.com/incidents/2yh1gsg1zn7n</guid>
-    </item>
-    <item>
-      <title>[SBG5][Public Cloud] - File Storage incident notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that an incident occurred affecting our File Storage offering in the SBG5 region.&lt;br /&gt;&lt;br /&gt;This incident has now been resolved.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 14/10/2026 01:02 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 14/10/2026 08:39 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Creation of new File Storage shares was temporarily unavailable in the SBG5 region.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers were temporarily unable to provision new File Storage shares, as newly created shares ended up in error status.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by a software issue.&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt;      </description>
-      <pubDate>Wed, 14 Oct 2026 09:08:09 +0000</pubDate>
-      <link>https://public-cloud.status-ovhcloud.com/incidents/lzz6b0rcjv1n</link>
-      <guid>https://public-cloud.status-ovhcloud.com/incidents/lzz6b0rcjv1n</guid>
     </item>
   </channel>
 </rss>

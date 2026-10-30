@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 30 Oct 2026 00:04:48 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 08:34:27 +0000</pubDate>
     <item>
       <title>[RBX2B/SBG1A][Hosted Private Cloud] - Managed VMware vSphere Maintenance Notification</title>
       <description>
@@ -94,6 +94,14 @@
       <maintenanceEndDate>Thu, 05 Nov 2026 19:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/081f4tgc145l</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/081f4tgc145l</guid>
+    </item>
+    <item>
+      <title>[RBX][Public VMware Cloud Foundation] - Public VCFaaS incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Public VMware Cloud Foundation offer on the specific RBX region.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/10/2026 05:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some Public VCFaaS services may have been unavailable on this region.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers may have experienced a reboot of their VMs.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by this maintenance : https://network.status-ovhcloud.com/incidents/nkprskk57mc9&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Fri, 30 Oct 2026 08:30:44 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/6bxqr2m3mp6m</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/6bxqr2m3mp6m</guid>
     </item>
     <item>
       <title>[RBX/BHS][Hosted Private Cloud] - Public VMware Cloud Foundation as-a-Service Maintenance Notification</title>
@@ -218,15 +226,6 @@
       <maintenanceEndDate>Thu, 05 Nov 2026 19:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/j5p8fgy1f0z1</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/j5p8fgy1f0z1</guid>
-    </item>
-    <item>
-      <title>[YYZ][Backup as a Service] - Veeam maintenance notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - All services are operational. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;21&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Backup as a Service offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 21/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 21/10/2026 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, the storage servers hosting your backup data will be upgraded one after another. Each upgrade takes approximately 1 hour, during which the backup data stored on that server will be temporarily unavailable. Restore and disaster recovery (DRP) operations will not be possible for the duration of the maintenance.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are updating the storage servers hosting your data. This brings improvements to certain security mechanisms, as well as some performance enhancements.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Wed, 21 Oct 2026 12:24:47 +0000</pubDate>
-      <maintenanceEndDate>Wed, 21 Oct 2026 18:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/h7tbpbvlbglw</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/h7tbpbvlbglw</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://public-cloud.status-ovhcloud.com/history.atom"/>
   <title>Public Cloud Status - Incident History</title>
-  <updated>2026-11-04T16:42:34Z</updated>
+  <updated>2026-11-04T22:29:32Z</updated>
   <author>
     <name>Public Cloud</name>
   </author>
@@ -79,6 +79,14 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/1kqvdbr380bp"/>
     <title>[GLOBAL][Containers &amp; Orchestration] - Managed Rancher Service maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;11:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our Managed Rancher Service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 16/11/2026 07:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/11/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; None.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; Rancher instances running version 2.12, which has reached end of support, will be upgraded to version 2.13 to ensure stability and security. Impacted customers will be notified by e-mail before the upgrade.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/31846586</id>
+    <published>2026-11-09T15:30:00Z</published>
+    <updated>2026-11-04T20:59:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/y4t83wk1qzjx"/>
+    <title>[Global][Identity, Security &amp; Operations] - Authentication maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Public Cloud Authentication service.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time&lt;/b&gt; : 09/11/2026 15:30 UTC&lt;br /&gt;&lt;b&gt;End time&lt;/b&gt; : 09/11/2026 17:00 UTC&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact&lt;/b&gt; : No service impact is expected. In the worst case, customers may experience higher latency on authentication requests.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement&lt;/b&gt; : As part of our continuous improvement policy, we are updating our authentication service to enhance certain security mechanisms.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/31557370</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/6yz6cqh09q86"/>
     <title>[RBX][Compute - Instance] - Instances incident notification</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We are pleased to inform you that the incident affecting our Compute - Instance offering has been resolved.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2026 15:43 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/10/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an ongoing incident. We have determined the origin of the issue affecting our Compute - Instance offer on the specific RBX region].&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2026 15:43 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some instances in the RBX region are unreachable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Some customers are temporarily unable to access instances located on the specified region.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; A service disruption occurred due to an unexpected underlying infrastructure malfunction.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:public-cloud.status-ovhcloud.com,2005:Incident/31670735</id>
-    <published>2026-10-29T15:31:40Z</published>
-    <updated>2026-10-29T15:31:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://public-cloud.status-ovhcloud.com/incidents/khy2zn6wgx3l"/>
-    <title>[RBX2A][Storage] - File storage Maintenance Notification</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;21:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our File Storage Infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 29/10/2026 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; PRA will not be accessible during maintenance.&lt;br /&gt;Customers who need PRA during maintenance window, will not be able to execute it.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing maintenance on our File Storage Infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
 </feed>

@@ -4,7 +4,16 @@
     <title>Web Cloud Status - Incident History</title>
     <link>https://web-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 13 Nov 2026 07:09:40 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 16:29:59 +0000</pubDate>
+    <item>
+      <title>[Global][VoIP] - Telephony maintenance notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our VoIP telephony offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 20/10/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 15/12/2026 14:00 UTC&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; No service impact is expected during the maintenance window.&lt;br /&gt;&lt;br /&gt;Should any incident or service interruption occur, this page will be updated to keep you informed and to provide the instructions or procedures to follow.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are migrating our telephony access infrastructure to new equipment in order to improve the reliability of our VoIP services. The migration is performed domain by domain, according to the schedule below.&lt;br /&gt;&lt;br /&gt;Domain migration schedule:&lt;br /&gt;- 20/10/2026: siptrunk.fr.sip.ovh, uk.proxysip.eu, siptrunk.ovh.co.uk, be.trunksip.eu, siptrunk.ovh.ch, ch.proxysip.eu - Completed&lt;br /&gt;- 22/10/2026: sip2.ovh.net, sip.ovh.co.uk, sip.ovh.ch - Completed&lt;br /&gt;- 10/11/2026: sip3.ovh.co.uk - Completed&lt;br /&gt;- 12/11/2026: sip3.ovh.ch, sip.ovh.be, sip2.ovh.fr - Completed&lt;br /&gt;- 17/11/2026: siptrunk.ovh.be - Scheduled&lt;br /&gt;- 24/11/2026: sip3.ovh.be, sip5.ovh.be, siptrunk.ovh.net - Scheduled&lt;br /&gt;- 26/11/2026: sip.ovh.net, sbc5.fr.sip.ovh - Scheduled&lt;br /&gt;- 01/12/2026: sip4.ovh.fr, sip3.ovh.fr - Scheduled&lt;br /&gt;- 08/12/2026: sip.ovh.fr, sip5.ovh.fr - Scheduled&lt;br /&gt;- 15/12/2026: sbc6.fr.sip.ovh - Scheduled&lt;br /&gt;- From 03/11/2026 to 15/12/2026: White-label domains - In progress&lt;br /&gt;&lt;br /&gt;Reminder: if your network filters IP addresses (firewall, allow list or ACL) and you experience any malfunction after the migration of your domain, please add the IP range 5.135.1.0/27 to your existing rules.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
+      <pubDate>Fri, 13 Nov 2026 09:13:33 +0000</pubDate>
+      <maintenanceEndDate>Tue, 15 Dec 2026 14:00:00 +0000</maintenanceEndDate>
+      <link>https://web-cloud.status-ovhcloud.com/incidents/mqwc84cwjf1f</link>
+      <guid>https://web-cloud.status-ovhcloud.com/incidents/mqwc84cwjf1f</guid>
+    </item>
     <item>
       <title>[GRA][Web Hosting] - Logs Cluster126 maintenance notification</title>
       <description>
@@ -205,14 +214,6 @@
       <maintenanceEndDate>Thu, 29 Oct 2026 15:00:00 +0000</maintenanceEndDate>
       <link>https://web-cloud.status-ovhcloud.com/incidents/qvdkyjhkyft4</link>
       <guid>https://web-cloud.status-ovhcloud.com/incidents/qvdkyjhkyft4</guid>
-    </item>
-    <item>
-      <title>[GRA][Web Hosting] -  Cluster121 incident notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We would like to inform you that the incident affecting our Web Hosting offering in the Cluster121 has now been resolved.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 27/10/2026 13:13 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Operations launched by customers on Cluster121 (such as attached domain creation or suspension) were temporarily slowed down. Website access was not impacted.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers may have experienced slowness when performing operations on their Web Hosting services hosted on Cluster121.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident was caused by this maintenance : https://network.status-ovhcloud.com/incidents/bhmhxy6twm8m&lt;br /&gt;&lt;br /&gt;We thank you for your understanding and patience throughout this incident. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an incident affecting our Web Hosting offering, which is causing temporary latency issue in the Cluster121.&lt;br /&gt;&lt;br /&gt;Here are some supplementary details :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 27/10/2026 08:00 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt;Slowness can be observed on operations launched by customer (attached Domain create, suspend, etc...) in Cluster 121. &lt;br /&gt;There is no issue with website access for customers.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are investigating to determine the origin of the incident and fix it.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
-      <pubDate>Tue, 27 Oct 2026 13:59:42 +0000</pubDate>
-      <link>https://web-cloud.status-ovhcloud.com/incidents/pr5swjkrdfsj</link>
-      <guid>https://web-cloud.status-ovhcloud.com/incidents/pr5swjkrdfsj</guid>
     </item>
   </channel>
 </rss>

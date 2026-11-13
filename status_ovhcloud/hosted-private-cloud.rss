@@ -4,7 +4,7 @@
     <title>Hosted Private Cloud Status - Incident History</title>
     <link>https://hosted-private-cloud.status-ovhcloud.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 13 Nov 2026 07:09:47 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 16:31:15 +0000</pubDate>
     <item>
       <title>[RBX2B/SBG1A][Hosted Private Cloud] - Managed VMware vSphere Maintenance Notification</title>
       <description>
@@ -67,6 +67,14 @@
       <maintenanceEndDate>Thu, 19 Nov 2026 19:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/m7j2yvlt4dxc</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/m7j2yvlt4dxc</guid>
+    </item>
+    <item>
+      <title>[SBG3][Managed VMware vSphere] - Racks S345A01, S345A02 incident notification</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We have new information regarding the incident that affected your service(s).&lt;br /&gt;&lt;br /&gt;Please find below an update on the situation:&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; The incident has been identified and our teams are mobilised to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are currently experiencing an incident affecting our Managed VMware vSphere offering in the racks S345A01 and S345A02 in SBG3. The root cause has been identified.&lt;br /&gt;&lt;br /&gt;Please find the details of this incident below :&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 13/11/2026 12:35 UTC&lt;br /&gt;&lt;b&gt;Impacted Service(s) :&lt;/b&gt; Some hosts in the racks S345A01 and S345A02 are temporarily unavailable.&lt;br /&gt;&lt;b&gt;Customers Impact :&lt;/b&gt; Customers are temporarily unable to access their hosts located on the specified racks.&lt;br /&gt;&lt;b&gt;Root Cause :&lt;/b&gt; This incident is caused by a cooling system issue.&lt;br /&gt;&lt;b&gt;Ongoing Actions :&lt;/b&gt; Our teams are actively working to restore service as quickly as possible.&lt;br /&gt;&lt;br /&gt;We will keep you updated on the progress and resolution.&lt;br /&gt;We apologize for any inconvenience caused and appreciate your understanding. &lt;/p&gt;      </description>
+      <pubDate>Fri, 13 Nov 2026 16:31:15 +0000</pubDate>
+      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/08xzsj2by8sl</link>
+      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/08xzsj2by8sl</guid>
     </item>
     <item>
       <title>[RBX/LIM][Hosted Private Cloud] - Public VCFaaS Maintenance Notification</title>
@@ -217,15 +225,6 @@
       <maintenanceEndDate>Fri, 23 Oct 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/4r7n2bytvzn5</link>
       <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/4r7n2bytvzn5</guid>
-    </item>
-    <item>
-      <title>[EU/CA][Hosted Private Cloud] - Managed VMware vSphere Maintenance Notification</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Hosted Private Cloud offer.&lt;br /&gt;This may temporarily affect availability.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 23/10/2026 13:45 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 23/10/2026 18:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; Customers may temporarily experience slowness in their services.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of PHP recent disclosure of CVE (https://www.php.net/archive/2026.php#2026-10-20-1), we will implement different fixes for CVE-2026-109618 and CVE-2026-109619.&lt;br /&gt;All PHP release from 7.4 to 8.5 have been patch.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;      </description>
-      <pubDate>Fri, 23 Oct 2026 17:15:22 +0000</pubDate>
-      <maintenanceEndDate>Fri, 23 Oct 2026 18:00:00 +0000</maintenanceEndDate>
-      <link>https://hosted-private-cloud.status-ovhcloud.com/incidents/wz8flxrsnhl3</link>
-      <guid>https://hosted-private-cloud.status-ovhcloud.com/incidents/wz8flxrsnhl3</guid>
     </item>
   </channel>
 </rss>

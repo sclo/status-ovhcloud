@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com"/>
   <link rel="self" type="application/atom+xml" href="https://bare-metal-servers.status-ovhcloud.com/history.atom"/>
   <title>Bare Metal Cloud Status - Incident History</title>
-  <updated>2026-11-27T08:49:14Z</updated>
+  <updated>2026-11-27T19:24:40Z</updated>
   <author>
     <name>Bare Metal Cloud</name>
   </author>
@@ -129,6 +129,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/12/2026 09:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/12/2026 11:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; In the worst case, customers could experience a temporary reboot or shutdown of their servers.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be performing maintenance on our electrical infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/32067893</id>
+    <published>2026-12-03T07:00:00Z</published>
+    <updated>2026-11-27T13:13:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/cnbvsdk5bx44"/>
+    <title>[RBX3][Cooling System] - Rack 46E03 maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;13:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 03/12/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/12/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the cooling system's efficiency may be temporarily reduced for some servers, potentially lowering performance. Despite ongoing mitigation efforts, customers could still experience a temporary reboot or shutdown in the worst case.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/31965513</id>
     <published>2026-12-02T21:30:00Z</published>
     <updated>2026-11-17T15:23:03Z</updated>
@@ -143,6 +151,14 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/1wr4zck6hp8w"/>
     <title>[GRA1][Dedicated Servers] - Servers relocation maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/12/2026 21:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 03/12/2026 05:00 UTC&lt;br /&gt;&lt;br /&gt;List of concerned racks :&lt;br /&gt;- Rack G127A22 (partially)&lt;br /&gt;- Rack G127A23 (partially)&lt;br /&gt;- Rack G127A24 (partially)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, the concerned servers will be gracefully shut down beforehand, then physically relocated before being restarted. Services hosted on these servers will be unavailable for the duration of the operation, then restored once the maintenance is complete.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are optimizing our infrastructure by relocating servers to new facilities.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/32067926</id>
+    <published>2026-12-02T07:00:00Z</published>
+    <updated>2026-11-27T13:17:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/b29l6l67pw6q"/>
+    <title>[RBX3][Cooling System] - Rack 45A23 maintenance notification</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, a maintenance is scheduled on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 02/12/2026 07:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 02/12/2026 16:00 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During this maintenance, the cooling system's efficiency may be temporarily reduced for some servers, potentially lowering performance. Despite ongoing mitigation efforts, customers could still experience a temporary reboot or shutdown in the worst case.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we will be doing a maintenance on our cooling infrastructure.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/31843623</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/f15g29h70lwk"/>
     <title>[GRA][Identity, Security &amp; Operations] - Logs Data Platform maintenance notification</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Dec &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, maintenance is scheduled on our Logs Data Platform offer in the GRA region.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 01/12/2026 09:00 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 16/12/2026 17:00 UTC&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; The maintenance operations will be performed in the background. However, a temporary impact on the Logs Data Platform service, such as a performance degradation, may occur during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are extending the capacity of our Logs Data Platform infrastructure by adding new nodes and rebalancing data across them.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/31965496</id>
-    <published>2026-11-30T21:30:00Z</published>
-    <updated>2026-11-17T15:19:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/8z57xccrtmtc"/>
-    <title>[RBX4][Dedicated Servers] - Servers relocation maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Dec &lt;var data-var='date'&gt;1&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 30/11/2026 21:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 01/12/2026 05:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, the concerned servers will be gracefully shut down beforehand, then physically relocated before being restarted. Services hosted on these servers will be unavailable for the duration of the operation, then restored once the maintenance is complete.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are optimizing our infrastructure by relocating servers to new facilities.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:bare-metal-servers.status-ovhcloud.com,2005:Incident/31965483</id>
-    <published>2026-11-29T21:30:00Z</published>
-    <updated>2026-11-17T15:17:38Z</updated>
-    <link rel="alternate" type="text/html" href="https://bare-metal-servers.status-ovhcloud.com/incidents/vwlfzh6pqgd3"/>
-    <title>[RBX4][Dedicated Servers] - Servers relocation maintenance notification</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - As part of our continuous improvement plan, we will be carrying out maintenance on our infrastructure.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Start time :&lt;/b&gt; 29/11/2026 21:30 UTC&lt;br /&gt;&lt;b&gt;End time :&lt;/b&gt; 30/11/2026 05:30 UTC&lt;br /&gt;&lt;b&gt;Service impact :&lt;/b&gt; During the maintenance window, the concerned servers will be gracefully shut down beforehand, then physically relocated before being restarted. Services hosted on these servers will be unavailable for the duration of the operation, then restored once the maintenance is complete.&lt;br /&gt;&lt;b&gt;Service improvement :&lt;/b&gt; As part of our continuous improvement policy, we are optimizing our infrastructure by relocating servers to new facilities.&lt;br /&gt;&lt;br /&gt;Thank you for your understanding. &lt;/p&gt;</content>
   </entry>
 </feed>
